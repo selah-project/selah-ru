@@ -5,15 +5,15 @@
   "book": "job",
   "lang": "ru",
   "chapter": 36,
-  "translation": "Ибо ⟨он⟩ уменьшает капли воды; ⟨они⟩ destill rain according to its vapour",
+  "translation": "Ибо Он ⟨собирает⟩ капли воды, ⟨они⟩ очищают дождь по пару его:",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "ибо"
+      "gloss": "Ибо"
     },
     {
       "surface": "יגרע",
-      "gloss": "уменьшает"
+      "gloss": "⟨собирает⟩"
     },
     {
       "surface": "נטפי",
@@ -25,17 +25,17 @@
     },
     {
       "surface": "יזקו",
-      "gloss": "destill"
+      "gloss": "⟨они⟩ очищают"
     },
     {
       "surface": "מטר",
-      "gloss": "rain"
+      "gloss": "дождь"
     },
     {
       "surface": "לאדו",
-      "gloss": "according to its vapour"
+      "gloss": "по пару его"
     }
   ],
-  "timestamp": "2026-08-03T18:30:00.400320690Z",
+  "timestamp": "2026-08-03T20:09:24.236229482Z",
   "model": "glm-4.5"
 }

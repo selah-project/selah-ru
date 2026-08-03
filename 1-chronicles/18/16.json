@@ -5,45 +5,45 @@
   "book": "1-chronicles",
   "lang": "ru",
   "chapter": 18,
-  "translation": "И Цадок сын Ахитува и Авимелех сын Авиафара ⟨были⟩ kohanim, и Шавша ⟨был⟩ sofer",
+  "translation": "И Цадок, сын Ахитува, и Авимелех, сын Авиафара, — ⟨были⟩ коэнами, а Шавша — ⟨был⟩ писцом",
   "tokens": [
     {
-      "surface": "וְצָדֹק",
+      "surface": "וצדוק",
       "gloss": "И Цадок"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "сын"
     },
     {
-      "surface": "אֲחִיטוּב",
+      "surface": "אחיטוב",
       "gloss": "Ахитува"
     },
     {
-      "surface": "וַאֲבִימֶלֶךְ",
+      "surface": "ואבימלך",
       "gloss": "и Авимелех"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "сын"
     },
     {
-      "surface": "אֶבְיָתָר",
+      "surface": "אביתר",
       "gloss": "Авиафара"
     },
     {
-      "surface": "כֹּהֲנִים",
-      "gloss": "kohanim"
+      "surface": "כהנים",
+      "gloss": "коэнами"
     },
     {
-      "surface": "וְשַׁוְשָׁא",
-      "gloss": "и Шавша"
+      "surface": "ושושא",
+      "gloss": "а Шавша"
     },
     {
-      "surface": "סוֹפֵר",
-      "gloss": "sofer"
+      "surface": "סופר",
+      "gloss": "писцом"
     }
   ],
-  "timestamp": "2026-08-03T13:03:44.334155208Z",
+  "timestamp": "2026-08-03T20:09:06.388298267Z",
   "model": "glm-4.5"
 }

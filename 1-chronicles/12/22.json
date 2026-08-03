@@ -5,61 +5,61 @@
   "book": "1-chronicles",
   "lang": "ru",
   "chapter": 12,
-  "translation": "И они помогли Давиду против ⟨отряда⟩, ибо ⟨это⟩mighty men of valour, и стали начальниками в войске.",
+  "translation": "И они помогали Давиду ⟨над⟩ ⟨отрядом⟩, ибо ⟨они⟩ все — сильные ⟨мужи⟩ доблести, и были начальниками ⟨в⟩ ⟨войске⟩.",
   "tokens": [
     {
-      "surface": "וְהֵ֗מָּה",
-      "gloss": "и они"
+      "surface": "והמה",
+      "gloss": "И они"
     },
     {
-      "surface": "עָזְר֤וּ",
-      "gloss": "помогли"
+      "surface": "עזרו",
+      "gloss": "помогали"
     },
     {
-      "surface": "עִם",
+      "surface": "עם",
       "gloss": "с"
     },
     {
-      "surface": "דָּוִיד֙",
+      "surface": "דויד",
       "gloss": "Давидом"
     },
     {
-      "surface": "עַֽל",
-      "gloss": "против"
+      "surface": "על",
+      "gloss": "⟨над⟩"
     },
     {
-      "surface": "הַגְּד֔וּד",
-      "gloss": "отряда"
+      "surface": "הגדוד",
+      "gloss": "⟨отрядом⟩"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "ибо"
     },
     {
-      "surface": "גִבּ֥וֹרֵי",
-      "gloss": "mighty men of valour"
+      "surface": "גבורי",
+      "gloss": "сильные ⟨мужи⟩"
     },
     {
-      "surface": "חַ֖יִל",
-      "gloss": "могущества"
+      "surface": "חיל",
+      "gloss": "доблести"
     },
     {
-      "surface": "כֻּלָּ֑ם",
+      "surface": "כלם",
       "gloss": "все"
     },
     {
-      "surface": "וַיִּהְי֥וּ",
-      "gloss": "и стали"
+      "surface": "ויהיו",
+      "gloss": "и были"
     },
     {
-      "surface": "שָׂרִ֖ים",
+      "surface": "שרים",
       "gloss": "начальниками"
     },
     {
-      "surface": "בַּצָּבָֽא",
-      "gloss": "в войске"
+      "surface": "בצבא",
+      "gloss": "⟨в⟩ ⟨войске⟩"
     }
   ],
-  "timestamp": "2026-08-03T12:55:31.983858878Z",
+  "timestamp": "2026-08-03T20:07:26.820633604Z",
   "model": "glm-4.5"
 }

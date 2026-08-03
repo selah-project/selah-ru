@@ -5,19 +5,19 @@
   "book": "joshua",
   "lang": "ru",
   "chapter": 6,
-  "translation": "Только вы остерегитесь от ⟨хéрема⟩, lest you become accursed, and take of ⟨хéрема⟩, and put ⟨את⟩ стан Исраэля ⟨в хéрем⟩, and trouble ⟨את⟩ him.",
+  "translation": "Но ⟨вы⟩ берегите ⟨себя⟩ от херема, чтобы ⟨вы⟩ не попали под херем, и взяли бы из херема, и поставили ⟨את⟩ стан Израиля под херем, и огорчили бы его",
   "tokens": [
     {
       "surface": "ורק",
-      "gloss": "только"
+      "gloss": "Но"
     },
     {
       "surface": "אתם",
-      "gloss": "вы"
+      "gloss": "⟨вы⟩"
     },
     {
       "surface": "שמרו",
-      "gloss": "остерегитесь"
+      "gloss": "берегите ⟨себя⟩"
     },
     {
       "surface": "מן",
@@ -25,59 +25,58 @@
     },
     {
       "surface": "החרם",
-      "gloss": "⟨хéрема⟩"
+      "gloss": "херема"
     },
     {
       "surface": "פן",
-      "gloss": "lest"
+      "gloss": "чтобы"
     },
     {
       "surface": "תחרימו",
-      "gloss": "you become accursed"
+      "gloss": "⟨вы⟩ не попали под херем"
     },
     {
       "surface": "ולקחתם",
-      "gloss": "and take of"
+      "gloss": "и взяли бы"
     },
     {
       "surface": "מן",
-      "gloss": "from"
+      "gloss": "из"
     },
     {
       "surface": "החרם",
-      "gloss": "⟨хéрема⟩"
+      "gloss": "херема"
     },
     {
       "surface": "ושמתם",
-      "gloss": "and put"
+      "gloss": "и поставили"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "стан Исраэля"
+      "marks": "стан Израиля"
     },
     {
       "surface": "מחנה",
-      "gloss": "стан Исраэля"
+      "gloss": "стан"
     },
     {
       "surface": "ישראל",
-      "gloss": "Исраэля"
+      "gloss": "Израиля"
     },
     {
       "surface": "לחרם",
-      "gloss": "⟨в хéрем⟩"
+      "gloss": "под херем"
     },
     {
       "surface": "ועכרתם",
-      "gloss": "and trouble"
+      "gloss": "и огорчили бы"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩",
-      "marks": "его"
+      "gloss": "его"
     }
   ],
-  "timestamp": "2026-08-02T22:29:42.118628319Z",
+  "timestamp": "2026-08-03T20:41:41.690807269Z",
   "model": "glm-4.5"
 }

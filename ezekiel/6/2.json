@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "ru",
   "chapter": 6,
-  "translation": "Сын человеческий, ⟨ты⟩ set thy face ⟨to⟩ mountains of Israel, and prophesy against them",
+  "translation": "Сын человеческий, поставь лицо ⟨своё⟩ к горам Израиля и пророчествуй против них",
   "tokens": [
     {
       "surface": "בן",
-      "gloss": "Сын"
+      "gloss": "сын"
     },
     {
       "surface": "אדם",
@@ -17,33 +17,33 @@
     },
     {
       "surface": "שים",
-      "gloss": "set"
+      "gloss": "поставь"
     },
     {
       "surface": "פניך",
-      "gloss": "thy face"
+      "gloss": "лицо ⟨своё⟩"
     },
     {
       "surface": "אל",
-      "gloss": "to"
+      "gloss": "к"
     },
     {
       "surface": "הרי",
-      "gloss": "mountains"
+      "gloss": "горам"
     },
     {
       "surface": "ישראל",
-      "gloss": "of Israel"
+      "gloss": "Израиля"
     },
     {
       "surface": "והנבא",
-      "gloss": "and prophesy"
+      "gloss": "и пророчествуй"
     },
     {
       "surface": "אליהם",
-      "gloss": "against them"
+      "gloss": "против них"
     }
   ],
-  "timestamp": "2026-08-03T04:21:18.054168027Z",
+  "timestamp": "2026-08-03T20:23:40.443301309Z",
   "model": "glm-4.5"
 }

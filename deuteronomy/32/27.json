@@ -5,55 +5,55 @@
   "book": "deuteronomy",
   "lang": "ru",
   "chapter": 32,
-  "translation": "Если бы не feared wrath ⟨of⟩ enemy, lest behaved themselves strangely adversaries their, lest said: ‘Our hand ⟨is⟩ high, and не ЯХВЕ did all this’.",
+  "translation": "Если бы ⟨не⟩ гнев врага ⟨я⟩ боялся, чтобы не распознали враги его, чтобы не сказали: наша рука высока, а не ЯХВЕ сделал всё это.",
   "tokens": [
     {
       "surface": "לולי",
-      "gloss": "Если бы не"
+      "gloss": "Если бы"
     },
     {
       "surface": "כעס",
-      "gloss": "wrath"
+      "gloss": "гнев"
     },
     {
       "surface": "אויב",
-      "gloss": "enemy"
+      "gloss": "врага"
     },
     {
       "surface": "אגור",
-      "gloss": "feared"
+      "gloss": "⟨я⟩ боялся"
     },
     {
       "surface": "פן",
-      "gloss": "lest"
+      "gloss": "чтобы не"
     },
     {
       "surface": "ינכרו",
-      "gloss": "повели себя странно"
+      "gloss": "распознали"
     },
     {
       "surface": "צרימו",
-      "gloss": "adversaries their"
+      "gloss": "враги его"
     },
     {
       "surface": "פן",
-      "gloss": "lest"
+      "gloss": "чтобы не"
     },
     {
       "surface": "יאמרו",
-      "gloss": "said"
+      "gloss": "сказали"
     },
     {
       "surface": "ידינו",
-      "gloss": "hand our"
+      "gloss": "наша рука"
     },
     {
       "surface": "רמה",
-      "gloss": "high"
+      "gloss": "высока"
     },
     {
       "surface": "ולא",
-      "gloss": "and not"
+      "gloss": "а не"
     },
     {
       "surface": "יהוה",
@@ -61,17 +61,17 @@
     },
     {
       "surface": "פעל",
-      "gloss": "did"
+      "gloss": "сделал"
     },
     {
       "surface": "כל",
-      "gloss": "all"
+      "gloss": "всё"
     },
     {
       "surface": "זאת",
-      "gloss": "this"
+      "gloss": "это"
     }
   ],
-  "timestamp": "2026-08-02T22:22:30.051297974Z",
+  "timestamp": "2026-08-03T20:17:36.966404488Z",
   "model": "glm-4.5"
 }

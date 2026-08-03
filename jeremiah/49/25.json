@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "ru",
   "chapter": 49,
-  "translation": "Как ⟨не⟩ оставлен город ⟨ praise⟩, город радости ⟨my⟩!",
+  "translation": "Как ⟨не⟩ оставлен город хвалы, город радости моей!",
   "tokens": [
     {
       "surface": "איך",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "⟨не⟩"
+      "gloss": "не"
     },
     {
       "surface": "עזבה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "תהלה",
-      "gloss": "⟨ praise⟩"
+      "gloss": "хвалы"
     },
     {
       "surface": "קרית",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "משושי",
-      "gloss": "радости ⟨my⟩"
+      "gloss": "радости моей"
     }
   ],
-  "timestamp": "2026-08-03T04:09:27.847849018Z",
+  "timestamp": "2026-08-03T19:55:01.838815521Z",
   "model": "glm-4.5"
 }

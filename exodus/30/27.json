@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "ru",
   "chapter": 30,
-  "translation": "и ⟨את⟩ стол и ⟨את⟩ все ⟨את⟩ utensils его, и ⟨את⟩ menorah и ⟨את⟩ utensils её, и ⟨את⟩ altar ⟨את⟩ курения",
+  "translation": "и ⟨את⟩ стол и ⟨את⟩ все его утвари и ⟨את⟩ менору и ⟨את⟩ её утварь и ⟨את⟩ алтарь для курения",
   "tokens": [
     {
       "surface": "ואת",
@@ -19,7 +19,7 @@
     {
       "surface": "ואת",
       "gloss": "и ⟨את⟩",
-      "marks": "все"
+      "marks": "все его утвари"
     },
     {
       "surface": "כל",
@@ -27,40 +27,40 @@
     },
     {
       "surface": "כליו",
-      "gloss": "utensils его"
+      "gloss": "его утварь"
     },
     {
       "surface": "ואת",
       "gloss": "и ⟨את⟩",
-      "marks": "menorah"
+      "marks": "менору"
     },
     {
       "surface": "המנרה",
-      "gloss": "menorah"
+      "gloss": "менору"
     },
     {
       "surface": "ואת",
       "gloss": "и ⟨את⟩",
-      "marks": "utensils её"
+      "marks": "её утварь"
     },
     {
       "surface": "כליה",
-      "gloss": "utensils её"
+      "gloss": "её утварь"
     },
     {
       "surface": "ואת",
       "gloss": "и ⟨את⟩",
-      "marks": "altar"
+      "marks": "алтарь для курения"
     },
     {
       "surface": "מזבח",
-      "gloss": "altar"
+      "gloss": "алтарь"
     },
     {
       "surface": "הקטרת",
-      "gloss": "курения"
+      "gloss": "для курения"
     }
   ],
-  "timestamp": "2026-08-02T20:27:40.133486372Z",
+  "timestamp": "2026-08-03T20:57:13.409859533Z",
   "model": "glm-4.5"
 }

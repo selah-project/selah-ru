@@ -5,15 +5,15 @@
   "book": "proverbs",
   "lang": "ru",
   "chapter": 10,
-  "translation": "Губы праведника знают благоволение, а ⟨ mouths⟩ ⟨ of⟩ wicked ⟨ ones⟩ ⟨ are⟩ perverseness.",
+  "translation": "Губы праведного знают благоволение, а уста нечестивых — извращения",
   "tokens": [
     {
       "surface": "שפתי",
-      "gloss": "Губы"
+      "gloss": "губы"
     },
     {
       "surface": "צדיק",
-      "gloss": "праведника"
+      "gloss": "праведного"
     },
     {
       "surface": "ידעון",
@@ -25,17 +25,17 @@
     },
     {
       "surface": "ופי",
-      "gloss": "а ⟨ the⟩ mouth"
+      "gloss": "а уста"
     },
     {
       "surface": "רשעים",
-      "gloss": "wicked ⟨ ones⟩"
+      "gloss": "нечестивых"
     },
     {
       "surface": "תהפכות",
-      "gloss": "perverseness"
+      "gloss": "извращения"
     }
   ],
-  "timestamp": "2026-08-03T09:33:18.028418519Z",
+  "timestamp": "2026-08-03T19:51:09.399934605Z",
   "model": "glm-4.5"
 }

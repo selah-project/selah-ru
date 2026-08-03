@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "ru",
   "chapter": 7,
-  "translation": "И вотtora ⟨of⟩ ⟨sacrifice of⟩ shelamim, which ⟨he shall bring near⟩ to ЯХВЕ.",
+  "translation": "И вот Тора жертвы шлемим, которую ⟨он⟩ приблизит к ЯХВЕ:",
   "tokens": [
     {
       "surface": "וזאת",
@@ -13,31 +13,29 @@
     },
     {
       "surface": "תורת",
-      "gloss": "tora ⟨of⟩",
-      "marks": "закона"
+      "gloss": "Тора"
     },
     {
       "surface": "זבח",
-      "gloss": "⟨sacrifice of⟩",
-      "marks": "жертвы"
+      "gloss": "жертвы"
     },
     {
       "surface": "השלמים",
-      "gloss": "shelamim"
+      "gloss": "шлемим"
     },
     {
       "surface": "אשר",
-      "gloss": "which"
+      "gloss": "которую"
     },
     {
       "surface": "יקריב",
-      "gloss": "⟨he shall bring near⟩"
+      "gloss": "⟨он⟩ приблизит"
     },
     {
       "surface": "ליהוה",
-      "gloss": "to ЯХВЕ"
+      "gloss": "к ЯХВЕ"
     }
   ],
-  "timestamp": "2026-08-02T20:46:15.912245934Z",
+  "timestamp": "2026-08-03T20:51:34.464943787Z",
   "model": "glm-4.5"
 }

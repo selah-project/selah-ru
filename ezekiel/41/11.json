@@ -5,23 +5,23 @@
   "book": "ezekiel",
   "lang": "ru",
   "chapter": 41,
-  "translation": "И openings ⟨of⟩ ⟨the⟩ side chambers ⟨were⟩ toward ⟨the⟩ vacant place, one opening toward ⟨the⟩ north, and one opening toward ⟨the⟩ south, and ⟨the⟩ breadth ⟨of⟩ ⟨the⟩ vacant place ⟨was⟩ five cubits around around.",
+  "translation": "И ⟨את⟩ открытие боковой комнаты к свободному месту, одно открытие ⟨на⟩ путь севера и одно открытие ⟨на⟩ юг, и ширина ⟨этого⟩ свободного места пять локтей кругом, кругом.",
   "tokens": [
     {
       "surface": "ופתח",
-      "gloss": "и openings"
+      "gloss": "и ⟨את⟩ открытие"
     },
     {
       "surface": "הצלע",
-      "gloss": "⟨of⟩ ⟨the⟩ side chambers"
+      "gloss": "боковой комнаты"
     },
     {
       "surface": "למנח",
-      "gloss": "к ⟨the⟩ vacant place"
+      "gloss": "к свободному месту"
     },
     {
       "surface": "פתח",
-      "gloss": "отверстие"
+      "gloss": "открытие"
     },
     {
       "surface": "אחד",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "דרך",
-      "gloss": "по направлению"
+      "gloss": "⟨на⟩ путь"
     },
     {
       "surface": "הצפון",
-      "gloss": "⟨the⟩ north"
+      "gloss": "севера"
     },
     {
       "surface": "ופתח",
-      "gloss": "и отверстие"
+      "gloss": "и ⟨את⟩ открытие"
     },
     {
       "surface": "אחד",
@@ -45,19 +45,19 @@
     },
     {
       "surface": "לדרום",
-      "gloss": "к югу"
+      "gloss": "⟨на⟩ юг"
     },
     {
       "surface": "ורחב",
-      "gloss": "и ⟨the⟩ breadth"
+      "gloss": "и ширина"
     },
     {
       "surface": "מקום",
-      "gloss": "⟨of⟩ ⟨the⟩ place"
+      "gloss": "⟨этого⟩ места"
     },
     {
       "surface": "המנח",
-      "gloss": "вакантного"
+      "gloss": "свободного"
     },
     {
       "surface": "חמש",
@@ -69,13 +69,13 @@
     },
     {
       "surface": "סביב",
-      "gloss": "вокруг"
+      "gloss": "кругом"
     },
     {
       "surface": "סביב",
-      "gloss": "вокруг"
+      "gloss": "кругом"
     }
   ],
-  "timestamp": "2026-08-03T05:08:52.554719151Z",
+  "timestamp": "2026-08-03T20:50:57.072812211Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "ru",
   "chapter": 11,
-  "translation": "и поставил ему kohanim для bamot и для se'irim и для eiglim, которые ⟨он⟩ сделал",
+  "translation": "И поставил он ему священников для высот и для шедим, и для тельцов, которые ⟨он⟩ сделал",
   "tokens": [
     {
       "surface": "ויעמד",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "כהנים",
-      "gloss": "kohanim"
+      "gloss": "священников"
     },
     {
       "surface": "לבמות",
-      "gloss": "для bamot"
+      "gloss": "для высот"
     },
     {
       "surface": "ולשעירים",
-      "gloss": "и для se'irim"
+      "gloss": "и для шедим"
     },
     {
       "surface": "ולעגלים",
-      "gloss": "и для eiglim"
+      "gloss": "и для тельцов"
     },
     {
       "surface": "אשר",
@@ -40,6 +40,6 @@
       "gloss": "⟨он⟩ сделал"
     }
   ],
-  "timestamp": "2026-08-03T13:37:07.811290646Z",
+  "timestamp": "2026-08-03T20:13:24.976388772Z",
   "model": "glm-4.5"
 }

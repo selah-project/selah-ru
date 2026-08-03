@@ -5,27 +5,27 @@
   "book": "zechariah",
   "lang": "ru",
   "chapter": 7,
-  "translation": "сaying to ⟨the⟩ kohanim belonging to ⟨the⟩ house of ЯХВЕ Цеваот and to ⟨the⟩ prophets, saying: shall I weep in ⟨the⟩ fifth month, ⟨being⟩ nazir, as I have done ⟨these⟩ so many years?",
+  "translation": "говорить ⟨к⟩ священникам, которые ⟨при⟩ доме ЯХВЕ Цеваот, и ⟨к⟩ пророкам, говоря: ⟨должен ли я⟩ плакать в пятом месяце, назаряясь, как я делал ⟨это⟩ столько лет?",
   "tokens": [
     {
       "surface": "לאמר",
-      "gloss": "saying"
+      "gloss": "говорить"
     },
     {
       "surface": "אל",
-      "gloss": "to"
+      "gloss": "⟨к⟩"
     },
     {
       "surface": "הכהנים",
-      "gloss": "⟨the⟩ kohanim"
+      "gloss": "священникам"
     },
     {
       "surface": "אשר",
-      "gloss": "belonging to"
+      "gloss": "которые"
     },
     {
       "surface": "לבית",
-      "gloss": "⟨the⟩ house"
+      "gloss": "⟨при⟩ доме"
     },
     {
       "surface": "יהוה",
@@ -37,53 +37,53 @@
     },
     {
       "surface": "ואל",
-      "gloss": "and to"
+      "gloss": "и ⟨к⟩"
     },
     {
       "surface": "הנביאים",
-      "gloss": "⟨the⟩ prophets"
+      "gloss": "пророкам"
     },
     {
       "surface": "לאמר",
-      "gloss": "saying"
+      "gloss": "говоря"
     },
     {
       "surface": "האבכה",
-      "gloss": "shall I weep"
+      "gloss": "⟨должен ли я⟩ плакать"
     },
     {
       "surface": "בחדש",
-      "gloss": "in ⟨the⟩ fifth"
+      "gloss": "в месяце"
     },
     {
       "surface": "החמשי",
-      "gloss": "month"
+      "gloss": "пятом"
     },
     {
       "surface": "הנזר",
-      "gloss": "⟨being⟩ nazir"
+      "gloss": "назаряясь"
     },
     {
       "surface": "כאשר",
-      "gloss": "as"
+      "gloss": "как"
     },
     {
       "surface": "עשיתי",
-      "gloss": "I have done"
+      "gloss": "я делал"
     },
     {
       "surface": "זה",
-      "gloss": "⟨these⟩"
+      "gloss": "⟨это⟩"
     },
     {
       "surface": "כמה",
-      "gloss": "so many"
+      "gloss": "столько"
     },
     {
       "surface": "שנים",
-      "gloss": "years"
+      "gloss": "лет"
     }
   ],
-  "timestamp": "2026-08-03T06:13:54.840440757Z",
+  "timestamp": "2026-08-03T20:45:27.084483457Z",
   "model": "glm-4.5"
 }

@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "ru",
   "chapter": 21,
-  "translation": "Желание сердца его Ты дал ему, и просьбу уст его не withholden. Села.",
+  "translation": "Желание сердца его Ты дал ему, и ⟨не⟩ отказал ⟨в⟩ прошении уст его. Села.",
   "tokens": [
     {
       "surface": "תאות",
-      "gloss": "Желание"
+      "gloss": "желание"
     },
     {
       "surface": "לבו",
-      "gloss": "сердца его"
+      "gloss": "сердца"
     },
     {
       "surface": "נתתה",
@@ -25,25 +25,25 @@
     },
     {
       "surface": "וארשת",
-      "gloss": "и просьбу"
+      "gloss": "и ⟨не⟩ отказал"
     },
     {
       "surface": "שפתיו",
-      "gloss": "уст его"
+      "gloss": "уст"
     },
     {
       "surface": "בל",
-      "gloss": "не"
+      "gloss": "⟨не⟩"
     },
     {
       "surface": "מנעת",
-      "gloss": "withholden"
+      "gloss": "отказал"
     },
     {
       "surface": "סלה",
       "gloss": "Села"
     }
   ],
-  "timestamp": "2026-08-03T06:54:36.173092157Z",
+  "timestamp": "2026-08-03T20:00:36.966458094Z",
   "model": "glm-4.5"
 }

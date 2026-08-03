@@ -5,38 +5,38 @@
   "book": "job",
   "lang": "ru",
   "chapter": 13,
-  "translation": "Он ⟨же⟩ surely will rebuke you, if ⟨את⟩ accept persons in secret.",
+  "translation": "Он ⟨именно⟩ упрекнет ⟨את⟩ вас, если втайне принимаете ⟨лица⟩",
   "tokens": [
     {
       "surface": "הוכח",
-      "gloss": "Он ⟨же⟩ surely will rebuke"
+      "gloss": "Он ⟨именно⟩ упрекнет"
     },
     {
       "surface": "יוכיח",
-      "gloss": "—"
+      "gloss": "упрекнет"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "accept persons"
+      "marks": "вас"
     },
     {
       "surface": "אם",
-      "gloss": "if"
+      "gloss": "если"
     },
     {
       "surface": "בסתר",
-      "gloss": "in secret"
+      "gloss": "втайне"
     },
     {
       "surface": "פנים",
-      "gloss": "persons"
+      "gloss": "⟨лица⟩"
     },
     {
       "surface": "תשאון",
-      "gloss": "accept"
+      "gloss": "принимаете"
     }
   ],
-  "timestamp": "2026-08-03T10:21:04.463528513Z",
+  "timestamp": "2026-08-03T21:00:13.986559634Z",
   "model": "glm-4.5"
 }

@@ -5,19 +5,19 @@
   "book": "ecclesiastes",
   "lang": "ru",
   "chapter": 4,
-  "translation": "Лучше горсть покоя, ⟨чем⟩ две горсти труда и chasing after wind.",
+  "translation": "Лучше полная ладонь покоя, чем две полные ладони труда ⟨и⟩ преследования ⟨Руах⟩.",
   "tokens": [
     {
       "surface": "טוב",
-      "gloss": "лучше"
+      "gloss": "Лучше"
     },
     {
       "surface": "מלא",
-      "gloss": "горсть"
+      "gloss": "полная"
     },
     {
       "surface": "כף",
-      "gloss": "ладони"
+      "gloss": "ладонь"
     },
     {
       "surface": "נחת",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "ממלא",
-      "gloss": "⟨чем⟩"
+      "gloss": "чем две полные"
     },
     {
       "surface": "חפנים",
-      "gloss": "две горсти"
+      "gloss": "ладони"
     },
     {
       "surface": "עמל",
@@ -37,13 +37,13 @@
     },
     {
       "surface": "ורעות",
-      "gloss": "и"
+      "gloss": "преследования"
     },
     {
       "surface": "רוח",
-      "gloss": "chasing after wind"
+      "gloss": "Руах"
     }
   ],
-  "timestamp": "2026-08-03T11:19:06.317421160Z",
+  "timestamp": "2026-08-03T20:44:28.705349454Z",
   "model": "glm-4.5"
 }

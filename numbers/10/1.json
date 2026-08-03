@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "ru",
   "chapter": 10,
-  "translation": "И spoke ЯХВЕ ⟨к⟩ Моше, говоря:",
+  "translation": "И говорил ЯХВЕ ⟨с⟩ Моше, говоря:",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "И spoke"
+      "gloss": "И говорил"
     },
     {
       "surface": "יהוה",
@@ -17,7 +17,8 @@
     },
     {
       "surface": "אל",
-      "gloss": "⟨к⟩"
+      "gloss": "⟨с⟩",
+      "marks": "Моше"
     },
     {
       "surface": "משה",
@@ -28,6 +29,6 @@
       "gloss": "говоря"
     }
   ],
-  "timestamp": "2026-08-02T21:21:43.656436747Z",
+  "timestamp": "2026-08-03T20:35:52.854115184Z",
   "model": "glm-4.5"
 }

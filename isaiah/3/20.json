@@ -5,33 +5,34 @@
   "book": "isaiah",
   "lang": "ru",
   "chapter": 3,
-  "translation": "наперсники и ankle chains и поясные перевязи и дома души и амулеты",
+  "translation": "наряды и щиколотки и пояса и дома ⟨для⟩ нефеш и амулеты",
   "tokens": [
     {
       "surface": "הפארים",
-      "gloss": "наперсники"
+      "gloss": "наряды"
     },
     {
       "surface": "והצעדות",
-      "gloss": "и ankle chains"
+      "gloss": "и щиколотки"
     },
     {
       "surface": "והקשרים",
-      "gloss": "и поясные перевязи"
+      "gloss": "и пояса"
     },
     {
       "surface": "ובתי",
-      "gloss": "дома"
+      "gloss": "и дома"
     },
     {
       "surface": "הנפש",
-      "gloss": "души"
+      "gloss": "⟨для⟩ нефеш",
+      "marks": "дома"
     },
     {
       "surface": "והלחשים",
       "gloss": "и амулеты"
     }
   ],
-  "timestamp": "2026-08-03T01:43:32.002088977Z",
+  "timestamp": "2026-08-03T20:34:05.646541530Z",
   "model": "glm-4.5"
 }

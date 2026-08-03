@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "ru",
   "chapter": 28,
-  "translation": "Кроме ⟨את⟩ всесожжения утра, которое — для continual burnt offering, делайте ⟨את⟩ эти",
+  "translation": "Помимо всесожжения утреннего, ⟨которое⟩ для всесожжения постоянного, делайте ⟨את⟩ эти",
   "tokens": [
     {
       "surface": "מלבד",
-      "gloss": "кроме"
+      "gloss": "Помимо"
     },
     {
       "surface": "עלת",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "הבקר",
-      "gloss": "утра"
+      "gloss": "утреннего"
     },
     {
       "surface": "אשר",
-      "gloss": "которое"
+      "gloss": "⟨которое⟩"
     },
     {
       "surface": "לעלת",
-      "gloss": "для"
+      "gloss": "для всесожжения"
     },
     {
       "surface": "התמיד",
-      "gloss": "continual burnt offering"
+      "gloss": "постоянного"
     },
     {
       "surface": "תעשו",
@@ -45,6 +45,6 @@
       "gloss": "эти"
     }
   ],
-  "timestamp": "2026-08-02T21:41:08.319197877Z",
+  "timestamp": "2026-08-03T20:36:19.499851737Z",
   "model": "glm-4.5"
 }

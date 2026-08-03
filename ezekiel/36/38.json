@@ -5,89 +5,73 @@
   "book": "ezekiel",
   "lang": "ru",
   "chapter": 36,
-  "translation": "как ⟨стадо⟩ qedoshim, как ⟨стадо⟩ Иерушалаима в её mo'adim, так ḥorvot будут mel'ot ⟨стадом⟩ adam, и yada'u, ki ani ЯХВЕ.",
+  "translation": "Как ⟨стадо⟩ святых, как ⟨стадо⟩ Иерушалаима в её ⟨назначенных временах⟩, так будут опустевшие города полны ⟨стад⟩ людей, и познают, что Я — ЯХВЕ.",
   "tokens": [
     {
       "surface": "כצאן",
-      "gloss": "как ⟨стадо⟩",
-      "marks": "как ⟨стадо⟩ kedoshim"
+      "gloss": "Как ⟨стадо⟩"
     },
     {
       "surface": "קדשים",
-      "gloss": "qedoshim",
-      "marks": "святынь"
+      "gloss": "святых"
     },
     {
       "surface": "כצאן",
-      "gloss": "как ⟨стадо⟩",
-      "marks": "как ⟨стадо⟩ Иерушалаима"
+      "gloss": "как ⟨стадо⟩"
     },
     {
       "surface": "ירושלם",
-      "gloss": "Иерушалаим",
-      "marks": ""
+      "gloss": "Иерушалаима"
     },
     {
       "surface": "במועדיה",
-      "gloss": "в её mo'adim",
-      "marks": "в её праздниках"
+      "gloss": "в её ⟨назначенных временах⟩"
     },
     {
       "surface": "כן",
-      "gloss": "так",
-      "marks": ""
+      "gloss": "так"
     },
     {
       "surface": "תהיינה",
-      "gloss": "ḥorvot будут",
-      "marks": "разрушенные [города] будут"
+      "gloss": "будут"
     },
     {
       "surface": "הערים",
-      "gloss": "",
-      "marks": ""
+      "gloss": "города"
     },
     {
       "surface": "החרבות",
-      "gloss": "",
-      "marks": ""
+      "gloss": "опустевшие"
     },
     {
       "surface": "מלאות",
-      "gloss": "mel'ot",
-      "marks": "наполнены"
+      "gloss": "полны"
     },
     {
       "surface": "צאן",
-      "gloss": "⟨стадом⟩",
-      "marks": "⟨стадом⟩ adam"
+      "gloss": "⟨стад⟩"
     },
     {
       "surface": "אדם",
-      "gloss": "adam",
-      "marks": "людей"
+      "gloss": "людей"
     },
     {
       "surface": "וידעו",
-      "gloss": "и yada'u",
-      "marks": "и узнают"
+      "gloss": "и познают"
     },
     {
       "surface": "כי",
-      "gloss": "ki",
-      "marks": "что"
+      "gloss": "что"
     },
     {
       "surface": "אני",
-      "gloss": "ani",
-      "marks": "Я"
+      "gloss": "Я"
     },
     {
       "surface": "יהוה",
-      "gloss": "ЯХВЕ",
-      "marks": ""
+      "gloss": "ЯХВЕ"
     }
   ],
-  "timestamp": "2026-08-03T05:02:08.010342850Z",
+  "timestamp": "2026-08-03T20:20:34.115036626Z",
   "model": "glm-4.5"
 }

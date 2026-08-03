@@ -5,38 +5,38 @@
   "book": "exodus",
   "lang": "ru",
   "chapter": 25,
-  "translation": "и сделаешь шесты ⟨из⟩ деревьев шиттим, и overlaid ⟨את⟩ их золотом",
+  "translation": "И сделаешь ⟨ты⟩ шесты ⟨из⟩ дерева шиттим и покроешь ⟨את⟩ их золотом",
   "tokens": [
     {
-      "surface": "וְעָשִׂיתָ",
-      "gloss": "и сделаешь"
+      "surface": "ועשית",
+      "gloss": "И сделаешь"
     },
     {
-      "surface": "בַדֵּי",
+      "surface": "בדי",
       "gloss": "шесты"
     },
     {
-      "surface": "עֲצֵי",
-      "gloss": "деревьев"
+      "surface": "עצי",
+      "gloss": "дерева"
     },
     {
-      "surface": "שִׁטִּים",
+      "surface": "שטים",
       "gloss": "шиттим"
     },
     {
-      "surface": "וְצִפִּיתָ",
-      "gloss": "и overlaid"
+      "surface": "וצפית",
+      "gloss": "и покроешь"
     },
     {
-      "surface": "אֹתָ֖ם",
+      "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "их золотом"
+      "marks": "их"
     },
     {
-      "surface": "זָהָֽב",
+      "surface": "זהב",
       "gloss": "золотом"
     }
   ],
-  "timestamp": "2026-08-02T20:18:53.371986425Z",
+  "timestamp": "2026-08-03T20:04:26.894030503Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "ru",
   "chapter": 34,
-  "translation": "Только в этом согласятся ⟨эти⟩ люди с нами dwell с нами, to be one people, circumcising for us every male, как они circumcised",
+  "translation": "Только в этом ⟨они⟩ согласятся с ⟨нами⟩ жить с ⟨нами⟩, чтобы быть ⟨одним⟩ народом, в обрезании каждого ⟨самца⟩ у ⟨нас⟩, как ⟨они⟩ обрезаны",
   "tokens": [
     {
       "surface": "אך",
@@ -17,51 +17,51 @@
     },
     {
       "surface": "יאתו",
-      "gloss": "согласятся"
+      "gloss": "⟨они⟩ согласятся"
     },
     {
       "surface": "לנו",
-      "gloss": "с нами"
+      "gloss": "с ⟨нами⟩"
     },
     {
       "surface": "האנשים",
-      "gloss": "⟨эти⟩ люди"
+      "gloss": "—"
     },
     {
       "surface": "לשבת",
-      "gloss": "dwell с нами"
+      "gloss": "жить"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨с нами⟩"
+      "gloss": "с ⟨нами⟩"
     },
     {
       "surface": "להיות",
-      "gloss": "to be"
+      "gloss": "чтобы быть"
     },
     {
       "surface": "לעם",
-      "gloss": "one people"
+      "gloss": "⟨одним⟩"
     },
     {
       "surface": "אחד",
-      "gloss": "один"
+      "gloss": "народом"
     },
     {
       "surface": "בהמול",
-      "gloss": "circumcising"
+      "gloss": "в обрезании"
     },
     {
       "surface": "לנו",
-      "gloss": "для нас"
+      "gloss": "каждого ⟨самца⟩ у ⟨нас⟩"
     },
     {
       "surface": "כל",
-      "gloss": "всякий"
+      "gloss": "—"
     },
     {
       "surface": "זכר",
-      "gloss": "мужчина"
+      "gloss": "—"
     },
     {
       "surface": "כאשר",
@@ -69,13 +69,13 @@
     },
     {
       "surface": "הם",
-      "gloss": "они"
+      "gloss": "⟨они⟩"
     },
     {
       "surface": "נמלים",
-      "gloss": "circumcised"
+      "gloss": "обрезаны"
     }
   ],
-  "timestamp": "2026-08-02T19:36:33.319710080Z",
+  "timestamp": "2026-08-03T19:47:29.819901089Z",
   "model": "glm-4.5"
 }

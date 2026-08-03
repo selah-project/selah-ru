@@ -5,57 +5,57 @@
   "book": "ezekiel",
   "lang": "ru",
   "chapter": 30,
-  "translation": "И дам Я огонь ⟨в⟩ Мицраиме; Син свяжется муками и Но будет ⟨разорван⟩, и Ноф —daily distresses.",
+  "translation": "И я вложу огонь ⟨в⟩ Египет: Син будет в великом страдании, и Но будет разорван, и Ноф будет иметь бедствия ⟨днём⟩.",
   "tokens": [
     {
-      "surface": "ונתתי",
-      "gloss": "и дам Я"
+      "surface": "וְנָתַתִּי",
+      "gloss": "и я вложу"
     },
     {
-      "surface": "אש",
+      "surface": "אֵשׁ",
       "gloss": "огонь"
     },
     {
-      "surface": "במצרים",
-      "gloss": "⟨в⟩ Мицраиме"
+      "surface": "בְּמִצְרַיִם",
+      "gloss": "⟨в⟩ Египет"
     },
     {
-      "surface": "חול",
-      "gloss": "свяжется"
+      "surface": "חוּל",
+      "gloss": "будет в страдании"
     },
     {
-      "surface": "תחיל",
-      "gloss": "муками"
+      "surface": "תְחִיל",
+      "gloss": "великом"
     },
     {
-      "surface": "סין",
+      "surface": "סִין",
       "gloss": "Син"
     },
     {
-      "surface": "ונא",
+      "surface": "וְנֹא",
       "gloss": "и Но"
     },
     {
-      "surface": "תהיה",
+      "surface": "תִּהְיֶה",
       "gloss": "будет"
     },
     {
-      "surface": "להבקע",
-      "gloss": "⟨разорван⟩"
+      "surface": "לְהִבָּקֵעַ",
+      "gloss": "разорван"
     },
     {
-      "surface": "ונף",
+      "surface": "וְנֹף",
       "gloss": "и Ноф"
     },
     {
-      "surface": "צרי",
-      "gloss": "daily distresses"
+      "surface": "צָרֵי",
+      "gloss": "будет иметь бедствия"
     },
     {
-      "surface": "יומם",
-      "gloss": "днём"
+      "surface": "יוֹמָם",
+      "gloss": "⟨днём⟩"
     }
   ],
-  "timestamp": "2026-08-03T04:53:54.179992615Z",
+  "timestamp": "2026-08-03T20:21:37.712466184Z",
   "model": "glm-4.5"
 }

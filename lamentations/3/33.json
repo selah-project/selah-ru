@@ -5,7 +5,7 @@
   "book": "lamentations",
   "lang": "ru",
   "chapter": 3,
-  "translation": "Ибо не afflict He ⟨with⟩ His heart, and ⟨He⟩ grieves ⟨the⟩ sons of men.",
+  "translation": "Ибо не ⟨Он⟩ из сердца Своего ⟨его⟩, и огорчает сынов человеческих.",
   "tokens": [
     {
       "surface": "כי",
@@ -17,25 +17,25 @@
     },
     {
       "surface": "ענה",
-      "gloss": "afflict"
+      "gloss": "⟨Он⟩ из сердца Своего ⟨его⟩"
     },
     {
       "surface": "מלבו",
-      "gloss": "⟨with⟩ His heart"
+      "gloss": "⟨Он⟩ из сердца Своего ⟨его⟩"
     },
     {
       "surface": "ויגה",
-      "gloss": "⟨He⟩ grieves"
+      "gloss": "и огорчает"
     },
     {
       "surface": "בני",
-      "gloss": "сыновей"
+      "gloss": "сынов"
     },
     {
       "surface": "איש",
-      "gloss": "человеков"
+      "gloss": "человеческих"
     }
   ],
-  "timestamp": "2026-08-03T11:09:50.910241927Z",
+  "timestamp": "2026-08-03T20:27:40.053785336Z",
   "model": "glm-4.5"
 }

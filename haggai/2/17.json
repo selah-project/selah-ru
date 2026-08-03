@@ -5,7 +5,7 @@
   "book": "haggai",
   "lang": "ru",
   "chapter": 2,
-  "translation": "Я поражал ⟨את⟩ вас blasts-ом и mildew-ом и hail-ом — ⟨את⟩ весь труд ⟨the⟩ рук ваших; и ⟨нет⟩ ⟨את⟩ вас ко Мне, — речение ЯХВЕ.",
+  "translation": "Я поражал ⟨את⟩ вас {\nбледняком и {\nи {\nградом во всём ⟨את⟩ деле рук ваших; но не ⟨את⟩ вы ко Мне, — {\nизречение ЯХВЕ.",
   "tokens": [
     {
       "surface": "הכיתי",
@@ -13,46 +13,46 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ вас",
-      "marks": "с blasting-ом и mildew-ом и hail-ом"
+      "gloss": "⟨את⟩",
+      "marks": "вас"
     },
     {
       "surface": "בשדפון",
-      "gloss": "blasts-ом"
+      "gloss": "бледняком"
     },
     {
       "surface": "ובירקון",
-      "gloss": "и mildew-ом"
+      "gloss": "и"
     },
     {
       "surface": "ובברד",
-      "gloss": "и hail-ом"
+      "gloss": "и"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "весь труд рук ваших"
+      "marks": "деле"
     },
     {
       "surface": "כל",
-      "gloss": "весь"
+      "gloss": "всём"
     },
     {
       "surface": "מעשה",
-      "gloss": "труд"
+      "gloss": "деле"
     },
     {
       "surface": "ידיכם",
-      "gloss": "⟨the⟩ рук ваших"
+      "gloss": "рук"
     },
     {
       "surface": "ואין",
-      "gloss": "и ⟨нет⟩"
+      "gloss": "но не"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ вас",
-      "marks": "ко Мне"
+      "gloss": "⟨את⟩",
+      "marks": "вы"
     },
     {
       "surface": "אלי",
@@ -60,13 +60,13 @@
     },
     {
       "surface": "נאם",
-      "gloss": "речение"
+      "gloss": "изречение"
     },
     {
       "surface": "יהוה",
       "gloss": "ЯХВЕ"
     }
   ],
-  "timestamp": "2026-08-03T06:08:23.144333554Z",
+  "timestamp": "2026-08-03T20:45:12.349399900Z",
   "model": "glm-4.5"
 }

@@ -5,41 +5,41 @@
   "book": "1-kings",
   "lang": "ru",
   "chapter": 18,
-  "translation": "А теперь ты говоришь: ⟨иди⟩, скажи твоему господину: вот, Элийahu!",
+  "translation": "А теперь ты говоришь: иди, скажи твоему господину: вот, Элияу!",
   "tokens": [
     {
-      "surface": "וְעַתָּה",
-      "gloss": "А теперь"
+      "surface": "ועתה",
+      "gloss": "а теперь"
     },
     {
-      "surface": "אַתָּה",
+      "surface": "אתה",
       "gloss": "ты"
     },
     {
-      "surface": "אֹמֵר",
+      "surface": "אמר",
       "gloss": "говоришь"
     },
     {
-      "surface": "לֵךְ",
-      "gloss": "⟨иди⟩"
+      "surface": "לך",
+      "gloss": "иди"
     },
     {
-      "surface": "אֱמֹר",
+      "surface": "אמר",
       "gloss": "скажи"
     },
     {
-      "surface": "לַאדֹנֶיךָ",
+      "surface": "לאדניך",
       "gloss": "твоему господину"
     },
     {
-      "surface": "הִנֵּה",
+      "surface": "הנה",
       "gloss": "вот"
     },
     {
-      "surface": "אֵלִיָּֽהוּ",
-      "gloss": "Элийahu"
+      "surface": "אליהו",
+      "gloss": "Элияу"
     }
   ],
-  "timestamp": "2026-08-03T00:53:45.355458262Z",
+  "timestamp": "2026-08-03T20:42:06.723221346Z",
   "model": "glm-4.5"
 }

@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "ru",
   "chapter": 25,
-  "translation": "И spoke ЯХВЕ к Моше, говоря:",
+  "translation": "И говорил ЯХВЕ с Моше, говоря:",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "И spoke"
+      "gloss": "И говорил"
     },
     {
       "surface": "יהוה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "к"
+      "gloss": "с"
     },
     {
       "surface": "משה",
@@ -28,6 +28,6 @@
       "gloss": "говоря"
     }
   ],
-  "timestamp": "2026-08-03T17:53:36.344902188Z",
+  "timestamp": "2026-08-03T20:05:16.645245977Z",
   "model": "glm-4.5"
 }

@@ -5,19 +5,19 @@
   "book": "numbers",
   "lang": "ru",
   "chapter": 28,
-  "translation": "Ола́ continual — сделанная на горе Синай, для fragrance soothing — fire-offering ЯХВЕ",
+  "translation": "всесожжение продолжительное, ⟨которое⟩ совершаемо ⟨было⟩ на горе Синай в запах благоухания, огнеприношение ЯХВЕ",
   "tokens": [
     {
       "surface": "עלת",
-      "gloss": "Ола́"
+      "gloss": "всесожжение"
     },
     {
       "surface": "תמיד",
-      "gloss": "continual"
+      "gloss": "продолжительное"
     },
     {
       "surface": "העשיה",
-      "gloss": "сделанная"
+      "gloss": "которое совершаемо"
     },
     {
       "surface": "בהר",
@@ -29,21 +29,21 @@
     },
     {
       "surface": "לריח",
-      "gloss": "для fragrance"
+      "gloss": "в запах"
     },
     {
       "surface": "ניחח",
-      "gloss": "soothing"
+      "gloss": "благоухания"
     },
     {
       "surface": "אשה",
-      "gloss": "fire-offering"
+      "gloss": "огнеприношение"
     },
     {
       "surface": "ליהוה",
       "gloss": "ЯХВЕ"
     }
   ],
-  "timestamp": "2026-08-02T21:41:04.416760559Z",
+  "timestamp": "2026-08-03T20:36:13.925481064Z",
   "model": "glm-4.5"
 }

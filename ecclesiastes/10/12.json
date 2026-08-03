@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "ru",
   "chapter": 10,
-  "translation": "Слова ⟨из⟩ уст мудрого — милость, а губы ⟨не»reasonable⟩ поглотят его",
+  "translation": "Слова уст мудрого — милость, а губы глупца ⟨поглотят⟩ его.",
   "tokens": [
     {
       "surface": "דברי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "פי",
-      "gloss": "⟨из⟩ уст"
+      "gloss": "уст"
     },
     {
       "surface": "חכם",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "כסיל",
-      "gloss": "⟨не»reasonable⟩"
+      "gloss": "глупца"
     },
     {
       "surface": "תבלענו",
       "gloss": "поглотят его"
     }
   ],
-  "timestamp": "2026-08-03T11:24:38.523421969Z",
+  "timestamp": "2026-08-03T19:51:57.504091366Z",
   "model": "glm-4.5"
 }

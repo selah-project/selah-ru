@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "ru",
   "chapter": 79,
-  "translation": "Ибо они съели ⟨את⟩ Yaakov и ⟨את⟩ жилище его опустошили.",
+  "translation": "ибо ⟨они⟩ съели ⟨את⟩ Яакова и ⟨את⟩ жилище его опустошили",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Ибо"
+      "gloss": "ибо"
     },
     {
       "surface": "אכל",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yaakov"
+      "marks": "Яакова"
     },
     {
       "surface": "יעקב",
-      "gloss": "Yaakov"
+      "gloss": "Яакова"
     },
     {
       "surface": "ואת",
@@ -38,6 +38,6 @@
       "gloss": "опустошили"
     }
   ],
-  "timestamp": "2026-08-03T08:05:29.424931715Z",
+  "timestamp": "2026-08-03T20:00:19.167884726Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "ru",
   "chapter": 11,
-  "translation": "Урия ⟨החתי⟩, Завад ⟨בן⟩ Ахлая",
+  "translation": "Урия Хеттеянин, Завад, сын Ахлая",
   "tokens": [
     {
       "surface": "אוריה",
@@ -13,8 +13,7 @@
     },
     {
       "surface": "החתי",
-      "gloss": "⟨החתי⟩",
-      "marks": "хеттеянина"
+      "gloss": "Хеттеянин"
     },
     {
       "surface": "זבד",
@@ -22,14 +21,13 @@
     },
     {
       "surface": "בן",
-      "gloss": "⟨בן⟩",
-      "marks": "сын"
+      "gloss": "сын"
     },
     {
       "surface": "אחלי",
-      "gloss": "Ахлая"
+      "gloss": "Ахлай"
     }
   ],
-  "timestamp": "2026-08-03T12:54:20.949606869Z",
+  "timestamp": "2026-08-03T20:07:05.589426888Z",
   "model": "glm-4.5"
 }

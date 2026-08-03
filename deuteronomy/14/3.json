@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "ru",
   "chapter": 14,
-  "translation": "Не ешь ⟨ни⟩ какой ⟨тоёвah⟩",
+  "translation": "Не ешь ⟨никакой⟩ мерзости",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "не"
+      "gloss": "Не"
     },
     {
       "surface": "תאכל",
@@ -17,13 +17,13 @@
     },
     {
       "surface": "כל",
-      "gloss": "⟨ни⟩ какой"
+      "gloss": "⟨никакой⟩"
     },
     {
       "surface": "תועבה",
-      "gloss": "⟨тоёвah⟩"
+      "gloss": "мерзости"
     }
   ],
-  "timestamp": "2026-08-02T22:05:23.393534256Z",
+  "timestamp": "2026-08-03T20:19:07.712893181Z",
   "model": "glm-4.5"
 }

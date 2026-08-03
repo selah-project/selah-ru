@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "ru",
   "chapter": 14,
-  "translation": "И поразил ЯХВЕ ⟨את⟩ cushim перед Асой и перед Иудой, и побежали cushim.",
+  "translation": "И поразил ЯХВЕ ⟨את⟩ куши́тов пред лицем Асы и пред лицом Йеуды, и побежали куши́ты",
   "tokens": [
     {
       "surface": "ויגף",
@@ -18,27 +18,27 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "cushim"
+      "marks": "куши́тов"
     },
     {
       "surface": "הכושים",
-      "gloss": "cushim"
+      "gloss": "куши́тов"
     },
     {
       "surface": "לפני",
-      "gloss": "перед"
+      "gloss": "пред лицем"
     },
     {
       "surface": "אסא",
-      "gloss": "Асой"
+      "gloss": "Асы"
     },
     {
       "surface": "ולפני",
-      "gloss": "и перед"
+      "gloss": "и пред лицом"
     },
     {
       "surface": "יהודה",
-      "gloss": "Иудой"
+      "gloss": "Йеуды"
     },
     {
       "surface": "וינסו",
@@ -46,9 +46,9 @@
     },
     {
       "surface": "הכושים",
-      "gloss": "cushim"
+      "gloss": "куши́ты"
     }
   ],
-  "timestamp": "2026-08-03T13:41:39.199701573Z",
+  "timestamp": "2026-08-03T20:14:31.930102364Z",
   "model": "glm-4.5"
 }

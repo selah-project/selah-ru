@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "ru",
   "chapter": 11,
-  "translation": "И сказали: давайте построим себе город и башню, и голова её ⟨в⟩ небесах, и сделаем себе имя, lest we be scattered upon the face of all ⟨the⟩ earth.",
+  "translation": "И сказали они: ⟨давайте⟩ построим нам город и башню, и голову её в небесах, и сделаем ⟨себе⟩ имя, чтобы не рассеялись мы по лице всей земли",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "и сказали"
+      "gloss": "И сказали"
     },
     {
       "surface": "הבה",
-      "gloss": "давайте"
+      "gloss": "⟨давайте⟩"
     },
     {
       "surface": "נבנה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לנו",
-      "gloss": "себе"
+      "gloss": "нам"
     },
     {
       "surface": "עיר",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "וראשו",
-      "gloss": "и голова её"
+      "gloss": "и голову ⟨её⟩"
     },
     {
       "surface": "בשמים",
-      "gloss": "⟨в⟩ небесах"
+      "gloss": "в небесах"
     },
     {
       "surface": "ונעשה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "לנו",
-      "gloss": "себе"
+      "gloss": "⟨себе⟩"
     },
     {
       "surface": "שם",
@@ -53,29 +53,29 @@
     },
     {
       "surface": "פן",
-      "gloss": "lest"
+      "gloss": "чтобы"
     },
     {
       "surface": "נפוץ",
-      "gloss": "we be scattered"
+      "gloss": "не рассеялись"
     },
     {
       "surface": "על",
-      "gloss": "upon"
+      "gloss": "по"
     },
     {
       "surface": "פני",
-      "gloss": "the face"
+      "gloss": "лице"
     },
     {
       "surface": "כל",
-      "gloss": "all"
+      "gloss": "всей"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ earth"
+      "gloss": "земли"
     }
   ],
-  "timestamp": "2026-08-02T19:08:48.128162097Z",
+  "timestamp": "2026-08-03T19:49:11.914293814Z",
   "model": "glm-4.5"
 }

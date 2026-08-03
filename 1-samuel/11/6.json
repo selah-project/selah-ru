@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "ru",
   "chapter": 11,
-  "translation": "И ощутила на себе ⟨ Ruach Элохим ⟩ при hearing его ⟨את⟩ ⟨the words⟩ ⟨these⟩, и вспыхнул гнев его весьма.",
+  "translation": "И нашла Руах Элохим ⟨на⟩ Шауле, когда он слышал ⟨את⟩ эти слова, и воспылал гнев его сильно.",
   "tokens": [
     {
       "surface": "וַתִּצְלַח",
-      "gloss": "и ощутила на себе"
+      "gloss": "И нашла"
     },
     {
       "surface": "רֽוּחַ",
-      "gloss": "Ruach"
+      "gloss": "Руах"
     },
     {
       "surface": "אֱלֹהִים֙",
@@ -21,32 +21,32 @@
     },
     {
       "surface": "עַל",
-      "gloss": "при"
+      "gloss": "⟨на⟩"
     },
     {
       "surface": "שָׁא֔וּל",
-      "gloss": " hearing его"
+      "gloss": "Шауля"
     },
     {
-      "surface": "בְּשִׁמְעֽוֹ",
-      "gloss": "при"
+      "surface": "בשמעו",
+      "gloss": "когда он слышал"
     },
     {
       "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "⟨the words⟩"
+      "marks": "эти слова"
     },
     {
       "surface": "הַדְּבָרִ֣ים",
-      "gloss": "⟨the words⟩"
+      "gloss": "эти слова"
     },
     {
       "surface": "הָאֵ֑לֶּה",
-      "gloss": "⟨these⟩"
+      "gloss": "эти"
     },
     {
       "surface": "וַיִּ֥חַר",
-      "gloss": "и вспыхнул"
+      "gloss": "и воспылал"
     },
     {
       "surface": "אַפּ֖וֹ",
@@ -54,9 +54,9 @@
     },
     {
       "surface": "מְאֹֽד",
-      "gloss": "весьма"
+      "gloss": "сильно"
     }
   ],
-  "timestamp": "2026-08-02T23:22:30.645898032Z",
+  "timestamp": "2026-08-03T20:16:00.373412347Z",
   "model": "glm-4.5"
 }

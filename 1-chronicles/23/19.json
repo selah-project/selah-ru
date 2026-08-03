@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "ru",
   "chapter": 23,
-  "translation": "Сыновья Хеврона: Jeriyahu главный, Amaryah второй, Yachaziel третий и Yikmam четвёртый.",
+  "translation": "Сыновья Хеврона: Ирияу — главный, Амария — второй, Яхазиил — третий и иекамаам — четвёртый.",
   "tokens": [
     {
       "surface": "בני",
@@ -17,37 +17,37 @@
     },
     {
       "surface": "יריהו",
-      "gloss": "Jeriyahu"
+      "gloss": "Ирияу"
     },
     {
       "surface": "הראש",
-      "gloss": "главный"
+      "gloss": "— главный"
     },
     {
       "surface": "אמריה",
-      "gloss": "Amaryah"
+      "gloss": "Амария"
     },
     {
       "surface": "השני",
-      "gloss": "второй"
+      "gloss": "— второй"
     },
     {
       "surface": "יחזיאל",
-      "gloss": "Yachaziel"
+      "gloss": "Яхазиил"
     },
     {
       "surface": "השלישי",
-      "gloss": "третий"
+      "gloss": "— третий"
     },
     {
       "surface": "ויקמעם",
-      "gloss": "и Yikmam"
+      "gloss": "и иекамаам"
     },
     {
       "surface": "הרביעי",
-      "gloss": "четвёртый"
+      "gloss": "— четвёртый"
     }
   ],
-  "timestamp": "2026-08-03T13:10:11.501212550Z",
+  "timestamp": "2026-08-03T20:48:05.447460985Z",
   "model": "glm-4.5"
 }

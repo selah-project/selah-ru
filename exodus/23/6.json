@@ -5,24 +5,19 @@
   "book": "exodus",
   "lang": "ru",
   "chapter": 23,
-  "translation": "Не искажай ⟨שְׁפַּט⟩ judgement ⟨את⟩ бедного твоего в его споре",
+  "translation": "Не извращай ⟨суд⟩ бедного твоего в ⟨его⟩ тяжбе",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "Не"
+      "gloss": "не"
     },
     {
       "surface": "תטה",
-      "gloss": "искажай"
+      "gloss": "извращай"
     },
     {
       "surface": "משפט",
-      "gloss": "⟨שְׁפַּט⟩ judgement"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "бедного твоего"
+      "gloss": "суд"
     },
     {
       "surface": "אבינך",
@@ -30,9 +25,9 @@
     },
     {
       "surface": "בריבו",
-      "gloss": "в его споре"
+      "gloss": "в ⟨его⟩ тяжбе"
     }
   ],
-  "timestamp": "2026-08-02T20:16:46.220968543Z",
+  "timestamp": "2026-08-03T20:46:47.583603014Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "ru",
   "chapter": 3,
-  "translation": "В тот день ЯХВЕ уберёт ⟨את⟩ украшение их ankle-bangles, и their nets, и their lunettes",
+  "translation": "В тот день ЯХВЕ отнимет ⟨את⟩ величие запястий и подвесок и лунообразных уборов",
   "tokens": [
     {
       "surface": "ביום",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "⟨тот⟩"
+      "gloss": "тот"
     },
     {
       "surface": "יסיר",
-      "gloss": "уберёт"
+      "gloss": "отнимет"
     },
     {
       "surface": "אדני",
@@ -26,25 +26,25 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "украшение их ankle-bangles"
+      "marks": "величие запястий"
     },
     {
       "surface": "תפארת",
-      "gloss": "украшение их"
+      "gloss": "величие"
     },
     {
       "surface": "העכסים",
-      "gloss": "ankle-bangles"
+      "gloss": "запястий"
     },
     {
       "surface": "והשביסים",
-      "gloss": "и their nets"
+      "gloss": "и подвесок"
     },
     {
       "surface": "והשהרנים",
-      "gloss": "и their lunettes"
+      "gloss": "и лунообразных уборов"
     }
   ],
-  "timestamp": "2026-08-03T18:39:40.833340766Z",
+  "timestamp": "2026-08-03T20:33:42.276280949Z",
   "model": "glm-4.5"
 }

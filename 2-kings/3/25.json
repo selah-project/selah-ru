@@ -5,91 +5,91 @@
   "book": "2-kings",
   "lang": "ru",
   "chapter": 3,
-  "translation": "И города разрушили они, и ⟨на⟩ every good piece of land cast every man his stone, and filled it, and ⟨the⟩ every fountain of water stopped they, and ⟨the⟩ every good tree felled they — until left they stones thereof in Kir-Hareseth; ⟨и⟩ went about the slingers, and smote it.",
+  "translation": "И города разрушат, и на всяком хорошем участке каждый бросит ⟨свой⟩ камень и наполнит ⟨его⟩, и всякий источник вод запрут, и всякое хорошее дерево повергнут, до того как оставят ⟨лишь⟩ камни его в Кир-Харешет, и окружат ⟨его⟩ пращники и поразят ⟨его⟩",
   "tokens": [
     {
       "surface": "והערים",
-      "gloss": "И города"
+      "gloss": "и города"
     },
     {
       "surface": "יהרסו",
-      "gloss": "разрушили они"
+      "gloss": "разрушат"
     },
     {
       "surface": "וכל",
-      "gloss": "и"
+      "gloss": "и всякий"
     },
     {
       "surface": "חלקה",
-      "gloss": "⟨на⟩ every good piece of land cast every man his stone, and filled it, and ⟨the⟩ every fountain of water stopped they, and ⟨the⟩ every good tree felled they — until left they stones thereof in Kir-Hareseth; ⟨и⟩ went about the slingers, and smote it."
+      "gloss": "участок"
     },
     {
       "surface": "טובה",
-      "gloss": ""
+      "gloss": "хороший"
     },
     {
       "surface": "ישליכו",
-      "gloss": ""
+      "gloss": "бросит"
     },
     {
       "surface": "איש",
-      "gloss": ""
+      "gloss": "каждый"
     },
     {
       "surface": "אבנו",
-      "gloss": ""
+      "gloss": "камень ⟨свой⟩"
     },
     {
       "surface": "ומלאוה",
-      "gloss": ""
+      "gloss": "и наполнит ⟨его⟩"
     },
     {
       "surface": "וכל",
-      "gloss": ""
+      "gloss": "и всякий"
     },
     {
       "surface": "מעין",
-      "gloss": ""
+      "gloss": "источник"
     },
     {
       "surface": "מים",
-      "gloss": ""
+      "gloss": "вод"
     },
     {
       "surface": "יסתמו",
-      "gloss": ""
+      "gloss": "запрут"
     },
     {
       "surface": "וכל",
-      "gloss": ""
+      "gloss": "и всякое"
     },
     {
       "surface": "עץ",
-      "gloss": ""
+      "gloss": "дерево"
     },
     {
       "surface": "טוב",
-      "gloss": ""
+      "gloss": "хорошее"
     },
     {
       "surface": "יפילו",
-      "gloss": ""
+      "gloss": "повергнут"
     },
     {
       "surface": "עד",
-      "gloss": ""
+      "gloss": "до того как"
     },
     {
       "surface": "השאיר",
-      "gloss": ""
+      "gloss": "оставят"
     },
     {
       "surface": "אבניה",
-      "gloss": ""
+      "gloss": "камни его"
     },
     {
       "surface": "בקיר",
-      "gloss": ""
+      "gloss": "в Кир-Харешет"
     },
     {
       "surface": "חרשת",
@@ -97,17 +97,17 @@
     },
     {
       "surface": "ויסבו",
-      "gloss": ""
+      "gloss": "и окружат ⟨его⟩"
     },
     {
       "surface": "הקלעים",
-      "gloss": ""
+      "gloss": "пращники"
     },
     {
-      "surface": "וכוה",
-      "gloss": ""
+      "surface": "ויכוה",
+      "gloss": "и поразят ⟨его⟩"
     }
   ],
-  "timestamp": "2026-08-03T01:06:00.550490064Z",
+  "timestamp": "2026-08-03T20:25:04.502523632Z",
   "model": "glm-4.5"
 }

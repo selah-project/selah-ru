@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "ru",
   "chapter": 7,
-  "translation": "И вот Тора ⟨את⟩ culpa-offering, ⟨он⟩ holy-of-holies.",
+  "translation": "И это Тора ха-Ашама; ⟨он⟩ святость святых, ⟨сам⟩ святая.",
   "tokens": [
     {
       "surface": "וזאת",
-      "gloss": "И вот"
+      "gloss": "И это"
     },
     {
       "surface": "תורת",
@@ -17,22 +17,21 @@
     },
     {
       "surface": "האשם",
-      "gloss": "⟨את⟩",
-      "marks": "culpa-offering"
+      "gloss": "ха-Ашама"
     },
     {
       "surface": "קדש",
-      "gloss": "holy"
+      "gloss": "святость"
     },
     {
       "surface": "קדשים",
-      "gloss": "of-holies"
+      "gloss": "святых"
     },
     {
       "surface": "הוא",
       "gloss": "⟨он⟩"
     }
   ],
-  "timestamp": "2026-08-02T20:45:52.609904961Z",
+  "timestamp": "2026-08-03T20:28:30.074390442Z",
   "model": "glm-4.5"
 }

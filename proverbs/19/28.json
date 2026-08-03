@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "ru",
   "chapter": 19,
-  "translation": "Свидетель Белиала глумится над судом, а ⟨рот⟩ нечестивых глотает ⟨не haz —nothingness, trouble, wickedness⟩.",
+  "translation": "Свидетель Белиала глумится ⟨над⟩ судом, и уста нечестивых поглощают ⟨не〉весие.",
   "tokens": [
     {
       "surface": "עד",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "משפט",
-      "gloss": "над ⟨судом⟩"
+      "gloss": "⟨над⟩ судом"
     },
     {
       "surface": "ופי",
-      "gloss": "а ⟨рот⟩"
+      "gloss": "и уста"
     },
     {
       "surface": "רשעים",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "יבלע",
-      "gloss": "глотает"
+      "gloss": "поглощают"
     },
     {
       "surface": "און",
-      "gloss": "⟨не haz —nothingness, trouble, wickedness⟩"
+      "gloss": "⟨не〉весие"
     }
   ],
-  "timestamp": "2026-08-03T09:46:22.456448044Z",
+  "timestamp": "2026-08-03T19:51:53.320226153Z",
   "model": "glm-4.5"
 }

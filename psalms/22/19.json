@@ -5,37 +5,37 @@
   "book": "psalms",
   "lang": "ru",
   "chapter": 22,
-  "translation": "Они делят ⟨мою⟩ одежду между собой, и о ⟨моём⟩ garment они бросают ⟨את⟩ жребий",
+  "translation": "Они делят ⟨мои⟩ одежды ⟨среди⟩ них, и над ⟨моим⟩ одеянием бросают ⟨את⟩ жребий",
   "tokens": [
     {
-      "surface": "יחלקו",
-      "gloss": "Они делят"
+      "surface": "יְחַלְּקוּ",
+      "gloss": "делят"
     },
     {
-      "surface": "בגדי",
-      "gloss": "одежду"
+      "surface": "בְּגָדַי",
+      "gloss": "одежды"
     },
     {
-      "surface": "להם",
-      "gloss": "между собой"
+      "surface": "לָהֶם",
+      "gloss": "им"
     },
     {
-      "surface": "ועל",
-      "gloss": "и о"
+      "surface": "וְעַל",
+      "gloss": "и над"
     },
     {
-      "surface": "לבושי",
-      "gloss": "garment"
+      "surface": "לְבוּשִׁי",
+      "gloss": "одеянием"
     },
     {
-      "surface": "יפילו",
+      "surface": "יַפִּילוּ",
       "gloss": "бросают"
     },
     {
-      "surface": "גורל",
+      "surface": "גוֹרָל",
       "gloss": "жребий"
     }
   ],
-  "timestamp": "2026-08-03T06:55:47.327913276Z",
+  "timestamp": "2026-08-03T20:01:28.957147211Z",
   "model": "glm-4.5"
 }

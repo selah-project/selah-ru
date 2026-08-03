@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "ru",
   "chapter": 27,
-  "translation": "И spoke ЯХВЕ к Моше, saying:",
+  "translation": "И говорил ЯХВЕ ⟨с⟩ Моше, говоря:",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "И spoke"
+      "gloss": "И говорил"
     },
     {
       "surface": "יהוה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "к"
+      "gloss": "⟨с⟩"
     },
     {
       "surface": "משה",
@@ -25,9 +25,9 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "saying"
+      "gloss": "говоря"
     }
   ],
-  "timestamp": "2026-08-02T21:08:27.977585647Z",
+  "timestamp": "2026-08-03T20:29:37.619853825Z",
   "model": "glm-4.5"
 }

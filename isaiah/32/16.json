@@ -5,34 +5,33 @@
   "book": "isaiah",
   "lang": "ru",
   "chapter": 32,
-  "translation": "И будет ⟨judgement⟩ обитать ⟨в⟩ пустыне, и ⟨righteousness⟩ — на Кармеле ⟨пребывать⟩.",
+  "translation": "и суд ⟨будет⟩ обитать в пустыне, и праведность ⟨на⟩ Кармеле ⟨будет⟩ пребывать",
   "tokens": [
     {
-      "surface": "ושכן",
-      "gloss": "И будет ⟨judgement⟩ обитать"
+      "surface": "וְשָׁכַן",
+      "gloss": "и суд ⟨будет⟩ обитать"
     },
     {
-      "surface": "במדבר",
-      "gloss": "⟨в⟩ пустыне"
+      "surface": "בַּמִּדְבָּר",
+      "gloss": "в пустыне"
     },
     {
-      "surface": "משפט",
-      "gloss": "⟨judgement⟩",
-      "marks": "⟨judgement⟩"
+      "surface": "מִשְׁפָּט",
+      "gloss": "суд"
     },
     {
-      "surface": "וצדקה",
-      "gloss": "и ⟨righteousness⟩"
+      "surface": "וּצְדָקָה",
+      "gloss": "и праведность"
     },
     {
-      "surface": "בכרמל",
-      "gloss": "— на Кармеле"
+      "surface": "בַּכַּרְמֶל",
+      "gloss": "⟨на⟩ Кармеле"
     },
     {
-      "surface": "תשב",
-      "gloss": "⟨пребывать⟩"
+      "surface": "תֵּשֵׁב",
+      "gloss": "⟨будет⟩ пребывать"
     }
   ],
-  "timestamp": "2026-08-03T02:17:00.244506730Z",
+  "timestamp": "2026-08-03T20:52:53.335687377Z",
   "model": "glm-4.5"
 }

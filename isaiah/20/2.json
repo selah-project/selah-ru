@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "ru",
   "chapter": 20,
-  "translation": "В то время spoke ЯХВЕ by hand of Isaiah son of Amoz, saying: Go, and loosen ⟨the⟩ sackcloth from upon thy loins, and thy shoe pull off from upon thy foot. And he did so, going naked and barefoot.",
+  "translation": "В то время говорил ЯХВЕ ⟨через⟩ руку Ишаияу, сына Амоца, говоря: иди и развяжи вретище ⟨с⟩ чресл твоих, и обувь твою снимешь ⟨с⟩ ног твоих. И он сделал так, ходя нагой и босой",
   "tokens": [
     {
       "surface": "בעת",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "ההיא",
-      "gloss": ""
+      "gloss": "⟨та⟩"
     },
     {
       "surface": "דבר",
-      "gloss": "spoke"
+      "gloss": "говорил"
     },
     {
       "surface": "יהוה",
@@ -25,81 +25,81 @@
     },
     {
       "surface": "ביד",
-      "gloss": "by hand"
+      "gloss": "⟨через⟩ руку"
     },
     {
       "surface": "ישעיהו",
-      "gloss": "of Isaiah"
+      "gloss": "Ишаияу"
     },
     {
       "surface": "בן",
-      "gloss": "son"
+      "gloss": "сына"
     },
     {
       "surface": "אמוץ",
-      "gloss": "of Amoz"
+      "gloss": "Амоца"
     },
     {
       "surface": "לאמר",
-      "gloss": "saying"
+      "gloss": "говоря"
     },
     {
       "surface": "לך",
-      "gloss": "Go"
+      "gloss": "иди"
     },
     {
       "surface": "ופתחת",
-      "gloss": "and loosen"
+      "gloss": "и развяжи"
     },
     {
       "surface": "השק",
-      "gloss": "⟨the⟩ sackcloth"
+      "gloss": "вретище"
     },
     {
       "surface": "מעל",
-      "gloss": "from upon"
+      "gloss": "⟨с⟩"
     },
     {
       "surface": "מתניך",
-      "gloss": "thy loins"
+      "gloss": "чресл твоих"
     },
     {
       "surface": "ונעלך",
-      "gloss": "and thy shoe"
+      "gloss": "и обувь твою"
     },
     {
       "surface": "תחלץ",
-      "gloss": "pull off"
+      "gloss": "снимешь"
     },
     {
       "surface": "מעל",
-      "gloss": "from upon"
+      "gloss": "⟨с⟩"
     },
     {
       "surface": "רגליך",
-      "gloss": "thy foot"
+      "gloss": "ног твоих"
     },
     {
       "surface": "ויעש",
-      "gloss": "And he did"
+      "gloss": "И он сделал"
     },
     {
       "surface": "כן",
-      "gloss": "so"
+      "gloss": "так"
     },
     {
       "surface": "הלך",
-      "gloss": "going"
+      "gloss": "ходя"
     },
     {
       "surface": "ערום",
-      "gloss": "naked"
+      "gloss": "нагой"
     },
     {
       "surface": "ויחף",
-      "gloss": "and barefoot"
+      "gloss": "и босой"
     }
   ],
-  "timestamp": "2026-08-03T02:03:26.395586237Z",
+  "timestamp": "2026-08-03T20:33:52.605976235Z",
   "model": "glm-4.5"
 }

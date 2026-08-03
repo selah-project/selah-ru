@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "ru",
   "chapter": 10,
-  "translation": "Благословения ⟨на⟩ голову праведного, а ⟨рот⟩ wicked concealeth violence. And the mouth of the wicked cover doth violence. But iniquitie shall couer the mouth of the wicked. The blessing of God is ouer the heed of a iust man; but wickidnesse hilith the mouth of wickid men. Blessings are vpon the head of the righteous: but iniquitie shall couer the mouth of the wicked. Blessings are upon the head of the just: but violence covereth the mouth of the wicked. Blessings are for the head of the righteous, And the mouth of the wicked cover doth violence. Blessings are upon the head of the righteous; But violence covereth the mouth of the wicked. Blessings are upon the head of the righteous; but the mouth of the wicked concealeth violence. Blessings are on the head of the righteous, but the mouth of the wicked conceals violence. Blessings ⟨на⟩ голову праведного, а ⟨рот⟩ нечестивых покрывает насилие",
+  "translation": "Благословения — на голове праведника, а ⟨рот⟩ нечестивых ⟨скрывает⟩ насилие",
   "tokens": [
     {
       "surface": "ברכות",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "לראש",
-      "gloss": "⟨на⟩ голову"
+      "gloss": "— на голове"
     },
     {
       "surface": "צדיק",
-      "gloss": "праведного"
+      "gloss": "праведника"
     },
     {
       "surface": "ופי",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "יכסה",
-      "gloss": "покрывает"
+      "gloss": "⟨скрывает⟩"
     },
     {
       "surface": "חמס",
       "gloss": "насилие"
     }
   ],
-  "timestamp": "2026-08-03T09:32:29.906328513Z",
+  "timestamp": "2026-08-03T19:51:27.205764019Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "ru",
   "chapter": 13,
-  "translation": "Освяти Мне ⟨את⟩ every firstborn, opening every womb среди сынов Израиля, от человека и от скота: Мой ⟨он⟩.",
+  "translation": "Освяти Мне ⟨всех⟩ первенцев, ⟨тех⟩ кто открывает ⟨любое⟩ чрево среди сынов Израиля, от человека и скота; ⟨этот⟩ Мне ⟨принадлежит⟩.",
   "tokens": [
     {
       "surface": "קדש",
@@ -17,32 +17,31 @@
     },
     {
       "surface": "כל",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨всех⟩"
     },
     {
       "surface": "בכור",
-      "gloss": "every firstborn",
-      "marks": "первенца"
+      "gloss": "первенцев"
     },
     {
       "surface": "פטר",
-      "gloss": "opening"
+      "gloss": "⟨тех⟩ кто открывает"
     },
     {
       "surface": "כל",
-      "gloss": "every"
+      "gloss": "⟨любое⟩"
     },
     {
       "surface": "רחם",
-      "gloss": "womb"
+      "gloss": "чрево"
     },
     {
       "surface": "בבני",
-      "gloss": "among"
+      "gloss": "среди сынов"
     },
     {
       "surface": "ישראל",
-      "gloss": "сынов Израиля"
+      "gloss": "Израиля"
     },
     {
       "surface": "באדם",
@@ -50,17 +49,17 @@
     },
     {
       "surface": "ובבהמה",
-      "gloss": "и от скота"
+      "gloss": "и скота"
     },
     {
       "surface": "לי",
-      "gloss": "Мой"
+      "gloss": "Мне"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨он⟩"
+      "gloss": "⟨этот⟩ ⟨принадлежит⟩"
     }
   ],
-  "timestamp": "2026-08-02T20:07:36.815658149Z",
+  "timestamp": "2026-08-03T20:05:46.729045796Z",
   "model": "glm-4.5"
 }

@@ -5,34 +5,33 @@
   "book": "1-chronicles",
   "lang": "ru",
   "chapter": 24,
-  "translation": "пятнадцатый — Билге, шестнадцатый — Иммер, לאמр говорить:",
+  "translation": "пятнадцатый — Билга, шестнадцатый — Иммер,",
   "tokens": [
     {
       "surface": "לבלגה",
-      "gloss": "Билге"
+      "gloss": "Билга"
     },
     {
       "surface": "חמשה",
-      "gloss": "пятнадцатый"
+      "gloss": "пять"
     },
     {
       "surface": "עשר",
-      "gloss": ""
+      "gloss": "десять"
     },
     {
       "surface": "לאמר",
-      "gloss": "⟨לאמר⟩",
-      "marks": "говорить"
+      "gloss": "—"
     },
     {
       "surface": "ששה",
-      "gloss": "шестнадцатый"
+      "gloss": "шесть"
     },
     {
       "surface": "עשר",
-      "gloss": ""
+      "gloss": "десять"
     }
   ],
-  "timestamp": "2026-08-03T13:11:02.313683653Z",
+  "timestamp": "2026-08-03T20:08:36.562611169Z",
   "model": "glm-4.5"
 }

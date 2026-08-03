@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "ru",
   "chapter": 5,
-  "translation": "И я сказал: только бедные они, foolish, потому что не знают путь ЯХВЕ, judgment их Элохим.",
+  "translation": "И сказал я: «Только бедные они, глупы, ведь не знают путь ЯХВЕ, суд их Элохима».",
   "tokens": [
     {
       "surface": "ואני",
-      "gloss": "И я"
+      "gloss": "И сказал я"
     },
     {
       "surface": "אמרתי",
-      "gloss": "сказал"
+      "gloss": "сказал я"
     },
     {
       "surface": "אך",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "נואלו",
-      "gloss": "foolish"
+      "gloss": "глупы"
     },
     {
       "surface": "כי",
-      "gloss": "потому что"
+      "gloss": "ведь"
     },
     {
       "surface": "לא",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "משפט",
-      "gloss": "judgment"
+      "gloss": "суд"
     },
     {
       "surface": "אלהיהם",
-      "gloss": "их Элохим"
+      "gloss": "их Элохима"
     }
   ],
-  "timestamp": "2026-08-03T03:03:37.424452338Z",
+  "timestamp": "2026-08-03T19:55:09.058790440Z",
   "model": "glm-4.5"
 }

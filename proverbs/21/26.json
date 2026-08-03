@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "ru",
   "chapter": 21,
-  "translation": "Весь день жаждет жаждущий, а праведник даёт и не withholdeth.",
+  "translation": "Весь день ⟨он⟩ желает желаемого, а праведник дает и не жалеет.",
   "tokens": [
     {
       "surface": "כל",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "התאוה",
-      "gloss": "жаждет"
+      "gloss": "⟨он⟩ желает"
     },
     {
       "surface": "תאוה",
-      "gloss": "жаждущий"
+      "gloss": "желаемого"
     },
     {
       "surface": "וצדיק",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "יתן",
-      "gloss": "даёт"
+      "gloss": "дает"
     },
     {
       "surface": "ולא",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "יחשך",
-      "gloss": "withholdeth"
+      "gloss": "жалеет"
     }
   ],
-  "timestamp": "2026-08-03T09:48:34.837121801Z",
+  "timestamp": "2026-08-03T19:51:38.939708822Z",
   "model": "glm-4.5"
 }

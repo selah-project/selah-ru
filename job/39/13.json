@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "ru",
   "chapter": 39,
-  "translation": "Крыло ⟨ ostrich› трепещет ⟨ joyfully⟩; ⟨ are ли⟩ перо и оперение ⟨ stork⟩?",
+  "translation": "Крыло страусов ликует — ⟨это ли⟩ крыло и перо аиста?",
   "tokens": [
     {
       "surface": "כנף",
@@ -13,29 +13,29 @@
     },
     {
       "surface": "רננים",
-      "gloss": "⟨ ostrich⟩"
+      "gloss": "страусов"
     },
     {
       "surface": "נעלסה",
-      "gloss": "трепещет"
+      "gloss": "ликует"
     },
     {
       "surface": "אם",
-      "gloss": "⟨ are ли⟩"
+      "gloss": "⟨это ли⟩"
     },
     {
       "surface": "אברה",
-      "gloss": "перо"
+      "gloss": "крыло"
     },
     {
       "surface": "חסידה",
-      "gloss": "⟨ stork⟩"
+      "gloss": "аиста"
     },
     {
       "surface": "ונצה",
-      "gloss": "и оперение"
+      "gloss": "и перо"
     }
   ],
-  "timestamp": "2026-08-03T10:50:46.533137770Z",
+  "timestamp": "2026-08-03T20:48:15.152852214Z",
   "model": "glm-4.5"
 }

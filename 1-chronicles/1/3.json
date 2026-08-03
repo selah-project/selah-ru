@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "ru",
   "chapter": 1,
-  "translation": "Ханох, Мешусelah, Лемех",
+  "translation": "Ханох, Мефусалех, Лемех",
   "tokens": [
     {
       "surface": "חנוך",
@@ -13,13 +13,13 @@
     },
     {
       "surface": "מתושלח",
-      "gloss": "Мешусelah"
+      "gloss": "Мефусалех"
     },
     {
       "surface": "למך",
       "gloss": "Лемех"
     }
   ],
-  "timestamp": "2026-08-03T12:35:41.657998838Z",
+  "timestamp": "2026-08-03T20:08:18.396068469Z",
   "model": "glm-4.5"
 }

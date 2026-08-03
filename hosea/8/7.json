@@ -5,7 +5,7 @@
   "book": "hosea",
   "lang": "ru",
   "chapter": 8,
-  "translation": "Ибо ⟨они⟩ посеяли ветер, и whirlwind ⟨они⟩ пожнут; ⟨у⟩ stalk нет sprout; ⟨чтобы⟩ делать flour — может быть, ⟨он⟩ будет делать flour, ⟨и⟩ foreigners ⟨его⟩ проглотят.",
+  "translation": "Ибо ветер сеют, и вихрь пожнут; стебель ⟨не⟩ имеет у него ростка, ⟨не⟩ сделает ⟨он⟩ муки, если ⟨то⟩ сделает — чужие проглотят ⟨его⟩",
   "tokens": [
     {
       "surface": "כי",
@@ -17,61 +17,61 @@
     },
     {
       "surface": "יזרעו",
-      "gloss": "⟨они⟩ посеяли"
+      "gloss": "сеют"
     },
     {
       "surface": "וסופתה",
-      "gloss": "и whirlwind ⟨они⟩ пожнут"
+      "gloss": "и вихрь"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "пожнут"
     },
     {
       "surface": "קמה",
-      "gloss": "⟨у⟩ stalk"
+      "gloss": "стебель"
     },
     {
       "surface": "אין",
-      "gloss": "нет"
+      "gloss": "⟨не⟩"
     },
     {
       "surface": "לו",
-      "gloss": "⟨у него⟩"
+      "gloss": "у него"
     },
     {
       "surface": "צמח",
-      "gloss": "sprout"
+      "gloss": "росток"
     },
     {
       "surface": "בלי",
-      "gloss": "⟨чтобы⟩"
+      "gloss": "⟨не⟩"
     },
     {
       "surface": "יעשה",
-      "gloss": "делать"
+      "gloss": "сделает"
     },
     {
       "surface": "קמח",
-      "gloss": "flour"
+      "gloss": "муку"
     },
     {
       "surface": "אולי",
-      "gloss": "может быть"
+      "gloss": "если"
     },
     {
       "surface": "יעשה",
-      "gloss": "⟨он⟩ будет делать"
-    },
-    {
-      "surface": "קמח",
-      "gloss": "flour"
+      "gloss": "⟨то⟩ сделает"
     },
     {
       "surface": "זרים",
-      "gloss": "foreigners"
+      "gloss": "чужие"
     },
     {
       "surface": "יבלעהו",
-      "gloss": "⟨и⟩ ⟨они⟩ проглотят ⟨его⟩"
+      "gloss": "проглотят ⟨его⟩"
     }
   ],
-  "timestamp": "2026-08-03T05:26:01.045033426Z",
+  "timestamp": "2026-08-03T19:50:08.335173794Z",
   "model": "glm-4.5"
 }

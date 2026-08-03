@@ -5,81 +5,81 @@
   "book": "exodus",
   "lang": "ru",
   "chapter": 7,
-  "translation": "И рыба, которая в Ниле, умерла, и Нил зловонил, и не могли Mitsrayim пить воду из Нила, и кровь была во всей земле Mitsrayim",
+  "translation": "И рыба ⟨которая⟩ в Ниле умерла, и Нил протух, и не могли ⟨их⟩ египтяне пить воду из Нила, и была кровь во всей земле Египта.",
   "tokens": [
     {
-      "surface": "וְהַדָּגָה",
-      "gloss": "И рыба"
+      "surface": "והדגה",
+      "gloss": "и рыба"
     },
     {
-      "surface": "אֲשֶׁר",
-      "gloss": "которая"
+      "surface": "אשר",
+      "gloss": "⟨которая⟩"
     },
     {
-      "surface": "בַּיְאֹר",
+      "surface": "ביאר",
       "gloss": "в Ниле"
     },
     {
-      "surface": "מֵתָה",
+      "surface": "מתה",
       "gloss": "умерла"
     },
     {
-      "surface": "וַיִּבְאַשׁ",
-      "gloss": "и Нил зловонил"
+      "surface": "ויבאש",
+      "gloss": "и протух"
     },
     {
-      "surface": "הַיְאֹר",
+      "surface": "היאר",
       "gloss": "Нил"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "и не"
     },
     {
-      "surface": "יָכְלוּ",
+      "surface": "יכלו",
       "gloss": "могли"
     },
     {
-      "surface": "מִצְרַיִם",
-      "gloss": "Mitsrayim"
+      "surface": "מצרים",
+      "gloss": "египтяне"
     },
     {
-      "surface": "לִשְׁתּוֹת",
+      "surface": "לשתות",
       "gloss": "пить"
     },
     {
-      "surface": "מַיִם",
+      "surface": "מים",
       "gloss": "воду"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "из"
     },
     {
-      "surface": "הַיְאֹר",
+      "surface": "היאר",
       "gloss": "Нила"
     },
     {
-      "surface": "וַיְהִי",
+      "surface": "ויהי",
       "gloss": "и была"
     },
     {
-      "surface": "הַדָּם",
+      "surface": "הדם",
       "gloss": "кровь"
     },
     {
-      "surface": "בְּכָל",
+      "surface": "בכל",
       "gloss": "во всей"
     },
     {
-      "surface": "אֶרֶץ",
+      "surface": "ארץ",
       "gloss": "земле"
     },
     {
-      "surface": "מִצְרָֽיִם",
-      "gloss": "Mitsrayim"
+      "surface": "מצרים",
+      "gloss": "Египта"
     }
   ],
-  "timestamp": "2026-08-02T20:01:29.081883687Z",
+  "timestamp": "2026-08-03T20:03:57.546330972Z",
   "model": "glm-4.5"
 }

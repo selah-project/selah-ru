@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "ru",
   "chapter": 14,
-  "translation": "И сказал царь: кто ⟨не⟩ скажет тебе, bring him to me, and he shall not touch thee any more",
+  "translation": "И сказал царь: ⟨тот⟩, ⟨кто⟩ говорит ⟨с тобою⟩, приведи его ко мне, и он не ⟨будет⟩ касаться тебя больше.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "и сказал"
+      "gloss": "И сказал"
     },
     {
       "surface": "המלך",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "המדבר",
-      "gloss": "кто ⟨не⟩ скажет"
+      "gloss": "⟨тот⟩, ⟨кто⟩ говорит"
     },
     {
       "surface": "אליך",
-      "gloss": "тебе"
+      "gloss": "⟨с тобою⟩"
     },
     {
       "surface": "והבאתו",
@@ -37,21 +37,21 @@
     },
     {
       "surface": "יסיף",
-      "gloss": "добавит"
+      "gloss": "он ⟨будет⟩"
     },
     {
       "surface": "עוד",
-      "gloss": "более"
+      "gloss": "больше"
     },
     {
       "surface": "לגעת",
-      "gloss": "тронуть"
+      "gloss": "касаться"
     },
     {
       "surface": "בך",
       "gloss": "тебя"
     }
   ],
-  "timestamp": "2026-08-03T00:01:15.061956576Z",
+  "timestamp": "2026-08-03T19:47:35.424656147Z",
   "model": "glm-4.5"
 }

@@ -5,49 +5,49 @@
   "book": "job",
   "lang": "ru",
   "chapter": 4,
-  "translation": "Он стоял, и ⟨я⟩ не распознал ⟨его⟩ облика; ⟨как⟩ образ ⟨перед⟩ глазами моими, — безмолвие, и голос услышу:",
+  "translation": "Оно стояло, но ⟨я⟩ не узнал ⟨его⟩ облика: подобие ⟨было⟩ пред глазами ⟨моими⟩; молчание, и голос слышу.",
   "tokens": [
     {
       "surface": "יעמד",
-      "gloss": "stood"
+      "gloss": "стояло"
     },
     {
       "surface": "ולא",
-      "gloss": "and not"
+      "gloss": "но не"
     },
     {
       "surface": "אכיר",
-      "gloss": "I recognized"
+      "gloss": "узнал"
     },
     {
       "surface": "מראהו",
-      "gloss": "its appearance"
+      "gloss": "⟨его⟩ облика"
     },
     {
       "surface": "תמונה",
-      "gloss": "a form"
+      "gloss": "подобие"
     },
     {
       "surface": "לנגד",
-      "gloss": "before"
+      "gloss": "пред"
     },
     {
       "surface": "עיני",
-      "gloss": "my eyes"
+      "gloss": "глазами ⟨моими⟩"
     },
     {
       "surface": "דממה",
-      "gloss": "silence"
+      "gloss": "молчание"
     },
     {
       "surface": "וקול",
-      "gloss": "and a voice"
+      "gloss": "и голос"
     },
     {
       "surface": "אשמע",
-      "gloss": "I heard"
+      "gloss": "слышу"
     }
   ],
-  "timestamp": "2026-08-03T10:12:45.083265172Z",
+  "timestamp": "2026-08-03T20:09:58.808163450Z",
   "model": "glm-4.5"
 }

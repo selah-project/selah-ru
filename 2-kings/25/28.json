@@ -5,58 +5,58 @@
   "book": "2-kings",
   "lang": "ru",
   "chapter": 25,
-  "translation": "и spoke to him good things, and put ⟨את⟩ throne his from upon throne ⟨the⟩ kings who with him in Вавилоне",
+  "translation": "и говорил с ним ⟨доброе⟩ и поставил ⟨את⟩ трон его выше трона царей, которые ⟨с ним⟩ в Вавилоне",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "и spoke"
+      "gloss": "и говорил"
     },
     {
       "surface": "אתו",
-      "gloss": "to him"
+      "gloss": "с ним"
     },
     {
       "surface": "טבות",
-      "gloss": "good things"
+      "gloss": "⟨доброе⟩"
     },
     {
       "surface": "ויתן",
-      "gloss": "и put"
+      "gloss": "и поставил"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "throne his"
+      "marks": "трон его"
     },
     {
       "surface": "כסאו",
-      "gloss": "throne his"
+      "gloss": "трон его"
     },
     {
       "surface": "מעל",
-      "gloss": "from upon"
+      "gloss": "выше"
     },
     {
       "surface": "כסא",
-      "gloss": "throne"
+      "gloss": "трона"
     },
     {
       "surface": "המלכים",
-      "gloss": "⟨the⟩ kings"
+      "gloss": "царей"
     },
     {
       "surface": "אשר",
-      "gloss": "who"
+      "gloss": "которые"
     },
     {
       "surface": "אתו",
-      "gloss": "with him"
+      "gloss": "⟨с ним⟩"
     },
     {
       "surface": "בבבל",
-      "gloss": "in Вавилоне"
+      "gloss": "в Вавилоне"
     }
   ],
-  "timestamp": "2026-08-03T18:34:01.931917392Z",
+  "timestamp": "2026-08-03T20:51:52.932338163Z",
   "model": "glm-4.5"
 }

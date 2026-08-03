@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "ru",
   "chapter": 24,
-  "translation": "И он сказал: ⟨я⟩ слуга Авраама, אנכי.",
+  "translation": "И сказал: раб Авраама — ⟨это⟩ я.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "И он сказал"
+      "gloss": "И сказал"
     },
     {
       "surface": "עבד",
-      "gloss": "слуга"
+      "gloss": "раб"
     },
     {
       "surface": "אברהם",
@@ -21,9 +21,9 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "אנכי"
+      "gloss": "я"
     }
   ],
-  "timestamp": "2026-08-02T19:22:07.769399928Z",
+  "timestamp": "2026-08-03T19:49:56.016768090Z",
   "model": "glm-4.5"
 }

@@ -5,71 +5,71 @@
   "book": "numbers",
   "lang": "ru",
   "chapter": 22,
-  "translation": "И увидела ослица ⟨את⟩ ангела ЯХВЕ и прилегла под Bil'am; и воспылал гнев Bil'am'a, и он ударил ⟨את⟩ ослицу палкой",
+  "translation": "И увидела ослица ⟨את⟩ вестника ЯХВЕ и легла под Биламом, и воспылал гнев Билама, и он ударил ⟨את⟩ ослицу палкой",
   "tokens": [
     {
-      "surface": "וַתֵּ֤רֶא",
+      "surface": "ותרא",
       "gloss": "и увидела"
     },
     {
-      "surface": "הָֽאָתוֹן֙",
+      "surface": "האתון",
       "gloss": "ослица"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ангела ЯХВЕ"
+      "marks": "вестника"
     },
     {
-      "surface": "מַלְאַ֣ךְ",
-      "gloss": "ангела"
+      "surface": "מלאך",
+      "gloss": "вестника"
     },
     {
-      "surface": "יְהוָ֔ה",
+      "surface": "יהוה",
       "gloss": "ЯХВЕ"
     },
     {
-      "surface": "וַתִּרְבַּ֖ץ",
-      "gloss": "и прилегла"
+      "surface": "ותרבץ",
+      "gloss": "и легла"
     },
     {
-      "surface": "תַּ֣חַת",
+      "surface": "תחת",
       "gloss": "под"
     },
     {
-      "surface": "בִּלְעָ֑ם",
-      "gloss": "Bil'am"
+      "surface": "בלעם",
+      "gloss": "Биламом"
     },
     {
-      "surface": "וַיִּֽחַר",
+      "surface": "ויחר",
       "gloss": "и воспылал"
     },
     {
-      "surface": "אַף",
+      "surface": "אף",
       "gloss": "гнев"
     },
     {
-      "surface": "בִּלְעָ֔ם",
-      "gloss": "Bil'am'a"
+      "surface": "בלעם",
+      "gloss": "Билама"
     },
     {
-      "surface": "וַיַּ֥ךְ",
+      "surface": "ויך",
       "gloss": "и он ударил"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ослицу"
     },
     {
-      "surface": "הָאָת֖וֹן",
+      "surface": "האתון",
       "gloss": "ослицу"
     },
     {
-      "surface": "בַּמַּקֵּֽל",
+      "surface": "במקל",
       "gloss": "палкой"
     }
   ],
-  "timestamp": "2026-08-02T21:35:19.960130759Z",
+  "timestamp": "2026-08-03T20:54:02.628429558Z",
   "model": "glm-4.5"
 }

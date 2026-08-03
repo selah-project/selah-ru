@@ -5,22 +5,22 @@
   "book": "exodus",
   "lang": "ru",
   "chapter": 28,
-  "translation": "и ⟨ты⟩ сделаешь ⟨из⟩ узорнойsettings ⟨את⟩ золото",
+  "translation": "и сделаешь ⟨את⟩ узоры из золота",
   "tokens": [
     {
       "surface": "ועשית",
-      "gloss": "и ⟨ты⟩ сделаешь"
+      "gloss": "и сделаешь"
     },
     {
       "surface": "משבצת",
-      "gloss": "⟨из⟩ узорнойsettings"
+      "gloss": "⟨את⟩ узоры",
+      "marks": "из золота"
     },
     {
       "surface": "זהב",
-      "gloss": "⟨את⟩ золото",
-      "marks": "золото"
+      "gloss": "из золота"
     }
   ],
-  "timestamp": "2026-08-02T20:22:25.300513260Z",
+  "timestamp": "2026-08-03T20:46:37.379059647Z",
   "model": "glm-4.5"
 }

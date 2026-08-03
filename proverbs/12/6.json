@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "ru",
   "chapter": 12,
-  "translation": "Слова wicked lie в wait для blood, но mouth upright спасет их",
+  "translation": "Слова нечестивых — засада ⟨для⟩ крови, а уста прямых спасут их.",
   "tokens": [
     {
       "surface": "דברי",
@@ -13,29 +13,29 @@
     },
     {
       "surface": "רשעים",
-      "gloss": "wicked"
+      "gloss": "нечестивых"
     },
     {
       "surface": "ארב",
-      "gloss": "lie в wait"
+      "gloss": "засада"
     },
     {
       "surface": "דם",
-      "gloss": "для blood"
+      "gloss": "крови"
     },
     {
       "surface": "ופי",
-      "gloss": "но mouth"
+      "gloss": "а уста"
     },
     {
       "surface": "ישרים",
-      "gloss": "upright"
+      "gloss": "прямых"
     },
     {
       "surface": "יצילם",
-      "gloss": "спасет их"
+      "gloss": "спасут их"
     }
   ],
-  "timestamp": "2026-08-03T09:34:47.715670946Z",
+  "timestamp": "2026-08-03T20:44:27.887703643Z",
   "model": "glm-4.5"
 }

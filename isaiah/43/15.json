@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "ru",
   "chapter": 43,
-  "translation": "Я — ЯХВЕ, Святой ваш, Творец ⟨ your King",
+  "translation": "Я — ЯХВЕ, Святой ваш, Творец Израиля, Царь ваш.",
   "tokens": [
     {
       "surface": "אני",
@@ -21,8 +21,7 @@
     },
     {
       "surface": "בורא",
-      "gloss": "Творец ⟨ your King",
-      "marks": "מלככם"
+      "gloss": "Творец"
     },
     {
       "surface": "ישראל",
@@ -33,6 +32,6 @@
       "gloss": "Царь ваш"
     }
   ],
-  "timestamp": "2026-08-03T02:30:48.278780202Z",
+  "timestamp": "2026-08-03T20:35:16.947832414Z",
   "model": "glm-4.5"
 }

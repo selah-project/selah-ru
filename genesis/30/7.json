@@ -5,45 +5,45 @@
   "book": "genesis",
   "lang": "ru",
   "chapter": 30,
-  "translation": "И зачала Bilhah, рабыня Rahel, ⟨ещё⟩, и родила ⟨Яакову⟩ сына второго",
+  "translation": "И зачала ⟨ещё⟩, и родила Била служанка Рахили сына второго Яакову",
   "tokens": [
     {
-      "surface": "וַתַּהַר",
-      "gloss": "и зачала"
+      "surface": "וַתַּ֣הַר",
+      "gloss": "И зачала"
     },
     {
-      "surface": "עוֹד",
-      "gloss": "ещё"
+      "surface": "ע֔וֹד",
+      "gloss": "⟨ещё⟩"
     },
     {
-      "surface": "וַתֵּלֶד",
+      "surface": "וַתֵּ֕לֶד",
       "gloss": "и родила"
     },
     {
-      "surface": "בִּלְהָה",
-      "gloss": "Bilhah"
+      "surface": "בִּלְהָ֖ה",
+      "gloss": "Била"
     },
     {
-      "surface": "שִׁפְחַת",
-      "gloss": "рабыня"
+      "surface": "שִׁפְחַ֣ת",
+      "gloss": "служанка"
     },
     {
-      "surface": "רָחֵל",
-      "gloss": "Rahel"
+      "surface": "רָחֵ֑ל",
+      "gloss": "Рахили"
     },
     {
-      "surface": "בֵּן",
+      "surface": "בֵּ֥ן",
       "gloss": "сына"
     },
     {
-      "surface": "שֵׁנִי",
+      "surface": "שֵׁנִ֖י",
       "gloss": "второго"
     },
     {
-      "surface": "לְיַעֲקֹב",
+      "surface": "לְיַעֲקֹֽב",
       "gloss": "Яакову"
     }
   ],
-  "timestamp": "2026-08-02T19:31:01.192246106Z",
+  "timestamp": "2026-08-03T19:47:48.248185675Z",
   "model": "glm-4.5"
 }
