@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "1-chronicles 16:18",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "говоря: тебе дам ⟨את⟩ землю Кенаан, ⟨как⟩ долю наследия вашего",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "дам"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю",
+      "marks": "⟨את⟩ землю Кенаан"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "⟨как⟩ долю"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "наследия вашего"
+    }
+  ],
+  "timestamp": "2026-08-03T12:59:49.470788926Z",
+  "model": "glm-4.5"
+}

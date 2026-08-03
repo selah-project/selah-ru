@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "и скажешь в сердце своём: «Моя сила и мощь руки моей сделали мне ⟨את⟩ это богатство»",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "и скажешь"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "в сердце своём"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "моя сила"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "и мощь"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "руки моей"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделали"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "это богатство"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "это богатство"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "это"
+    }
+  ],
+  "timestamp": "2026-08-02T21:59:32.246899958Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "позволь мне перейти, и я увижу ⟨את⟩ землю добрую, которая за Иорданом, эту гору добрую и Ливан",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "позволь мне перейти"
+    },
+    {
+      "surface": "נא",
+      "gloss": "пожалуйста"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "и я увижу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "добрую"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которая"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "за"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Иорданом"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "эту гору"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "добрую"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "эту"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "и Ливан"
+    }
+  ],
+  "timestamp": "2026-08-02T21:53:49.121445693Z",
+  "model": "glm-4.5"
+}

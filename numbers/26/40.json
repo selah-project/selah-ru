@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "numbers 26:40",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "И сыны Бэлы: Ард и Нааман; от Арда — семья Арди, от Наамана — семья Наами.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Бэлы"
+    },
+    {
+      "surface": "ארד",
+      "gloss": "Ард"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "и Нааман"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "семья"
+    },
+    {
+      "surface": "הארדי",
+      "gloss": "Арди"
+    },
+    {
+      "surface": "לנעמן",
+      "gloss": "от Наамана"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "семья"
+    },
+    {
+      "surface": "הנעמי",
+      "gloss": "Наами"
+    }
+  ],
+  "timestamp": "2026-08-02T21:39:48.895473269Z",
+  "model": "glm-4.5"
+}

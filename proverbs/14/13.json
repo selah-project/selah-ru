@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "proverbs 14:13",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Даже в смехе сердце ⟨может⟩ болеть, и конец радости — тяжесть.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Даже"
+    },
+    {
+      "surface": "בשחוק",
+      "gloss": "в смехе"
+    },
+    {
+      "surface": "יכאב",
+      "gloss": "болеть"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сердце"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "и конец"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "радости"
+    },
+    {
+      "surface": "תוגה",
+      "gloss": "тяжесть"
+    }
+  ],
+  "timestamp": "2026-08-03T09:38:44.409428332Z",
+  "model": "glm-4.5"
+}

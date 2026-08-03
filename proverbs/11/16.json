@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Женщина милости ⟨держит⟩ честь, ⟨а⟩ жестокие ⟨люди⟩ ⟨держат⟩ богатство",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "женщина"
+    },
+    {
+      "surface": "חן",
+      "gloss": "милости"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "держит"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "честь"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "жестокие"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "держат"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "богатство"
+    }
+  ],
+  "timestamp": "2026-08-03T09:33:43.317430360Z",
+  "model": "glm-4.5"
+}

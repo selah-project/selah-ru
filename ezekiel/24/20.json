@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "ezekiel 24:20",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "И я сказал им: слово ЯХВЕ было ⟨ко⟩ мне, говоря:",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "И я сказал"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "было"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨ко⟩ мне",
+      "marks": "мне"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-03T04:46:53.267201418Z",
+  "model": "glm-4.5"
+}

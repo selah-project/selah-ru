@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "deuteronomy 33:22",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "И о Дане он сказал: Дан — молоденький лев, он прыгнет из Васана.",
+  "tokens": [
+    {
+      "surface": "ולדן",
+      "gloss": "И о Дане"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "он сказал"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "גור",
+      "gloss": "молоденький лев"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "лев"
+    },
+    {
+      "surface": "יזנק",
+      "gloss": "он прыгнет"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Васана"
+    }
+  ],
+  "timestamp": "2026-08-02T22:24:13.386354424Z",
+  "model": "glm-4.5"
+}

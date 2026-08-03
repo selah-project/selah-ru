@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Начальнику [над] ⟨Айелет-ха-Шахар⟩. Псалом Давида.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Начальнику"
+    },
+    {
+      "surface": "על",
+      "gloss": "[над]"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Айелет"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "ха-Шахар"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Псалом"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давида"
+    }
+  ],
+  "timestamp": "2026-08-03T06:54:59.679253077Z",
+  "model": "glm-4.5"
+}

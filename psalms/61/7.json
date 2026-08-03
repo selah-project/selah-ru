@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 61,
+  "translation": "Дни ко дням царя придашь, годы его — как поколение и поколение",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "Дни"
+    },
+    {
+      "surface": "על",
+      "gloss": "ко"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дням"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "придашь"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "годы его"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "как"
+    },
+    {
+      "surface": "דר",
+      "gloss": "поколение"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "и поколение"
+    }
+  ],
+  "timestamp": "2026-08-03T07:39:06.307466237Z",
+  "model": "glm-4.5"
+}

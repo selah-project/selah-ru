@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Сыны мужей, ⟨до⟩ сколь ⟨раз⟩ моя слава в позор? ⟨вы⟩ любите ⟨пустое⟩, ищете ⟨ложь⟩. Села.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыны"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мужей"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מה",
+      "gloss": "сколь"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "моя слава"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "в позор"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "любите"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "пустое"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "ищете"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ложь"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-08-03T06:33:09.949319665Z",
+  "model": "glm-4.5"
+}

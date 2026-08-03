@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "Это сыновья Эсава, а это их алуфим: он — Эдом.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Это"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсава"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "а это"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "их алуфим"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    }
+  ],
+  "timestamp": "2026-08-02T19:38:21.527320254Z",
+  "model": "glm-4.5"
+}

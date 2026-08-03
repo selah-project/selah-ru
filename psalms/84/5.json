@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 84,
+  "translation": "Блаженны живущие в доме Твоём, ещё ⟨они⟩ восхваляют Тебя, сэла.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "блаженны"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "живущие"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "в доме Твоём"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ещё"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "восхваляют Тебя"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "сэла"
+    }
+  ],
+  "timestamp": "2026-08-03T08:10:26.812224507Z",
+  "model": "glm-4.5"
+}

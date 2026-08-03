@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И поселился Давид в крепости, поэтому назвали её городом Давида.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "и поселился"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "в крепости"
+    },
+    {
+      "surface": "על",
+      "gloss": "поэтому"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "קראו",
+      "gloss": "назвали"
+    },
+    {
+      "surface": "לו",
+      "gloss": "её"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "городом"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида"
+    }
+  ],
+  "timestamp": "2026-08-03T12:53:23.271464206Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "judges 9:22",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И Авимелех ⟨царствовал⟩ над Израилем три года",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "И ⟨царствовал⟩"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авимелех"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израилем"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "года"
+    }
+  ],
+  "timestamp": "2026-08-02T22:59:17.388327149Z",
+  "model": "glm-4.5"
+}

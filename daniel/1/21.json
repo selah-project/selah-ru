@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И был Даниил ⟨до⟩ первого года Кира царя",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И был"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Даниил"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨до⟩"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "года"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "первого"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "Кира"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    }
+  ],
+  "timestamp": "2026-08-03T11:37:51.102888646Z",
+  "model": "glm-4.5"
+}

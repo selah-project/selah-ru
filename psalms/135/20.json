@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 135:20",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 135,
+  "translation": "дом Леви, благословите ⟨את⟩ ЯХВЕ, боящиеся ЯХВЕ, благословите ⟨את⟩ ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Леви"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "благословите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "боящиеся"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "благословите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T09:06:06.956797587Z",
+  "model": "glm-4.5"
+}

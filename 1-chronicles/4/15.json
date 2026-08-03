@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И сыновья Калэва, сына Ифуннэ: ⟨были⟩ Иру, Эла и Наам; и сыновья Элы — Кэнадз.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И сыновья"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калэва"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Ифуннэ"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "Иру"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Эла"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "и Наам"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и сыновья"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Элы"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "— Кэнадз"
+    }
+  ],
+  "timestamp": "2026-08-03T12:40:43.573615169Z",
+  "model": "glm-4.5"
+}

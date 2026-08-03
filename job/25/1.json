@@ -1,0 +1,30 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "job 25:1",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "И отвечал Билдад ⟨הַשּׁוּחִי⟩ и сказал",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И отвечал"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "Билдад"
+    },
+    {
+      "surface": "השחי",
+      "gloss": "⟨הַשּׁוּחִי⟩",
+      "marks": "Шухит"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    }
+  ],
+  "timestamp": "2026-08-03T10:31:54.184980505Z",
+  "model": "glm-4.5"
+}

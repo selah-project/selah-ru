@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "и поставил Элохим ⟨את⟩ их в твердь небес, чтобы светить на землю",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "и поставил"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "их"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "в твердь"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "чтобы светить"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    }
+  ],
+  "timestamp": "2026-08-02T17:44:36.871578136Z",
+  "model": "glm-4.5"
+}

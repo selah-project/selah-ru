@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "numbers 7:24",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "В третий день Элиав, сын Хелона, князь сынов Звулуна,",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "В ⟨день⟩"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "третий"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "князь"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Звулуна"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Элиав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Хелон"
+    }
+  ],
+  "timestamp": "2026-08-02T21:18:14.941372343Z",
+  "model": "glm-4.5"
+}

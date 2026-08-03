@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 147,
+  "translation": "Дающий скоту пищу его, и птенцам ворона, когда ⟨они⟩ кричат.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "Дающий"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "скоту"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "пищу его"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "птенцам"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ворона"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "когда"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "кричат"
+    }
+  ],
+  "timestamp": "2026-08-03T09:17:27.307140814Z",
+  "model": "glm-4.5"
+}

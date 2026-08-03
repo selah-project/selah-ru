@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "ezekiel 21:21",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Единое, десницей, ставь, левицей, куда, лицо ⟨твоё⟩, на встреч⟨у⟩?",
+  "tokens": [
+    {
+      "surface": "התאחדי",
+      "gloss": "Единое"
+    },
+    {
+      "surface": "הימני",
+      "gloss": "десницей"
+    },
+    {
+      "surface": "השימי",
+      "gloss": "ставь"
+    },
+    {
+      "surface": "השמילי",
+      "gloss": "левицей"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "куда"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лицо"
+    },
+    {
+      "surface": "מעדות",
+      "gloss": "на встреч⟨у⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T04:42:25.218586339Z",
+  "model": "glm-4.5"
+}

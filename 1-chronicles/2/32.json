@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "1-chronicles 2:32",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И сыновья Йады, брата Шаммая: Ефер и Ионафан; и умер Ефер — без сыновей.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И сыновья"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "Йады"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брата"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Шаммая"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Ефер"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "и Ионафан"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умер"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Ефер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "без"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сыновей"
+    }
+  ],
+  "timestamp": "2026-08-03T12:37:37.988891015Z",
+  "model": "glm-4.5"
+}

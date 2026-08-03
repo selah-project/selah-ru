@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Крутящий глазом подаст огорчение, ⟨а⟩ глупец губами падёт.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "крутящий"
+    },
+    {
+      "surface": "עין",
+      "gloss": "глазом"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "подаст"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "огорчение"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "⟨а⟩ глупец"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "губами"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "падёт"
+    }
+  ],
+  "timestamp": "2026-08-03T09:33:03.720706541Z",
+  "model": "glm-4.5"
+}

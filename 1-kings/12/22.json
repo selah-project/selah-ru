@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "1-kings 12:22",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И было слово Элохима к Шемайе, мужу Элохима, говоря:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Эlohима"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемайе"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мужу"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Эlohима"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря:"
+    }
+  ],
+  "timestamp": "2026-08-03T00:42:26.985850124Z",
+  "model": "glm-4.5"
+}

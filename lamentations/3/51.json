@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 51,
+  "ref": "lamentations 3:51",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Глаз мой ⟨полон⟩ страдания для души моей из-за всех дочерей города моего",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Глаз мой"
+    },
+    {
+      "surface": "עוללה",
+      "gloss": "⟨полон⟩ страдания"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "для души моей"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "из-за всех"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "дочерей"
+    },
+    {
+      "surface": "עירי",
+      "gloss": "города моего"
+    }
+  ],
+  "timestamp": "2026-08-03T11:10:12.091229619Z",
+  "model": "glm-4.5"
+}

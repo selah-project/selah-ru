@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Открой, Ливан, твои ⟨двери⟩, и огонь ⟨будет⟩ поедать ⟨твои⟩ кедры",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Открой"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Ливан"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "твои ⟨двери⟩"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "и огонь ⟨будет⟩ поедать"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огонь"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "⟨твои⟩ кедры"
+    }
+  ],
+  "timestamp": "2026-08-03T06:18:08.739623514Z",
+  "model": "glm-4.5"
+}

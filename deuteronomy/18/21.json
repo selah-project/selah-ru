@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И если ⟨ты⟩ скажешь в сердце твоём: как узнаем мы ⟨את⟩ слово, которое не говорил ЯХВЕ?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "и если"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "⟨ты⟩ скажешь"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "в сердце твоём"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "как"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "узнаем мы"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слово"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T22:09:11.697230263Z",
+  "model": "glm-4.5"
+}

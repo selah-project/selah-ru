@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Навсегда, о ЯХВЕ, слово Твоё стоит на небесах.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "Навсегда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "о ЯХВЕ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "слово Твоё"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "стоит"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "на небесах"
+    }
+  ],
+  "timestamp": "2026-08-03T08:52:46.822247344Z",
+  "model": "glm-4.5"
+}

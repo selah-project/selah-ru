@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "numbers 3:33",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Для Мерари семейство ⟨⟩ Махли и семейство ⟨⟩ Муши; это семейства Мерари",
+  "tokens": [
+    {
+      "surface": "למררי",
+      "gloss": "Для Мерари"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "семейство"
+    },
+    {
+      "surface": "המחלי",
+      "gloss": "⟨⟩",
+      "marks": "Махли"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "и семейство"
+    },
+    {
+      "surface": "המושי",
+      "gloss": "⟨⟩",
+      "marks": "Муши"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "это"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨они⟩"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "семейства"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мерари"
+    }
+  ],
+  "timestamp": "2026-08-02T21:12:57.452972368Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,141 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "isaiah 31:4",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "Ибо так сказал ЯХВЕ мне: как рычит лев и young lion над добычей своей, против которого зовут ⟨ multitude⟩ пастухов — от голоса их не убоится и от шума их не смирится — так сойдёт ЯХВЕ Цеваот сражаться на гору Цион и на холм её.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "рычит"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "лев"
+    },
+    {
+      "surface": "והכפיר",
+      "gloss": "и young lion"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "טרפו",
+      "gloss": "добычей"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "зовут"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "против"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "⟨ multitude⟩"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "пастухов"
+    },
+    {
+      "surface": "מקולם",
+      "gloss": "от голоса"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "убоится"
+    },
+    {
+      "surface": "ומהמונם",
+      "gloss": "и от шума"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "смирится"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "сойдёт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "сражаться"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "גבעתה",
+      "gloss": "холм её"
+    }
+  ],
+  "timestamp": "2026-08-03T02:16:18.314303915Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "genesis 21:21",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И ⟨он⟩ жил в пустыне Паран, и ⟨эта⟩ мать взяла ему жену из земли Мицраим",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "и ⟨он⟩ жил"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "в пустыне"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Паран"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "и взяла"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "⟨эта⟩ мать"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жену"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "из земли"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    }
+  ],
+  "timestamp": "2026-08-02T19:18:18.957675948Z",
+  "model": "glm-4.5"
+}

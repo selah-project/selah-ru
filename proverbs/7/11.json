@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Она шумна и непокорна; ⟨её⟩ ноги не покоятся в доме ⟨её⟩:",
+  "tokens": [
+    {
+      "surface": "המיה",
+      "gloss": "шумна"
+    },
+    {
+      "surface": "היא",
+      "gloss": "она"
+    },
+    {
+      "surface": "וסררת",
+      "gloss": "и непокорна"
+    },
+    {
+      "surface": "בביתה",
+      "gloss": "в доме ⟨её⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "покоятся"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "⟨её⟩ ноги"
+    }
+  ],
+  "timestamp": "2026-08-03T09:28:37.615174410Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "1-chronicles 7:38",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "А сыновья Йетера: Йефунне и Писпа и Ара.",
+  "tokens": [
+    {
+      "surface": "וּבְנֵי",
+      "gloss": "А сыновья"
+    },
+    {
+      "surface": "יֶתֶר",
+      "gloss": "Йетера"
+    },
+    {
+      "surface": "יְפֻנֶּה",
+      "gloss": "Йефунне"
+    },
+    {
+      "surface": "וּפִסְפָה",
+      "gloss": "и Писпа"
+    },
+    {
+      "surface": "וַאְרָא",
+      "gloss": "и Ара"
+    }
+  ],
+  "timestamp": "2026-08-03T12:47:49.968355147Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И освятите себя, и будете святыми, ибо Я — ЯХВЕ, Элохим ваш.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "и освятите себя"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "и будете"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "святыми"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элохим ваш"
+    }
+  ],
+  "timestamp": "2026-08-02T21:00:19.484028297Z",
+  "model": "glm-4.5"
+}

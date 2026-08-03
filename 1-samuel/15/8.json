@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "и захватил Агага, царя Амалека, ⟨живым⟩, и ⟨את⟩ весь народ предал заклятию ⟨по⟩ мечу",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "и захватил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Агага"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Агага"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Амалека"
+    },
+    {
+      "surface": "חי",
+      "gloss": "⟨живым⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и",
+      "marks": "весь народ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "предал заклятию"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "⟨по⟩"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мечу"
+    }
+  ],
+  "timestamp": "2026-08-02T23:27:05.040557344Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И ⟨были⟩ ⟨את⟩ ориентированы одно против другого ⟨в⟩ три ряда",
+  "tokens": [
+    {
+      "surface": "ושקפים",
+      "gloss": "и ориентированы"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "⟨были⟩"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "⟨в⟩ три"
+    },
+    {
+      "surface": "ומחזה",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "одно"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "против"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "другого"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ряда"
+    }
+  ],
+  "timestamp": "2026-08-03T00:28:26.185577279Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "proverbs 11:31",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Вот, праведнику ⟨в⟩ земле ⟨будет⟩ воздано, даже и ⟨злодею⟩ и ⟨грешнику⟩.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Вот"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведнику"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земле"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "будет воздано"
+    },
+    {
+      "surface": "אף",
+      "gloss": "даже"
+    },
+    {
+      "surface": "כי",
+      "gloss": "и"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "злодею"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "и грешнику"
+    }
+  ],
+  "timestamp": "2026-08-03T09:34:30.201904495Z",
+  "model": "glm-4.5"
+}

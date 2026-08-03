@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "numbers 29:4",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "и десятая часть ⟨для⟩ каждого ⟨из⟩ семи ⟨агнцев⟩:",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "и десятая часть"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "для каждого"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "⟨для⟩",
+      "marks": "каждого"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨из⟩"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "семи"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "⟨агнцев⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T21:41:53.213769363Z",
+  "model": "glm-4.5"
+}

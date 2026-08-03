@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И Я сделаю ⟨את⟩ дом Ахава как дом Йаровама сына Невата и как дом Баши сына Ахии",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "и-я-сделаю"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дом"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахава"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "как-дом"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Йаровама"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Невата"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "и-как-дом"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Баши"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ахии"
+    }
+  ],
+  "timestamp": "2026-08-03T18:34:02.380350375Z",
+  "model": "glm-4.5"
+}

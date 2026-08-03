@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "ezekiel 6:7",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И ⟨убитый⟩ упадёт среди вас, и узнаете, что ⟨Я⟩ — ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "и ⟨убитый⟩ упадёт"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "⟨убитый⟩",
+      "marks": "subj. of verb ונפל"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "среди вас"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "и узнаете"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨Я⟩",
+      "marks": "copula with ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T04:21:16.574621692Z",
+  "model": "glm-4.5"
+}

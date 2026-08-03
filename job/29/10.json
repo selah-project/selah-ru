@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "job 29:10",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "Голос князей скрывался, и язык их прилипал к нёбу.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Голос"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "князей"
+    },
+    {
+      "surface": "נחבאו",
+      "gloss": "скрывался"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "и язык их"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "к нёбу"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "прилипал"
+    }
+  ],
+  "timestamp": "2026-08-03T10:34:31.702556722Z",
+  "model": "glm-4.5"
+}

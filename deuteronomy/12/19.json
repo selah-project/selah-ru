@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Остерегайся, чтобы не оставить ⟨את⟩ Левита во все дни твои на земле твоей",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Остерегайся"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чтобы"
+    },
+    {
+      "surface": "פן",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "оставить"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Левита"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Левита"
+    },
+    {
+      "surface": "כל",
+      "gloss": "во все"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "дни твои"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "земле твоей"
+    }
+  ],
+  "timestamp": "2026-08-02T22:03:25.591993803Z",
+  "model": "glm-4.5"
+}

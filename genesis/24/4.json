@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "но в мою землю и к моему родству ⟨ты⟩ пойдёшь и возьмёшь жену для сына моего, для Ицхака",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "но"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "мою землю"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и к"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "моему роду"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "пойдёшь"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "и возьмёшь"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жену"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "для сына моего"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "для Ицхака"
+    }
+  ],
+  "timestamp": "2026-08-02T19:21:06.878626354Z",
+  "model": "glm-4.5"
+}

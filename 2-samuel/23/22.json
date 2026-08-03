@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "2-samuel 23:22",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Это сделал Бенаяху сын Йегояды, и ⟨было⟩ у него имя среди трёх могучих",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Это"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Бенаяху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Йегояды"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "и ⟨было⟩ у него"
+    },
+    {
+      "surface": "שם",
+      "gloss": "имя"
+    },
+    {
+      "surface": "בשלשה",
+      "gloss": "среди трёх"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "могучих"
+    }
+  ],
+  "timestamp": "2026-08-03T00:13:29.292852572Z",
+  "model": "glm-4.5"
+}

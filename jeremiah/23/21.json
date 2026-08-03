@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Я не посылал ⟨את⟩ пророков, но они бежали; Я не говорил им, но они пророчествовали.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "посылал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пророков"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "пророков"
+    },
+    {
+      "surface": "והם",
+      "gloss": "но они"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "бежали"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "говорил"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "והם",
+      "gloss": "но они"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "пророчествовали"
+    }
+  ],
+  "timestamp": "2026-08-03T03:28:42.438646922Z",
+  "model": "glm-4.5"
+}

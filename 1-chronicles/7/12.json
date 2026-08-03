@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "и Шуппим, и Хуппим — сыновья Ира; Хушим — сыновья Ахера.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "и Шуппим"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "и Хуппим"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ира"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Хушим"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "Ахера"
+    }
+  ],
+  "timestamp": "2026-08-03T12:47:14.168915176Z",
+  "model": "glm-4.5"
+}

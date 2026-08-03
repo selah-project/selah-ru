@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "Лучше открытое обличение, чем любовь, ⟨которая⟩ скрыта",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "Лучше"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "обличение"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "открытое"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "любовь"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "скрыта"
+    }
+  ],
+  "timestamp": "2026-08-03T10:03:30.181875856Z",
+  "model": "glm-4.5"
+}

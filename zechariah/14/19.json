@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "zechariah 14:19",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Это будет грех ⟨Египта⟩ и грех всех народов, которые не поднимутся праздновать ⟨את⟩ праздник Кущей",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Это"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "будет"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "грех"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Египта"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "и грех"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народов"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "поднимутся"
+    },
+    {
+      "surface": "לחג",
+      "gloss": "праздновать"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "праздник"
+    },
+    {
+      "surface": "חג",
+      "gloss": "праздник"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Кущей"
+    }
+  ],
+  "timestamp": "2026-08-03T06:20:40.749490682Z",
+  "model": "glm-4.5"
+}

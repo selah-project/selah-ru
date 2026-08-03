@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "ezekiel 42:17",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 42,
+  "translation": "Он измерил ⟨руах⟩ ⟨север⟩, ⟨пять⟩ сот ⟨тростей⟩, ⟨тростью⟩ ⟨меры⟩ кругом",
+  "tokens": [
+    {
+      "surface": "מדד",
+      "gloss": "Он измерил"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "⟨руах⟩"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "⟨север⟩"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "⟨пять⟩"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сот"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "⟨тростей⟩"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "⟨тростью⟩"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "⟨меры⟩"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "кругом"
+    }
+  ],
+  "timestamp": "2026-08-03T05:10:15.470544947Z",
+  "model": "glm-4.5"
+}

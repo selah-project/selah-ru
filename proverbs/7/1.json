@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Сын мой, храни мои слова и заповеди мои сокрой при себе",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сын мой"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "храни"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "мои слова"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "и заповеди мои"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "сокрой"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "при себе"
+    }
+  ],
+  "timestamp": "2026-08-03T09:28:35.025971818Z",
+  "model": "glm-4.5"
+}

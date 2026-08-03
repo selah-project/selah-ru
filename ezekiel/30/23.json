@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "ezekiel 30:23",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "И рассею ⟨את⟩ Мицраим среди народов и развею их по землям",
+  "tokens": [
+    {
+      "surface": "והפצותי",
+      "gloss": "и рассею"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мицраим"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "среди народов"
+    },
+    {
+      "surface": "וזריתם",
+      "gloss": "и развею их"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "по землям"
+    }
+  ],
+  "timestamp": "2026-08-03T04:53:52.630371010Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 30:5",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Всякое слово Элога ⟨есть⟩ очищено; щит ⟨Он⟩ для уповающих на Него",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Всякое"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Элога"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "⟨есть⟩ очищено"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "щит"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Он⟩"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "для уповающих"
+    },
+    {
+      "surface": "בו",
+      "gloss": "на Него"
+    }
+  ],
+  "timestamp": "2026-08-03T10:06:51.759934834Z",
+  "model": "glm-4.5"
+}

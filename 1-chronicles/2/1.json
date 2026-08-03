@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Это сыновья Исраэля: Реувен, Шимъон, Леви и Иехуда, Йиссахар и Звулун,",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Это"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраэля"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реувен"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимъон"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леви"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "и Иехуда"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Йиссахар"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "и Звулун"
+    }
+  ],
+  "timestamp": "2026-08-03T12:37:14.256266665Z",
+  "model": "glm-4.5"
+}

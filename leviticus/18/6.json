@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "leviticus 18:6",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Человек к человеку ко всей плоти его не ⟨да приблизитесь⟩ обнажить срамоту ⟨его⟩; Я — ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Человек"
+    },
+    {
+      "surface": "איש",
+      "gloss": "к человеку"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ко"
+    },
+    {
+      "surface": "כל",
+      "gloss": "вся"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "плоти"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "его"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקרבו",
+      "gloss": "⟨да приблизитесь⟩"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "обнажить"
+    },
+    {
+      "surface": "ערוה",
+      "gloss": "срамоту"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T20:58:22.795018842Z",
+  "model": "glm-4.5"
+}

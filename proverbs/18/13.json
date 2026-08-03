@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "proverbs 18:13",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Отвечающий на дело ⟨прежде⟩ чем ⟨он⟩ услышит, ⟨это⟩ глупость для него и позор",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "Отвечающий"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "на дело"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "⟨прежде⟩"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "чем"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "⟨это⟩ глупость"
+    },
+    {
+      "surface": "היא",
+      "gloss": "для него"
+    },
+    {
+      "surface": "לו",
+      "gloss": "и позор"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T09:44:18.490749909Z",
+  "model": "glm-4.5"
+}

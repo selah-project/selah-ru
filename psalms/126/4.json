@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 126,
+  "translation": "Возврати, ЯХВЕ, ⟨את⟩ плен наш, как потоки на юге",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Возврати"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "плен наш"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "плен наш"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "как потоки"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "на юге"
+    }
+  ],
+  "timestamp": "2026-08-03T08:59:35.407966521Z",
+  "model": "glm-4.5"
+}

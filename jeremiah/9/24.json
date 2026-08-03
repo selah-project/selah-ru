@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "jeremiah 9:24",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Вот, ⟨дни⟩ приходят, — речение ЯХВЕ, — и взыщу с ⟨каждого⟩ ⟨обрезанного⟩ в необрезании",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Вот"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "באים",
+      "gloss": "приходят"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "речение"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "и взыщу"
+    },
+    {
+      "surface": "על",
+      "gloss": "с"
+    },
+    {
+      "surface": "כל",
+      "gloss": "каждого"
+    },
+    {
+      "surface": "מול",
+      "gloss": "обрезанного"
+    },
+    {
+      "surface": "בערלה",
+      "gloss": "в необрезании"
+    }
+  ],
+  "timestamp": "2026-08-03T03:10:21.127033454Z",
+  "model": "glm-4.5"
+}

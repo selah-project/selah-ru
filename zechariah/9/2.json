@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "zechariah 9:2",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И Хамат ⟨также⟩ ⟨будет⟩ на границе ⟨неё⟩; Цор и Сидон, ⟨ибо⟩ ⟨она⟩ ⟨очень⟩ мудра.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "И"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамат"
+    },
+    {
+      "surface": "תגבל",
+      "gloss": "⟨будет⟩ на границе"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨неё⟩"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Цор"
+    },
+    {
+      "surface": "וצידון",
+      "gloss": "и Сидон"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ибо⟩"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "⟨она⟩ мудра"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨очень⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T06:15:56.795540891Z",
+  "model": "glm-4.5"
+}

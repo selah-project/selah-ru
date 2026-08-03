@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И пошёл вестник, и пришёл, и сообщил Давиду ⟨את⟩ всё, [о чём] послал его Йоав",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "и пошёл"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "вестник"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и пришёл"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "и сообщил"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всё"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "[о чём]"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "послал"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоав"
+    }
+  ],
+  "timestamp": "2026-08-02T23:57:53.274002687Z",
+  "model": "glm-4.5"
+}

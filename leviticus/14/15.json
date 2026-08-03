@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "и возьмёт коэн из лога масла и выльет ⟨на⟩ ладонь коэна, левую",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "и возьмёт"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коэн"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "из лога"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "масла"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "и выльет"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ладонь"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коэна"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "левую"
+    }
+  ],
+  "timestamp": "2026-08-02T20:54:00.027663665Z",
+  "model": "glm-4.5"
+}

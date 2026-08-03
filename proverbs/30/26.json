@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "proverbs 30:26",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Шефаним — народ ⟨не⟩ сильный, и ⟨они⟩ поместили ⟨свой⟩ дом в скале",
+  "tokens": [
+    {
+      "surface": "שפנים",
+      "gloss": "Шефаним"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "сильный"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "и поместили"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "в скале"
+    },
+    {
+      "surface": "ביתם",
+      "gloss": "дом ⟨свой⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T10:07:42.430932610Z",
+  "model": "glm-4.5"
+}

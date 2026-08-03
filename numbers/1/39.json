@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 39,
+  "ref": "numbers 1:39",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "их учтенные ⟨для⟩ колена Дан: шестьдесят две тысячи и семьсот",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "их учтенные"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "⟨для⟩ колена",
+      "marks": "колена"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "שנים",
+      "gloss": ""
+    },
+    {
+      "surface": "וששים",
+      "gloss": "шестьдесят"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тысячи"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "и семь"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотен"
+    }
+  ],
+  "timestamp": "2026-08-02T21:10:33.127863149Z",
+  "model": "glm-4.5"
+}

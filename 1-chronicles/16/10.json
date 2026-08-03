@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-chronicles 16:10",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Хвалитесь в имени ⟨Его⟩ святом; да возрадуется сердце ищущих ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Хвалитесь"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "в имени"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "святом"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "да возрадуется"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сердце"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ищущих"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T13:00:26.892484444Z",
+  "model": "glm-4.5"
+}

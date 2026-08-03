@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "время любить и время ненавидеть, время войны и время мира",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "время"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "любить"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и время"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "ненавидеть"
+    },
+    {
+      "surface": "עת",
+      "gloss": "время"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "войны"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и время"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мира"
+    }
+  ],
+  "timestamp": "2026-08-03T11:17:23.171574142Z",
+  "model": "glm-4.5"
+}

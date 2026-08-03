@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "genesis 5:7",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И жил Шет после того, как породил ⟨את⟩ Энош, восемьсот семь лет, и породил сынов и дочерей,",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "И жил"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Шет"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "после того, как"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Энош"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Энош"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семь"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "лет"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "и восемьсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "[сотен]"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и породил"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "и дочерей"
+    }
+  ],
+  "timestamp": "2026-08-02T17:48:41.934108753Z",
+  "model": "glm-4.5"
+}

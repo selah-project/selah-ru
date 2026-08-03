@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И вол, или овца: ⟨את⟩ его и ⟨את⟩ сына его не закалывайте в день один",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "и вол"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "שה",
+      "gloss": "овца"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "его"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "сына его"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "сына его"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "закалывайте"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в день"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    }
+  ],
+  "timestamp": "2026-08-02T21:02:30.053710987Z",
+  "model": "glm-4.5"
+}

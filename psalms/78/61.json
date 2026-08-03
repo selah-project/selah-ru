@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 61,
+  "ref": "psalms 78:61",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 78,
+  "translation": "и отдал ⟨Он⟩ силу ⟨Свою⟩ в плен, и славу ⟨Свою⟩ в руку врага",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "и отдал"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "в плен"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "силу ⟨Свою⟩"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "и славу ⟨Свою⟩"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "в руку"
+    },
+    {
+      "surface": "צר",
+      "gloss": "врага"
+    }
+  ],
+  "timestamp": "2026-08-03T08:04:48.518653695Z",
+  "model": "glm-4.5"
+}

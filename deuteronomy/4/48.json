@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 48,
+  "ref": "deuteronomy 4:48",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "от Ароэра, который на ⟨скуле⟩ потока Арнона, и до горы Сион, ⟨он⟩ ⟨есть⟩ Хермон",
+  "tokens": [
+    {
+      "surface": "מערער",
+      "gloss": "от Ароэра"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "⟨скуле⟩"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "потока"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Арнона"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "הר",
+      "gloss": "горы"
+    },
+    {
+      "surface": "שיאן",
+      "gloss": "Сион"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Хермон"
+    }
+  ],
+  "timestamp": "2026-08-02T21:55:33.383528695Z",
+  "model": "glm-4.5"
+}

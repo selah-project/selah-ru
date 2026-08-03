@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "2-chronicles 15:17",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "А высоты не ⟨были⟩ устранены из Израиля, ⟨однако⟩ сердце Асы было ⟨целым⟩ во все дни его,",
+  "tokens": [
+    {
+      "surface": "והבמות",
+      "gloss": "А высоты"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "⟨были⟩ устранены"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "из Израиля"
+    },
+    {
+      "surface": "רק",
+      "gloss": "⟨однако⟩"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "сердце"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Асы"
+    },
+    {
+      "surface": "היה",
+      "gloss": "было"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "⟨целым⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "во все"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "дни его"
+    }
+  ],
+  "timestamp": "2026-08-03T13:44:33.482741998Z",
+  "model": "glm-4.5"
+}

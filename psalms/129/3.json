@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 129,
+  "translation": "На ⟨спину⟩ мою пахали пахари; удлинили ⟨борозды⟩ свои.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "⟨спину⟩"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "пахали"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "пахари"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "удлинили"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "⟨борозды⟩ свои"
+    }
+  ],
+  "timestamp": "2026-08-03T09:01:13.107612803Z",
+  "model": "glm-4.5"
+}

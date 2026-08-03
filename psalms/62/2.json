@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 62,
+  "translation": "Только к Элохему безмолвна душа моя, от Него — избавление моё.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Только"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Эlohему"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "безмолвна"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душа"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "от"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "избавление моё"
+    }
+  ],
+  "timestamp": "2026-08-03T07:39:58.466867118Z",
+  "model": "glm-4.5"
+}

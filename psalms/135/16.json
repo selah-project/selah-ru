@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 135,
+  "translation": "У них рот, но не говорят ⟨это⟩; у них глаза, но не видят ⟨это⟩.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "рот"
+    },
+    {
+      "surface": "להם",
+      "gloss": "у них"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "говорят"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "глаза"
+    },
+    {
+      "surface": "להם",
+      "gloss": "у них"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "видят"
+    }
+  ],
+  "timestamp": "2026-08-03T09:05:37.688146214Z",
+  "model": "glm-4.5"
+}

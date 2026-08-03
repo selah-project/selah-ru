@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "и омылись ⟨את⟩ их руки и ⟨את⟩ их ноги от него Моше и Аарон и сыновья его",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "и омылись"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "от него"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "и Аарон"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "и сыновья его"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "их руки"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "их руки"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "их ноги"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "их ноги"
+    }
+  ],
+  "timestamp": "2026-08-02T20:39:28.696825778Z",
+  "model": "glm-4.5"
+}

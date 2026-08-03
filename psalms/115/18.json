@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 115,
+  "translation": "Но мы ⟨будем⟩ благословлять ЯХ отныне и ⟨до⟩ века. Славьте ЯХ.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "Но мы"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "⟨будем⟩ благословлять"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ЯХ"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "отныне"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и ⟨до⟩"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "века"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Славьте"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ЯХ"
+    }
+  ],
+  "timestamp": "2026-08-03T08:45:42.694042401Z",
+  "model": "glm-4.5"
+}

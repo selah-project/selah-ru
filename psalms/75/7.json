@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 75,
+  "translation": "Ибо ⟨не⟩ с восхода, и ⟨не⟩ с запада, и ⟨не⟩ из пустыни гор.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "с восхода"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "и ⟨не⟩ с запада"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "из пустыни"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "гор"
+    }
+  ],
+  "timestamp": "2026-08-03T07:56:02.585374334Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "nehemiah 7:34",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Сыновья ⟨другого⟩ Эйлама: ⟨тысяча⟩ двести пятьдесят ⟨и⟩ четыре",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Эйлам"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "⟨другого⟩"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "⟨тысяча⟩"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двести"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "пятьдесят"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "⟨и⟩ четыре"
+    }
+  ],
+  "timestamp": "2026-08-03T12:23:06.642384790Z",
+  "model": "glm-4.5"
+}

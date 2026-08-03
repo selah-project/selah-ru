@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 114,
+  "translation": "Дрожи, земля, от лица Адонай, от лица Элоха Яакова",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "от лица"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "дрожи"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "от лица"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Элоха"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    }
+  ],
+  "timestamp": "2026-08-03T08:44:49.685438129Z",
+  "model": "glm-4.5"
+}

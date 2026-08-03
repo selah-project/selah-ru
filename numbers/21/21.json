@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "numbers 21:21",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И послал Израиль послов к Сихону, царю Эморея, говоря:",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "и послал"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "послов"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Сихону"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Эморея"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-02T21:34:03.311482759Z",
+  "model": "glm-4.5"
+}

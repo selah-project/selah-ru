@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 39,
+  "translation": "И сделал ⟨он⟩ ⟨את⟩ мэиль ха-Эфод, работа ткача, весь — из тхелет",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И сделал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мэиль ха-Эфод"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "мэиль"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ха-Эфод"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "работа"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "ткача"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "из тхелет"
+    }
+  ],
+  "timestamp": "2026-08-02T20:37:39.583356482Z",
+  "model": "glm-4.5"
+}

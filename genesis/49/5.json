@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 49:5",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 49,
+  "translation": "Шимон и Леви — братья, ⟨их⟩ орудия — инструменты насилия ⟨их⟩ мекерот.",
+  "tokens": [
+    {
+      "surface": "שמעון",
+      "gloss": "Шимон"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "и Леви"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "братья"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "орудия"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насилия"
+    },
+    {
+      "surface": "מכרתיהם",
+      "gloss": "мекерот"
+    }
+  ],
+  "timestamp": "2026-08-02T19:53:33.501937611Z",
+  "model": "glm-4.5"
+}

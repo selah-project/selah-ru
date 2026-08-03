@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "2-chronicles 32:19",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "И говорили они об Элохе Иерусалима как ⟨о⟩ Элохим народов земли — ⟨дел⟩ рук человеческих",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "И говорили"
+    },
+    {
+      "surface": "אל",
+      "gloss": "об"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохе"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Иерусалима"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "как"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народов"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земли"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "дел"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "рук"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "человеческих"
+    }
+  ],
+  "timestamp": "2026-08-03T14:09:42.202064325Z",
+  "model": "glm-4.5"
+}

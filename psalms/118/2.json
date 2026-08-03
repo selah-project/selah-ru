@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 118:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 118,
+  "translation": "Пусть, прошу, теперь скажет Израиль: ведь ⟨Его⟩ хесед навсегда.",
+  "tokens": [
+    {
+      "surface": "יאמר",
+      "gloss": "пусть скажет"
+    },
+    {
+      "surface": "נא",
+      "gloss": "прошу"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ведь"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навсегда"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "⟨Его⟩ хесед"
+    }
+  ],
+  "timestamp": "2026-08-03T08:47:46.786238882Z",
+  "model": "glm-4.5"
+}

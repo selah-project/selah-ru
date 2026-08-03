@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "proverbs 20:17",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "Сладок человеку хлеб обмана, ⟨и⟩ потом его рот наполнится гравием",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Сладок"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "человеку"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "обмана"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "⟨и⟩ потом"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "наполнится"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "его рот"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "гравием"
+    }
+  ],
+  "timestamp": "2026-08-03T09:47:24.943525123Z",
+  "model": "glm-4.5"
+}

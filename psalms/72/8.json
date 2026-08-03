@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 72,
+  "translation": "И будет ⟨он⟩ царствовать от моря до моря и от реки до краёв земли",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "И будет царствовать"
+    },
+    {
+      "surface": "מים",
+      "gloss": "от моря"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "ים",
+      "gloss": "моря"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "и от реки"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "краёв"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земли"
+    }
+  ],
+  "timestamp": "2026-08-03T07:52:11.547825031Z",
+  "model": "glm-4.5"
+}

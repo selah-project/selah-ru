@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "genesis 36:32",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "И царствовал в Эдоме Бэла, сын Бэора, и имя города его Динхава.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "И царствовал"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "в Эдоме"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Бэла"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Бэора"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "и имя"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "города его"
+    },
+    {
+      "surface": "דנהבה",
+      "gloss": "Динхава"
+    }
+  ],
+  "timestamp": "2026-08-02T19:38:45.966152213Z",
+  "model": "glm-4.5"
+}

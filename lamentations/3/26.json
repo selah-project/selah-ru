@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "хорошо ⟨человек⟩ надеяться и ⟨в⟩ безмолвии ⟨для⟩ спасения ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "хорошо"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "надеяться"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "и ⟨в⟩ безмолвии"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "⟨для⟩ спасения"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:46.355816119Z",
+  "model": "glm-4.5"
+}

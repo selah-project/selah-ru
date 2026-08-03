@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "proverbs 6:33",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "⟨Он найдёт⟩ удар и позор, и ⟨его⟩ бесчестие не будет смыта",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "удар"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "и позор"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "⟨Он найдёт⟩"
+    },
+    {
+      "surface": "וחרפתו",
+      "gloss": "и ⟨его⟩ бесчестие"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמחה",
+      "gloss": "будет смыта"
+    }
+  ],
+  "timestamp": "2026-08-03T09:28:06.060662172Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "ezekiel 24:26",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "В тот день придёт ⟨тот⟩, кто спасся, к тебе, чтобы ты слышал ⟨это⟩ ушами",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "В день"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тот"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "придёт"
+    },
+    {
+      "surface": "הפליט",
+      "gloss": "спасшийся"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "к тебе"
+    },
+    {
+      "surface": "להשמעות",
+      "gloss": "чтобы слышал"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "ушами"
+    }
+  ],
+  "timestamp": "2026-08-03T04:46:54.667248586Z",
+  "model": "glm-4.5"
+}

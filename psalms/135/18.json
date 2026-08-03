@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 135,
+  "translation": "Подобны им ⟨будут⟩ делающие их, всякий, ⟨кто⟩ уповает на них.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "подобны им"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "⟨будут⟩"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "делающие их"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всякий"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨кто⟩"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "уповает"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "на них"
+    }
+  ],
+  "timestamp": "2026-08-03T09:05:50.392613838Z",
+  "model": "glm-4.5"
+}

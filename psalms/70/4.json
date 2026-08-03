@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 70,
+  "translation": "Возвратятся на пятки свои в позоре их, говорящие: ага, ага!",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "возвратятся"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "пятки"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "в позоре их"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "говорящие"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ага"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ага"
+    }
+  ],
+  "timestamp": "2026-08-03T07:50:28.308241673Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "zechariah 7:4",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И было слово ЯХВЕ Цеваот ⟨ко⟩ мне, ⟨чтобы⟩ сказать:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мне",
+      "marks": "ко мне"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨чтобы⟩ сказать",
+      "marks": "чтобы сказать"
+    }
+  ],
+  "timestamp": "2026-08-03T06:13:43.028070990Z",
+  "model": "glm-4.5"
+}

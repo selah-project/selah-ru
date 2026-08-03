@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 56,
+  "ref": "nehemiah 7:56",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "сыновья Нециаха, сыновья Хатифы",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "Нециаха"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "Хатифы"
+    }
+  ],
+  "timestamp": "2026-08-03T12:22:47.534048735Z",
+  "model": "glm-4.5"
+}

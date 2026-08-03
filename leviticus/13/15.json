@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "и увидит ⟨он⟩ священник ⟨את⟩ живую плоть и осквернит её; живая плоть нечиста, она — проказа",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "и увидит"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "священник"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "живую плоть"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "плоть"
+    },
+    {
+      "surface": "החי",
+      "gloss": "живая"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "и осквернит её"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "плоть"
+    },
+    {
+      "surface": "החי",
+      "gloss": "живая"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечиста"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "она"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "проказа"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "она"
+    }
+  ],
+  "timestamp": "2026-08-02T20:52:00.723327109Z",
+  "model": "glm-4.5"
+}

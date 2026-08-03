@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Поколение уходит и поколение приходит, а земля ⟨стоит⟩ во ⟨век⟩.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "поколение"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "уходит"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "и поколение"
+    },
+    {
+      "surface": "בא",
+      "gloss": "приходит"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "а земля"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "во век"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "стоит"
+    }
+  ],
+  "timestamp": "2026-08-03T11:15:14.816228801Z",
+  "model": "glm-4.5"
+}

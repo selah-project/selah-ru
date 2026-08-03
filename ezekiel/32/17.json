@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "ezekiel 32:17",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "И было ⟨в⟩ двенадцатый год, ⟨в⟩ пятый ⟨день⟩ месяца, было слово ЯХВЕ ко мне, говоря:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "⟨в⟩"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "двенадцатый"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "год"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "⟨в⟩ пятый"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨день⟩"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "месяца"
+    },
+    {
+      "surface": "היה",
+      "gloss": "было"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ко мне"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-03T04:56:31.488392394Z",
+  "model": "glm-4.5"
+}

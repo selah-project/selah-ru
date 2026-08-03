@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Желает ⟨на⟩ нечестивого сеть злодеев, а корень праведных даст плод",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "желает"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "⟨на⟩ нечестивого"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "сеть"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "злодеев"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "а корень"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведных"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "даст"
+    }
+  ],
+  "timestamp": "2026-08-03T09:35:05.771347312Z",
+  "model": "glm-4.5"
+}

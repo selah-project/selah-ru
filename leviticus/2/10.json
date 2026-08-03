@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "А остаток от ⟨этого⟩ minhah [приношения] — Аарону и сыновьям его, kodesh kodashim — от огненных приношений ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "А остаток"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "⟨этого⟩ minhah [приношения]"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Аарону"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "и сыновьям его"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kodesh"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kodashim"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "от огненных приношений"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T20:40:48.045754004Z",
+  "model": "glm-4.5"
+}

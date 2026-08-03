@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Сыновья Пароша: две тысячи сто семьдесят два.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Пароша"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "две тысячи"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "семьдесят"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "и два"
+    }
+  ],
+  "timestamp": "2026-08-03T11:57:47.991255665Z",
+  "model": "glm-4.5"
+}

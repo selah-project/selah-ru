@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "ЯХВЕ, Элохим ваш, умножил ⟨את⟩ вас, и вот вы сегодня как звёзды небес по множеству",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элохим ваш"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "умножил"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "и вот вы"
+    },
+    {
+      "surface": "היום",
+      "gloss": "сегодня"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "как звёзды"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "по множеству"
+    }
+  ],
+  "timestamp": "2026-08-02T21:51:16.627449414Z",
+  "model": "glm-4.5"
+}

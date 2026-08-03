@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 116,
+  "translation": "Хранитель простаков ⟨есть⟩ ЯХВЕ, я был низок, и Он спас меня.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Хранитель"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "простаков"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "я был низок"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "и мне"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "Он спас"
+    }
+  ],
+  "timestamp": "2026-08-03T08:46:34.719748256Z",
+  "model": "glm-4.5"
+}

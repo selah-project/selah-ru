@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "2-chronicles 24:3",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "И взял ⟨для⟩ него Йегоядa ⟨את⟩ двух жён, и родились сыновья и дочери",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "И взял"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨для⟩ него"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Йегояда"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "жён"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "двух"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и родились"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "и дочери"
+    }
+  ],
+  "timestamp": "2026-08-03T13:57:10.130175786Z",
+  "model": "glm-4.5"
+}

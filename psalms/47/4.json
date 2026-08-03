@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 47,
+  "translation": "Он покорит народы под нами, и племена под ⟨нашими⟩ ногами.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "Он покорит"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народы"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "под нами"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "и племена"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "⟨нашими⟩ ногами"
+    }
+  ],
+  "timestamp": "2026-08-03T07:25:20.658603922Z",
+  "model": "glm-4.5"
+}

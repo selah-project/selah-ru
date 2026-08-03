@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "leviticus 19:32",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Пред ⟨старостью⟩ восстань и уважай лицо ⟨старца⟩, и бойся ⟨Элохима⟩ твоего: Я — ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "старостью"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "восстань"
+    },
+    {
+      "surface": "והדרת",
+      "gloss": "и уважай"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицо"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "⟨старца⟩"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "и бойся"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "⟨Элохима⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T20:59:57.229391780Z",
+  "model": "glm-4.5"
+}

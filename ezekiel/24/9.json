@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "ezekiel 24:9",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Посему так говорит Адонай ЯХВЕ: горе ⟨городу⟩ кровей, ⟨как⟩ и ⟨я⟩ увеличу костёр!",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "посему"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "говорит"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "горе"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "⟨городу⟩"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "кровей"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨как⟩ и"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨я⟩"
+    },
+    {
+      "surface": "אגדיל",
+      "gloss": "увеличу"
+    },
+    {
+      "surface": "המדורה",
+      "gloss": "костёр"
+    }
+  ],
+  "timestamp": "2026-08-03T04:47:17.929119003Z",
+  "model": "glm-4.5"
+}

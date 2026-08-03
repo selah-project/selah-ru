@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И родила Ада ⟨את⟩ Йаваля: он был отцом живущих в шатрах и стада",
+  "tokens": [
+    {
+      "surface": "וַתֵּ֥לֶד",
+      "gloss": "и родила"
+    },
+    {
+      "surface": "עָדָ֖ה",
+      "gloss": "Ада"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Йаваля"
+    },
+    {
+      "surface": "יָבָ֑ל",
+      "gloss": "Йаваля"
+    },
+    {
+      "surface": "ה֣וּא",
+      "gloss": "он"
+    },
+    {
+      "surface": "הָיָ֔ה",
+      "gloss": "был"
+    },
+    {
+      "surface": "אֲבִ֕י",
+      "gloss": "отцом"
+    },
+    {
+      "surface": "יֹשֵׁ֥ב",
+      "gloss": "живущих"
+    },
+    {
+      "surface": "אֹ֖הֶל",
+      "gloss": "в шатрах"
+    },
+    {
+      "surface": "וּמִקְנֶֽה",
+      "gloss": "и стада"
+    }
+  ],
+  "timestamp": "2026-08-02T17:47:48.521706765Z",
+  "model": "glm-4.5"
+}

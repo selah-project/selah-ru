@@ -1,0 +1,87 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "2-chronicles 29:27",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "И сказал Хизкияху восходить ⟨это⟩ ола́ на ⟨ Mizbeach⟩; и во время, когда начала ола́, начал пение ЯХВЕ и трубы, и на руках инструментов Давида, царя Израиля",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкияху"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "восходить"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "⟨это⟩ ола́",
+      "marks": "ола́"
+    },
+    {
+      "surface": "להמזבח",
+      "gloss": "на ⟨ Mizbeach⟩",
+      "marks": " Mizbeach"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "и во время"
+    },
+    {
+      "surface": "החל",
+      "gloss": "когда начала"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "ола́"
+    },
+    {
+      "surface": "החל",
+      "gloss": "начал"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "пение"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "והחצצרות",
+      "gloss": "и трубы"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "руках"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "инструментов"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-03T14:05:04.367318933Z",
+  "model": "glm-4.5"
+}

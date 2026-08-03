@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "ezekiel 43:6",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 43,
+  "translation": "И я услышал говорящего со мной из ⟨дома⟩, и мужчина стоял подле меня",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "и я услышал"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "говорящего"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "со мной"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "из ⟨дома⟩"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "и мужчина"
+    },
+    {
+      "surface": "היה",
+      "gloss": "был"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "стоял"
+    },
+    {
+      "surface": "אצלי",
+      "gloss": "подле меня"
+    }
+  ],
+  "timestamp": "2026-08-03T05:10:56.532941908Z",
+  "model": "glm-4.5"
+}

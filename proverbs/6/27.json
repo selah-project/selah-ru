@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "proverbs 6:27",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Разве человек унесёт огонь в пазуху свою, и одежды его не ⟨сгорят⟩?",
+  "tokens": [
+    {
+      "surface": "היחתה",
+      "gloss": "развеле"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человек"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огонь"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "в пазуху свою"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "и одежды его"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשרפנה",
+      "gloss": "сгорят"
+    }
+  ],
+  "timestamp": "2026-08-03T09:27:30.119059176Z",
+  "model": "glm-4.5"
+}

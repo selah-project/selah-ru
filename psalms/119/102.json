@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "От ⟨судов Твоих⟩ я не уклонялся, ибо Ты наставил меня",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "⟨судов Твоих⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "уклонялся"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "наставил меня"
+    }
+  ],
+  "timestamp": "2026-08-03T08:53:00.450179402Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "2-samuel 22:42",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Они взглянули, но ⟨не было⟩ спасающего; ⟨к⟩ ЯХВЕ, но Он не ответил им",
+  "tokens": [
+    {
+      "surface": "ישעו",
+      "gloss": "взглянули"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "но ⟨не было⟩"
+    },
+    {
+      "surface": "משיע",
+      "gloss": "спасающего"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "ответил им"
+    }
+  ],
+  "timestamp": "2026-08-03T00:12:44.403847372Z",
+  "model": "glm-4.5"
+}

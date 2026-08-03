@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "genesis 19:7",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "И сказал: прошу, братья мои, не делайте ⟨так⟩ зла.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "נא",
+      "gloss": "прошу"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "братья мои"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "делайте зло"
+    }
+  ],
+  "timestamp": "2026-08-02T19:16:18.874752895Z",
+  "model": "glm-4.5"
+}

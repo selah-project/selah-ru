@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "1-chronicles 9:35",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "А в Гивеоне жил ⟨отец⟩ Гивеона, Яхиэль, а имя жены его — Мааха:",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "А в Гивеоне"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "жил"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "⟨отец⟩"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Гивеона"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "Яхиэль"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "а имя"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "жены его"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Мааха"
+    }
+  ],
+  "timestamp": "2026-08-03T12:51:16.829785160Z",
+  "model": "glm-4.5"
+}

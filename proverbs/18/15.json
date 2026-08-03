@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "proverbs 18:15",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Сердце разумного приобретает знание, а ухо мудрых ⟨будет⟩ искать знание",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "сердце"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "разумного"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "приобретает"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знание"
+    },
+    {
+      "surface": "ואזן",
+      "gloss": "а ухо"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудрых"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "⟨будет⟩ искать"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знание"
+    }
+  ],
+  "timestamp": "2026-08-03T09:44:15.087798944Z",
+  "model": "glm-4.5"
+}

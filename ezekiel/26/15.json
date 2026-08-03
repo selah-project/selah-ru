@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "ezekiel 26:15",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Так сказал Адонай ЯХВЕ к Цуру: не ⟨повесят ли⟩ островы от звука падения твоего, при стоне pierced, когда slaughter сделан внутри тебя, ⟨не⟩ потрясутся островы?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "к Цуру"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "от звука"
+    },
+    {
+      "surface": "מפלתך",
+      "gloss": "падения твоего"
+    },
+    {
+      "surface": "באנק",
+      "gloss": "при стоне"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "pierced"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "когда"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "slaughter"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "внутри тебя"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "потрясутся"
+    },
+    {
+      "surface": "האיים",
+      "gloss": "острова"
+    }
+  ],
+  "timestamp": "2026-08-03T04:49:23.388787666Z",
+  "model": "glm-4.5"
+}

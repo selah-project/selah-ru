@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Люди зла не поймут ⟨суд⟩, но ищущие ЯХВЕ поймут всё.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Люди"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зла"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "поймут"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "⟨суд⟩"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "но ищущие"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "поймут"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    }
+  ],
+  "timestamp": "2026-08-03T10:04:52.936261396Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "isaiah 21:8",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И взывал лев: «На посту, Адонай, стою ⟨я⟩ днём всегда, и на страже моей стою ⟨я⟩ все ночи».",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И взывал"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "лев"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "посту"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨я⟩",
+      "marks": "стоит"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "стою"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "всегда"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "днём"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "страже моей"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨я⟩",
+      "marks": "стоит"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "стою"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "הלילות",
+      "gloss": "ночи"
+    }
+  ],
+  "timestamp": "2026-08-03T02:03:59.467362831Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 146,
+  "translation": "Не надейтесь на вельмож, на сына Адама, у ⟨кого⟩ нет спасения",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "надейтесь"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "на вельмож"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "на сына"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Адама"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "у ⟨кого⟩ нет"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨кого⟩"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "спасения"
+    }
+  ],
+  "timestamp": "2026-08-03T09:16:20.335312452Z",
+  "model": "glm-4.5"
+}

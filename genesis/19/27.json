@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "genesis 19:27",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "И Авраам встал утром ⟨на⟩ место, ⟨на⟩ котором стоял там ⟨את⟩ лицо ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "и встал"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "утром"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨на⟩ котором"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "стоял"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лицо"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T17:44:34.437823376Z",
+  "model": "glm-4.5"
+}

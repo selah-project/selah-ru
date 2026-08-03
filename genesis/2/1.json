@@ -1,0 +1,35 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И были завершены ⟨את⟩ небеса и ⟨את⟩ земля и всё воинство их",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "И были завершены"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨את⟩",
+      "marks": "небеса"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "и ⟨את⟩",
+      "marks": "земля"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и всё"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "воинство их"
+    }
+  ],
+  "timestamp": "2026-08-02T17:45:27.497646212Z",
+  "model": "glm-4.5"
+}

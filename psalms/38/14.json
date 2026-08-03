@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 38,
+  "translation": "И я ⟨как⟩ глухой не слышу и ⟨как⟩ немой не открывает ⟨את⟩ своего рта",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "И я"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "⟨как⟩ глухой"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "слышу"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "и ⟨как⟩ немой"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "открывает"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "⟨את⟩ своего рта",
+      "marks": "своего рта"
+    }
+  ],
+  "timestamp": "2026-08-03T07:17:16.915599152Z",
+  "model": "glm-4.5"
+}

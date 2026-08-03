@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "1-chronicles 2:18",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "А Kalev, сын Хецрона, породил ⟨את⟩ Азуву, женщину, и ⟨את⟩ Иериоф; и вот сыновья её: Йешер, и Шовав, и Ардон.",
+  "tokens": [
+    {
+      "surface": "וכלב",
+      "gloss": "А Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Хецрона"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Азуву"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "Азуву"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "женщину"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Иериоф"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "Иериоф"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "сыновья её"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "Йешер"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "и Шовав"
+    },
+    {
+      "surface": "וארדון",
+      "gloss": "и Ардон"
+    }
+  ],
+  "timestamp": "2026-08-03T12:37:55.589880661Z",
+  "model": "glm-4.5"
+}

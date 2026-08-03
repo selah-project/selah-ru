@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "job 38:28",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 38,
+  "translation": "Есть ли у ⟨מָטָר⟩ дождя отец или кто породил ⟨את⟩ капли росы?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "есть ли"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "у ⟨מָטָר⟩ дождя"
+    },
+    {
+      "surface": "אב",
+      "gloss": "отец"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "אגלי",
+      "gloss": "капли"
+    },
+    {
+      "surface": "טל",
+      "gloss": "росы"
+    }
+  ],
+  "timestamp": "2026-08-03T10:49:31.514983382Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "isaiah 37:13",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "Где царь Хамата, и царь Арпада, и царь города Сепарваима, Хена и Ивы?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Где"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамата"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "и царь"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Арпада"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "и царь"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "города"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Сепарваима"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Хена"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "и Ивы"
+    }
+  ],
+  "timestamp": "2026-08-03T02:22:00.017182494Z",
+  "model": "glm-4.5"
+}

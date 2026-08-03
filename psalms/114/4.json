@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 114,
+  "translation": "Горы скакали, как бараны, холмы, как ягнята ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Горы"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "скакали"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "как бараны"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "холмы"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "как ягнята"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "⟨את⟩",
+      "marks": "отары"
+    }
+  ],
+  "timestamp": "2026-08-03T08:44:52.213549911Z",
+  "model": "glm-4.5"
+}

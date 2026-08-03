@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "ezekiel 25:5",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "И Я сделаю Равбу пастбищем для верблюдов и сынов Аммона lying-place для ⟨צאן⟩, и узнаете, что Я — ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "И Я сделаю"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Равбу"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "Равбу"
+    },
+    {
+      "surface": "לנוה",
+      "gloss": "пастбищем"
+    },
+    {
+      "surface": "гמלים",
+      "gloss": "для верблюдов"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "сынов Аммона"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммона"
+    },
+    {
+      "surface": "למרבץ",
+      "gloss": "lying-place"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "⟨צאן⟩"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "и узнаете"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T04:48:24.223729654Z",
+  "model": "glm-4.5"
+}

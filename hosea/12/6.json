@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И ЯХВЕ, Элохим ⟨воинств⟩, ЯХВЕ — ⟨Его⟩ памятник.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "И ЯХВЕ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "⟨воинств⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "памятник"
+    }
+  ],
+  "timestamp": "2026-08-03T05:28:33.483302801Z",
+  "model": "glm-4.5"
+}

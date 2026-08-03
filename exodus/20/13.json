@@ -1,0 +1,21 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "exodus 20:13",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "не убивай",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "убивай"
+    }
+  ],
+  "timestamp": "2026-08-02T20:13:51.333554568Z",
+  "model": "glm-4.5"
+}

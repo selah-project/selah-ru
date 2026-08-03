@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "проклят ⟨ты⟩ ⟨в⟩ городе, и проклят ⟨ты⟩ ⟨в⟩ поле",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "проклят"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ты⟩"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "⟨в⟩ городе"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "и проклят"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ты⟩"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "⟨в⟩ поле"
+    }
+  ],
+  "timestamp": "2026-08-02T22:17:19.494784011Z",
+  "model": "glm-4.5"
+}

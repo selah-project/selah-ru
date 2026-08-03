@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "job 36:2",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "Почти меня немного, и ⟨я⟩ покажу тебе, ибо ещё для Элохима ⟨есть⟩ слова",
+  "tokens": [
+    {
+      "surface": "כתר",
+      "gloss": "Почти"
+    },
+    {
+      "surface": "לי",
+      "gloss": "меня"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "немного"
+    },
+    {
+      "surface": "ואחוך",
+      "gloss": "и ⟨я⟩ покажу тебе"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ещё"
+    },
+    {
+      "surface": "לאלוה",
+      "gloss": "для Эlohима"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "слова"
+    }
+  ],
+  "timestamp": "2026-08-03T10:47:11.489126146Z",
+  "model": "glm-4.5"
+}

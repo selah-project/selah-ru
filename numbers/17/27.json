@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "numbers 17:27",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И сказали сыны Израиля Моше, говоря: вот, мы умираем, мы пропали, мы все пропали",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "И сказали"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": ""
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "הן",
+      "gloss": "вот"
+    },
+    {
+      "surface": "גוענו",
+      "gloss": "мы умираем"
+    },
+    {
+      "surface": "אבדנו",
+      "gloss": "мы пропали"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "мы все"
+    },
+    {
+      "surface": "אבדנו",
+      "gloss": "пропали"
+    }
+  ],
+  "timestamp": "2026-08-02T21:29:52.962402552Z",
+  "model": "glm-4.5"
+}

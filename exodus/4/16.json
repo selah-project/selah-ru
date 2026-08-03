@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "exodus 4:16",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И будет говорить он для тебя к народу, и будет он, он будет для тебя устами, а ты будешь ему Элохим.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "и будет говорить"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "לך",
+      "gloss": "для тебя"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народу"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и будет"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "будет"
+    },
+    {
+      "surface": "לך",
+      "gloss": "для тебя"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "устами"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "а ты"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "будешь"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-08-02T19:58:24.937562689Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "1-chronicles 17:16",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И вошёл царь Давид и сел пред лицем ЯХВЕ и сказал: кто я, ЯХВЕ Элохим, и ⟨что⟩ мой дом, что привёл меня до ⟨сих⟩ мест?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И вошёл"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и сел"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред лицем"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и ⟨что⟩"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "мой дом"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "הביאתני",
+      "gloss": "привёл меня"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "⟨сих⟩ мест"
+    }
+  ],
+  "timestamp": "2026-08-03T13:01:38.959214372Z",
+  "model": "glm-4.5"
+}

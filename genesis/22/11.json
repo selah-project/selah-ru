@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "genesis 22:11",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И воззвал к нему вестник ЯХВЕ с ⟨небес⟩, и сказал: Авраам, Авраам! И сказал: вот я.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И воззвал"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "к нему"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "вестник"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "с"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨небес⟩",
+      "marks": "небес"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "вот я"
+    }
+  ],
+  "timestamp": "2026-08-02T19:19:39.357461482Z",
+  "model": "glm-4.5"
+}

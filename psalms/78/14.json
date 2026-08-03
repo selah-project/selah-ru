@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 78,
+  "translation": "и вёл их в облаке днём, и всю ночь в свете огня",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "и вёл их"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "в облаке"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "днём"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и всю"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ночь"
+    },
+    {
+      "surface": "באור",
+      "gloss": "в свете"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огня"
+    }
+  ],
+  "timestamp": "2026-08-03T08:03:05.334057214Z",
+  "model": "glm-4.5"
+}

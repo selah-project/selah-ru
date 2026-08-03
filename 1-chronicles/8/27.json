@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "1-chronicles 8:27",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "и Яарешъя, и Элия, и Зихри, сыновья Йерохама",
+  "tokens": [
+    {
+      "surface": "ויערשיה",
+      "gloss": "и Яарешъя"
+    },
+    {
+      "surface": "ואליה",
+      "gloss": "и Элия"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "и Зихри"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Йерохама"
+    }
+  ],
+  "timestamp": "2026-08-03T12:49:21.657313041Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "А имя ⟨он⟩ ⟨есть⟩ второй реки Гихон: ⟨он⟩ ⟨есть⟩ ⟨тот⟩, ⟨который⟩ ⟨обходит⟩ ⟨את⟩ всю землю Куш.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "А имя"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "реки"
+    },
+    {
+      "surface": "השני",
+      "gloss": "второй"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Гихон"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "⟨обходит⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всю землю"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всю"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    }
+  ],
+  "timestamp": "2026-08-02T17:45:57.192464468Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И сообщили Мардохею ⟨את⟩ слова Эсфири",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "И сообщили"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Мардохею"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слова Эсфири"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Эсфири"
+    }
+  ],
+  "timestamp": "2026-08-03T11:31:30.091365301Z",
+  "model": "glm-4.5"
+}

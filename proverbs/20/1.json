@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "Вино — насмешник, и крепкий напиток ⟨бушует⟩; и всякий, кто ⟨погрешает⟩ ⟨в нём⟩, не мудр.",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "насмехник"
+    },
+    {
+      "surface": "היין",
+      "gloss": "вино"
+    },
+    {
+      "surface": "המה",
+      "gloss": "бушует"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "крепкий напиток"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и всякий"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "погрешает"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в нём"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "мудр"
+    }
+  ],
+  "timestamp": "2026-08-03T09:47:07.749253527Z",
+  "model": "glm-4.5"
+}

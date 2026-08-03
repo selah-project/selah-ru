@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "ecclesiastes 5:19",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "ибо ⟨не⟩ ⟨много⟩ помнит ⟨את⟩ дни жизни своей, ибо Элохим отвечает радостью сердца его",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "⟨много⟩"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "помнит"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дни жизни своей"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дни"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "жизни своей"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "отвечает"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "радостью"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "сердца его"
+    }
+  ],
+  "timestamp": "2026-08-03T11:20:06.745466042Z",
+  "model": "glm-4.5"
+}

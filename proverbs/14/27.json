@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "proverbs 14:27",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Страх ЯХВЕ — источник жизни, чтобы уклониться от силок смерти",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "Страх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "источник"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "жизни"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "чтобы уклониться"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "от силок"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смерти"
+    }
+  ],
+  "timestamp": "2026-08-03T09:37:55.892899814Z",
+  "model": "glm-4.5"
+}

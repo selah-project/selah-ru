@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Сын ⟨был⟩ семи лет Йегоаш ⟨в⟩ ца́рствовании ⟨своём⟩.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Сын"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семи"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "лет"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Йегоаш"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "в ца́рствовании ⟨своём⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T01:18:19.029343654Z",
+  "model": "glm-4.5"
+}

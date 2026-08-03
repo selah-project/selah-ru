@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "jeremiah 46:7",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 46,
+  "translation": "Кто это, поднимается как Нил, как реки взволнованы воды его?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кто"
+    },
+    {
+      "surface": "זה",
+      "gloss": "это"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "как Нил"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "поднимается"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "как реки"
+    },
+    {
+      "surface": "יתגעשו",
+      "gloss": "взволнованы"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "воды его"
+    }
+  ],
+  "timestamp": "2026-08-03T04:05:26.085131781Z",
+  "model": "glm-4.5"
+}

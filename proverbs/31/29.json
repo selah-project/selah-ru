@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "proverbs 31:29",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "Многие дочери проявили доблесть, но ты возвысилась над ⟨неё⟩ всеми.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "Многие"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "дочери"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "проявили"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "доблесть"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "над ⟨нею⟩ всеми"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "возвысилась"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כלנה",
+      "gloss": "всеми"
+    }
+  ],
+  "timestamp": "2026-08-03T10:08:58.192061884Z",
+  "model": "glm-4.5"
+}

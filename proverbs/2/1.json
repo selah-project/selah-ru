@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Сын мой, если ⟨ты⟩ примешь ⟨את⟩ слова мои и заповеди мои сохранишь при себе",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сын мой"
+    },
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "примешь"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "слова мои"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "и заповеди мои"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "сохранишь"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "при себе"
+    }
+  ],
+  "timestamp": "2026-08-03T09:21:55.587797933Z",
+  "model": "glm-4.5"
+}

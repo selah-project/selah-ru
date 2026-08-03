@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "genesis 47:28",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 47,
+  "translation": "И жил Яаков в земле Мицраим семнадцать лет, и были дни Яакова, годы жизни его, сорок семь лет и сто лет",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "И жил"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земле"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семнадцать"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и были"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дни"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    },
+    {
+      "surface": "שני",
+      "gloss": "годы"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "жизни его"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семь"
+    },
+    {
+      "surface": "שנים",
+      "gloss": ""
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "и сорок"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "и сто"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    }
+  ],
+  "timestamp": "2026-08-02T19:51:35.576218254Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И скажет отец девушки старейшинам: дочь мою ⟨את⟩ Я дал этому мужу в жёны, и возненавидел он её",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "и скажет"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отец"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "девушки"
+    },
+    {
+      "surface": "אל",
+      "gloss": "старейшинам"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "к"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дочь мою"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "дочь мою"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "дал"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "этому мужу"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "этому"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "в жёны"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "и возненавидел он её"
+    }
+  ],
+  "timestamp": "2026-08-02T22:12:06.219809076Z",
+  "model": "glm-4.5"
+}

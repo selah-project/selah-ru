@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И сыны Эли — сыны Белияла; не знали ⟨את⟩ ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И сыны"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Эли"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Белияла"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знали"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T23:14:37.169009189Z",
+  "model": "glm-4.5"
+}

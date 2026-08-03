@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "а имя дочери Ашера: Серах",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "а имя"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочери"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашера"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "Серах"
+    }
+  ],
+  "timestamp": "2026-08-02T21:39:39.009804580Z",
+  "model": "glm-4.5"
+}

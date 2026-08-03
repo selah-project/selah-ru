@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И укрепил ЯХВЕ ⟨את⟩ сердце фараона, и не послушал он их, как говорил ЯХВЕ Моше.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "и укрепил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сердце"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сердце"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "фараона"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "послушал"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "их"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-08-03T17:50:38.614946591Z",
+  "model": "glm-4.5"
+}

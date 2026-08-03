@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "numbers 13:4",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "а вот имена их: для колена Рувима, Шаммуа, сын Заккура",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "а вот"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "имена их"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "для колена"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Рувима"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "Шаммуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Заккура"
+    }
+  ],
+  "timestamp": "2026-08-02T21:24:43.836393839Z",
+  "model": "glm-4.5"
+}

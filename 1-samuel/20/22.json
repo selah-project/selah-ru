@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "1-samuel 20:22",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "А если ⟨так⟩ скажу отроку: вот, стрелы ⟨за⟩ тобою, то ⟨иди⟩, ибо ЯХВЕ отправил тебя.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А если"
+    },
+    {
+      "surface": "כה",
+      "gloss": "⟨так⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "скажу"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "отроку"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "стрелы ⟨את⟩",
+      "marks": "стрелы"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "⟨за⟩ тобою"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": ""
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨иди⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "отправил тебя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T23:36:13.549412550Z",
+  "model": "glm-4.5"
+}

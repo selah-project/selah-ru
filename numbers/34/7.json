@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "numbers 34:7",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "И ⟨это⟩ ⟨будет⟩ для вас граница ⟨севера⟩: от ⟨Великого⟩ моря отметьте себе ⟨гору⟩ ⟨Гор⟩",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "И ⟨это⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨будет⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "для вас"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "граница"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "⟨севера⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "הים",
+      "gloss": "⟨Великого⟩",
+      "marks": "моря"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "моря"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "отметьте"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "себе"
+    },
+    {
+      "surface": "הר",
+      "gloss": "⟨гору⟩",
+      "marks": "Гор"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "Гор"
+    }
+  ],
+  "timestamp": "2026-08-02T21:48:29.171849248Z",
+  "model": "glm-4.5"
+}

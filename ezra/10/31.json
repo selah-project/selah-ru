@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "ezra 10:31",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "и сыновья Харама: Элиэзер, Ишиия, Малхия, Шемая, Шимон",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "и сыновья"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Харам"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Элиэзер"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Ишиия"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "Малхия"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемая"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимон"
+    }
+  ],
+  "timestamp": "2026-08-03T12:11:08.180652890Z",
+  "model": "glm-4.5"
+}

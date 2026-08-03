@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Мой возлюбленный — мой, и я — ⟨его⟩, пасущий среди лилий",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "Мой возлюбленный"
+    },
+    {
+      "surface": "לי",
+      "gloss": "— мой"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "и я —"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨его⟩"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "пасущий"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "среди лилий"
+    }
+  ],
+  "timestamp": "2026-08-03T10:55:05.881645380Z",
+  "model": "glm-4.5"
+}

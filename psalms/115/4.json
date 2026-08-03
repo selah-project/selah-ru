@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 115,
+  "translation": "Идолы их — серебро и золото, дело рук человеческих.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "Идолы их"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "серебро"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "и золото"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "дело"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "рук"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человеческих"
+    }
+  ],
+  "timestamp": "2026-08-03T08:45:21.221978603Z",
+  "model": "glm-4.5"
+}

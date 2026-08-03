@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Гой! Страна ⟨с⟩ гудением крыльев, которая ⟨за⟩ реками Куша",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Гой!"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Страна"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "⟨с⟩ гудением"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "крыльев"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которая"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "⟨за⟩"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "реками"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куша"
+    }
+  ],
+  "timestamp": "2026-08-03T02:01:07.287588236Z",
+  "model": "glm-4.5"
+}

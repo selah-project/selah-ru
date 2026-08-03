@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 116,
+  "translation": "Возлюбил [Я], что ЯХВЕ услышал голос мой, моление моё",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Возлюбил [Я]"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "услышал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "голос мой, моление моё"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "голос мой"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "моление моё"
+    }
+  ],
+  "timestamp": "2026-08-03T08:46:35.278352871Z",
+  "model": "glm-4.5"
+}

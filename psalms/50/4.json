@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 50,
+  "translation": "Он призовёт ⟨с⟩ небес ⟨с⟩высоты и ⟨с⟩ землёй, чтобы судить народ Свой",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "призовёт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "⟨с⟩высоты"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и ⟨с⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землёй"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "чтобы судить"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "народ Свой"
+    }
+  ],
+  "timestamp": "2026-08-03T07:28:17.011838244Z",
+  "model": "glm-4.5"
+}

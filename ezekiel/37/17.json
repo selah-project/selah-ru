@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "ezekiel 37:17",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "и сблизь их ⟨את⟩ один к другому для тебя в одно дерево, и станут они единством в руке твоей",
+  "tokens": [
+    {
+      "surface": "וקרב",
+      "gloss": "и сблизь"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "один"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "другому"
+    },
+    {
+      "surface": "לך",
+      "gloss": "для тебя"
+    },
+    {
+      "surface": "לעץ",
+      "gloss": "в дерево"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одно"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "и станут"
+    },
+    {
+      "surface": "לאחדים",
+      "gloss": "единством"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "в руке твоей"
+    }
+  ],
+  "timestamp": "2026-08-03T05:02:50.410077398Z",
+  "model": "glm-4.5"
+}

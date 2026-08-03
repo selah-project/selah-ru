@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 2:9",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Тогда ты поймёшь праведность и суд и прямоту — ⟨всякий⟩ ⟨добрый⟩ путь.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "тогда"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "поймёшь"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "праведность"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "и суд"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "и прямоту"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨всякий⟩",
+      "marks": "путь"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "путь"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨добрый⟩",
+      "marks": "путь"
+    }
+  ],
+  "timestamp": "2026-08-03T09:22:15.103369342Z",
+  "model": "glm-4.5"
+}

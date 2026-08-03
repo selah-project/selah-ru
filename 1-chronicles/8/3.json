@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И были сыновья у Бэ́лы: Аддар и Гера и Авигуд",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И были"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "у Бэ́лы"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Аддар"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "и Гера"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "и Авигуд"
+    }
+  ],
+  "timestamp": "2026-08-03T12:48:52.587121630Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "judges 2:5",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И нарекли ⟨это⟩ имя ⟨того⟩ места Бохим, и принесли там жертвы ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "И нарекли"
+    },
+    {
+      "surface": "שם",
+      "gloss": "имя"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "⟨того⟩ места"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨это⟩"
+    },
+    {
+      "surface": "בכים",
+      "gloss": "Бохим"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "и принесли"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T22:50:28.920276073Z",
+  "model": "glm-4.5"
+}

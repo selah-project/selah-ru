@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "2-chronicles 35:26",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "А прочее ⟨деяний⟩ Йошияху и его хеседа, как написано в Торе ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "а прочее"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "⟨деяний⟩",
+      "marks": "деяний"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Йошияху"
+    },
+    {
+      "surface": "וחסדיו",
+      "gloss": "и его хеседа"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "как написано"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "в Торе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T14:14:25.719609806Z",
+  "model": "glm-4.5"
+}

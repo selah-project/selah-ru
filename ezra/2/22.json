@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "люди Нетофы, пятьдесят и ⟨шесть⟩",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "люди"
+    },
+    {
+      "surface": "נטפה",
+      "gloss": "Нетофы"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "пятьдесят"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "и ⟨шесть⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T11:58:21.577709755Z",
+  "model": "glm-4.5"
+}

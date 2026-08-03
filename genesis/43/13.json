@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 43,
+  "translation": "и ⟨את⟩ брата вашего возьмите, и встаньте, вернитесь к человеку",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "брата вашего"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "брата вашего"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "возьмите"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "и встаньте"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "вернитесь"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "человеку"
+    }
+  ],
+  "timestamp": "2026-08-02T19:47:21.608605347Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 49,
+  "translation": "И после этого Я возвращу ⟨את⟩ плен сынов Аммона, — слово ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "И после"
+    },
+    {
+      "surface": "כן",
+      "gloss": "этого"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "Я возвращу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "плен сынов Аммона"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "плен"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммона"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T04:08:55.789121541Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "job 22:15",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Путь ⟨древний⟩ ⟨ты⟩ будешь хранить, что ⟨тропили⟩ люди ⟨ Ava т»?",
+  "tokens": [
+    {
+      "surface": "הארח",
+      "gloss": "Путь"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "⟨древний⟩"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "⟨ты⟩ будешь хранить"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "⟨тропили⟩"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "люди"
+    },
+    {
+      "surface": "און",
+      "gloss": "⟨ Ava т»"
+    }
+  ],
+  "timestamp": "2026-08-03T10:29:39.045154928Z",
+  "model": "glm-4.5"
+}

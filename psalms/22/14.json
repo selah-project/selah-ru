@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Раскрыли на меня свои уста, как лев терзающий и рычащий",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "раскрыли"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на меня"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "свои уста"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "лев"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "терзающий"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "и рычащий"
+    }
+  ],
+  "timestamp": "2026-08-03T06:55:35.694302963Z",
+  "model": "glm-4.5"
+}

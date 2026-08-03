@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "isaiah 21:16",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "ибо так сказал Адонай мне: ещё год, как годы наёмника, и истощится вся слава Кедара.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "ещё"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "год"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "как"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "годы ⟨наёмника⟩"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "и истощится"
+    },
+    {
+      "surface": "כל",
+      "gloss": "вся"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "слава"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Кедара"
+    }
+  ],
+  "timestamp": "2026-08-03T02:04:18.679249530Z",
+  "model": "glm-4.5"
+}

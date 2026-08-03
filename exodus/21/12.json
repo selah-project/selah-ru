@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Ударивший ⟨את⟩ мужа ⟨и⟩ он умер — умереть ⟨должен⟩ он смертью",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "Ударивший"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мужа"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "⟨и⟩ он умер"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смертью"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "умереть ⟨должен⟩ он"
+    }
+  ],
+  "timestamp": "2026-08-02T20:14:43.154495364Z",
+  "model": "glm-4.5"
+}

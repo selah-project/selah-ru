@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "ezra 2:34",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Сыновья Иерихона: триста сорок ⟨и⟩ пять",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Иерихона"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "триста"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сорок"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "пять"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "⟨и⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T11:59:12.011621751Z",
+  "model": "glm-4.5"
+}

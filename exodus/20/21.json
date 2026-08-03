@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И стоял народ ⟨издалека⟩, а Моше приблизился к ⟨тёмному⟩ облаку, где ⟨был⟩ Элохим.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "и стоял"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "издалека"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "а Моше"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "приблизился"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "облаку"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "где"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨был⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-08-02T20:13:55.471960337Z",
+  "model": "glm-4.5"
+}

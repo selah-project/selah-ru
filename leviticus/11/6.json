@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "и ⟨את⟩ зайца, так как он жуёт жвачку, но копыта не разделяет — нечист он вам;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "зайца"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "зайца"
+    },
+    {
+      "surface": "כי",
+      "gloss": "так как"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "жуёт"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "жвачку"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "копыта"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "разделяет"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "нечист"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    }
+  ],
+  "timestamp": "2026-08-02T20:50:17.503727491Z",
+  "model": "glm-4.5"
+}

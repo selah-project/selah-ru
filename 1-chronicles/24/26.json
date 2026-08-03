@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "1-chronicles 24:26",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Сыновья Мерари: Махли и Муши; сыновья Яазия́ху, сына его:",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мерари"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Махли"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "и Муши"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "יעזיהו",
+      "gloss": "Яазия́ху"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "сына его"
+    }
+  ],
+  "timestamp": "2026-08-03T13:11:16.745492059Z",
+  "model": "glm-4.5"
+}

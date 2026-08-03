@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "numbers 33:11",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "И отправились ⟨от⟩ Ям-Суф и расположились ⟨в⟩ пустыне Син.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И отправились"
+    },
+    {
+      "surface": "מים",
+      "gloss": "⟨от⟩"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Ям-Суф"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и расположились"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "⟨в⟩ пустыне"
+    },
+    {
+      "surface": "סין",
+      "gloss": "Син"
+    }
+  ],
+  "timestamp": "2026-08-02T21:46:56.072699654Z",
+  "model": "glm-4.5"
+}

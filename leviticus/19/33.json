@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "И когда ⟨будет⟩ проживать пришелец с вами в земле вашей, не угнетайте ⟨את⟩ его.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "И когда"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "⟨будет⟩ проживать"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "с вами"
+    },
+    {
+      "surface": "גר",
+      "gloss": "пришелец"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "в земле вашей"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "угнетайте"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "его"
+    }
+  ],
+  "timestamp": "2026-08-02T21:00:00.614477330Z",
+  "model": "glm-4.5"
+}

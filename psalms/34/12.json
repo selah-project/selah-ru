@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "Идите, сыновья, слушайте меня: страх ЯХВЕ я научу вас",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "идите"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "слушайте"
+    },
+    {
+      "surface": "לי",
+      "gloss": "меня"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "страх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "я научу вас"
+    }
+  ],
+  "timestamp": "2026-08-03T07:09:57.402959685Z",
+  "model": "glm-4.5"
+}

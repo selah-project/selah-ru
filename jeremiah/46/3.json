@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "jeremiah 46:3",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 46,
+  "translation": "Выстройте щит и ⟨את⟩ нагрудник и приближайтесь к сражению",
+  "tokens": [
+    {
+      "surface": "ערכו",
+      "gloss": "Выстройте"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "щит"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "и ⟨את⟩",
+      "marks": "нагрудник"
+    },
+    {
+      "surface": "וגשו",
+      "gloss": "приближайтесь"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "к сражению"
+    }
+  ],
+  "timestamp": "2026-08-03T04:05:02.638096505Z",
+  "model": "glm-4.5"
+}

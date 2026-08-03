@@ -1,0 +1,64 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И повелел Паро о нём люди, и отправили ⟨את⟩ его, и ⟨את⟩ жену его, и ⟨את⟩ всё, что ⟨есть⟩ у него",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "и повелел"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "о нём"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "люди"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "и отправили"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "его"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "жену его"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "жену его"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "всё"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "לו",
+      "gloss": "у него"
+    }
+  ],
+  "timestamp": "2026-08-02T19:09:24.034415060Z",
+  "model": "glm-4.5"
+}

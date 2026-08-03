@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "сыновья Харима, триста двадцать",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Харим"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотен"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и двадцать"
+    }
+  ],
+  "timestamp": "2026-08-03T11:57:59.438253334Z",
+  "model": "glm-4.5"
+}

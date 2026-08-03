@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "ибо ⟨есть⟩ слова многие умножающие ⟨дыхание⟩, что ⟨в⟩ выгода ⟨человеку⟩",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨есть⟩"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "слова"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "многие"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "умножающие"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "⟨дыхание⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "⟨в⟩ выгода"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "⟨человеку⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T11:20:36.092422419Z",
+  "model": "glm-4.5"
+}

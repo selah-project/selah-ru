@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "и четыре больших зверя вышли из моря, отличные один ⟨от⟩ другого",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "и четыре"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "больших зверей"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "больших"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "вышли"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "моря"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "отличные"
+    },
+    {
+      "surface": "דא",
+      "gloss": "один"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨от⟩"
+    },
+    {
+      "surface": "דא",
+      "gloss": "другого"
+    }
+  ],
+  "timestamp": "2026-08-03T11:48:17.169902506Z",
+  "model": "glm-4.5"
+}

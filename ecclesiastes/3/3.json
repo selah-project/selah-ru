@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "время убивать и время исцелять, время разрушать и время строить",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "время"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "убивать"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и время"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "исцелять"
+    },
+    {
+      "surface": "עת",
+      "gloss": "время"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "разрушать"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и время"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "строить"
+    }
+  ],
+  "timestamp": "2026-08-03T11:17:28.813392375Z",
+  "model": "glm-4.5"
+}

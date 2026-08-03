@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "jeremiah 42:7",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 42,
+  "translation": "И было по ⟨истечении⟩ десяти дней, ⟨и⟩ было слово ЯХВЕ к Ирмиягу",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и было"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "по ⟨истечении⟩"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "десяти"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дней"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "⟨и⟩ было"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмиягу"
+    }
+  ],
+  "timestamp": "2026-08-03T04:00:37.369916221Z",
+  "model": "glm-4.5"
+}

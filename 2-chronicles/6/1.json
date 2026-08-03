@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Тогда сказал Шеломо: «ЯХВЕ сказал [быть] в ⟨толстом⟩ мраке».",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тогда"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "[быть]"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "в ⟨толстом⟩ мраке"
+    }
+  ],
+  "timestamp": "2026-08-03T13:27:33.931559958Z",
+  "model": "glm-4.5"
+}

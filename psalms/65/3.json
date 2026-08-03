@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 65,
+  "translation": "Слышащий молитву, к Тебе придёт всякая плоть.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Слышащий"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "молитву"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "к Тебе"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всякая"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "плоть"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "придёт"
+    }
+  ],
+  "timestamp": "2026-08-03T07:44:05.937099594Z",
+  "model": "glm-4.5"
+}

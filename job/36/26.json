@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "job 36:26",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "Вот, Эль превелик, и ⟨мы⟩ не знаем, числа лет Его и ⟨нет⟩ изыскания",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "вот"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эль"
+    },
+    {
+      "surface": "שגיא",
+      "gloss": "превелик"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "не"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "числа"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "лет Его"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "изыскания"
+    }
+  ],
+  "timestamp": "2026-08-03T10:47:20.219024511Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "jeremiah 49:35",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 49,
+  "translation": "Так говорит ЯХВЕ Цеваот: вот, Я ломаю ⟨את⟩ лук Элама, начало ⟨их⟩ могущества",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "говорит"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "вот"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ломаю"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лук Элама"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "лук"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Элама"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "начало"
+    },
+    {
+      "surface": "גבורתם",
+      "gloss": "могущества"
+    }
+  ],
+  "timestamp": "2026-08-03T04:09:50.040129828Z",
+  "model": "glm-4.5"
+}

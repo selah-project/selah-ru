@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "proverbs 29:12",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "Если правитель внимает ⟨слову⟩ лжи, все ⟨его⟩ служители — нечестивцы",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "правитель"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "внимает"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨слову⟩"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лжи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "⟨его⟩ служители"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивцы"
+    }
+  ],
+  "timestamp": "2026-08-03T10:06:08.017585922Z",
+  "model": "glm-4.5"
+}

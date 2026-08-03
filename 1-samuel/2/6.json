@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "ЯХВЕ умерщвляет и оживляет, низводит в Шеол и поднимает.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ממית",
+      "gloss": "умерщвляет"
+    },
+    {
+      "surface": "ומחיה",
+      "gloss": "и оживляет"
+    },
+    {
+      "surface": "מוריד",
+      "gloss": "низводит"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "и поднимает"
+    }
+  ],
+  "timestamp": "2026-08-02T23:14:59.013313558Z",
+  "model": "glm-4.5"
+}

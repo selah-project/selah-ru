@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "nehemiah 10:14",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Ходия, Бани, Бенину.",
+  "tokens": [
+    {
+      "surface": "הודיה",
+      "gloss": "Ходия"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Бани"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "Бенину"
+    }
+  ],
+  "timestamp": "2026-08-03T12:27:49.450263505Z",
+  "model": "glm-4.5"
+}

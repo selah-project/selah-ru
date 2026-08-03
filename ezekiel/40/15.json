@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "ezekiel 40:15",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "И от ⟨лица⟩ ворот ⟨входа⟩ до ⟨лица⟩ vestibule ⟨внутренних⟩ ворот — пятьдесят локтей.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "И от"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨лица⟩"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ворот"
+    },
+    {
+      "surface": "היאתון",
+      "gloss": "⟨входа⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "до"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨лица⟩"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "vestibule"
+    },
+    {
+      "surface": "השער",
+      "gloss": "⟨внутренних⟩ ворот"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": ""
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "пятьдесят"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "локтей"
+    }
+  ],
+  "timestamp": "2026-08-03T05:07:02.487240817Z",
+  "model": "glm-4.5"
+}

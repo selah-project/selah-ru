@@ -1,0 +1,27 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "перстни и ⟨את⟩ серьги для носа",
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "перстни"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "и",
+      "marks": "серьги для носа"
+    },
+    {
+      "surface": "האף",
+      "gloss": "⟨את⟩",
+      "marks": "носа"
+    }
+  ],
+  "timestamp": "2026-08-03T01:46:13.148465778Z",
+  "model": "glm-4.5"
+}

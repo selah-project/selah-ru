@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "и родились ему семь сыновей и три дочери",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "и родились"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "семь"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "и три"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "дочери"
+    }
+  ],
+  "timestamp": "2026-08-03T10:09:32.875103628Z",
+  "model": "glm-4.5"
+}

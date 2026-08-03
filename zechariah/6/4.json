@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "zechariah 6:4",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И я отвечал и говорил ангелу, говорящему со мной: что эти, Адонай?",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "И я отвечал"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и говорил"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ангелу"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "говорящему"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "со мной"
+    },
+    {
+      "surface": "בי",
+      "gloss": "⟨во⟩ мне"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "эти"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    }
+  ],
+  "timestamp": "2026-08-03T06:12:52.868608202Z",
+  "model": "glm-4.5"
+}

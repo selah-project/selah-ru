@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "1-chronicles 6:32",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "сын Махли, сын Муши, сын Мерари, сын Леви",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Махли"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "Муши"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мерари"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леви"
+    }
+  ],
+  "timestamp": "2026-08-03T12:44:37.091801013Z",
+  "model": "glm-4.5"
+}

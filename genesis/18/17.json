@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И сказал ЯХВЕ: ⟨Не⟩ скрывать ли мне от Авраама, что я ⟨делаю⟩,",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "И сказал ЯХВЕ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "скрывать ли"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мне"
+    },
+    {
+      "surface": "מאברהם",
+      "gloss": "от Авраама"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "делаю"
+    }
+  ],
+  "timestamp": "2026-08-02T19:14:53.213861607Z",
+  "model": "glm-4.5"
+}

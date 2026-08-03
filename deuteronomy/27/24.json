@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "deuteronomy 27:24",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "Проклят ударяющий ⟨своего⟩ ближнего тайно, и скажет весь ⟨этот⟩ народ: амен.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "проклят"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ударяющий"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "⟨своего⟩ ближнего"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "тайно"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и скажет"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь ⟨этот⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "амен"
+    }
+  ],
+  "timestamp": "2026-08-02T22:16:42.938149426Z",
+  "model": "glm-4.5"
+}

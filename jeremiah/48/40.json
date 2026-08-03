@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "jeremiah 48:40",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 48,
+  "translation": "Ибо так сказал ЯХВЕ: вот, как орёл он понесётся, и раскинет ⟨свои⟩ крылья к Моаву",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "как орёл"
+    },
+    {
+      "surface": "ידאה",
+      "gloss": "он понесётся"
+    },
+    {
+      "surface": "ופרש",
+      "gloss": "и раскинет"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "⟨свои⟩ крылья",
+      "marks": "крылья"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаву"
+    }
+  ],
+  "timestamp": "2026-08-03T04:08:27.855146196Z",
+  "model": "glm-4.5"
+}

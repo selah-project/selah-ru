@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Хурай из ⟨потоков⟩ Гааша, Авиэль ⟨из⟩ Араватитян,",
+  "tokens": [
+    {
+      "surface": "חורי",
+      "gloss": "Хурай"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "из ⟨потоков⟩"
+    },
+    {
+      "surface": "געש",
+      "gloss": "Гааша"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "Авиэль"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "⟨из⟩ Араватитян"
+    }
+  ],
+  "timestamp": "2026-08-03T12:54:03.368428549Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "jeremiah 1:14",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И сказал ЯХВЕ мне: от севера раскроется зло ⟨на⟩ всех жителей ⟨этой⟩ земли.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "от севера"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "раскроется"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩",
+      "marks": "всех жителей"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "жителей"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨этой⟩ земли"
+    }
+  ],
+  "timestamp": "2026-08-03T02:58:01.556823574Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 10:13",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Зачем нечестивец презирает Элохим? ⟨он⟩ сказал в своём сердце: не взыщешь",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "зачем"
+    },
+    {
+      "surface": "מה",
+      "gloss": "—"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "презирает"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "нечестивец"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "в своём сердце"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "взыщешь"
+    }
+  ],
+  "timestamp": "2026-08-03T06:40:19.433968391Z",
+  "model": "glm-4.5"
+}

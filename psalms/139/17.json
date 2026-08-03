@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 139:17",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 139,
+  "translation": "И мне, как ⟨драгоценны⟩ мысли Твои, Эль! как ⟨велико⟩ число их!",
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "И мне"
+    },
+    {
+      "surface": "מה",
+      "gloss": "как ⟨драгоценны⟩"
+    },
+    {
+      "surface": "יקרו",
+      "gloss": "мысли Твои"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "мысли Твои"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эль"
+    },
+    {
+      "surface": "מה",
+      "gloss": "как"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "⟨велико⟩"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "число их"
+    }
+  ],
+  "timestamp": "2026-08-03T09:10:09.381284100Z",
+  "model": "glm-4.5"
+}

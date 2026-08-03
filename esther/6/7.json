@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И сказал Аман царю: для человека, ⟨которого⟩ царь желает почтить",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Аман"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "איש",
+      "gloss": "для человека"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨которого⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "желает"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "почтить"
+    }
+  ],
+  "timestamp": "2026-08-03T11:33:12.587860902Z",
+  "model": "glm-4.5"
+}

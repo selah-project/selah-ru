@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "amos 2:16",
+  "book": "amos",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И мужественный сердцем среди сильных ⟨тот⟩ бежит нагим в тот день, — ne’um ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "ואמיץ",
+      "gloss": "И мужественный"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "сердцем"
+    },
+    {
+      "surface": "בגבורים",
+      "gloss": "среди сильных"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "нагим"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "⟨тот⟩ бежит"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в тот день"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "—"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ne’um"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T05:35:43.737805280Z",
+  "model": "glm-4.5"
+}

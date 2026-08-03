@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "2-chronicles 25:22",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "И был поражён Йеуда перед Исраэлем, и бежали, каждый ⟨в⟩ шатры свои.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "и был поражён"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеуда"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраэль"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "и бежали"
+    },
+    {
+      "surface": "איש",
+      "gloss": "каждый"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "в шатры свои"
+    }
+  ],
+  "timestamp": "2026-08-03T13:59:26.242449986Z",
+  "model": "glm-4.5"
+}

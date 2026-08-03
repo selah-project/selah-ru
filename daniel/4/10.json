@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "daniel 4:10",
+  "book": "daniel",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Вот видения ⟨моей⟩ головы на моем ложе, и вот, ⟨את⟩ страж и святой сошли с небес",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "видения"
+    },
+    {
+      "surface": "בחזוי",
+      "gloss": "⟨моей⟩ головы"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "на"
+    },
+    {
+      "surface": "על",
+      "gloss": "моем ложе"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "и"
+    },
+    {
+      "surface": "ואלו",
+      "gloss": "вот"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "וקדיש",
+      "gloss": "страж"
+    },
+    {
+      "surface": "מן",
+      "gloss": "святой"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "с"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "небес"
+    }
+  ],
+  "timestamp": "2026-08-03T11:44:03.701308919Z",
+  "model": "glm-4.5"
+}

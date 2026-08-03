@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Ибо Ты не Эль, желающий беззакония; ⟨не⟩ проживет у Тебя зло.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эль"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "желающий"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "беззакония"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "проживет у"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-08-03T06:35:33.785788544Z",
+  "model": "glm-4.5"
+}

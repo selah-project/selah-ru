@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "proverbs 22:28",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Не сдвигай ⟨⟩ межи ⟨⟩ древней, ⟨⟩ которую поставили отцы твои",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "сдвигай"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "⟨⟩ межи ⟨⟩"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "⟨⟩ древней"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨⟩ которую"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "поставили"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "отцы твои"
+    }
+  ],
+  "timestamp": "2026-08-03T09:49:29.347531469Z",
+  "model": "glm-4.5"
+}

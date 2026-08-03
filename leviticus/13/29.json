@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И когда ⟨будет⟩ у мужчины или женщины поражение на голове или в бороде",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "и когда [будет] у мужчины"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "женщины"
+    },
+    {
+      "surface": "כי",
+      "gloss": "когда"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨будет⟩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у ⟨него\/неё⟩"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "поражение"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "на голове"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "в бороде"
+    }
+  ],
+  "timestamp": "2026-08-02T20:52:26.149441021Z",
+  "model": "glm-4.5"
+}

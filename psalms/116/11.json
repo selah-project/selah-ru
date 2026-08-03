@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 116,
+  "translation": "Я сказал в поспешности моей: 'Вся человек ⟨есть⟩ ложь'.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "в поспешности моей"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Вся"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "человек"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ложь"
+    }
+  ],
+  "timestamp": "2026-08-03T08:46:39.333889126Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "И сыны Паллу: Элиав:",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И сыны"
+    },
+    {
+      "surface": "פלוא",
+      "gloss": "Паллу"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Элиав"
+    }
+  ],
+  "timestamp": "2026-08-02T21:38:51.536642049Z",
+  "model": "glm-4.5"
+}

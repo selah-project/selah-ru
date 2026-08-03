@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "jeremiah 6:24",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Мы слышали слух его; ослабели наши руки, distress ⟨צרה⟩ овладела нами, содрогание, как рождающая.",
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "Мы слышали"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слух его"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "слух его"
+    },
+    {
+      "surface": "רפו",
+      "gloss": "ослабели"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "наши руки"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "distress"
+    },
+    {
+      "surface": "החזיקתנו",
+      "gloss": "овладела нами"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "содрогание"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "как рождающая"
+    }
+  ],
+  "timestamp": "2026-08-03T03:05:55.290479820Z",
+  "model": "glm-4.5"
+}

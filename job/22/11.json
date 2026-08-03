@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "job 22:11",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Или тьма, что ⟨ты⟩ не видишь, и изобилие вод покроет ⟨тебя⟩",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Или"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "тьма"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "видишь"
+    },
+    {
+      "surface": "ושפעת",
+      "gloss": "и изобилие"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вод"
+    },
+    {
+      "surface": "תכסך",
+      "gloss": "покроет"
+    }
+  ],
+  "timestamp": "2026-08-03T10:29:25.347161845Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "Слова Лемуэля, царя; пророчество, ⟨которое⟩ учила его мать:",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Слова"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Лемуэля"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "משא",
+      "gloss": "пророчество"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨которое⟩"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "учила"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "мать"
+    }
+  ],
+  "timestamp": "2026-08-03T10:08:17.602608712Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 51,
+  "translation": "Скрой лицо Твоё от грехов моих, и все беззакония мои сотри",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "скрой"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лицо Твоё"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "от грехов моих"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и все"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "беззакония мои"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "сотри"
+    }
+  ],
+  "timestamp": "2026-08-03T07:29:30.448364575Z",
+  "model": "glm-4.5"
+}

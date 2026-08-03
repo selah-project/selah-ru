@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И если ⟨это⟩ правда, и ⟨не⟩ найдены ⟨признаки⟩ девственности у ⟨девушки⟩:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "И если"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "правда"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨это⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": ""
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "найдены"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "⟨признаки⟩ девственности"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "у ⟨девушки⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T22:12:18.801644838Z",
+  "model": "glm-4.5"
+}

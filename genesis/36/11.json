@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "genesis 36:11",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "И сыновья Элифаза ⟨были⟩: Феман, Омар, Цефо и Гаэтам и Кеназ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "и сыновья"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨Элифаза⟩"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "⟨были⟩"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Феман"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "Омар"
+    },
+    {
+      "surface": "צפו",
+      "gloss": "Цефо"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "и Гаэтам"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "и Кеназ"
+    }
+  ],
+  "timestamp": "2026-08-02T19:38:13.093788379Z",
+  "model": "glm-4.5"
+}

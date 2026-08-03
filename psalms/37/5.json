@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "Поверь ⟨тебе⟩ ⟨את⟩ путь ⟨свой⟩ на ЯХВЕ и уповай на Него, и Он совершит ⟨это⟩",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "Поверь"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨тебе⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "путь ⟨свой⟩"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "и уповай"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на Него"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "и Он"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "совершит ⟨это⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T07:15:13.108979956Z",
+  "model": "glm-4.5"
+}

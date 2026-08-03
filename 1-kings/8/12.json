@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Тогда сказал Шеломо: «ЯХВЕ сказал ⟨обитать⟩ в густой мгле».",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тогда"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "⟨обитать⟩"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "в густой мгле"
+    }
+  ],
+  "timestamp": "2026-08-03T00:32:08.553561647Z",
+  "model": "glm-4.5"
+}

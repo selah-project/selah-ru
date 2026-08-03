@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "и подведёт ⟨את⟩ её священник и поставит ⟨את⟩ её пред лице ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "и подведёт"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "её"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "священник"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "и поставит"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "её"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред лице"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T21:16:02.085772356Z",
+  "model": "glm-4.5"
+}

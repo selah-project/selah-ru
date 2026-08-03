@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И сказал ей Эли: до когда ты ⟨будешь⟩ пьяна? Убери ⟨את⟩ вино твоё от себя",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ей"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Эли"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "когда"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "ты ⟨будешь⟩ пьяна"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "убери"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "вино твоё"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "вино твоё"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "от себя"
+    }
+  ],
+  "timestamp": "2026-08-02T23:13:31.022681305Z",
+  "model": "glm-4.5"
+}

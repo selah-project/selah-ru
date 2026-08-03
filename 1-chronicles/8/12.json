@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Сыновья Элпаала: Эвер, и Мишаам, и Шамед; ⟨он⟩ построил ⟨את⟩ Оно и ⟨את⟩ Лод и его дочерние города.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Элпаала"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Эвер"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "и Мишаам"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "и Шамед"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "построил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Оно"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Оно"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Лод"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Лод"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "и его дочерние города"
+    }
+  ],
+  "timestamp": "2026-08-03T12:49:13.668475798Z",
+  "model": "glm-4.5"
+}

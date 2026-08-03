@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Двенадцать лет они служили ⟨את⟩ Кедорлаомеру, а тринадцать лет — мятеж.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "двенадцать"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "они служили"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Кедорлаомеру"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Кедорлаомеру"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "а тринадцать"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "мятеж"
+    }
+  ],
+  "timestamp": "2026-08-02T19:10:47.905425979Z",
+  "model": "glm-4.5"
+}

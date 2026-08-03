@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Сын мой, не ходи ⟨с⟩ ними ⟨по⟩ дороге, удержи ногу свою от стези их",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сын мой"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ходи"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "⟨по⟩ дороге"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨с⟩ ними"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "удержи"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ногу свою"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "от стези их"
+    }
+  ],
+  "timestamp": "2026-08-03T09:20:52.759223070Z",
+  "model": "glm-4.5"
+}

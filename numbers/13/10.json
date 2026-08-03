@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "numbers 13:10",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "для колена Завулона, Гаддиэль сын Соди",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "для колена"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Завулона"
+    },
+    {
+      "surface": "גדיאל",
+      "gloss": "Гаддиэль"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "סודי",
+      "gloss": "Соди"
+    }
+  ],
+  "timestamp": "2026-08-02T21:24:39.269657844Z",
+  "model": "glm-4.5"
+}

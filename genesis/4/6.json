@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И сказал ЯХВЕ Каину: почему ты ⟨разгневан⟩ и почему ⟨упало⟩ лицо твоё?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Каину"
+    },
+    {
+      "surface": "למה",
+      "gloss": "почему"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "разгневан"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ты"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "и почему"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "упало"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лицо твоё"
+    }
+  ],
+  "timestamp": "2026-08-02T17:47:37.494012731Z",
+  "model": "glm-4.5"
+}

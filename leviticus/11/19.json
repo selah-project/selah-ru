@@ -1,0 +1,48 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "и ⟨את⟩ аисту, ⟨את⟩ цапле по роду её, и ⟨את⟩ удоду, и ⟨את⟩ летучей мыши",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "аисту"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "аисту"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "цапле"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "по роду её"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "удоду"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "удоду"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "летучей мыши"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "летучей мыши"
+    }
+  ],
+  "timestamp": "2026-08-02T20:50:20.361157605Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "judges 17:1",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И был человек ⟨с⟩ горы Эфраима, и имя ⟨его⟩ Мика́йху",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И был"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человек"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "⟨с⟩ горы"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраима"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "и имя ⟨его⟩"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Мика́йху"
+    }
+  ],
+  "timestamp": "2026-08-02T23:07:33.617236825Z",
+  "model": "glm-4.5"
+}

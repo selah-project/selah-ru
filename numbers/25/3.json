@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "numbers 25:3",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "И прикрепился Израиль к Баал-Пеору, и воспылал гнев ЯХВЕ на Израиле",
+  "tokens": [
+    {
+      "surface": "ויצמד",
+      "gloss": "и прикрепился"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "к Баал-Пеору"
+    },
+    {
+      "surface": "פעור",
+      "gloss": ""
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "и воспылал"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гнев"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "на Израиле"
+    }
+  ],
+  "timestamp": "2026-08-02T21:38:04.450235425Z",
+  "model": "glm-4.5"
+}

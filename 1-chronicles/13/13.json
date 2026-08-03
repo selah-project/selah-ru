@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И не перенёс Давид ⟨את⟩ ковчег к себе, в город Давида, но отвёл его в дом Овед-Едома Гиттийца",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И не"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "перенёс"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ковчег"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "к себе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "город"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "но отвёл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Овед-Едома"
+    },
+    {
+      "surface": "אדם",
+      "gloss": ""
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Гиттийца"
+    }
+  ],
+  "timestamp": "2026-08-03T12:57:05.730263827Z",
+  "model": "glm-4.5"
+}

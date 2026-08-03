@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "и возьмут от крови и put на ⟨the⟩ две ⟨the⟩ косяка и на ⟨the⟩ перемычку на домах, в которых будут есть ⟨את⟩ в них",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "и возьмут"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "крови"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "и put"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "⟨the⟩ две"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "⟨the⟩ косяка"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "⟨the⟩ перемычку"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "домах"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "в которых"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "будут есть"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "в них"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "в них"
+    }
+  ],
+  "timestamp": "2026-08-02T20:06:15.348355577Z",
+  "model": "glm-4.5"
+}

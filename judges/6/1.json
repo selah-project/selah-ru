@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "judges 6:1",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И сделали сыны Израиля зло в глазах ЯХВЕ, и предал их ЯХВЕ в руку Мадьяна — семь лет.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "И сделали"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в глазах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "и предал их"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "в руку"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мадьяна"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семь"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "лет"
+    }
+  ],
+  "timestamp": "2026-08-02T22:54:41.728757647Z",
+  "model": "glm-4.5"
+}

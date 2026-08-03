@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 27:4",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "Жестокость ярости и вспышка гнева, но кто устоит ⟨перед⟩ завистью?",
+  "tokens": [
+    {
+      "surface": "אכזריות",
+      "gloss": "жестокость"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ярости"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "и вспышка"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гнева"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "но кто"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "устоит"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨перед⟩"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "завистью"
+    }
+  ],
+  "timestamp": "2026-08-03T10:03:18.163209538Z",
+  "model": "glm-4.5"
+}

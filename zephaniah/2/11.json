@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "zephaniah 2:11",
+  "book": "zephaniah",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Устрашит ЯХВЕ их, ибо истощит ⟨את⟩ всех элохим ⟨the⟩ земли, и поклонятся Ему, каждый со своего места, все островы ⟨the⟩ народов",
+  "tokens": [
+    {
+      "surface": "נורא",
+      "gloss": "Устрашит"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "их"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "רזה",
+      "gloss": "истощит"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всех элохим"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "элохим"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ земли"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "и поклонятся"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ему"
+    },
+    {
+      "surface": "איש",
+      "gloss": "каждый"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "со своего места"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "איי",
+      "gloss": "острова"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "⟨the⟩ народов"
+    }
+  ],
+  "timestamp": "2026-08-03T06:03:22.687193963Z",
+  "model": "glm-4.5"
+}

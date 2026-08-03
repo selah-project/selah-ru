@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "А сыновья Иссахара: Толá, и Пуа, Яшув, и Шимрон — четверо.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "А сыновья"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Иссахара"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "Толá"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "и Пуа"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "Яшув"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "и Шимрон"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "четверо"
+    }
+  ],
+  "timestamp": "2026-08-03T12:47:00.636162032Z",
+  "model": "glm-4.5"
+}

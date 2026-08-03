@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Узри ⟨את⟩ дело Элохима, ибо кто ⟨может⟩ выпрямить ⟨את⟩ то, что Он искривил?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Узри"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дело Элохима"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "дело"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохима"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "⟨может⟩"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "выпрямить"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "то, что Он искривил"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "то, что"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "Он искривил"
+    }
+  ],
+  "timestamp": "2026-08-03T11:21:35.471291731Z",
+  "model": "glm-4.5"
+}

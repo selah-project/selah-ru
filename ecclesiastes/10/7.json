@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Я видел слуг на конях и князей, ходящих как слуги по ⟨земле⟩.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Я видел"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "слуг"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "конях"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "и князей"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ходящих"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "как слуги"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨земле⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T11:24:15.183490495Z",
+  "model": "glm-4.5"
+}

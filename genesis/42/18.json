@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "genesis 42:18",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 42,
+  "translation": "И сказал им Иосиф в ⟨третий⟩ день: делайте это, и живите; ⟨ибо⟩ я ⟨богобоязнен⟩, ⟨את⟩ Элохима ⟨я⟩ страшусь.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Иосиф"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в ⟨день⟩"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "⟨третий⟩"
+    },
+    {
+      "surface": "зאת",
+      "gloss": "это"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "делайте"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "и живите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элохима"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Эlohima"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨я⟩"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "страшусь"
+    }
+  ],
+  "timestamp": "2026-08-02T19:46:13.345589225Z",
+  "model": "glm-4.5"
+}

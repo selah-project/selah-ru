@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И воззвал Шемуэль ⟨את⟩ народ к ЯХВЕ в Мицпу",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "И воззвал"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэль"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "в Мицпу"
+    }
+  ],
+  "timestamp": "2026-08-02T23:22:02.829738755Z",
+  "model": "glm-4.5"
+}

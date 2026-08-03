@@ -1,0 +1,91 @@
+{
+  "tier": "bulk",
+  "verse": 60,
+  "ref": "jeremiah 51:60",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 51,
+  "translation": "И записал Ирмеяу в одну книгу ⟨את⟩ вся беду, которая придёт на Вавилон, ⟨את⟩ все эти слова, написанные на Вавилон",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "И записал"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмеяу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "вся беду"
+    },
+    {
+      "surface": "כל",
+      "gloss": "вся"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "беду"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которая"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "придёт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "книгу"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одну"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "все эти слова"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "эти слова"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "эти"
+    },
+    {
+      "surface": "הכתבים",
+      "gloss": "написанные"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилон"
+    }
+  ],
+  "timestamp": "2026-08-03T04:14:24.986884482Z",
+  "model": "glm-4.5"
+}

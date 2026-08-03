@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Вот ты прекрасна, подруга моя; вот ты прекрасна; глаза твои — голуби.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "вот"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "прекрасна"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "подруга моя"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "вот"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "прекрасна"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "глаза твои"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "голуби"
+    }
+  ],
+  "timestamp": "2026-08-03T10:54:08.882216143Z",
+  "model": "glm-4.5"
+}

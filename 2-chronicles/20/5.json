@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "2-chronicles 20:5",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И стал Иехошафат ⟨в⟩ собрании Иуды и Иерусалима, в доме ЯХВЕ, перед новым двором",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "И стал"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Иехошафат"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "⟨в⟩ собрании"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иуды"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "и Иерусалима"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "в доме"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "двором"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "новым"
+    }
+  ],
+  "timestamp": "2026-08-03T13:52:11.802778864Z",
+  "model": "glm-4.5"
+}

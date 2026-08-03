@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "job 36:21",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "Остерегайся, не ⟨обращайся⟩ к ⟨авену⟩, ибо это ты избрал вместо страдания",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "остерегайся"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תפן",
+      "gloss": "обращайся"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "און",
+      "gloss": "авену"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "על",
+      "gloss": "вместо"
+    },
+    {
+      "surface": "זה",
+      "gloss": "это"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "ты избрал"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "страдания"
+    }
+  ],
+  "timestamp": "2026-08-03T10:46:58.659231099Z",
+  "model": "glm-4.5"
+}

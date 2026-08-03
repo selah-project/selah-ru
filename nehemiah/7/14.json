@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "nehemiah 7:14",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "сыновья Заккая, ⟨⟩ семьсот ⟨и⟩ шестьдесят",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "Заккая"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семьсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "⟨и⟩ шестьдесят"
+    }
+  ],
+  "timestamp": "2026-08-03T12:21:48.014757101Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "ибо искупитель их ⟨сильный⟩, Он будет вести ⟨את⟩ спор их с тобою",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "искупитель их"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "⟨сильный⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Он"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "будет вести"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "спор их"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "спор их"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "с тобою"
+    }
+  ],
+  "timestamp": "2026-08-03T18:27:21.859998346Z",
+  "model": "glm-4.5"
+}

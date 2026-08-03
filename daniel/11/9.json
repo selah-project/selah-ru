@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И придёт он в царство царя юга, и возвратится в свою землю.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "и придёт"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "в царство"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "юга"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "и возвратится"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "свою землю"
+    }
+  ],
+  "timestamp": "2026-08-03T11:53:44.582753391Z",
+  "model": "glm-4.5"
+}

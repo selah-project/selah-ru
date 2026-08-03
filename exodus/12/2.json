@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Этот месяц ⟨для⟩ вас — начало месяцев, первый он ⟨для⟩ вас ⟨в⟩ месяцах года.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "этот месяц"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "этот"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨для⟩ вас"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "начало"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "месяцев"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "первый"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨для⟩ вас"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "⟨в⟩ месяцах"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "года"
+    }
+  ],
+  "timestamp": "2026-08-02T20:06:01.217325171Z",
+  "model": "glm-4.5"
+}

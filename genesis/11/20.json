@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И жил Рэу тридцать два года и родил ⟨את⟩ Серуга",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "И жил"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Рэу"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "два"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "и тридцать"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "года"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и родил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Серуга"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Серуга"
+    }
+  ],
+  "timestamp": "2026-08-02T19:08:46.882113258Z",
+  "model": "glm-4.5"
+}

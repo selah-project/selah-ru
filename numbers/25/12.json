@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "Поэтому скажи: вот, ⟨я⟩ даю ему ⟨את⟩ завет Мой, мир",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "поэтому"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "скажи"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "вот, ⟨я⟩"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даю"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "завет Мой"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "завет Мой"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    }
+  ],
+  "timestamp": "2026-08-02T21:38:16.356980152Z",
+  "model": "glm-4.5"
+}

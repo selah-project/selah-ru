@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "jeremiah 6:14",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И исцелили они ⟨את⟩ излом народа моего легко, говоря: шалом, шалом, а ⟨нет⟩ шалома",
+  "tokens": [
+    {
+      "surface": "וירפאו",
+      "gloss": "И исцелили они"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "излом народа моего"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "излом"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народа моего"
+    },
+    {
+      "surface": "על",
+      "gloss": "легко"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": ""
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "шалом"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "шалом"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "а ⟨нет⟩"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "шалома"
+    }
+  ],
+  "timestamp": "2026-08-03T03:05:45.735854015Z",
+  "model": "glm-4.5"
+}

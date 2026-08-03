@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 57,
+  "ref": "leviticus 14:57",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "объяснить в день нечистого и в день чистого: это Тора проказы",
+  "tokens": [
+    {
+      "surface": "להורת",
+      "gloss": "объяснить"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в день"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "нечистого"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "и в день"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "чистого"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "это"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "проказы"
+    }
+  ],
+  "timestamp": "2026-08-02T20:54:43.909076153Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "1-kings 4:17",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Йегошафат, сын Паруаха, в Иссахароне:",
+  "tokens": [
+    {
+      "surface": "יהושפט",
+      "gloss": "Йегошафат"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "Паруаха"
+    },
+    {
+      "surface": "ביששכר",
+      "gloss": "в Иссахароне"
+    }
+  ],
+  "timestamp": "2026-08-03T00:23:44.262968295Z",
+  "model": "glm-4.5"
+}

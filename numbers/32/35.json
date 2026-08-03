@@ -1,0 +1,39 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "и ⟨Атрот-Шофан⟩, и ⟨Яацер⟩, и Иогбеха",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Атрот-Шофан"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Атрот"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "-Шофан"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Яацер"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Яацер"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "и Иогбеха"
+    }
+  ],
+  "timestamp": "2026-08-02T21:46:17.661464860Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "1-chronicles 25:21",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "Четырнадцатый Маттатия́ху, сыновья его и братья его, двенадцать:",
+  "tokens": [
+    {
+      "surface": "לארבעה",
+      "gloss": "четырнадцатый"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "מתתיהו",
+      "gloss": "Маттатия́ху"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "сыновья его"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "и братья его"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "двенадцать"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-08-03T13:12:59.142958862Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 95,
+  "translation": "когда отцы ваши ⟨искушали⟩ Меня, ⟨пытали⟩ Меня, ⟨даже⟩ видели ⟨дело⟩ Моё",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "когда"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "искушали"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "отцы ваши"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "пытали"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨даже⟩"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "видели"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "дело"
+    }
+  ],
+  "timestamp": "2026-08-03T08:23:50.600785237Z",
+  "model": "glm-4.5"
+}

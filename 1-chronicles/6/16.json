@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "1-chronicles 6:16",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И вот ⟨те, кого⟩ поставил Давид ⟨на⟩ руки пения в Доме ЯХВЕ, ⟨от⟩ покоя ⟨Арон⟩.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "И вот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨те, кого⟩"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "поставил"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "руки"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "пения"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Доме"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ממנוח",
+      "gloss": "⟨от⟩ покоя"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "⟨Арон⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T12:44:19.314688922Z",
+  "model": "glm-4.5"
+}

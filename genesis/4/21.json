@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "А имя брата его Йуваль: он ⟨был⟩ отец всех играющих на кинноре и на угаве",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "и имя"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "брата его"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Йуваль"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨был⟩"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отец"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "играющих"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "на кинноре"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "и на угаве"
+    }
+  ],
+  "timestamp": "2026-08-02T17:48:07.834825303Z",
+  "model": "glm-4.5"
+}

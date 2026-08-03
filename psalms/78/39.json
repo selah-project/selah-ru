@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 39,
+  "ref": "psalms 78:39",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 78,
+  "translation": "И вспомнил Он, что они — плоть, дыхание, проходящее и не возвращающееся.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "И вспомнил"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "плоть"
+    },
+    {
+      "surface": "המה",
+      "gloss": "они"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дыхание"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "проходящее"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "возвращающееся"
+    }
+  ],
+  "timestamp": "2026-08-03T08:04:03.119820675Z",
+  "model": "glm-4.5"
+}

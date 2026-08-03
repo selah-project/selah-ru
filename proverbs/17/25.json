@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "proverbs 17:25",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "горе отцу его — глупый сын, и горечь той, ⟨кто⟩ родил его",
+  "tokens": [
+    {
+      "surface": "כעס",
+      "gloss": "горе"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "отцу его"
+    },
+    {
+      "surface": "בן",
+      "gloss": "глупый сын"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупый"
+    },
+    {
+      "surface": "וממר",
+      "gloss": "и горечь"
+    },
+    {
+      "surface": "ליולדתו",
+      "gloss": "той, ⟨кто⟩ родил его"
+    }
+  ],
+  "timestamp": "2026-08-03T09:43:37.191494741Z",
+  "model": "glm-4.5"
+}

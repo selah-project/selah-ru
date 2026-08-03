@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Раб — Израиль, ⟨он⟩ домашний раб? почему ⟨он⟩ стал добычей?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "Раб"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "домашний"
+    },
+    {
+      "surface": "בית",
+      "gloss": "раб"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "почему"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "стал добычей"
+    }
+  ],
+  "timestamp": "2026-08-03T02:59:47.553624029Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "jeremiah 12:6",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Ибо даже братья твои, и дом отца твоего, даже они предали тебя, и они зазывали за тобой полно, не верь им, когда говорят они тебе благое",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "גם",
+      "gloss": "даже"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "братья твои"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "и дом"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "отца твоего"
+    },
+    {
+      "surface": "גם",
+      "gloss": "даже"
+    },
+    {
+      "surface": "המה",
+      "gloss": "они"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "предали"
+    },
+    {
+      "surface": "בך",
+      "gloss": "тебя"
+    },
+    {
+      "surface": "גם",
+      "gloss": "даже"
+    },
+    {
+      "surface": "המה",
+      "gloss": "они"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "зазывали"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "за тобой"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "полно"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאמן",
+      "gloss": "верь"
+    },
+    {
+      "surface": "בם",
+      "gloss": "им"
+    },
+    {
+      "surface": "כי",
+      "gloss": "когда"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "говорят"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "טובות",
+      "gloss": "благое"
+    }
+  ],
+  "timestamp": "2026-08-03T03:13:39.089434676Z",
+  "model": "glm-4.5"
+}

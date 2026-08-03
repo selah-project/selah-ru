@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 127,
+  "translation": "Вот, наследие ЯХВЕ — сыновья, награда — плод ⟨этого⟩ чрева.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Вот"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "наследие"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "награда"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "плод"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "чрева"
+    }
+  ],
+  "timestamp": "2026-08-03T09:00:06.463814390Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "numbers 31:7",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "И ⟨были⟩ они в войне с Мадианом, как повелел ЯХВЕ ⟨את⟩ Моше, и убили они всех мужчин",
+  "tokens": [
+    {
+      "surface": "ויצבאו",
+      "gloss": "и ⟨были⟩ они в войне"
+    },
+    {
+      "surface": "על",
+      "gloss": "с"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мадианом"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "повелел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויהרגו",
+      "gloss": "и убили они"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "мужчин"
+    }
+  ],
+  "timestamp": "2026-08-02T21:44:05.814956069Z",
+  "model": "glm-4.5"
+}

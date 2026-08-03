@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "В тот день ЯХВЕ уберёт ⟨את⟩ украшение их ankle-bangles, и their nets, и their lunettes",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "В тот день"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨тот⟩"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "уберёт"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "украшение их ankle-bangles"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "украшение их"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "ankle-bangles"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "и their nets"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "и their lunettes"
+    }
+  ],
+  "timestamp": "2026-08-03T18:39:40.833340766Z",
+  "model": "glm-4.5"
+}

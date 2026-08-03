@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "exodus 32:21",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "И сказал Моше Аарону: что сделал ⟨этот⟩ народ ⟨с⟩ тобой, что ⟨ты⟩ навлёк на него ⟨такой⟩ великий грех?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарону"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "לך",
+      "gloss": "с тобой"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨этот⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "⟨ты⟩ навлёк"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на него"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "грех"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "великий"
+    }
+  ],
+  "timestamp": "2026-08-02T20:29:53.558421739Z",
+  "model": "glm-4.5"
+}

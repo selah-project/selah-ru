@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Ты ⟨переходишь⟩ сегодня ⟨את⟩ границу Моава, ⟨את⟩ Ар:",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "⟨переходишь⟩"
+    },
+    {
+      "surface": "היום",
+      "gloss": "сегодня"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "границу Моава"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "границу"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ар"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ар"
+    }
+  ],
+  "timestamp": "2026-08-02T21:52:07.098591505Z",
+  "model": "glm-4.5"
+}

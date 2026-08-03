@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "proverbs 20:22",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "Не говори: ⟨я⟩ отплачу ⟨за⟩ зло; надейся на ЯХВЕ, и Он спасёт тебя.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "אשלמה",
+      "gloss": "⟨я⟩ отплачу ⟨за⟩"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "קוה",
+      "gloss": "надейся"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на ЯХВЕ"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "и Он спасёт"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебя"
+    }
+  ],
+  "timestamp": "2026-08-03T09:47:35.192978985Z",
+  "model": "glm-4.5"
+}

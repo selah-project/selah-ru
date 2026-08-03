@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "ezekiel 48:28",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 48,
+  "translation": "И ⟨по⟩ границе Гада, ⟨в⟩ сторону юга, к Тейману, и будет граница от Тамара до вод strife в Кадеше, поток к ⟨великому⟩ морю.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и ⟨по⟩"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "границе"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гада"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨в⟩ сторону"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "сторону"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "юга"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "к Тейману"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и будет"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "граница"
+    },
+    {
+      "surface": "מתמר",
+      "gloss": "от Тамара"
+    },
+    {
+      "surface": "מי",
+      "gloss": "до вод"
+    },
+    {
+      "surface": "מריבת",
+      "gloss": "strife"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "в Кадеше"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "поток"
+    },
+    {
+      "surface": "על",
+      "gloss": "к"
+    },
+    {
+      "surface": "הים",
+      "gloss": "морю"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "⟨великому⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T05:19:51.610524809Z",
+  "model": "glm-4.5"
+}

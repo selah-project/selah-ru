@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "1-chronicles 17:3",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И было в ту ночь, и было слово Элохим к Нафану, говоря:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и было"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "в ту ⟨ночь⟩"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ту"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и было"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Нафану"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-03T13:01:37.652446897Z",
+  "model": "glm-4.5"
+}

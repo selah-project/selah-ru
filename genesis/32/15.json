@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "коз двести, и козлов двадцать, овец двести, и баранов двадцать",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "коз"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двести"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "и козлов"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцать"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "овец"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двести"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "и баранов"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцать"
+    }
+  ],
+  "timestamp": "2026-08-02T19:33:57.744446356Z",
+  "model": "glm-4.5"
+}

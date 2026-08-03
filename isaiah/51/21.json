@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "isaiah 51:21",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 51,
+  "translation": "Послушай же теперь это, ⟨ты⟩ страдающая и опьянённая, но не вином:",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "поэтому"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "послушай"
+    },
+    {
+      "surface": "נא",
+      "gloss": "же"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "это"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "страдающая"
+    },
+    {
+      "surface": "ושכרת",
+      "gloss": "и опьянённая"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "вином"
+    }
+  ],
+  "timestamp": "2026-08-03T02:39:51.694285442Z",
+  "model": "glm-4.5"
+}

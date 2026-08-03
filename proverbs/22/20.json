@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Не написал ли я тебе трижды — ⟨в⟩ совете и знании?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "написал"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "трижды"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "в совете"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "и знании"
+    }
+  ],
+  "timestamp": "2026-08-03T09:49:24.263340279Z",
+  "model": "glm-4.5"
+}

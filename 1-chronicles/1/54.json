@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "вождь Магдиэль, вождь Ирам. Эти — вожди Эдома.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "вождь"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "Магдиэль"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "вождь"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "Ирам"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Эти"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "вожди"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдома"
+    }
+  ],
+  "timestamp": "2026-08-03T12:36:37.381916133Z",
+  "model": "glm-4.5"
+}

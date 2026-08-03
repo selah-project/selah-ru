@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "1-chronicles 1:24",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Шем, Арфаксад, Шалах",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Шем"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Арфаксад"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Шалах"
+    }
+  ],
+  "timestamp": "2026-08-03T12:35:46.833371825Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "ezekiel 16:35",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Поэтому, блудница, слушай слово ЯХВЕ:",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Поэтому"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "блудница"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "слушай"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T04:34:36.772937255Z",
+  "model": "glm-4.5"
+}

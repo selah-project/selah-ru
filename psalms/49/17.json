@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 49,
+  "translation": "Не бойся, ⟨когда⟩ человек разбогатеет, ⟨когда⟩ увеличится слава дома его,",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "бойся"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨когда⟩"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "разбогатеет"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человек"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨когда⟩"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "увеличится"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "слава"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "дома его"
+    }
+  ],
+  "timestamp": "2026-08-03T07:27:36.724342363Z",
+  "model": "glm-4.5"
+}

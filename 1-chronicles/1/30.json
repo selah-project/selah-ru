@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Мишма и Дума, Масса, Хадад и Тема",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "Мишма"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "и Дума"
+    },
+    {
+      "surface": "משא",
+      "gloss": "Масса"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "Хадад"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "и Тема"
+    }
+  ],
+  "timestamp": "2026-08-03T12:35:59.055317806Z",
+  "model": "glm-4.5"
+}

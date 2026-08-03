@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "judges 4:4",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "А Двора, пророчица, женщина Лапидота, она судила ⟨את⟩ Израиль в то время",
+  "tokens": [
+    {
+      "surface": "ודבורה",
+      "gloss": "А Двора"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "женщина"
+    },
+    {
+      "surface": "נביאה",
+      "gloss": "пророчица"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "женщина"
+    },
+    {
+      "surface": "לפידות",
+      "gloss": "Лапидота"
+    },
+    {
+      "surface": "היא",
+      "gloss": "она"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "судила"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Израиль"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "в"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "то время"
+    }
+  ],
+  "timestamp": "2026-08-02T22:52:39.871164030Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Он огородил ⟨Своими⟩ путями ⟨в⟩ тёсаном камне, ⟨свои⟩ стези сделал ⟨кривыми⟩",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "огородил"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "путями"
+    },
+    {
+      "surface": "בגזית",
+      "gloss": "⟨в⟩ тёсаном камне"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "стези"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "сделал ⟨кривыми⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:21.262758264Z",
+  "model": "glm-4.5"
+}

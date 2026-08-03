@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "от Саллая, Каллай; от Амока, Эвер",
+  "tokens": [
+    {
+      "surface": "לסלי",
+      "gloss": "от Саллая"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "Каллай"
+    },
+    {
+      "surface": "לעמוק",
+      "gloss": "от Амока"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Эвер"
+    }
+  ],
+  "timestamp": "2026-08-03T12:30:52.523727478Z",
+  "model": "glm-4.5"
+}

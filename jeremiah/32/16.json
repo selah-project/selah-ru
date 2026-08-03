@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "jeremiah 32:16",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "И помолился я к ЯХВЕ, после того как я дал ⟨את⟩ книгу покупки Баруху, сыну Нерии, говоря:",
+  "tokens": [
+    {
+      "surface": "ואתפלל",
+      "gloss": "и помолился"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "после"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "⟨я⟩ дал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "книгу покупки"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "книгу"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "покупки"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Баруху"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Баруху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сыну"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "Нерии"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-03T03:44:47.030439550Z",
+  "model": "glm-4.5"
+}

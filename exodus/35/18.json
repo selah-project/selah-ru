@@ -1,0 +1,48 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "⟨את⟩ колья Мишкана и ⟨את⟩ колья двора, и ⟨את⟩ вервия их",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "колья"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "колья"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Мишкана"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "колья"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "колья"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "двора"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "вервия"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "вервия их"
+    }
+  ],
+  "timestamp": "2026-08-02T20:33:05.518895180Z",
+  "model": "glm-4.5"
+}

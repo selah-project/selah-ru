@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "genesis 10:1",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И вот родословия сыновей Ноаха: Шем, Хам и Яфет; и родились ⟨им⟩ сыновья после потопа.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "И вот"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "родословия"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноаха"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шем"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Хам"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "и Яфет"
+    },
+    {
+      "surface": "ויולדו",
+      "gloss": "и родились"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨им⟩",
+      "marks": "сыновья"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "после"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "потопа"
+    }
+  ],
+  "timestamp": "2026-08-02T17:53:28.436498397Z",
+  "model": "glm-4.5"
+}

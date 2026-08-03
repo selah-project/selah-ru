@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Не давай сна ⟨твоим⟩ глазам, и ⟨ни⟩ дремоты ⟨твоим⟩ векам",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "давай"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сна"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "⟨твоим⟩ глазам"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "и ⟨ни⟩ дремоты"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "⟨твоим⟩ векам"
+    }
+  ],
+  "timestamp": "2026-08-03T09:27:18.563141622Z",
+  "model": "glm-4.5"
+}

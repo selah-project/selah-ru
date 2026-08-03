@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "numbers 16:8",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "И сказал Моше Кораху: послушайте, прошу вас, сыны Левия",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Кораху"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "⟨—⟩"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "послушайте"
+    },
+    {
+      "surface": "נא",
+      "gloss": "прошу вас"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Левия"
+    }
+  ],
+  "timestamp": "2026-08-02T21:28:35.959404945Z",
+  "model": "glm-4.5"
+}

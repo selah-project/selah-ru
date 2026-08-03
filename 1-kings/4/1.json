@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И стал царь Шеломо царём над всем Исраэлем",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И стал"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царём"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всем"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраэлем"
+    }
+  ],
+  "timestamp": "2026-08-03T00:23:54.461104223Z",
+  "model": "glm-4.5"
+}

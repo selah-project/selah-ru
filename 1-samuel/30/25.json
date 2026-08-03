@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "1-samuel 30:25",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "И было с того дня и выше, и поставил ⟨её⟩ ⟨в⟩ statute и ⟨в⟩ judgement для Израиля до дня этого.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "с того дня"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "того"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "и выше"
+    },
+    {
+      "surface": "וישמה",
+      "gloss": "и поставил"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "⟨в⟩ statute"
+    },
+    {
+      "surface": "ולמשפט",
+      "gloss": "⟨и⟩ ⟨в⟩ judgement"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "для Израиля"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дня"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "этого"
+    }
+  ],
+  "timestamp": "2026-08-02T23:46:38.464218919Z",
+  "model": "glm-4.5"
+}

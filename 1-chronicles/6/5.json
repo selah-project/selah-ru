@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Гершому: Ливни его сын, Йахат его сын, Зимма его сын.",
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "Гершому"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Ливни"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "его сын"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Йахат"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "его сын"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "Зимма"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "его сын"
+    }
+  ],
+  "timestamp": "2026-08-03T12:44:00.964192252Z",
+  "model": "glm-4.5"
+}

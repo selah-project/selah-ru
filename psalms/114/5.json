@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 114,
+  "translation": "Что ⟨стало⟩ тебе, море, что ты бежало? Иордан, ⟨что⟩ ты обратился ⟨назад⟩?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Что"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "הים",
+      "gloss": "море"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "ты бежало"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Иордан"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "ты обратился"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "⟨назад⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T08:44:51.545723640Z",
+  "model": "glm-4.5"
+}

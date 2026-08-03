@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 41,
+  "ref": "genesis 41:41",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 41,
+  "translation": "И сказал Паро Йосефу: смотри, ⟨את⟩ тебя поставил над всей землёй Мицраим.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефу"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "смотри"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "поставил"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "тебя"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всей"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землёй"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    }
+  ],
+  "timestamp": "2026-08-02T19:45:28.927578788Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "numbers 10:16",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И над воинством колена сынов Завулона Элиав, сын Хелона.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и над"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "воинством"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "колена"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Завулона"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Элиав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "Хелона"
+    }
+  ],
+  "timestamp": "2026-08-02T21:21:44.575319790Z",
+  "model": "glm-4.5"
+}

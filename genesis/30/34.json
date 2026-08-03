@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "genesis 30:34",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "И сказал Лаван: ⟨вот⟩, пусть будет по слову твоему",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "הן",
+      "gloss": "⟨вот⟩",
+      "marks": "пусть будет"
+    },
+    {
+      "surface": "לו",
+      "gloss": "пусть"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "будет"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "по слову твоему"
+    }
+  ],
+  "timestamp": "2026-08-02T19:31:35.688541077Z",
+  "model": "glm-4.5"
+}

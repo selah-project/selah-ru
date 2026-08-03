@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "Вот ⟨это⟩ повеления, которые ЯХВЕ повелел ⟨את⟩ Моше для сынов Израиля на горе Синай.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "вот ⟨это⟩"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "повеления"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "повелел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "для"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "на горе"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синай"
+    }
+  ],
+  "timestamp": "2026-08-02T21:09:22.968117188Z",
+  "model": "glm-4.5"
+}

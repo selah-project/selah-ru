@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "leviticus 11:25",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И всякий, носящий ⟨из⟩ трупа их, омоет одежды свои, и нечист ⟨будет⟩ до вечера.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "И всякий"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "носящий"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "⟨из⟩ трупа их"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "омоет"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "одежды свои"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "и нечист"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "вечера"
+    }
+  ],
+  "timestamp": "2026-08-02T20:49:57.109981079Z",
+  "model": "glm-4.5"
+}

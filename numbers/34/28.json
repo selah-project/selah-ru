@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "numbers 34:28",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "и для колена сынов Нефтали, князь Педаэль, сын Аммиуда.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "и для колена"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нефтали"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "князь"
+    },
+    {
+      "surface": "פדהאל",
+      "gloss": "Педаэль"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Аммиуда"
+    }
+  ],
+  "timestamp": "2026-08-02T21:48:39.897152683Z",
+  "model": "glm-4.5"
+}

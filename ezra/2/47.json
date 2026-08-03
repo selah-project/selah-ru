@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 47,
+  "ref": "ezra 2:47",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Сыновья Гидде́ля, сыновья Гаха́ра, сыновья Раа́и",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "Гидде́ль"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "Гаха́р"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "Раа́и"
+    }
+  ],
+  "timestamp": "2026-08-03T11:59:21.719385812Z",
+  "model": "glm-4.5"
+}

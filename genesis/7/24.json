@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И усилились ⟨и⟩ воды ⟨на⟩ землю сто и пятьдесят ⟨дней⟩",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "и усилились"
+    },
+    {
+      "surface": "המים",
+      "gloss": "воды"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨и⟩ землю"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "сто и пятьдесят"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "⟨את⟩",
+      "marks": "дней"
+    },
+    {
+      "surface": "יום",
+      "gloss": "⟨дней⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T17:51:08.120610266Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "И говорил Моше в уши всей общине Израеля ⟨את⟩ слова этой песни до завершения их",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говорил"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "в уши"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всей"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "общине"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израеля"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слова этой песни"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "этой песни"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "этой"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "завершения их"
+    }
+  ],
+  "timestamp": "2026-08-02T22:21:51.633208077Z",
+  "model": "glm-4.5"
+}

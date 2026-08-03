@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "И говорил ЯХВЕ Менаше и ⟨его⟩ народу, но они не слушали",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и к"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨его⟩ народу"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "слушали"
+    }
+  ],
+  "timestamp": "2026-08-03T14:11:26.466235634Z",
+  "model": "glm-4.5"
+}

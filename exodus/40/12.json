@@ -1,0 +1,64 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "и приведи ⟨את⟩ Аарона и ⟨את⟩ сыновей его ко входу шатра собрания, и омой их ⟨в⟩ воде",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "и приведи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аарона"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарона"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "сыновей его"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "сыновей его"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ко"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "входу"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатра"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "собрания"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "и омой"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "в воде"
+    },
+    {
+      "surface": "במים",
+      "gloss": "воде"
+    }
+  ],
+  "timestamp": "2026-08-02T20:39:09.714288173Z",
+  "model": "glm-4.5"
+}

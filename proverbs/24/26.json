@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "proverbs 24:26",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Поцелует губы ⟨тот⟩, кто отвечает словами прямыми.",
+  "tokens": [
+    {
+      "surface": "שפתים",
+      "gloss": "губы"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "поцелует"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "отвечающий"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "словами"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "прямыми"
+    }
+  ],
+  "timestamp": "2026-08-03T09:55:27.486571956Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Заколола ⟨свою⟩ жертву, смешала ⟨своё⟩ вино, ⟨да⟩ накрыла ⟨свой⟩ стол.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "Заколола"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "жертву"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "смешала"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "вино"
+    },
+    {
+      "surface": "אף",
+      "gloss": "⟨да⟩"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "накрыла"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "стол"
+    }
+  ],
+  "timestamp": "2026-08-03T09:32:00.055798345Z",
+  "model": "glm-4.5"
+}

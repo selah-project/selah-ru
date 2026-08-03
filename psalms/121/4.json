@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 121,
+  "translation": "Вот, не задремлет ⟨он⟩ и не уснёт хранитель Израиля",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Вот"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "задремлет"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "уснёт"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "хранитель"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-03T08:56:39.296411041Z",
+  "model": "glm-4.5"
+}

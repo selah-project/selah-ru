@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Не ссорься ⟨с⟩ человеком ⟨понапрасну⟩, если ⟨он⟩ не сделал тебе зла.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "ссорься"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человеком"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "⟨понапрасну⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨он⟩ не сделал"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зла"
+    }
+  ],
+  "timestamp": "2026-08-03T09:24:12.260502718Z",
+  "model": "glm-4.5"
+}

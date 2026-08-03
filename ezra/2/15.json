@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "ezra 2:15",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Сыновья А́дина, четыреста пятьдесят и четыре",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "А́дина"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четыре"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотни"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "пятьдесят"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "и четыре"
+    }
+  ],
+  "timestamp": "2026-08-03T11:58:31.632980411Z",
+  "model": "glm-4.5"
+}

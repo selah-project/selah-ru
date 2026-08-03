@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Не говори: «Что ⟨было⟩, что прежние дни были лучше этих?»; ибо не по мудрости ты спросил об этом.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Что"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨было⟩"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "что"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "прежние дни"
+    },
+    {
+      "surface": "היו",
+      "gloss": "были"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "лучше"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "этих"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "по мудрости"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "ты спросил"
+    },
+    {
+      "surface": "על",
+      "gloss": "об"
+    },
+    {
+      "surface": "זה",
+      "gloss": "этом"
+    }
+  ],
+  "timestamp": "2026-08-03T11:21:58.014129015Z",
+  "model": "glm-4.5"
+}

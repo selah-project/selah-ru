@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 45,
+  "translation": "Начальнику над лилиями сынам Коре́ха маски́л песнь любви ⟨есть⟩",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Начальнику"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "лилиями"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "сынам"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Коре́ха"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "маски́л"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "песнь"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "любви"
+    }
+  ],
+  "timestamp": "2026-08-03T07:23:32.413113724Z",
+  "model": "glm-4.5"
+}

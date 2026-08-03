@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "proverbs 12:20",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Обман в сердце тех, кто замышляет зло, а советникам шалом — радость",
+  "tokens": [
+    {
+      "surface": "מרמה",
+      "gloss": "Обман"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "в сердце"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "тех, кто замышляет"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "וליעצי",
+      "gloss": "а советникам"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "шалом"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "радость"
+    }
+  ],
+  "timestamp": "2026-08-03T09:35:33.616378216Z",
+  "model": "glm-4.5"
+}

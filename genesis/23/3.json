@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "И встал Авраам от ⟨пред⟩ ⟨лица⟩ ⟨своего⟩ мёртвого, и говорил ⟨к⟩ сынам Хета, ⟨говоря⟩",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "и встал"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "от ⟨пред⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨лица⟩"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "мёртвого"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "и говорил"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынам"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Хета"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨говоря⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T19:20:22.047411914Z",
+  "model": "glm-4.5"
+}

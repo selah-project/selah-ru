@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "proverbs 26:8",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Как связывают камень пращой, так воздают почёт глупцу",
+  "tokens": [
+    {
+      "surface": "כצרור",
+      "gloss": "Как связывают"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "камень"
+    },
+    {
+      "surface": "במרגמה",
+      "gloss": "пращой"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "воздают"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "глупцу"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "почёт"
+    }
+  ],
+  "timestamp": "2026-08-03T10:02:18.958107024Z",
+  "model": "glm-4.5"
+}

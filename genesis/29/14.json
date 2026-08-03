@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "genesis 29:14",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "И сказал ему Лаван: ⟨ты⟩ ведь моя кость и моя плоть. И остался ⟨он⟩ с ним месяц ⟨из⟩ дней.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ведь"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "моя кость"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "и моя плоть"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ты⟩"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и остался"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с ним"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "месяц"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дней"
+    }
+  ],
+  "timestamp": "2026-08-02T19:29:40.365076683Z",
+  "model": "glm-4.5"
+}

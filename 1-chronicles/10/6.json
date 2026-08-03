@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И умер Шаул, и три его сына, и весь его дом — вместе они умерли.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "И умер"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "и три"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "его сына"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и весь"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "его дом"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "вместе"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "они умерли"
+    }
+  ],
+  "timestamp": "2026-08-03T12:51:56.461215899Z",
+  "model": "glm-4.5"
+}

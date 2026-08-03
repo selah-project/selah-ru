@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 53,
+  "ref": "1-chronicles 1:53",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "вождь Кенац, вождь Тейман, вождь Мибцар;",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "вождь"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Кенац"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "вождь"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Тейман"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "вождь"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "Мибцар"
+    }
+  ],
+  "timestamp": "2026-08-03T12:36:31.658344451Z",
+  "model": "glm-4.5"
+}

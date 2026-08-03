@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "И Давид, сын Ишая, царствовал над всем Израилем.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "И Давид"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Ишая"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царствовал"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всем"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израилем"
+    }
+  ],
+  "timestamp": "2026-08-03T13:18:07.720695938Z",
+  "model": "glm-4.5"
+}

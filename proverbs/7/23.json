@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "proverbs 7:23",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "пока стрела пронзит ⟨его⟩ печень; как птица спешит к силку, и не знает, что ⟨это⟩ [дело] ⟨его⟩ души.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "пока"
+    },
+    {
+      "surface": "יפלח",
+      "gloss": "пронзит"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "стрела"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "⟨его⟩ печень"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "как"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "птица"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "פח",
+      "gloss": "силку"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знает"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "⟨его⟩ души"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "[дело] ⟨это⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T09:29:00.914397148Z",
+  "model": "glm-4.5"
+}

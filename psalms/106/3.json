@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 106,
+  "translation": "Блаженны хранящие мишпат, творящие цдаку во всякое время",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Блаженны"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "хранящие"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "мишпат"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "творящие"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "цдаку"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "во всякое"
+    },
+    {
+      "surface": "עת",
+      "gloss": "время"
+    }
+  ],
+  "timestamp": "2026-08-03T08:36:28.045673143Z",
+  "model": "glm-4.5"
+}

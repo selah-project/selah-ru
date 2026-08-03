@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 135,
+  "translation": "Сихону, царю amorey, и Ог, царю Башана, и всем царствам Кенаана.",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Сихону"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "amorey"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "и Ог"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Башана"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "и всем"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "царствам"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаана"
+    }
+  ],
+  "timestamp": "2026-08-03T09:05:23.187768700Z",
+  "model": "glm-4.5"
+}

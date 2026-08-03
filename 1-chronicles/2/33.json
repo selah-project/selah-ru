@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "1-chronicles 2:33",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "А сыновья Йонатана: Пэлэ́т и За́за. ⟨это⟩ сыновья Йерахмэ́эля",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "и сыновья"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Йонатана"
+    },
+    {
+      "surface": "פלת",
+      "gloss": "Пэлэ́т"
+    },
+    {
+      "surface": "וזזא",
+      "gloss": "и За́за"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "⟨это⟩"
+    },
+    {
+      "surface": "היו",
+      "gloss": "[были]"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Йерахмэ́эля"
+    }
+  ],
+  "timestamp": "2026-08-03T12:38:37.422545931Z",
+  "model": "glm-4.5"
+}

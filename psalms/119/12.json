@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Благословен Ты, ЯХВЕ, научи меня постановлениям Твоим",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Благословен"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "научи меня"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "постановлениям Твоим"
+    }
+  ],
+  "timestamp": "2026-08-03T08:49:15.663123355Z",
+  "model": "glm-4.5"
+}

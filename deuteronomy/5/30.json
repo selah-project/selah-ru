@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Иди, скажи им: „Обратитесь в свои шатры“.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Иди"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "скажи"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "„Обратитесь"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "в свои"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "шатры“"
+    }
+  ],
+  "timestamp": "2026-08-02T21:56:16.189785802Z",
+  "model": "glm-4.5"
+}

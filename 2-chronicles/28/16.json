@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "В то время царь Ахаз послал к царям Ашшура, чтобы помочь ⟨ему⟩.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "В то время"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "⟨та⟩"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "послал"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ахаз"
+    },
+    {
+      "surface": "על",
+      "gloss": "к"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "царям"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшура"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "чтобы помочь"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ему⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T14:02:25.412446221Z",
+  "model": "glm-4.5"
+}

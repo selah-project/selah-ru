@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "люди другого Нево, пятьдесят и два;",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "люди"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Нево"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "другого"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "пятьдесят"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "и два"
+    }
+  ],
+  "timestamp": "2026-08-03T12:22:37.470177888Z",
+  "model": "glm-4.5"
+}

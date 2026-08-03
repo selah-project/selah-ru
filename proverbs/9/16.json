@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "proverbs 9:16",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Кто ⟨есть⟩ простой, пусть свернёт сюда, и ⟨он⟩ лишён сердца, и она сказала ему:",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кто"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "простой"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "пусть свернёт"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "сюда"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "и ⟨он⟩ лишён"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сердца"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "и она сказала"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    }
+  ],
+  "timestamp": "2026-08-03T09:31:44.953443973Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 62,
+  "ref": "lamentations 3:62",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Губы восстающих ⟨на⟩ меня и их замыслы ⟨против⟩ меня ⟨весь⟩ день",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "Губы"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "восстающих"
+    },
+    {
+      "surface": "והגיונם",
+      "gloss": "и их замыслы"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨против⟩ меня"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨весь⟩"
+    },
+    {
+      "surface": "היום",
+      "gloss": "день"
+    }
+  ],
+  "timestamp": "2026-08-03T11:13:02.891151976Z",
+  "model": "glm-4.5"
+}

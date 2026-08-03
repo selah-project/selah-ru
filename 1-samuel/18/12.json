@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-samuel 18:12",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И побоялся Шаул Давида, ибо ЯХВЕ ⟨был⟩ с ним, и от Шаула отступил.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "и побоялся"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨был⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с ним"
+    },
+    {
+      "surface": "ומעם",
+      "gloss": "и от"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаула"
+    },
+    {
+      "surface": "סר",
+      "gloss": "отступил"
+    }
+  ],
+  "timestamp": "2026-08-02T23:33:50.078158751Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "Зачем ⟨этот⟩ ⟨цена⟩ ⟨в руке⟩ ⟨глупца⟩, чтобы купить ⟨хохму⟩, а ⟨сердца⟩ нет?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Зачем"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨этот⟩"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "⟨цена⟩"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨в руке⟩"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "⟨глупца⟩"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "чтобы купить"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "⟨хохму⟩"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "а ⟨сердца⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    }
+  ],
+  "timestamp": "2026-08-03T09:43:17.714943490Z",
+  "model": "glm-4.5"
+}

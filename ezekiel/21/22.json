@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "ezekiel 21:22",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И также я ударю ⟨свои⟩ ладони ⟨о⟩ ладони, и утишится ярость моя, я ЯХВЕ, сказал ⟨я⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "И также"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "ударю"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ладони"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨о⟩"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ладони"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "утишится"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "ярость моя"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "сказал ⟨я⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T04:42:30.950457929Z",
+  "model": "glm-4.5"
+}

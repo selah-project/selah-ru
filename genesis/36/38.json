@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "genesis 36:38",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "И умер Шаул, и воцарился вместо него Баал-Ханан, сын Ахбора.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "и умер"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "и воцарился"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "вместо него"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Баал-Ханан"
+    },
+    {
+      "surface": "חנן",
+      "gloss": ""
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "Ахбора"
+    }
+  ],
+  "timestamp": "2026-08-02T19:39:07.564055496Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И пришёл царь и Аман попить с Эсферью ⟨царицей⟩",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и пришёл"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "и Аман"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "попить"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Эсферью"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "царицей"
+    }
+  ],
+  "timestamp": "2026-08-03T11:33:57.911724204Z",
+  "model": "glm-4.5"
+}

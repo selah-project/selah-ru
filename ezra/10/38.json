@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "ezra 10:38",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "и Бани, и Биннуи, Шимей",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "и Бани"
+    },
+    {
+      "surface": "ובנוי",
+      "gloss": "и Биннуи"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шимей"
+    }
+  ],
+  "timestamp": "2026-08-03T12:12:13.878311229Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "job 6:21",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Ибо вот вы стали ⟨ничего⟩, видите ужас и страшитесь",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "вы стали"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨ничего⟩"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "видите"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "ужас"
+    },
+    {
+      "surface": "ותיראו",
+      "gloss": "и страшитесь"
+    }
+  ],
+  "timestamp": "2026-08-03T10:14:46.361556616Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 73,
+  "translation": "И я был поражаем весь день, ⟨и⟩ моя встреча — по утрам",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "И я был"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "поражаем"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "היום",
+      "gloss": "день"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "⟨и⟩ моя встреча"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "по утрам"
+    }
+  ],
+  "timestamp": "2026-08-03T07:54:01.577446502Z",
+  "model": "glm-4.5"
+}

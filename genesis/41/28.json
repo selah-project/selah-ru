@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "genesis 41:28",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 41,
+  "translation": "Это — то ⟨слово⟩, ⟨которое⟩ я говорил Паро: ⟨что⟩ Элохим делает, Он показал ⟨את⟩ Паро.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Это"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "— то ⟨слово⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨которое⟩"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "я говорил"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": ""
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨что⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "делает"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "Он показал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Паро"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    }
+  ],
+  "timestamp": "2026-08-02T19:44:29.729973387Z",
+  "model": "glm-4.5"
+}

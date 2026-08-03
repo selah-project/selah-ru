@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "isaiah 49:12",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 49,
+  "translation": "Вот, эти придут издалека, и вот, эти с севера и с запада, и эти из страны Синим",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Вот"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "эти"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "издалека"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "придут"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "эти"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "с севера"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "и с запада"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "и эти"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "из страны"
+    },
+    {
+      "surface": "סינים",
+      "gloss": "Синим"
+    }
+  ],
+  "timestamp": "2026-08-03T02:37:11.096805940Z",
+  "model": "glm-4.5"
+}

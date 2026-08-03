@@ -1,0 +1,103 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "leviticus 13:25",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "и увидит ⟨את⟩ kohen и вот, изменился волос на белый в бахерет и вид ⟨её⟩ глубже кожи — цараат это, в микваh проросла, и объявит нечистым ⟨את⟩ него kohen, nega цараат это",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "и увидит"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kohen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "изменился"
+    },
+    {
+      "surface": "שער",
+      "gloss": "волос"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "на белый"
+    },
+    {
+      "surface": "בבהרת",
+      "gloss": "в бахерет"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "и вид"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "⟨её⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "глубже"
+    },
+    {
+      "surface": "העור",
+      "gloss": "кожи"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "цараат"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "это"
+    },
+    {
+      "surface": "במכוה",
+      "gloss": "в микваh"
+    },
+    {
+      "surface": "פרחה",
+      "gloss": "проросла"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "и объявит нечистым"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "него"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "nega"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "цараат"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "это"
+    }
+  ],
+  "timestamp": "2026-08-02T20:52:15.800892802Z",
+  "model": "glm-4.5"
+}

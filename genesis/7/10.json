@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И было после семи дней, и воды Потопа ⟨были⟩ на земле",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "после семи"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дней"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и воды"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "Потопа"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨были⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земле"
+    }
+  ],
+  "timestamp": "2026-08-02T17:50:54.680218740Z",
+  "model": "glm-4.5"
+}

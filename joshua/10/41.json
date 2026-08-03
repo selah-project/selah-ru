@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 41,
+  "ref": "joshua 10:41",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И поразил их Иегошуа от Кадеш-Варнеа ⟨до⟩ Аззы, и ⟨את⟩ ⟨всю⟩ землю Гошен ⟨до⟩ Гаваона",
+  "tokens": [
+    {
+      "surface": "ויכם",
+      "gloss": "И поразил их"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Иегошуа"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "от Кадеш"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Варнеа"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Аззы"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "всю землю"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всю"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Гошен"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "до"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Гаваона"
+    }
+  ],
+  "timestamp": "2026-08-02T22:34:45.246896059Z",
+  "model": "glm-4.5"
+}

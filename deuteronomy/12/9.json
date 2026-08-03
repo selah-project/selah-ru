@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "deuteronomy 12:9",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "ибо ⟨вы⟩ не пришли доныне ⟨к⟩ ⟨מְנוּחָה⟩ и ⟨к⟩ наследию, которое ЯХВЕ, Элохим твой, даёт тебе",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "⟨вы⟩ пришли"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "доныне"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "⟨מְנוּחָה⟩",
+      "marks": "месту покоя"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и ⟨к⟩"
+    },
+    {
+      "surface": "הנחלה",
+      "gloss": "наследию"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохим твой"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даёт"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    }
+  ],
+  "timestamp": "2026-08-02T22:03:25.280094715Z",
+  "model": "glm-4.5"
+}

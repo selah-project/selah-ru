@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "jeremiah 1:6",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И сказал я: «Ах, Адонай ЯХВЕ! Вот, не умею я говорить, ибо я юн».",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ах"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Вот"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "умею"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорить"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "נער",
+      "gloss": "юн"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    }
+  ],
+  "timestamp": "2026-08-03T02:58:23.976380345Z",
+  "model": "glm-4.5"
+}

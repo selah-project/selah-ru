@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "и ⟨из⟩ крупного скота тридцать шесть тысяч",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "и крупный скот"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "шесть"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "и тридцать"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тысяч"
+    }
+  ],
+  "timestamp": "2026-08-02T21:44:58.008217665Z",
+  "model": "glm-4.5"
+}

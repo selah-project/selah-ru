@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "zechariah 6:8",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И воззвал ⟨он⟩ ⟨את⟩ меня, и spoke ⟨он⟩ со мной, говоря: смотри, выходящие в землю севера утишили ⟨את⟩ дух мой в земле севера",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "И воззвал"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "меня"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "и spoke ⟨он⟩"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "со мной"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "смотри"
+    },
+    {
+      "surface": "היוצאים",
+      "gloss": "выходящие"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "севера"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "утишили"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дух мой"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "дух мой"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земле"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "севера"
+    }
+  ],
+  "timestamp": "2026-08-03T06:13:08.568132789Z",
+  "model": "glm-4.5"
+}

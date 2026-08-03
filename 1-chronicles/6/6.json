@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "1-chronicles 6:6",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Йоах, его сын; Иддо, его сын; Зерах, его сын; Иеафрай, его сын.",
+  "tokens": [
+    {
+      "surface": "יואח",
+      "gloss": "Йоах"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "его сын"
+    },
+    {
+      "surface": "עדו",
+      "gloss": "Иддо"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "его сын"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Зерах"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "его сын"
+    },
+    {
+      "surface": "יאתרי",
+      "gloss": "Иеафрай"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "его сын"
+    }
+  ],
+  "timestamp": "2026-08-03T12:44:21.902564319Z",
+  "model": "glm-4.5"
+}

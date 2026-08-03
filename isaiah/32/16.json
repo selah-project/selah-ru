@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "И будет ⟨judgement⟩ обитать ⟨в⟩ пустыне, и ⟨righteousness⟩ — на Кармеле ⟨пребывать⟩.",
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "И будет ⟨judgement⟩ обитать"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "⟨в⟩ пустыне"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "⟨judgement⟩",
+      "marks": "⟨judgement⟩"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "и ⟨righteousness⟩"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "— на Кармеле"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "⟨пребывать⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T02:17:00.244506730Z",
+  "model": "glm-4.5"
+}

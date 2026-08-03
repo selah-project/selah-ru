@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 94,
+  "translation": "И ЯХВЕ стал мне ⟨как⟩ оплот, и мой Элохим — скала убежища моего",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и стал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "⟨как⟩ оплот"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "и мой Элохим"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "скала"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "убежища моего"
+    }
+  ],
+  "timestamp": "2026-08-03T08:22:39.505296804Z",
+  "model": "glm-4.5"
+}

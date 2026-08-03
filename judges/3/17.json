@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "judges 3:17",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "и поднёс ⟨את⟩ дар Эглону, царю Моава, а Эглон человек очень тучный",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "и поднёс"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дар"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "дар"
+    },
+    {
+      "surface": "לעגלון",
+      "gloss": "Эглону"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "а Эглон"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человек"
+    },
+    {
+      "surface": "בריא",
+      "gloss": "очень тучный"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "очень"
+    }
+  ],
+  "timestamp": "2026-08-02T22:52:02.311254767Z",
+  "model": "glm-4.5"
+}

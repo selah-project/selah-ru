@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "А если не выкупит ⟨את⟩ поле, и если продал ⟨את⟩ поле другому человеку, не выкупится ⟨ещё⟩",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А если"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "выкупит"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "поле"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "поле"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "и если"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "продал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "поле"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "поле"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "человеку"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "другому"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "выкупится"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨ещё⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T18:00:47.481934572Z",
+  "model": "glm-4.5"
+}

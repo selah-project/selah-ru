@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "и десятина десятина ⟨к⟩ ⟨одному⟩ из четырнадцати ⟨ягнят⟩:",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "и десятина"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "десятина"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨одному⟩"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "из четырнадцати"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "⟨ягнят⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T21:42:10.708295555Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "Я надеялся, ЯХВЕ; ⟨Он⟩ склонился ко мне, и услышал вопль мой",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "надеялся"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "надеялся"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "склонился"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ко мне"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "и услышал"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "вопль мой"
+    }
+  ],
+  "timestamp": "2026-08-03T07:18:38.589289078Z",
+  "model": "glm-4.5"
+}

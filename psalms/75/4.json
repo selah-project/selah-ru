@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 75,
+  "translation": "Тают земля и ⟨все⟩ живущие на ней; Я — Я утвердил ⟨её⟩ столпы. Села.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "тают"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и ⟨все⟩"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "живущие на ней"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Я"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "утвердил"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "⟨её⟩ столпы"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-08-03T07:56:42.483832681Z",
+  "model": "glm-4.5"
+}

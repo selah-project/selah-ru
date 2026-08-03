@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 51,
+  "ref": "1-samuel 14:51",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "а Киш, отец Шаула, а Нер, отец Авнера, сын Авиэля.",
+  "tokens": [
+    {
+      "surface": "וקיש",
+      "gloss": "а Киш"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отец"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаула"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "а Нер"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отец"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнера"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "Авиэля"
+    }
+  ],
+  "timestamp": "2026-08-02T23:26:34.897149488Z",
+  "model": "glm-4.5"
+}

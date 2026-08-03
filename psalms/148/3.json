@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 148,
+  "translation": "Хвалите Его, солнце и луна; хвалите Его, все звёзды ⟨את⟩ света.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Хвалите Его"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "солнце"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "и луна"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "хвалите Его"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "звёзды"
+    },
+    {
+      "surface": "אור",
+      "gloss": "⟨את⟩",
+      "marks": "света"
+    }
+  ],
+  "timestamp": "2026-08-03T09:17:53.933058283Z",
+  "model": "glm-4.5"
+}

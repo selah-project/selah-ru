@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 134,
+  "translation": "Да благословит тебя ЯХВЕ из Сиона, сотворивший небо и землю.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "благословит тебя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "из Сиона"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сотворивший"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небо"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "и землю"
+    }
+  ],
+  "timestamp": "2026-08-03T09:04:50.776470962Z",
+  "model": "glm-4.5"
+}

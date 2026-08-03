@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "ezra 8:5",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Из сыновей Шеханьи, сына Яхазиила, и с ним триста ⟨самцов⟩",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "Из сыновей"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "Шеханьи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "יחזיאל",
+      "gloss": "Яхазиила"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "и с ним"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "триста"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "⟨самцов⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T12:07:17.826867061Z",
+  "model": "glm-4.5"
+}

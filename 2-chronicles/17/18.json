@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "2-chronicles 17:18",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "и под ⟨его⟩ рукой Йегоцавад, и с ним сто и восемьдесят тысяч ⟨воинов⟩ ополчения",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и под"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "⟨его⟩ рукой"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "Йегоцавад"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "и с ним"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "и восемьдесят"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тысяч"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "⟨воинов⟩"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ополчения"
+    }
+  ],
+  "timestamp": "2026-08-03T13:47:18.633613439Z",
+  "model": "glm-4.5"
+}

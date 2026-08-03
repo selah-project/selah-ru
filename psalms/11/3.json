@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Если разрушены ⟨основания⟩, что сделал ⟨праведный⟩?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Если"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "разрушены"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "⟨основания⟩"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведный"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "сделал"
+    }
+  ],
+  "timestamp": "2026-08-03T06:40:49.295321819Z",
+  "model": "glm-4.5"
+}

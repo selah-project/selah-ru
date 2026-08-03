@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "numbers 16:11",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Поэтому ты и всё сборище твоё, gathered против ЯХВЕ, и Аарона — что ⟨он⟩, что вы ропщете ⟨против⟩ него?",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Поэтому"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и всё"
+    },
+    {
+      "surface": "עדתך",
+      "gloss": "сборище твоё"
+    },
+    {
+      "surface": "הנעדים",
+      "gloss": "gathered"
+    },
+    {
+      "surface": "על",
+      "gloss": "против"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "и Аарона"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "ропщете"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨против⟩ него"
+    }
+  ],
+  "timestamp": "2026-08-02T21:28:54.035500515Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "nehemiah 5:12",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И сказали они: возвратим и не взыщем с них; так сделаем, как ты говоришь. И призвал я ⟨את⟩ kohanim, и обязал их клятвою делать по этому слову.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "И сказали"
+    },
+    {
+      "surface": "נשיב",
+      "gloss": "возвратим"
+    },
+    {
+      "surface": "ומהם",
+      "gloss": "и с них"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נבקש",
+      "gloss": "взыщем"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "сделаем"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "говоришь"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "И призвал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kohanim"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohanim"
+    },
+    {
+      "surface": "ואשביעם",
+      "gloss": "и обязал их клятвою"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "делать"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "по слову"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "этому"
+    }
+  ],
+  "timestamp": "2026-08-03T12:19:26.375496766Z",
+  "model": "glm-4.5"
+}

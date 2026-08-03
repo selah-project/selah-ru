@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "Даже человек — червь, и сын человека — личинка",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Даже"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "человек"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "червь"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "и сын"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "личинка"
+    }
+  ],
+  "timestamp": "2026-08-03T10:31:53.139019638Z",
+  "model": "glm-4.5"
+}

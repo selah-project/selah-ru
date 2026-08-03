@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "genesis 21:33",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И посадил ⟨он⟩ тамариск в Беэр-Шеве, и воззвал ⟨он⟩ там во имя ЯХВЕ, Эль Вечный.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "И посадил ⟨он⟩"
+    },
+    {
+      "surface": "אשל",
+      "gloss": "тамариск"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "в Беэр"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шеве"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и воззвал ⟨он⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "во имя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эль"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "Вечный"
+    }
+  ],
+  "timestamp": "2026-08-02T19:19:07.321147729Z",
+  "model": "glm-4.5"
+}

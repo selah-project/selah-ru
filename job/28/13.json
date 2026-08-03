@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "job 28:13",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Человек не знает цены её, и не найдётся она в земле живых",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знает"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "человек"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "цены её"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "найдётся"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земле"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "живых"
+    }
+  ],
+  "timestamp": "2026-08-03T10:34:16.976103725Z",
+  "model": "glm-4.5"
+}

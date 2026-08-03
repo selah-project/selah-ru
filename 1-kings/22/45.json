@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 45,
+  "ref": "1-kings 22:45",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И Иегошафат заключил мир с царём Израиля.",
+  "tokens": [
+    {
+      "surface": "וישלם",
+      "gloss": "И заключил мир"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Иегошафат"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царём"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-03T01:02:24.412371181Z",
+  "model": "glm-4.5"
+}

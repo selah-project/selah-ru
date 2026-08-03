@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И он сказал ему: иди со мной ⟨в⟩ дом и ешь хлеб.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И он сказал"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "לך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "со мной"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "⟨в⟩ дом"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "и ешь"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    }
+  ],
+  "timestamp": "2026-08-03T00:44:17.387497478Z",
+  "model": "glm-4.5"
+}

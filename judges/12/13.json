@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И судил ⟨את⟩ Израиля после него Авдон, сын Хиллеля, Пиратонянин",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "И судил"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "после него"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Израиля"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Авдон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "Хиллеля"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "Пиратонянин"
+    }
+  ],
+  "timestamp": "2026-08-02T23:02:58.697009792Z",
+  "model": "glm-4.5"
+}

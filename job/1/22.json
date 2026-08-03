@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "job 1:22",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Во всём этом Иов не согрешил и не дал ⟨את⟩ глупость Элохиму",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Во всём"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "этом"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "согрешил"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Иов"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дал"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "глупость"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохиму"
+    }
+  ],
+  "timestamp": "2026-08-03T10:09:41.840681770Z",
+  "model": "glm-4.5"
+}

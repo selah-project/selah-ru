@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 19:13",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Ошибки! кто ⟨их⟩ поймёт? от скрытых очисти меня",
+  "tokens": [
+    {
+      "surface": "שגיאות",
+      "gloss": "Ошибки"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "поймёт"
+    },
+    {
+      "surface": "מנסתרות",
+      "gloss": "от скрытых"
+    },
+    {
+      "surface": "נקני",
+      "gloss": "очисти меня"
+    }
+  ],
+  "timestamp": "2026-08-03T06:52:50.184401560Z",
+  "model": "glm-4.5"
+}

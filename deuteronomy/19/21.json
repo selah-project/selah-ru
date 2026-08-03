@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "И не пожалеет ⟨твой⟩ глаз — ⟨душа⟩ за душу, глаз за глаз, зуб за зуб, рука за руку, нога за ногу.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И не"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "пожалеет"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "⟨твой⟩ глаз"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨душа⟩"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "за душу"
+    },
+    {
+      "surface": "עין",
+      "gloss": "глаз"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "за глаз"
+    },
+    {
+      "surface": "שן",
+      "gloss": "зуб"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "за зуб"
+    },
+    {
+      "surface": "יד",
+      "gloss": "рука"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "за руку"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "нога"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "за ногу"
+    }
+  ],
+  "timestamp": "2026-08-02T22:10:10.575219372Z",
+  "model": "glm-4.5"
+}

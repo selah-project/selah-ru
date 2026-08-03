@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "2-kings 16:16",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "И сделал Урия-коэн ⟨по всему⟩, что царь Ахаз повелел.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И сделал"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Урия"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коэн"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "⟨по всему⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "повелел"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ахаз"
+    }
+  ],
+  "timestamp": "2026-08-03T01:24:23.937219268Z",
+  "model": "glm-4.5"
+}

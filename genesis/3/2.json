@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И сказала женщина змею: с плодов деревьев сада ⟨мы⟩ едим,",
+  "tokens": [
+    {
+      "surface": "וַתֹּ֥אמֶר",
+      "gloss": "и сказала"
+    },
+    {
+      "surface": "הָֽאִשָּׁ֖ה",
+      "gloss": "женщина"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "к"
+    },
+    {
+      "surface": "הַנָּחָ֑שׁ",
+      "gloss": "змею"
+    },
+    {
+      "surface": "מִפְּרִ֥י",
+      "gloss": "с плодов"
+    },
+    {
+      "surface": "עֵֽץ",
+      "gloss": "деревьев"
+    },
+    {
+      "surface": "הַגָּ֖ן",
+      "gloss": "сада"
+    },
+    {
+      "surface": "נֹאכֵֽל",
+      "gloss": "едим"
+    }
+  ],
+  "timestamp": "2026-08-02T17:46:38.773902959Z",
+  "model": "glm-4.5"
+}

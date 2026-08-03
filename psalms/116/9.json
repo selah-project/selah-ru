@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 116,
+  "translation": "Я буду ходить пред лицем ЯХВЕ в ⟨землях⟩ живых",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "Я буду ходить"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред лицем"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "в ⟨землях⟩"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "живых"
+    }
+  ],
+  "timestamp": "2026-08-03T08:46:13.568180547Z",
+  "model": "glm-4.5"
+}

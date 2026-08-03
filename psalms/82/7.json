@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 82,
+  "translation": "Но, подобно Адаму, умрёте, и как один из начальников падёте",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Но"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "подобно Адаму"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "умрёте"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "и как один"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "из начальников"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "падёте"
+    }
+  ],
+  "timestamp": "2026-08-03T08:08:24.752639080Z",
+  "model": "glm-4.5"
+}

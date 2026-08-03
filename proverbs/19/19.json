@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "proverbs 19:19",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Гневливый несёт наказание, ибо, если ⟨ты⟩ выручишь, ⟨ты⟩ ещё прибавишь.",
+  "tokens": [
+    {
+      "surface": "גרל",
+      "gloss": "гневливый"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "гнев"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "несёт"
+    },
+    {
+      "surface": "ענש",
+      "gloss": "наказание"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "выручишь"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ещё"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "прибавишь"
+    }
+  ],
+  "timestamp": "2026-08-03T09:46:29.273179479Z",
+  "model": "glm-4.5"
+}

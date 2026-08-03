@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "ибо ⟨я⟩ даю вам ⟨как⟩ good teaching; мою Тору не оставляйте.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "⟨я⟩ даю"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨как⟩ good"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "⟨я⟩ даю"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "мою Тору"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "оставляйте"
+    }
+  ],
+  "timestamp": "2026-08-03T09:24:48.465138208Z",
+  "model": "glm-4.5"
+}

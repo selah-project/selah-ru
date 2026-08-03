@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И издал гром на небесах ЯХВЕ, и Эльон подал голос Свой — град и угли огня",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "и издал гром"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "на небесах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "и Эльон"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "подал"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "голос Свой"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "град"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "и угли"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огня"
+    }
+  ],
+  "timestamp": "2026-08-03T06:50:12.620335242Z",
+  "model": "glm-4.5"
+}

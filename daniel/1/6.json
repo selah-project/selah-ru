@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "daniel 1:6",
+  "book": "daniel",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И среди них из сынов Иехуды: Даниил, Ханания, Мишаэль и Азария.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "среди них"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "из сынов"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иехуды"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Даниил"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Ханания"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Мишаэль"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "и Азария"
+    }
+  ],
+  "timestamp": "2026-08-03T11:37:55.139423137Z",
+  "model": "glm-4.5"
+}

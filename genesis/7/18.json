@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "genesis 7:18",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И усилились воды и умножились весьма ⟨над⟩ землёй, и шла ⟪теба⟫ по поверхности вод",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "и усилились"
+    },
+    {
+      "surface": "המים",
+      "gloss": "воды"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "и умножились"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "весьма"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨над⟩",
+      "marks": "землёй"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землёй"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "и шла"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "⟪теба⟫",
+      "marks": "и шла"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "פני",
+      "gloss": "поверхности"
+    },
+    {
+      "surface": "המים",
+      "gloss": "вод"
+    }
+  ],
+  "timestamp": "2026-08-02T17:50:50.002444409Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "numbers 4:4",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Это ⟨служение⟩ сыновей Кегата в шатре собрания, ⟨над⟩ святыней святых:",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Это"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "⟨служение⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кегата"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "в шатре"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "собрания"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "⟨над⟩ святыней"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "святых"
+    }
+  ],
+  "timestamp": "2026-08-02T21:13:37.118786200Z",
+  "model": "glm-4.5"
+}

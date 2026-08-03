@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 132,
+  "translation": "Это ⟨моё⟩ покойное место вовек; здесь ⟨я⟩ обитать буду, ибо я возжелал его",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Это"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "покойное место"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "довеку"
+    },
+    {
+      "surface": "עד",
+      "gloss": "вовек"
+    },
+    {
+      "surface": "פה",
+      "gloss": "здесь"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "обитать буду"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "его"
+    }
+  ],
+  "timestamp": "2026-08-03T09:03:56.015435742Z",
+  "model": "glm-4.5"
+}

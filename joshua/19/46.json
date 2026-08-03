@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 46,
+  "ref": "joshua 19:46",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "и Мэй-Яркон, и Раккон, ⟨с⟩ границей напротив Яффо",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "и"
+    },
+    {
+      "surface": "הירקון",
+      "gloss": "Мэй-Яркон"
+    },
+    {
+      "surface": "והרקון",
+      "gloss": "и Раккон"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "границей"
+    },
+    {
+      "surface": "מול",
+      "gloss": "напротив"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "Яффо"
+    }
+  ],
+  "timestamp": "2026-08-02T22:42:53.427830297Z",
+  "model": "glm-4.5"
+}

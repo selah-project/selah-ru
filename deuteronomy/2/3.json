@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Достаточно ⟨את⟩ вам обходить эту гору: обратитесь ⟨את⟩ к себе на север.",
+  "tokens": [
+    {
+      "surface": "רַב",
+      "gloss": "Достаточно"
+    },
+    {
+      "surface": "לָכֶ֕ם",
+      "gloss": "⟨את⟩ вам"
+    },
+    {
+      "surface": "סֹ֖ב",
+      "gloss": "обходить"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "эту гору"
+    },
+    {
+      "surface": "הָהָ֣ר",
+      "gloss": "эту гору"
+    },
+    {
+      "surface": "הַזֶּ֑ה",
+      "gloss": "эту"
+    },
+    {
+      "surface": "פְּנ֥וּ",
+      "gloss": "обратитесь"
+    },
+    {
+      "surface": "לָכֶ֖ם",
+      "gloss": "⟨את⟩ к себе"
+    },
+    {
+      "surface": "צָפֹֽנָה",
+      "gloss": "на север"
+    }
+  ],
+  "timestamp": "2026-08-02T21:52:17.801373891Z",
+  "model": "glm-4.5"
+}

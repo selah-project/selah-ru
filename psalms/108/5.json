@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 108,
+  "translation": "Ибо велика милость Твоя ⟨выше⟩ небес, ⟨и⟩ до облаков истина Твоя.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велика"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "⟨выше⟩"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "милость Твоя"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "⟨и⟩ до"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "облаков"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "истина Твоя"
+    }
+  ],
+  "timestamp": "2026-08-03T08:40:36.926950695Z",
+  "model": "glm-4.5"
+}

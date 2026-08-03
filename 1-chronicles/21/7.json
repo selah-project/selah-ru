@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И было зло ⟨в⟩ глазах ⟨у⟩ Элогима ⟨над⟩ словом этим, и поразил ⟨את⟩ Израиля.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "и было зло"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "⟨в⟩ глазах ⟨у⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элогима"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨над⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "словом"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "этим"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "и поразил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Израиля"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-03T13:06:24.673416245Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 76,
+  "ref": "numbers 7:76",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "один ⟨козёл⟩ ⟨козлов⟩ для ⟨грехоочищения⟩",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "козёл"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "козлов"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "для ⟨грехоочищения⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T21:19:17.533046177Z",
+  "model": "glm-4.5"
+}

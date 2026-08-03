@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "numbers 17:1",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И говорил ЯХВЕ ⟨с⟩ Моше, говоря",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-02T21:29:45.506549416Z",
+  "model": "glm-4.5"
+}

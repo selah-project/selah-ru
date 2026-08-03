@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И пришёл Элохим к Биламу и сказал: кто ⟨эти⟩ люди ⟨с⟩ тобой?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и пришёл"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Биламу"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "люди"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "⟨эти⟩"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "⟨с⟩ тобой"
+    }
+  ],
+  "timestamp": "2026-08-02T21:34:51.052259283Z",
+  "model": "glm-4.5"
+}

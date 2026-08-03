@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "proverbs 30:29",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Три ⟨они⟩ хороши в шаге, и четыре — прекрасны в походке:",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "Три"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨они⟩"
+    },
+    {
+      "surface": "מיטיבי",
+      "gloss": "хороши"
+    },
+    {
+      "surface": "צעד",
+      "gloss": "в шаге"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "и четыре"
+    },
+    {
+      "surface": "מיטבי",
+      "gloss": "прекрасны"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "в походке"
+    }
+  ],
+  "timestamp": "2026-08-03T10:07:21.792376167Z",
+  "model": "glm-4.5"
+}

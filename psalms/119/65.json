@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Ты поступил хорошо с ⟨твоим⟩ рабом, о ЯХВЕ, ⟨по⟩ слову твоему.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "хорошо"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "поступил"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "рабом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "слову твоему"
+    }
+  ],
+  "timestamp": "2026-08-03T08:52:09.175652758Z",
+  "model": "glm-4.5"
+}

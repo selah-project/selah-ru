@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 139,
+  "translation": "Полной ненавистью ненавидел я их: ⟨они стали⟩ мне врагами.",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "полной"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ненавистью"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "ненавидел я их"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "⟨врагами⟩"
+    },
+    {
+      "surface": "היו",
+      "gloss": "стали"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    }
+  ],
+  "timestamp": "2026-08-03T09:09:54.912240067Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "nehemiah 10:34",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "для хлеба ⟨предложения⟩ и для grain-offering ⟨постоянной⟩ и для burnt-offering ⟨постоянной⟩, ⟨для⟩ суббот, ⟨для⟩ новомесячий, для appointed-times, и для holy-things, и для sin-offerings — чтобы покрыть ⟨за⟩ Израиля, и для всякой работы Дома нашего Элохима.",
+  "tokens": [
+    {
+      "surface": "ללחם",
+      "gloss": "для хлеба ⟨предложения⟩"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "⟨предложения⟩"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "и для grain-offering"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "⟨постоянной⟩"
+    },
+    {
+      "surface": "ולעולת",
+      "gloss": "и для burnt-offering"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "⟨постоянной⟩"
+    },
+    {
+      "surface": "השבתות",
+      "gloss": "⟨для⟩ суббот"
+    },
+    {
+      "surface": "החדשים",
+      "gloss": "⟨для⟩ новомесячий"
+    },
+    {
+      "surface": "למועדים",
+      "gloss": "для appointed-times"
+    },
+    {
+      "surface": "ולקדשים",
+      "gloss": "и для holy-things"
+    },
+    {
+      "surface": "ולחטאות",
+      "gloss": "и для sin-offerings"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "чтобы покрыть"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨за⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и для всякой"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "работы"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Дома"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "нашего Эlohима"
+    }
+  ],
+  "timestamp": "2026-08-03T12:28:53.018336488Z",
+  "model": "glm-4.5"
+}

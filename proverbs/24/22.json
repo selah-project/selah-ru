@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "proverbs 24:22",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Ибо внезапно восстанет ⟨их⟩ бедствие, и гибель от ⟨них⟩ обоих — кто знает?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "внезапно"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "восстанет"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "⟨их⟩ бедствие"
+    },
+    {
+      "surface": "ופיד",
+      "gloss": "и гибель"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "от ⟨них⟩ обоих"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "знает"
+    }
+  ],
+  "timestamp": "2026-08-03T09:55:15.054562691Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "1-chronicles 5:5",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Миха его сын, Раия его сын, Баал его сын,",
+  "tokens": [
+    {
+      "surface": "מיכה",
+      "gloss": "Миха"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "его сын"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "Раия"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "его сын"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Баал"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "его сын"
+    }
+  ],
+  "timestamp": "2026-08-03T12:42:31.528621155Z",
+  "model": "glm-4.5"
+}

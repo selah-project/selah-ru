@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "1-chronicles 16:28",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Даруйте ЯХВЕ, ⟨вы⟩ роды народов, даруйте ЯХВЕ славу и силу",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "даруйте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "роды"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народов"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "даруйте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славу"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "и силу"
+    }
+  ],
+  "timestamp": "2026-08-03T13:00:43.062626089Z",
+  "model": "glm-4.5"
+}

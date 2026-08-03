@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "1-chronicles 17:2",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И сказал Нафан Давиду: «Всё, что ⟨в⟩ сердце твоём, делай, ибо Элохим с тобой».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Нафан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давиду"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "⟨в⟩ сердце твоём"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "делай"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "с тобой"
+    }
+  ],
+  "timestamp": "2026-08-03T13:01:38.472582695Z",
+  "model": "glm-4.5"
+}

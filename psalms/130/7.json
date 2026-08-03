@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 130,
+  "translation": "О Израиль, надейся на ЯХВЕ, ибо с ЯХВЕ хесед, и ⟨с⟩ Ним велико избавление",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "надейся"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "и ⟨с⟩ Ним велико"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с Ним"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "избавление"
+    }
+  ],
+  "timestamp": "2026-08-03T09:02:02.613242899Z",
+  "model": "glm-4.5"
+}

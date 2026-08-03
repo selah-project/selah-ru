@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "А в Иерусалиме жили из сыновей Йегуды и из сыновей Биньямина и из сыновей Эфраима и Менашэ.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "А в Иерусалиме"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "жили"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йегуды"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и из"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Биньямина"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и из"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраима"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "и Менашэ"
+    }
+  ],
+  "timestamp": "2026-08-03T12:50:42.393100580Z",
+  "model": "glm-4.5"
+}

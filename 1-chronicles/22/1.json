@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-chronicles 22:1",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И сказал Давид: это ⟨есть⟩ дом ЯХВЕ Элохим, и это — алтарь для о́лы для Израиля",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "זה",
+      "gloss": "это"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨есть⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "и это"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "алтарь"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "для о́лы"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "для Израиля"
+    }
+  ],
+  "timestamp": "2026-08-03T13:08:23.455132569Z",
+  "model": "glm-4.5"
+}

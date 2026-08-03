@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 104,
+  "translation": "Бездну Ты одел как одеждой, над горами стояли воды",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "бездну"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "как одеждой"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "Ты одел"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "горами"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "стояли"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воды"
+    }
+  ],
+  "timestamp": "2026-08-03T08:32:46.849085277Z",
+  "model": "glm-4.5"
+}

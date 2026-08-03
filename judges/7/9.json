@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "judges 7:9",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И было в ту ночь, и сказал ему ЯХВЕ: встань, сойди в стан, ибо Я отдал его в руку твою.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "в ту ночь"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ту"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "קום",
+      "gloss": "встань"
+    },
+    {
+      "surface": "רד",
+      "gloss": "сойди"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "в стан"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "Я отдал"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "в руку твою"
+    }
+  ],
+  "timestamp": "2026-08-02T22:56:42.905789884Z",
+  "model": "glm-4.5"
+}

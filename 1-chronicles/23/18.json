@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "1-chronicles 23:18",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Сыновья Ицхара: Шеломит — ⟨начальник⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Ицхара"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Шеломит"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "начальник"
+    }
+  ],
+  "timestamp": "2026-08-03T13:09:42.843084976Z",
+  "model": "glm-4.5"
+}

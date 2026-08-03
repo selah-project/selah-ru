@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "daniel 2:36",
+  "book": "daniel",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Это ⟨этот⟩ сон; и его толкование мы скажем перед царем.",
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "это"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "сон"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "и его толкование"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "мы скажем"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "перед"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "царем"
+    }
+  ],
+  "timestamp": "2026-08-03T11:40:06.226505954Z",
+  "model": "glm-4.5"
+}

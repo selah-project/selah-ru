@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Ждали мы мира, а нет добра; времени лечения, и вот — ужас!",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Ждали"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "мира"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "а нет"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добра"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "времени"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "лечения"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "ужас"
+    }
+  ],
+  "timestamp": "2026-08-03T03:08:57.746429099Z",
+  "model": "glm-4.5"
+}

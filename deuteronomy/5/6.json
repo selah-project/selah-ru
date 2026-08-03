@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Я — ЯХВЕ, твой Элохим, Который вывел тебя ⟨из⟩ земли Египетской, ⟨из⟩ дома рабства.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твой Элохим"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Который"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "вывел тебя"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "⟨из⟩ земли"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Египетской"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "⟨из⟩ дома"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "рабства"
+    }
+  ],
+  "timestamp": "2026-08-02T21:56:37.908739791Z",
+  "model": "glm-4.5"
+}

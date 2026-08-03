@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "от Хецрона, семья Хецрони; от Карми, семья Карми",
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "от Хецрона"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "семья"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "Хецрони"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "от Карми"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "семья"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "Карми"
+    }
+  ],
+  "timestamp": "2026-08-02T21:38:41.302648511Z",
+  "model": "glm-4.5"
+}

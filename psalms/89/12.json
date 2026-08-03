@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 89,
+  "translation": "Тебе — небеса, также Тебе — земля; тебель ⟨и⟩ полнота её, Ты основал их.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Тебе"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "אף",
+      "gloss": "также"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Тебе"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "тебель"
+    },
+    {
+      "surface": "וּמְלֹאָהּ",
+      "gloss": "⟨и⟩ полнота её"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "יְסַדְתָּם",
+      "gloss": "основал их"
+    }
+  ],
+  "timestamp": "2026-08-03T08:14:52.237053161Z",
+  "model": "glm-4.5"
+}

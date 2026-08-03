@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "И человек, если ударит любую нефеш человека, смертью умрёт.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "и человек"
+    },
+    {
+      "surface": "כי",
+      "gloss": "если"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ударит"
+    },
+    {
+      "surface": "כל",
+      "gloss": "любую"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нефеш"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смертью"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "умрёт"
+    }
+  ],
+  "timestamp": "2026-08-02T21:04:31.175927465Z",
+  "model": "glm-4.5"
+}

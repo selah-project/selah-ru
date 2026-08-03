@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "2-samuel 17:7",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И сказал Хушай Авешалому: не ⟨добра⟩ совет, который дал Ахитофел в ⟨это⟩ время.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Хушай"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авешалому"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "добра"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "совет"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "дал"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Ахитофел"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "в … время"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "это"
+    }
+  ],
+  "timestamp": "2026-08-03T00:05:24.028291238Z",
+  "model": "glm-4.5"
+}

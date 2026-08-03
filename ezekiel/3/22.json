@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "ezekiel 3:22",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И стала ⟨рука⟩ ЯХВЕ ⟨на⟩ мне, и Он сказал мне: встань, выйди ⟨в⟩ долину, и там Я буду говорить ⟨с тобой⟩.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "и стала"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟠"
+    },
+    {
+      "surface": "יד",
+      "gloss": "⟨рука⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и Он сказал"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "קום",
+      "gloss": "встань"
+    },
+    {
+      "surface": "צא",
+      "gloss": "выйди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨в⟩"
+    },
+    {
+      "surface": "הבקעה",
+      "gloss": "долину"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "и там"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "Я буду говорить"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "с тобой"
+    }
+  ],
+  "timestamp": "2026-08-03T04:19:07.168325875Z",
+  "model": "glm-4.5"
+}

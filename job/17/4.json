@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "job 17:4",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "Ибо ты ⟨их⟩ сердце скрыл от разума; поэтому ты не вознесёшь ⟨их⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "⟨их⟩ сердце"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "скрыл"
+    },
+    {
+      "surface": "משכל",
+      "gloss": "от разума"
+    },
+    {
+      "surface": "על",
+      "gloss": "поэтому"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרמם",
+      "gloss": "вознесёшь ⟨их⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T10:24:36.821701527Z",
+  "model": "glm-4.5"
+}

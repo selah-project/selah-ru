@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "2-chronicles 20:32",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И шёл он путём отца своего Асы и не свернул ⟨с⟩ него, делая прямое в глазах ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "и шёл"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "путём"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "отца своего"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Асы"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "סר",
+      "gloss": "свернул"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "⟨с⟩ него"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "делая"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "прямое"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в глазах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T13:52:21.705940728Z",
+  "model": "glm-4.5"
+}

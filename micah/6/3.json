@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "micah 6:3",
+  "book": "micah",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Народ Мой! что Я сделал тебе и чем ⟨Я⟩ утомил тебя? ответь против Меня.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "Народ Мой"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "Я сделал"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и чем"
+    },
+    {
+      "surface": "הלאתיך",
+      "gloss": "утомил тебя"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ответь"
+    },
+    {
+      "surface": "בי",
+      "gloss": "против Меня"
+    }
+  ],
+  "timestamp": "2026-08-03T05:52:05.356542688Z",
+  "model": "glm-4.5"
+}

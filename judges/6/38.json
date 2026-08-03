@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "judges 6:38",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И было так. И он встал рано утром, и выжал ⟨את⟩ руно, и выжал росу из руна — полная чаша воды.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было так"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "и он встал рано"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "утром"
+    },
+    {
+      "surface": "ויזר",
+      "gloss": "и выжал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "руно"
+    },
+    {
+      "surface": "הגזה",
+      "gloss": "руно"
+    },
+    {
+      "surface": "וימץ",
+      "gloss": "и выжал"
+    },
+    {
+      "surface": "טל",
+      "gloss": "росу"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "הגזה",
+      "gloss": "руна"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "полная"
+    },
+    {
+      "surface": "הספל",
+      "gloss": "чаша"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воды"
+    }
+  ],
+  "timestamp": "2026-08-02T22:56:05.435745630Z",
+  "model": "glm-4.5"
+}

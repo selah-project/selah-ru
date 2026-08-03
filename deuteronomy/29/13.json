@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "И не ⟨с⟩ вами одними ⟨я⟩ заключаю ⟨את⟩ этот завет и ⟨את⟩ эту клятву",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И не"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨с⟩ вами"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "одними"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨я⟩"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "заключаю"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "этот завет"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "завет"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "этот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "эту клятву"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "клятву"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "эту"
+    }
+  ],
+  "timestamp": "2026-08-02T22:19:24.836225743Z",
+  "model": "glm-4.5"
+}

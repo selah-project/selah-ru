@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "deuteronomy 23:12",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "И будет, к повороту ⟨вечера⟩ омоется ⟨в⟩ воде, и при заходе ⟨солнца⟩ придёт внутрь ⟨стана⟩",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И будет"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "к повороту"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "вечера"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "омоется"
+    },
+    {
+      "surface": "במים",
+      "gloss": "в воде"
+    },
+    {
+      "surface": "וכבא",
+      "gloss": "и при"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "заходе"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "придёт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "внутрь"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "средины"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "стана"
+    }
+  ],
+  "timestamp": "2026-08-02T22:13:28.550101835Z",
+  "model": "glm-4.5"
+}

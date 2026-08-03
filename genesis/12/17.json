@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И поразил ЯХВЕ ⟨את⟩ Паро великими поражениями и ⟨את⟩ дом его ради слова Сарай, жены Аврама.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "И поразил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Паро"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "поражениями"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "великими"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "дом его"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "дом его"
+    },
+    {
+      "surface": "על",
+      "gloss": "ради"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слова"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Сарай"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жены"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврама"
+    }
+  ],
+  "timestamp": "2026-08-02T19:09:37.614771163Z",
+  "model": "glm-4.5"
+}

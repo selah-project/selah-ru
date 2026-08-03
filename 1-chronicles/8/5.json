@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "1-chronicles 8:5",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "и Гера, и Шфуфан, и Хурам.",
+  "tokens": [
+    {
+      "surface": "וגרא",
+      "gloss": "и Гера"
+    },
+    {
+      "surface": "ושפופן",
+      "gloss": "и Шфуфан"
+    },
+    {
+      "surface": "וחורם",
+      "gloss": "и Хурам"
+    }
+  ],
+  "timestamp": "2026-08-03T12:48:48.771619216Z",
+  "model": "glm-4.5"
+}

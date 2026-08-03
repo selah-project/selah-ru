@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 48,
+  "translation": "И сказал Яаков Иосифу: Эль Шаддаи явился мне в Лузе, в земле Ханаана, и ⟨את⟩ меня благословил",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Иосифу"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эль"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шаддаи"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "явился"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "в Лузе"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земле"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Ханаана"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "и благословил"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "меня"
+    }
+  ],
+  "timestamp": "2026-08-02T19:52:37.989835350Z",
+  "model": "glm-4.5"
+}

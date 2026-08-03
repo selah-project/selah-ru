@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 56,
+  "translation": "На Элохима я положился — не побоюсь: что ⟨сделает⟩ человек мне?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "На Эlohима"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "я положился"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "побоюсь"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "⟨сделает⟩"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человек"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    }
+  ],
+  "timestamp": "2026-08-03T07:33:39.418025516Z",
+  "model": "glm-4.5"
+}

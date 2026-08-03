@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Всё сообщество ⟨как⟩ один — сорок две тысячи триста шестьдесят",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Всё"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "сообщество"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "⟨как⟩ один"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "сорок"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "две"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "тысячи"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "триста"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "ששים",
+      "gloss": "шестьдесят"
+    }
+  ],
+  "timestamp": "2026-08-03T11:59:19.474266623Z",
+  "model": "glm-4.5"
+}

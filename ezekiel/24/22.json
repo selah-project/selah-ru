@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "ezekiel 24:22",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "И сделаете вы, как ⟨я⟩ сделал, на губах не прикроетесь, и хлеба людей не съедите",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "и сделаете вы"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "⟨я⟩ сделал"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שפם",
+      "gloss": "губах"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעטו",
+      "gloss": "прикроетесь"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "и хлеба"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "людей"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "съедите"
+    }
+  ],
+  "timestamp": "2026-08-03T04:46:56.773225055Z",
+  "model": "glm-4.5"
+}

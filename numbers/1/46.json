@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 46,
+  "ref": "numbers 1:46",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И были все исчисленные шесть сотен ⟨את⟩ тысяч и три тысячи и пять сотен и пятьдесят",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И были"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "исчисленные"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шесть"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотен"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "⟨את⟩",
+      "marks": "тысяч"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "и три"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "тысячи"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "и пять"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотен"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "и пятьдесят"
+    }
+  ],
+  "timestamp": "2026-08-02T21:10:37.141700420Z",
+  "model": "glm-4.5"
+}

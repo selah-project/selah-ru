@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Сыновья Кегата: Амрам, Ицхар, Хеврон и Узииэль — четверо.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кегата"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Амрам"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Ицхар"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Хеврон"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "и Узииэль"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "четверо"
+    }
+  ],
+  "timestamp": "2026-08-03T13:09:41.272530212Z",
+  "model": "glm-4.5"
+}

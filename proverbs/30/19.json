@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "proverbs 30:19",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "путь орла ⟨в⟩ небесах, путь змеи ⟨по⟩ скале, путь корабля ⟨в⟩ сердце ⟨of⟩ моря, и путь мужчины ⟨с⟩ девушкой",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "путь"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "орла"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "⟨в⟩ небесах"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "путь"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "змеи"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨по⟩"
+    },
+    {
+      "surface": "צור",
+      "gloss": "скале"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "путь"
+    },
+    {
+      "surface": "אניה",
+      "gloss": "корабля"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "⟨в⟩ сердце"
+    },
+    {
+      "surface": "ים",
+      "gloss": "⟨of⟩ моря"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "и путь"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "мужчины"
+    },
+    {
+      "surface": "בעלמה",
+      "gloss": "⟨с⟩ девушкой"
+    }
+  ],
+  "timestamp": "2026-08-03T10:07:20.249442952Z",
+  "model": "glm-4.5"
+}

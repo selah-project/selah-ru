@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "1-chronicles 27:33",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "и Ахитофел — советник царя, а Хуши Архиец — друг царя",
+  "tokens": [
+    {
+      "surface": "ואחיתפל",
+      "gloss": "и Ахитофел"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "советник"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "וחושי",
+      "gloss": "а Хуши"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "Архиец"
+    },
+    {
+      "surface": "רע",
+      "gloss": "друг"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    }
+  ],
+  "timestamp": "2026-08-03T13:15:49.780347848Z",
+  "model": "glm-4.5"
+}

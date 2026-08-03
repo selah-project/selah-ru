@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И жил Ноах после потопа триста пятьдесят лет",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "И жил"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "после"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "потопа"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "триста"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "пятьдесят"
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-02T17:53:10.434047685Z",
+  "model": "glm-4.5"
+}

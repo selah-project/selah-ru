@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "jeremiah 27:2",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "Так сказал ЯХВЕ мне: сделай себе узы и ярма и возложи их на свою шею",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделай"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себе"
+    },
+    {
+      "surface": "מוסרות",
+      "gloss": "узы"
+    },
+    {
+      "surface": "ומטות",
+      "gloss": "ярма"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "и возложи"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "свою шею"
+    }
+  ],
+  "timestamp": "2026-08-03T03:37:03.154002024Z",
+  "model": "glm-4.5"
+}

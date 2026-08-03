@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "Мудрый сын ⟨принимает⟩ наставление отца, а насмешник не слышит укора.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудрый"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "наставление"
+    },
+    {
+      "surface": "אב",
+      "gloss": "отца"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "а насмешник"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слышит"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "укора"
+    }
+  ],
+  "timestamp": "2026-08-03T09:37:13.869624803Z",
+  "model": "glm-4.5"
+}

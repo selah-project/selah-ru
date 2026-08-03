@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "jeremiah 31:31",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "Вот, дни грядут, — слово ЯХВЕ, — и я заключу ⟨את⟩ дом Израиля и ⟨את⟩ дом Иуды [в] новый завет",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "באים",
+      "gloss": "грядут"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "וכרתי",
+      "gloss": "и я заключу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дом Израиля"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "дом Иуды"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иуды"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "[в] завет"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "новый"
+    }
+  ],
+  "timestamp": "2026-08-03T03:42:48.509196477Z",
+  "model": "glm-4.5"
+}

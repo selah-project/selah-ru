@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "isaiah 2:22",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Перестаньте от человека, в ⟨чьих⟩ ноздрях дыхание, ибо в чём он ⟨ценился⟩?",
+  "tokens": [
+    {
+      "surface": "חדלו",
+      "gloss": "перестаньте"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "для вас"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨чей⟩"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "дыхание"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "в ⟨его⟩ ноздрях"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "במה",
+      "gloss": "в чём"
+    },
+    {
+      "surface": "נחשב",
+      "gloss": "⟨ценился⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-08-03T01:42:58.507697935Z",
+  "model": "glm-4.5"
+}

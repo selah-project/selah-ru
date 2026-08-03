@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Зачем ⟨Ты⟩ забываешь нас ⟨את⟩ навсегда, оставляешь нас ⟨את⟩ на ⟨долгое⟩ время?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Зачем"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "навсегда"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "забываешь нас"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "оставляешь нас"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "на ⟨долгое⟩"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "время"
+    }
+  ],
+  "timestamp": "2026-08-03T11:14:47.876203059Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И жил Терах семьдесят лет и родил ⟨את⟩ Аврама, ⟨את⟩ Нахора и ⟨את⟩ Арана",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "И жил"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Терах"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "семьдесят"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и родил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аврама"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврама"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Нахора"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Нахора"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Арана"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Арана"
+    }
+  ],
+  "timestamp": "2026-08-02T19:08:45.728754979Z",
+  "model": "glm-4.5"
+}

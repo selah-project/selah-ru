@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 50,
+  "translation": "Не возьму из дома твоего быка, из загонов твоих козлов",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "возьму"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "из дома твоего"
+    },
+    {
+      "surface": "פר",
+      "gloss": "быка"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "из загонов твоих"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "козлов"
+    }
+  ],
+  "timestamp": "2026-08-03T07:28:07.107786314Z",
+  "model": "glm-4.5"
+}

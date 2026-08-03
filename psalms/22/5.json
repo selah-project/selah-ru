@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "На Тебя уповали отцы наши, уповали, и Ты избавил их",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "на Тебя"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "уповали"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "отцы наши"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "уповали"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "и Ты избавил их"
+    }
+  ],
+  "timestamp": "2026-08-03T06:55:23.118554825Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Пересеки ⟨твою⟩ землю, ⟨как⟩ Нил, дочь Таршиша: ⟨нет⟩ больше пояса.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "Пересеки"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "⟨твою⟩ землю"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "⟨как⟩ Нил"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочь"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Таршиша"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨нет⟩"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "пояса"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "больше"
+    }
+  ],
+  "timestamp": "2026-08-03T02:07:30.444947103Z",
+  "model": "glm-4.5"
+}

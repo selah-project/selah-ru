@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И сказал Йегошафат царю Израиля: вопроси ныне, прошу, ⟨את⟩ слово ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Йегошафат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "вопроси"
+    },
+    {
+      "surface": "נא",
+      "gloss": "прошу"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ныне"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слово"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T01:00:42.224076775Z",
+  "model": "glm-4.5"
+}

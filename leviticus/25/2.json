@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "leviticus 25:2",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "Говори сынам Израиля и скажи им: когда придёте ⟨в⟩ землю, которую Я даю вам, то земля будет соблюдать шаббат ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынам"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "и скажи"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "כי",
+      "gloss": "когда"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "придёте"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨в⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которую"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даю"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "ושבתה",
+      "gloss": "то земля будет соблюдать"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "шаббат"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T21:05:18.926907988Z",
+  "model": "glm-4.5"
+}

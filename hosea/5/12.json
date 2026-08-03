@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "hosea 5:12",
+  "book": "hosea",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "А Я — как моль ⟨для⟩ Эфраима, и как гниль ⟨для⟩ дома Йехуды",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "А Я"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "как моль"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "⟨для⟩ Эфраима"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "и как гниль"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨для⟩ дома"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуды"
+    }
+  ],
+  "timestamp": "2026-08-03T05:23:35.200780885Z",
+  "model": "glm-4.5"
+}

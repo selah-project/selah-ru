@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "genesis 49:18",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 49,
+  "translation": "На ⟨твоё⟩ спасение я надеялся, ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "לישועתך",
+      "gloss": "на ⟨твоё⟩ спасение"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "я надеялся"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T19:53:57.140953527Z",
+  "model": "glm-4.5"
+}

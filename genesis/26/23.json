@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "И он взошёл оттуда в Беэр-Шéву",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "И он взошёл"
+    },
+    {
+      "surface": "משם",
+      "gloss": "оттуда"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беэр"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шéву"
+    }
+  ],
+  "timestamp": "2026-08-02T19:25:48.676405652Z",
+  "model": "glm-4.5"
+}

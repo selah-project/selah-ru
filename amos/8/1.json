@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "amos 8:1",
+  "book": "amos",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Так показал мне Адонай ЯХВЕ, и вот: корзина ⟨с⟩ летним ⟨плодом⟩",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "показал мне"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "корзина"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "летним ⟨плодом⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T05:41:44.490299158Z",
+  "model": "glm-4.5"
+}

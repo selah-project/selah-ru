@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "1-samuel 18:28",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И увидел Шаул и узнал, что ЯХВЕ ⟨с⟩ Давидом, и Михаль, дочь Шаула, любила его",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "и увидел"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "и узнал"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨с⟩",
+      "marks": "Давидом"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давидом"
+    },
+    {
+      "surface": "ומיכל",
+      "gloss": "и Михаль"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочь"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаула"
+    },
+    {
+      "surface": "אהבתהו",
+      "gloss": "любила его"
+    }
+  ],
+  "timestamp": "2026-08-02T23:33:59.617843077Z",
+  "model": "glm-4.5"
+}

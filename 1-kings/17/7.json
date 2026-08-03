@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И было по истечении дней, и пересох поток, ⟨ибо⟩ не было дождя на ⟨земле⟩",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "по истечении"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дней"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "и пересох"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "поток"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ибо⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "было"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "дождя"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на ⟨земле⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T00:52:19.821413315Z",
+  "model": "glm-4.5"
+}

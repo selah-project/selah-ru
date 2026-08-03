@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "job 11:5",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "О, если бы Элоха говорил и открывал ⟨свои⟩ уста с тобою",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "О, если бы"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто бы"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "дал"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Элоха"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорить"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "и открывал"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "⟨свои⟩ уста"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "с тобою"
+    }
+  ],
+  "timestamp": "2026-08-03T10:19:10.316992868Z",
+  "model": "glm-4.5"
+}

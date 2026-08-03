@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "joshua 13:24",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И дал Моше колену Гада, сынам Гада, ⟨по⟩ семействам их",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "И дал"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "колену"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гада"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "сынам"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гада"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "⟨по⟩ семействам их"
+    }
+  ],
+  "timestamp": "2026-08-02T22:37:06.345350392Z",
+  "model": "glm-4.5"
+}

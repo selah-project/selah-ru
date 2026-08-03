@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "numbers 16:20",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "И говорил ЯХВЕ ⟨с⟩ Моше и ⟨с⟩ Аароном, говоря:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и ⟨с⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аароном"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-02T21:28:36.239475816Z",
+  "model": "glm-4.5"
+}

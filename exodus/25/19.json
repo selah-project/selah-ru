@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "exodus 25:19",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "и сделай ⟨одного⟩ херувима с ⟨одного⟩ конца этого ⟨и⟩ херувима ⟨одного⟩ с ⟨другого⟩ конца того, из purification-cover сделайте херувимов на ⟨двух⟩ концах его",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "и сделай"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "херувима"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨одного⟩"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "с ⟨одного⟩"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "конца этого"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "⟨и⟩ херувима"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨одного⟩"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "с ⟨другого⟩"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "конца того"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "purification-cover"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "сделайте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "херувимов"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "херувимов"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שני",
+      "gloss": "⟨двух⟩"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "концах его"
+    }
+  ],
+  "timestamp": "2026-08-02T20:19:20.287108973Z",
+  "model": "glm-4.5"
+}

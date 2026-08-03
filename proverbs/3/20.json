@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "proverbs 3:20",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Познанием Его бездны рассекаются, и облака dripping каплют ⟨росой⟩.",
+  "tokens": [
+    {
+      "surface": "בדעתו",
+      "gloss": "Познанием Его"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "бездны"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "рассекаются"
+    },
+    {
+      "surface": "ושחקים",
+      "gloss": "и облака"
+    },
+    {
+      "surface": "ירעפו",
+      "gloss": "dripping каплют"
+    },
+    {
+      "surface": "טל",
+      "gloss": "⟨את⟩",
+      "marks": "росой"
+    }
+  ],
+  "timestamp": "2026-08-03T09:23:47.985178844Z",
+  "model": "glm-4.5"
+}

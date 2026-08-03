@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "Словом ЯХВЕ небеса сотворены, и духом уст Его — всё воинство ⟨их⟩",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "Словом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "сотворены"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "и духом"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "уст Его"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "воинство ⟨их⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T07:08:40.235485338Z",
+  "model": "glm-4.5"
+}

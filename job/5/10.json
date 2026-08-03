@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "job 5:10",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Дающий дождь на лице земли и посылающий воды на ⟨外面⟩ полей:",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Дающий"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "дождь"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лице"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земли"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "и посылающий"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воды"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лице"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "полей"
+    }
+  ],
+  "timestamp": "2026-08-03T10:13:38.619794330Z",
+  "model": "glm-4.5"
+}

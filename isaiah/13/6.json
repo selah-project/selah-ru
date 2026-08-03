@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "isaiah 13:6",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "Воплите, ибо близок день ЯХВЕ; как гибель от Всемогущего ⟨он⟩ придёт",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "Воплите"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "близок"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "как гибель"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "от Всемогущего"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "придёт"
+    }
+  ],
+  "timestamp": "2026-08-03T01:56:49.964156978Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "judges 16:4",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "И стало ⟨после⟩ ⟨этого⟩, и полюбил ⟨он⟩ женщину в долине Сорек, а имя её — Далила.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И стало"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "после"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨этого⟩"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "и полюбил"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "женщину"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "в долине"
+    },
+    {
+      "surface": "שרק",
+      "gloss": "Сорек"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "а имя"
+    },
+    {
+      "surface": "דלילה",
+      "gloss": "Далила"
+    }
+  ],
+  "timestamp": "2026-08-02T23:07:00.757767577Z",
+  "model": "glm-4.5"
+}

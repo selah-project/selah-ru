@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 52,
+  "ref": "1-chronicles 1:52",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "начальник Оголивама, начальник Эла, начальник Пинон,",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "начальник"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Оголивама"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "начальник"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Эла"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "начальник"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "Пинон"
+    }
+  ],
+  "timestamp": "2026-08-03T12:36:29.630621033Z",
+  "model": "glm-4.5"
+}

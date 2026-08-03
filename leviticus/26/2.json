@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "⟨את⟩ Мои шаббаты храните, и ⟨и⟩ святилище Мое чтите; Я — ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мои шаббаты"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Мои шаббаты"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "храните"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "и святилище Мое"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "чтите"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T21:07:02.268932474Z",
+  "model": "glm-4.5"
+}

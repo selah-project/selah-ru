@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "1-chronicles 24:29",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Кишу: сыновья Киша — Иерахмеэль.",
+  "tokens": [
+    {
+      "surface": "לקיש",
+      "gloss": "Кишу"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Киша"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Иерахмеэль"
+    }
+  ],
+  "timestamp": "2026-08-03T13:11:25.675228293Z",
+  "model": "glm-4.5"
+}

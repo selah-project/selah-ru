@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "2-chronicles 17:4",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "ибо к Элохим отца своего взыскал, и в заповедях Его ходил, и не по делу Израиля",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "к Эlohим"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "отца своего"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "взыскал"
+    },
+    {
+      "surface": "ובמצותיו",
+      "gloss": "и в заповедях Его"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ходил"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "по делу"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-03T13:47:22.169426014Z",
+  "model": "glm-4.5"
+}

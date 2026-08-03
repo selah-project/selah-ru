@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "и омоются Аарон и сыны его из него ⟨את⟩ руки их и ⟨את⟩ ноги их",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "и омоются"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "и сыны его"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "из него"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "руки их"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "руки их"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ноги их"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ноги их"
+    }
+  ],
+  "timestamp": "2026-08-02T20:27:11.766618432Z",
+  "model": "glm-4.5"
+}

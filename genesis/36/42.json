@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "вождь Кеназ, вождь Теман, вождь Мивцар,",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "вождь"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Кеназ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "вождь"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Теман"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "вождь"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "Мивцар"
+    }
+  ],
+  "timestamp": "2026-08-02T19:39:08.316976441Z",
+  "model": "glm-4.5"
+}

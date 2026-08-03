@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "jeremiah 16:2",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Не возьми себе жены, и не будут у тебя сыновья и дочери в месте этом.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "возьми"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себе"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жену"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "будут"
+    },
+    {
+      "surface": "לך",
+      "gloss": "у тебя"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "и дочери"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "в месте"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "этом"
+    }
+  ],
+  "timestamp": "2026-08-03T03:17:41.844180524Z",
+  "model": "glm-4.5"
+}

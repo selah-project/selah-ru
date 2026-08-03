@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "numbers 15:2",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "Говори сыновьям Израиля и скажи им: когда придёте ⟨в⟩ землю обитаний ваших, которую Я даю вам",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "сыновьям"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "и"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "скажи"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "כי",
+      "gloss": "когда"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "придёте"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨в⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "обитаний"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "вашей"
+    },
+    {
+      "surface": "אני",
+      "gloss": "которую"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Я"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "даю"
+    }
+  ],
+  "timestamp": "2026-08-02T21:27:19.804578107Z",
+  "model": "glm-4.5"
+}

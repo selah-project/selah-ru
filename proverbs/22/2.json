@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Богатый и бедный встречаются ⟨друг с другом⟩; ⟨делатель⟩ их всех — ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "богатый"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "и бедный"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "встречаются"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "делатель"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "их всех"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T09:49:44.139296884Z",
+  "model": "glm-4.5"
+}

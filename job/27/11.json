@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "Я покажу вам ⟨את⟩ рукой Эля, что со Шаддаи — ⟨я⟩ не скрою.",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "Я покажу"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "рукой"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эля"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шаддаи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "скрою"
+    }
+  ],
+  "timestamp": "2026-08-03T10:32:55.288062945Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "job 32:7",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "Я сказал: дни скажут, и множество лет научат мудрости",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Я сказал"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "скажут"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "и множество"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "лет"
+    },
+    {
+      "surface": "ידיעו",
+      "gloss": "научат"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрости"
+    }
+  ],
+  "timestamp": "2026-08-03T10:37:51.746132830Z",
+  "model": "glm-4.5"
+}

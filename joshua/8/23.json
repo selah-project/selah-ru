@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И царя Гая взяли ⟨живым⟩ и привели ⟨его⟩ к Иегошуа",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и",
+      "marks": "царя"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Гая"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "взяли"
+    },
+    {
+      "surface": "חי",
+      "gloss": "живым"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "и привели"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "его"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Иегошуа"
+    }
+  ],
+  "timestamp": "2026-08-02T22:31:49.632757076Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "job 40:20",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "Ибо горы приносят ему пищу, и ⟨все⟩ звери ⟨поля⟩ играют там",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "בול",
+      "gloss": "пищу"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "горы"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "приносят"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и все"
+    },
+    {
+      "surface": "חית",
+      "gloss": "звери"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "поля"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "играют"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    }
+  ],
+  "timestamp": "2026-08-03T10:51:02.813270779Z",
+  "model": "glm-4.5"
+}

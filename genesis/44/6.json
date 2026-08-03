@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 44,
+  "translation": "И догнал их, и говорил им ⟨את⟩ эти слова",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "и догнал"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "и говорил"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эти слова"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "слова"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "эти"
+    }
+  ],
+  "timestamp": "2026-08-02T19:48:19.372605673Z",
+  "model": "glm-4.5"
+}

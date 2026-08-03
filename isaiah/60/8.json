@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 60,
+  "translation": "Кто они, летящие как облако, и как голуби к ⟨своим⟩ оконцам?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кто"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "они"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "как облако"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "летящие"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "и как голуби"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "оконцам"
+    }
+  ],
+  "timestamp": "2026-08-03T02:50:44.645727519Z",
+  "model": "glm-4.5"
+}

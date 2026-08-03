@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-chronicles 12:4",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "и Йишмаayah Гивеонитянин, герой среди тридцати и над тридцатью;",
+  "tokens": [
+    {
+      "surface": "וישמעיה",
+      "gloss": "и Йишмаayah"
+    },
+    {
+      "surface": "הגבעוני",
+      "gloss": "Гивеонитянин"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "герой"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "среди тридцати"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и над"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "тридцатью"
+    }
+  ],
+  "timestamp": "2026-08-03T12:55:37.575655633Z",
+  "model": "glm-4.5"
+}

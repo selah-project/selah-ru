@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "jeremiah 30:2",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Так сказал ЯХВЕ, Элохи Израиля, говоря: напиши для себя ⟨את⟩ все слова, которые Я говорил тебе, в книгу",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохи"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "напиши"
+    },
+    {
+      "surface": "לך",
+      "gloss": "для себя"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "все слова"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "слова"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "Я говорил"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "книгу"
+    }
+  ],
+  "timestamp": "2026-08-03T03:40:45.399172800Z",
+  "model": "glm-4.5"
+}

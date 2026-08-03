@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Как ⟨я⟩ один понесу ⟨тяготу⟩ вашу, и ⟨бремя⟩ ваше, и ⟨споры⟩ ваши?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Как"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "понесу"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "один"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "тяготу вашу"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "и бремя ваше"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "и споры ваши"
+    }
+  ],
+  "timestamp": "2026-08-02T21:50:59.997796908Z",
+  "model": "glm-4.5"
+}

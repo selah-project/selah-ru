@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "Сердце ⟨её⟩ мужа доверяет ей, и ⟨он⟩ не будет терпеть убытка",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "доверяет"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨её⟩",
+      "marks": "ей"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сердце"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "мужа"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "и ⟨он⟩ не будет терпеть убытка",
+      "marks": "и он не будет терпеть убытка"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "יחסר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T10:08:38.872463346Z",
+  "model": "glm-4.5"
+}

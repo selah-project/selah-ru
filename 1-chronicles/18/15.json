@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-chronicles 18:15",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И Йоав, сын Цруйи, ⟨был⟩ над ⟨воинством⟩, а Йегошафат, сын Ахилуда, — летописец.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "И Йоав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Цруйи"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "воинством"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "а Йегошафат"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "Ахилуда"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "летописец"
+    }
+  ],
+  "timestamp": "2026-08-03T13:03:32.414026743Z",
+  "model": "glm-4.5"
+}

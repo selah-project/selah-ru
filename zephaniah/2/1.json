@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Соберитесь, да, соберитесь, народ, ⟨не⟩ желанный;",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "Соберитесь"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "да, соберитесь"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "желанный"
+    }
+  ],
+  "timestamp": "2026-08-03T06:03:08.509591660Z",
+  "model": "glm-4.5"
+}

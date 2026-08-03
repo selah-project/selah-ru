@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "2-kings 3:16",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И сказал: так ⟨сказал⟩ ЯХВЕ: делайте ⟨этот⟩ овраг рвами рвами.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "⟨сказал⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "делайте"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "⟨этот⟩ овраг"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "גבים",
+      "gloss": "рывами"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "рывами"
+    }
+  ],
+  "timestamp": "2026-08-03T01:05:58.602910497Z",
+  "model": "glm-4.5"
+}

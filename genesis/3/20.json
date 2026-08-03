@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И назвал Адам имя своей жены Хава, ⟨так как⟩ она ⟨была⟩ матерью ⟨всех⟩ живых.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "и назвал"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Адам"
+    },
+    {
+      "surface": "שם",
+      "gloss": "имя"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "своей жены"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Хава"
+    },
+    {
+      "surface": "כי",
+      "gloss": "так как"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "она"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "была"
+    },
+    {
+      "surface": "אם",
+      "gloss": "матерью"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "חי",
+      "gloss": "живых"
+    }
+  ],
+  "timestamp": "2026-08-02T17:46:51.102837252Z",
+  "model": "glm-4.5"
+}

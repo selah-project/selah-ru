@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "proverbs 21:23",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Хранящий ⟨свой⟩ рот и ⟨свой⟩ язык хранит свою нефеш от бедствий",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "хранящий"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "рот"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "и язык"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "хранит"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "от бедствий"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "свою нефеш"
+    }
+  ],
+  "timestamp": "2026-08-03T09:48:10.064378485Z",
+  "model": "glm-4.5"
+}

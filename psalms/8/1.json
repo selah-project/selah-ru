@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Начальнику на Гиттиф — псалом Давиду.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Начальнику"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Гиттиф"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "псалом"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиду"
+    }
+  ],
+  "timestamp": "2026-08-03T06:38:06.439241269Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 41,
+  "ref": "numbers 14:41",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И сказал Моше: „Зачем вы ⟨это⟩ делаете — переходите ⟨את⟩ уста ЯХВЕ, и это не ⟨будет⟩ успешно“?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Зачем"
+    },
+    {
+      "surface": "זה",
+      "gloss": "это"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вы"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "переходите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "уста"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уста"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "и это"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תצלח",
+      "gloss": "успешно"
+    }
+  ],
+  "timestamp": "2026-08-02T21:26:47.338544199Z",
+  "model": "glm-4.5"
+}

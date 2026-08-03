@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Наготу невестки твоей не открывай: ⟨она⟩ жена сына твоего, наготы её не открывай",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "наготу"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "невестки твоей"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "открывай"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жена"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "сына твоего"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨она⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "открывай"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "наготы её"
+    }
+  ],
+  "timestamp": "2026-08-02T20:58:20.869293605Z",
+  "model": "glm-4.5"
+}

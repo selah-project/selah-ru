@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "И было ⟨как⟩ десять дней, и поразил ЯХВЕ ⟨את⟩ Навала, и он умер",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "⟨как⟩ десять"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дней"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "и поразил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Навала"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Навала"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и он умер"
+    }
+  ],
+  "timestamp": "2026-08-02T23:42:19.728486137Z",
+  "model": "glm-4.5"
+}

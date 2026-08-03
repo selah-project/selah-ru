@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И сделал Моше и Аарон — как повелел ЯХВЕ ⟨את⟩ них, так они и сделали",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И сделал"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "и Аарон"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "повелел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "них"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "они и сделали"
+    }
+  ],
+  "timestamp": "2026-08-02T20:01:06.006096939Z",
+  "model": "glm-4.5"
+}

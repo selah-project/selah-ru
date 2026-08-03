@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И шёл Давид, шёл и становился велик, и ЯХВЕ, Элохим Цеваот, ⟨был⟩ с ним.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "И шёл"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "шёл"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "и становился велик"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "и ЯХВЕ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с ним"
+    }
+  ],
+  "timestamp": "2026-08-02T23:52:29.363834789Z",
+  "model": "glm-4.5"
+}

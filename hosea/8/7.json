@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "hosea 8:7",
+  "book": "hosea",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Ибо ⟨они⟩ посеяли ветер, и whirlwind ⟨они⟩ пожнут; ⟨у⟩ stalk нет sprout; ⟨чтобы⟩ делать flour — может быть, ⟨он⟩ будет делать flour, ⟨и⟩ foreigners ⟨его⟩ проглотят.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ветер"
+    },
+    {
+      "surface": "יזרעו",
+      "gloss": "⟨они⟩ посеяли"
+    },
+    {
+      "surface": "וסופתה",
+      "gloss": "и whirlwind ⟨они⟩ пожнут"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "⟨у⟩ stalk"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨у него⟩"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "sprout"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "⟨чтобы⟩"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "делать"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "flour"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "может быть"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "⟨он⟩ будет делать"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "flour"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "foreigners"
+    },
+    {
+      "surface": "יבלעהו",
+      "gloss": "⟨и⟩ ⟨они⟩ проглотят ⟨его⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T05:26:01.045033426Z",
+  "model": "glm-4.5"
+}

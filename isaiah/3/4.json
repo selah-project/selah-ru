@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И Я дам ⟨будут⟩ юношами их князей, и капризы будут править ими",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "И Я дам"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "юношами"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "их князей"
+    },
+    {
+      "surface": "ותעלולים",
+      "gloss": "и капризы"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "будут править"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ими"
+    }
+  ],
+  "timestamp": "2026-08-03T01:43:12.894870444Z",
+  "model": "glm-4.5"
+}

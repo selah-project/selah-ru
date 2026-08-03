@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "И было сообщено Шаулу, что ⟨Давид⟩ бежал в Гат, и не стал он более искать его.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "И было сообщено"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Шаулу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "бежал"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "גת",
+      "gloss": "в Гат"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "стал"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "более"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "искать его"
+    }
+  ],
+  "timestamp": "2026-08-02T23:44:01.553637906Z",
+  "model": "glm-4.5"
+}

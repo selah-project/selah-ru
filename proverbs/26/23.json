@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "proverbs 26:23",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Как серебро шлака, покрытое ⟨на⟩ черепке: горящие уста и сердце злое.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "серебро"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "шлака"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "покрытое"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "черепке"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "уста"
+    },
+    {
+      "surface": "דלקים",
+      "gloss": "горящие"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "и сердце"
+    },
+    {
+      "surface": "רע",
+      "gloss": "злое"
+    }
+  ],
+  "timestamp": "2026-08-03T10:02:13.165945093Z",
+  "model": "glm-4.5"
+}

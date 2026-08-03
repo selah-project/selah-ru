@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "joshua 10:9",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И пришёл к ним Йегошуа внезапно, всю ночь ⟨он⟩ поднялся из Гилгала",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и пришёл"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "к ним"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йегошуа"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "внезапно"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всю"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ночь"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "поднялся"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Гилгала"
+    }
+  ],
+  "timestamp": "2026-08-02T22:33:37.684392247Z",
+  "model": "glm-4.5"
+}

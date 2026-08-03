@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Вспомни, ЯХВЕ, что ⟨стало⟩ с нами; посмотри и узри ⟨את⟩ наш позор",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "вспомни"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨стало⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "с нами"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "посмотри"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "и узри"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "наш позор"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "наш позор"
+    }
+  ],
+  "timestamp": "2026-08-03T11:14:27.560307448Z",
+  "model": "glm-4.5"
+}

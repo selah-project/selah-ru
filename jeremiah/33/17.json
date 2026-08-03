@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "jeremiah 33:17",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "Ибо так сказал ЯХВЕ: не будет прервано ⟨у⟩ Давида ⟨муж⟩, сидящий на престоле дома Израиля,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "будет прервано"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "⟨у⟩ Давида"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨муж⟩"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "сидящий"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "престоле"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-03T03:47:06.886718602Z",
+  "model": "glm-4.5"
+}

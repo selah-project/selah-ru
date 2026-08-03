@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "1-samuel 3:21",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И продолжал ЯХВЕ являться в Шило, ибо открылся ЯХВЕ к Шмуэлю в Шило словом ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "И продолжал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "להראה",
+      "gloss": "являться"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "в Шило"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "открылся"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шмуэлю"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "в Шило"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "словом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T23:16:14.345597840Z",
+  "model": "glm-4.5"
+}

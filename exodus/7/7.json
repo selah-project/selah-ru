@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "exodus 7:7",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "А Моше был сын восьмидесяти лет, а Аарон сын трёх и восьмидесяти лет, ⟨в⟩ их speaking к фараону",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "А Моше"
+    },
+    {
+      "surface": "בן",
+      "gloss": "был сын"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "восьмидесяти"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "а Аарон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "трёх"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "и восьмидесяти"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "בדברם",
+      "gloss": "⟨в⟩ их speaking"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "фараону"
+    }
+  ],
+  "timestamp": "2026-08-02T20:01:08.992561931Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "proverbs 8:17",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Я люблю любящих меня, и ищущие меня рано найдут меня.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "люблю"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "любящих"
+    },
+    {
+      "surface": "ומשחרי",
+      "gloss": "и ищущие"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "найдут меня"
+    }
+  ],
+  "timestamp": "2026-08-03T09:30:21.864591021Z",
+  "model": "glm-4.5"
+}

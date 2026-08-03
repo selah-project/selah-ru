@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "1-chronicles 12:22",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И они помогли Давиду против ⟨отряда⟩, ибо ⟨это⟩mighty men of valour, и стали начальниками в войске.",
+  "tokens": [
+    {
+      "surface": "וְהֵ֗מָּה",
+      "gloss": "и они"
+    },
+    {
+      "surface": "עָזְר֤וּ",
+      "gloss": "помогли"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "с"
+    },
+    {
+      "surface": "דָּוִיד֙",
+      "gloss": "Давидом"
+    },
+    {
+      "surface": "עַֽל",
+      "gloss": "против"
+    },
+    {
+      "surface": "הַגְּד֔וּד",
+      "gloss": "отряда"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "גִבּ֥וֹרֵי",
+      "gloss": "mighty men of valour"
+    },
+    {
+      "surface": "חַ֖יִל",
+      "gloss": "могущества"
+    },
+    {
+      "surface": "כֻּלָּ֑ם",
+      "gloss": "все"
+    },
+    {
+      "surface": "וַיִּהְי֥וּ",
+      "gloss": "и стали"
+    },
+    {
+      "surface": "שָׂרִ֖ים",
+      "gloss": "начальниками"
+    },
+    {
+      "surface": "בַּצָּבָֽא",
+      "gloss": "в войске"
+    }
+  ],
+  "timestamp": "2026-08-03T12:55:31.983858878Z",
+  "model": "glm-4.5"
+}

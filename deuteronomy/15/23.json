@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "Только ⟨את⟩ его кровь не ешь; на ⟨землю⟩ проливай её как воду.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Только"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "его кровь"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "кровь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ешь"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "проливай"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "как воду"
+    }
+  ],
+  "timestamp": "2026-08-02T22:06:50.374349893Z",
+  "model": "glm-4.5"
+}

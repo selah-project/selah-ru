@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "numbers 3:9",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И дашь ⟨את⟩ левитов Аарону и сыновьям его, ⟨они⟩ даны, даны ⟨они⟩ ему из сынов Израиля",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "И дашь"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "левитов"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левитов"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Аарону"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "и сыновьям его"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "даны"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "даны"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨они⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "из"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-02T21:12:02.367522553Z",
+  "model": "glm-4.5"
+}

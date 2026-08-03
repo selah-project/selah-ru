@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И счислил их Моисей ⟨את⟩ по повелению ЯХВЕ, как ⟨был⟩ повелелен",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "и счислил"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Моисея"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моисей"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "פי",
+      "gloss": "повелению"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "⟨был⟩ повелелен"
+    }
+  ],
+  "timestamp": "2026-08-02T21:12:21.350563551Z",
+  "model": "glm-4.5"
+}

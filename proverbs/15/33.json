@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "proverbs 15:33",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "Страх ЯХВЕ ⟨есть⟩ наставление хохмы, а перед почестями — смирение.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "Страх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "наставление"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "хохмы"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "а перед"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "почестями"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "смирение"
+    }
+  ],
+  "timestamp": "2026-08-03T09:40:34.183979588Z",
+  "model": "glm-4.5"
+}

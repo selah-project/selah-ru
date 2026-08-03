@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 81,
+  "translation": "Но не внял ⟨Мой⟩ народ ⟨к⟩ голосу ⟨Моему⟩, и Исраэль не пожелал ⟨Меня⟩",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Но не"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "внял"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "⟨Мой⟩ народ"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "⟨к⟩ голосу ⟨Моему⟩"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "и Исраэль"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "пожелал"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨Меня⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T08:07:34.222560580Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "jeremiah 48:14",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 48,
+  "translation": "Как говорите вы: мы ⟨ו⟩ сильные ⟨ו⟩ и люди доблести для войны?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Как"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "говорите вы"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "сильные"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "мы",
+      "marks": "сильные"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "⟨и⟩ люди"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "доблести"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "для войны"
+    }
+  ],
+  "timestamp": "2026-08-03T04:07:16.112352310Z",
+  "model": "glm-4.5"
+}

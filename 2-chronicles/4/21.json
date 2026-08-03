@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "2-chronicles 4:21",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И ⟨цветы⟩, и ⟨лампады⟩, и ⟨щипцы⟩ — из золота; это чистое золото",
+  "tokens": [
+    {
+      "surface": "והפרח",
+      "gloss": "и ⟨цветы⟩"
+    },
+    {
+      "surface": "והנרות",
+      "gloss": "и ⟨лампады⟩"
+    },
+    {
+      "surface": "והמלקחים",
+      "gloss": "и ⟨щипцы⟩"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "из золота"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "это"
+    },
+    {
+      "surface": "מכלות",
+      "gloss": "чистое"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золото"
+    }
+  ],
+  "timestamp": "2026-08-03T13:24:35.081419214Z",
+  "model": "glm-4.5"
+}

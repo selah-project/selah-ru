@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "genesis 41:1",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 41,
+  "translation": "И было по окончании двух лет дней, и Паро мечет ⟨сны⟩, и вот ⟨он⟩ стоит над рекой",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "по окончании"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "двух лет"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дней"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "и Паро"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "мечет ⟨сны⟩"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "стоит"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "рекой"
+    }
+  ],
+  "timestamp": "2026-08-02T19:44:10.640619525Z",
+  "model": "glm-4.5"
+}

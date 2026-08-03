@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "genesis 24:13",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "вот, ⟨я⟩ стою у ⟨⟩ источника воды, и дочери ⟨⟩ мужей города выходят черпать воду",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨я⟩"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "стою"
+    },
+    {
+      "surface": "על",
+      "gloss": "у"
+    },
+    {
+      "surface": "עין",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "המים",
+      "gloss": "источника воды"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "и дочери"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "⟨⟩ мужей"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "города"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "выходят"
+    },
+    {
+      "surface": "לשאב",
+      "gloss": "черпать"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воду"
+    }
+  ],
+  "timestamp": "2026-08-02T19:21:23.819967589Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "и сказал ему: так сказал Ифтах: не взял Израиль ⟨את⟩ землю Моава и ⟨את⟩ землю сынов Аммона",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Ифтах"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "взял"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "землю Моава"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "землю сынов Аммона"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммона"
+    }
+  ],
+  "timestamp": "2026-08-02T23:01:34.141418889Z",
+  "model": "glm-4.5"
+}

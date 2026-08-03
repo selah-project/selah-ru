@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 62,
+  "translation": "Начальнику хористов, на Едутун. Псалом Давида.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Начальнику хористов"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Едутун"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Псалом"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давида"
+    }
+  ],
+  "timestamp": "2026-08-03T07:39:54.536166289Z",
+  "model": "glm-4.5"
+}

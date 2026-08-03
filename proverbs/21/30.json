@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Нет хохмы, ⟨и⟩ нет тевуны, ⟨и⟩ нет совета ⟨против⟩ ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Нет"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "хохмы"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "⟨и⟩ нет"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "тевуны"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "⟨и⟩ нет"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "совета"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "⟨против⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T09:48:57.522857813Z",
+  "model": "glm-4.5"
+}

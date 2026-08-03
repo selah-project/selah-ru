@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 106,
+  "translation": "И роптали в шатрах своих, не вняли голосу ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "и роптали"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "в шатрах своих"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "вняли"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "голосу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T08:36:50.532177803Z",
+  "model": "glm-4.5"
+}

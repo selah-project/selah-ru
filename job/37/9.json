@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "job 37:9",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "Из палаты выходит ⟨суфá⟩ — вихрь, и с севера — холод",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Из"
+    },
+    {
+      "surface": "החדר",
+      "gloss": "палаты"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "выходит"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "⟨суфá⟩ — вихрь"
+    },
+    {
+      "surface": "וממזרים",
+      "gloss": "и с севера"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "холод"
+    }
+  ],
+  "timestamp": "2026-08-03T10:47:48.257330319Z",
+  "model": "glm-4.5"
+}

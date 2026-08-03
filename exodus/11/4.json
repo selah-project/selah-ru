@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И сказал Моше: так сказал ЯХВЕ: около полуночи Я выйду ⟨в⟩ средину Египта",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "около полуночи"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "⟨полуночи⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "выйду"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "⟨в⟩ средину"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Египта"
+    }
+  ],
+  "timestamp": "2026-08-02T20:05:27.608906399Z",
+  "model": "glm-4.5"
+}

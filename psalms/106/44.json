@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 106,
+  "translation": "Но Он увидел их тесноту, когда услышал ⟨את⟩ вопль их:",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "увидел"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "тесноту"
+    },
+    {
+      "surface": "להם",
+      "gloss": "их"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "когда услышал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "вопль их"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "вопль их"
+    }
+  ],
+  "timestamp": "2026-08-03T08:38:03.357637946Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Горе тебе, земля, ⟨чей⟩ царь — отрок, и ⟨твои⟩ князья ⟨пиршествуют⟩ по утрам",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Горе"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "⟨чей⟩ царь"
+    },
+    {
+      "surface": "נער",
+      "gloss": "отрок"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "и ⟨твои⟩ князья"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "по утрам"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "⟨пиршествуют⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T11:24:19.875860211Z",
+  "model": "glm-4.5"
+}

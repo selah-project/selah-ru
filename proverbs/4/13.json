@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "proverbs 4:13",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Крепко держись наставления, не ослабляй, храни ⟨её⟩, ибо она — жизнь твоя.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "Крепко держись"
+    },
+    {
+      "surface": "במוסר",
+      "gloss": "наставления"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "ослабляй"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "храни"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨её⟩"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "жизнь твоя"
+    }
+  ],
+  "timestamp": "2026-08-03T09:25:20.009729249Z",
+  "model": "glm-4.5"
+}

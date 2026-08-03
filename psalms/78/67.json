@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 78,
+  "translation": "И отверг Он шатёр Йосефа, ⟨и⟩ колено Эфраима не избрал:",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "И отверг"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "шатёр"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефа"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "⟨и⟩ колено"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраима"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "избрал"
+    }
+  ],
+  "timestamp": "2026-08-03T08:04:53.060309072Z",
+  "model": "glm-4.5"
+}

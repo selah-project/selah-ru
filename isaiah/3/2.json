@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "герой и ⟨человек⟩ войны, судья и пророк, и гадатель, и старец",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "герой"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "и"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "войны"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "судья"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "и пророк"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "и гадатель"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "и старец"
+    }
+  ],
+  "timestamp": "2026-08-03T01:46:12.022561115Z",
+  "model": "glm-4.5"
+}

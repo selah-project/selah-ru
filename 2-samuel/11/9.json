@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И почил Урия у ⟨двери⟩ дома царя ⟨את⟩ всех слуг господина своего, и не сошёл ⟨в⟩ дом свой",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "И почил"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Урия"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "у ⟨двери⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всех слуг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слуг"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "господина своего"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "сошёл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨в⟩"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "дом свой"
+    }
+  ],
+  "timestamp": "2026-08-02T23:57:26.590583892Z",
+  "model": "glm-4.5"
+}

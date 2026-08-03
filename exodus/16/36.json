@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "а омэр ⟨есть⟩ десятая часть ⟨э́фы⟩, он",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "а омэр"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "десятая часть"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "⟨э́фы⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-08-02T20:11:13.099640175Z",
+  "model": "glm-4.5"
+}

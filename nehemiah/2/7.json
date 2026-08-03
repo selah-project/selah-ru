@@ -1,0 +1,93 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "nehemiah 2:7",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И я сказал царю: если царю ⟨это⟩ благо, пусть дадут мне письма ⟨на⟩ governors beyond the River, чтобы они проводили меня, пока не приду я в Йехуду",
+  "tokens": [
+    {
+      "surface": "ואומר",
+      "gloss": "и я сказал"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "благо"
+    },
+    {
+      "surface": "אגרות",
+      "gloss": "письма"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "пусть дадут"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "פחוות",
+      "gloss": "governors"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "beyond"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "the River"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "יעבירוני",
+      "gloss": "они проводили меня"
+    },
+    {
+      "surface": "עד",
+      "gloss": "пока не"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "приду я"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуду"
+    }
+  ],
+  "timestamp": "2026-08-03T12:15:00.734253607Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "numbers 35:13",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "А города, которые вы ⟨дадите⟩, ⟨будут⟩ для вас шесть городов ⟨убежища⟩",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "А города"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "вы ⟨дадите⟩"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шесть"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "городов"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "⟨убежища⟩"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "⟨будут⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "для вас"
+    }
+  ],
+  "timestamp": "2026-08-02T21:49:29.488980868Z",
+  "model": "glm-4.5"
+}

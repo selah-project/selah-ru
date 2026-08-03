@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "2-chronicles 32:24",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "В те дни Хизкияу заболел ⟨до⟩ смерти, и воззвал ⟨к⟩ ЯХВЕ, и Он ответил ему, и дал ему знамение.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "В те дни"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "те"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "заболел"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Хизкияу"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨до⟩"
+    },
+    {
+      "surface": "למות",
+      "gloss": "смерти"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "и воззвал"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и Он ответил"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "ומופת",
+      "gloss": "и знамение"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    }
+  ],
+  "timestamp": "2026-08-03T14:10:05.586048875Z",
+  "model": "glm-4.5"
+}

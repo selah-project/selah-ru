@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "С места жительства Своего ⟨Он⟩ взирает на всех живущих на земле",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "с места"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "жительства Своего"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "⟨Он⟩ взирает"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "живущих"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земле"
+    }
+  ],
+  "timestamp": "2026-08-03T07:08:47.696407952Z",
+  "model": "glm-4.5"
+}

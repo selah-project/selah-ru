@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "deuteronomy 2:17",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "и ЯХВЕ говорил со мной, говоря:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "и говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "со мной"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-02T21:52:01.658170609Z",
+  "model": "glm-4.5"
+}

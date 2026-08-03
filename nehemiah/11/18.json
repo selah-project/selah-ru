@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "nehemiah 11:18",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Все левиты в святом городе, ⟨были⟩ двести восемьдесят четыре.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Все"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левиты"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "в городе"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "святом"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двести"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "восемьдесят"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "четыре"
+    }
+  ],
+  "timestamp": "2026-08-03T12:29:53.924162088Z",
+  "model": "glm-4.5"
+}

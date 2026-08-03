@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "nehemiah 11:34",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Хадид, Цвоим, Небаллат",
+  "tokens": [
+    {
+      "surface": "חדיד",
+      "gloss": "Хадид"
+    },
+    {
+      "surface": "צבעים",
+      "gloss": "Цвоим"
+    },
+    {
+      "surface": "נבלט",
+      "gloss": "Небаллат"
+    }
+  ],
+  "timestamp": "2026-08-03T12:30:28.318397763Z",
+  "model": "glm-4.5"
+}

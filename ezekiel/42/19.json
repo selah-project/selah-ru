@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 42,
+  "translation": "Он обратился к ⟨сторон⟩ запада, ⟨измерил⟩ пятьсот тростей ⟨тростью⟩ меры.",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "обратился"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "⟨сторон⟩"
+    },
+    {
+      "surface": "הים",
+      "gloss": "запада"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "⟨измерил⟩"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пятьсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "трости"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "⟨тростью⟩"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "меры"
+    },
+    {
+      "surface": "המדה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T05:10:30.447994062Z",
+  "model": "glm-4.5"
+}

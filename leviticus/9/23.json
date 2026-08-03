@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "leviticus 9:23",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И вошли Моше и Аарон в шатёр собрания, и вышли, и благословили ⟨את⟩ народ, и явилась слава ЯХВЕ ко всему ⟨народу⟩",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и вошли"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "и Аарон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатёр"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "собрания"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "и вышли"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "и благословили"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "и явилась"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "слава"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ко"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всему"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народу"
+    }
+  ],
+  "timestamp": "2026-08-02T20:48:51.184549317Z",
+  "model": "glm-4.5"
+}

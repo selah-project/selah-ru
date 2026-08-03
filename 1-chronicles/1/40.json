@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "1-chronicles 1:40",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Сыновья Шоваля: Алиан, и Менахат, и Эваль, Шефи, и Онам. И сыновья Цивона: Айя и Анa.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Шоваля"
+    },
+    {
+      "surface": "עלין",
+      "gloss": "Алиан"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "и Менахат"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "и Эваль"
+    },
+    {
+      "surface": "שפי",
+      "gloss": "Шефи"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "и Онам"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "И сыновья"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Цивона"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Айя"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "и Анa"
+    }
+  ],
+  "timestamp": "2026-08-03T12:36:18.148256393Z",
+  "model": "glm-4.5"
+}

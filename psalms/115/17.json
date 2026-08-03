@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 115,
+  "translation": "Не ⟨будут⟩ хвалить мёртвые Ях, и ⟨ни⟩ все нисходящие в молчание",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "хвалить мёртвые"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "⟨будут⟩"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и ⟨ни⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "нисходящие"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "в молчание"
+    }
+  ],
+  "timestamp": "2026-08-03T08:45:25.815090742Z",
+  "model": "glm-4.5"
+}

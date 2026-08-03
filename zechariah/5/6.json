@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "zechariah 5:6",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И я сказал: что ⟨это⟩? И он сказал: это эфа, выходящая. И он сказал: это их глаз по всей земле.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "И я сказал"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨это⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "И он сказал"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "это"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "эфа"
+    },
+    {
+      "surface": "היוצאת",
+      "gloss": "выходящая"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "И он сказал"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "это"
+    },
+    {
+      "surface": "עינם",
+      "gloss": "их глаз"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "по всей"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земле"
+    }
+  ],
+  "timestamp": "2026-08-03T06:12:20.110838911Z",
+  "model": "glm-4.5"
+}

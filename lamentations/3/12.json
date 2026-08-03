@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Он ⟨поставил⟩ лук Свой и сделал меня целью ⟨для⟩ стрелы.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "поставил"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "лук Свой"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "и сделал меня целью"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "⟨для⟩ стрелы"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "стрелы"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:06.190328516Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "nehemiah 8:11",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И левиты успокаивали ⟨весь⟩ народ, говоря: замолчите, ⟨ибо⟩ день святой, и не скорбите",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "И левиты"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "успокаивали"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "⟨весь⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "הסו",
+      "gloss": "замолчите"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ибо⟩"
+    },
+    {
+      "surface": "היום",
+      "gloss": "день"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "святой"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תעצבו",
+      "gloss": "скорбите"
+    }
+  ],
+  "timestamp": "2026-08-03T12:24:43.437736291Z",
+  "model": "glm-4.5"
+}

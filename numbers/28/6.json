@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "numbers 28:6",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Ола́ continual — сделанная на горе Синай, для fragrance soothing — fire-offering ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "Ола́"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "continual"
+    },
+    {
+      "surface": "העשיה",
+      "gloss": "сделанная"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "на горе"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синай"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "для fragrance"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "soothing"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "fire-offering"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T21:41:04.416760559Z",
+  "model": "glm-4.5"
+}

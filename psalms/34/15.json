@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "Отвернись от зла и твори добро, ищи шалóм и преследуй его",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "отвернись"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "от зла"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "и твори"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "ищи"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "шалóм"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "и преследуй его"
+    }
+  ],
+  "timestamp": "2026-08-03T07:09:50.942116056Z",
+  "model": "glm-4.5"
+}

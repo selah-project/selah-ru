@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И сказал ЯХВЕ ⟨к⟩ Сатане: откуда ты ⟨пришёл⟩? И ответил Сатан ⟨את⟩ ЯХВЕ и сказал: от roaming по земле и от walking ⟨по⟩ ней.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Сатане"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "откуда"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ты ⟨пришёл⟩"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "и ответил"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Сатан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "от roaming"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "по земле"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "и от walking"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨по⟩ ней"
+    }
+  ],
+  "timestamp": "2026-08-03T10:10:18.199770185Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "1-chronicles 9:36",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "и его сын первенец Авдон и Цур и Киш и Ваал и Нер и Надав",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "и его сын"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "первенец"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Авдон"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "и Цур"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "и Киш"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "и Ваал"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "и Нер"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "и Надав"
+    }
+  ],
+  "timestamp": "2026-08-03T12:51:09.902115529Z",
+  "model": "glm-4.5"
+}

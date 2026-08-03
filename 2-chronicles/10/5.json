@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И сказал он им: ещё три дня, и вернитесь ко мне. И ушёл народ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ещё"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дня"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "и вернитесь"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ко мне"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и ушёл"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    }
+  ],
+  "timestamp": "2026-08-03T13:35:30.896559022Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "ezra 2:33",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Сыновья Лода, Хадид и Оно, ⟨их⟩ семьсот двадцать пять;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Лода"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "Хадид"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "и Оно"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семьсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцать"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "пять"
+    }
+  ],
+  "timestamp": "2026-08-03T11:59:04.762162665Z",
+  "model": "glm-4.5"
+}

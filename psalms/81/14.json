@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 81,
+  "translation": "О, если бы народ Мой слушал Меня, [и] Израиль шёл путями Моими!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "О, если бы"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народ Мой"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слушал"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Меня"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "путями Моими"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "шли [бы]"
+    }
+  ],
+  "timestamp": "2026-08-03T08:07:47.979210593Z",
+  "model": "glm-4.5"
+}

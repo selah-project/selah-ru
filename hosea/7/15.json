@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "hosea 7:15",
+  "book": "hosea",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И я вразумлял, укреплял ⟨их⟩ руки, а ⟨обо⟩ мне замышляли зло",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "и я"
+    },
+    {
+      "surface": "יסרתי",
+      "gloss": "вразумлял"
+    },
+    {
+      "surface": "חזקתי",
+      "gloss": "укреплял"
+    },
+    {
+      "surface": "זרועתם",
+      "gloss": "⟨их⟩ руки"
+    },
+    {
+      "surface": "ואלי",
+      "gloss": "а ⟨обо⟩ мне"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "замышляли"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-08-03T05:25:01.184837785Z",
+  "model": "glm-4.5"
+}

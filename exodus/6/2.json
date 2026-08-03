@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "exodus 6:2",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И говорил Элохим ⟨с⟩ Моше и говорил ⟨ему⟩: я ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говорил"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и говорил"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨ему⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T20:00:01.783888609Z",
+  "model": "glm-4.5"
+}

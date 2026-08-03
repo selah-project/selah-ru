@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 118:7",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 118,
+  "translation": "ЯХВЕ ⟨для⟩ меня в помощниках моих, и я — увижу во врагах моих.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨для⟩ меня"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "в помощниках моих"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "и я"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "увиду"
+    },
+    {
+      "surface": "בשנאי",
+      "gloss": "во врагах моих"
+    }
+  ],
+  "timestamp": "2026-08-03T08:47:46.548052505Z",
+  "model": "glm-4.5"
+}

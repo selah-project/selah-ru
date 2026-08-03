@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Лучше юный и бедный и мудрый, нежели царь старый и глупый, который ⟨уже⟩ не умел ⟨остеречься⟩",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "лучше"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "юный"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "и бедный"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "и мудрый"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "нежели царь"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "старый"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "и глупый"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "умел"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "остеречься"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨уже⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T11:18:55.018651427Z",
+  "model": "glm-4.5"
+}

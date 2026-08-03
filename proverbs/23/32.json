@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "proverbs 23:32",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "В конце его ⟨он⟩ кусает, как змея, и, как аспид, ⟨он⟩ распускает ⟨яд⟩.",
+  "tokens": [
+    {
+      "surface": "אחריתו",
+      "gloss": "В конце его"
+    },
+    {
+      "surface": "כנחש",
+      "gloss": "как змея"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "кусает"
+    },
+    {
+      "surface": "וכצפעני",
+      "gloss": "и, как аспид"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "распускает"
+    }
+  ],
+  "timestamp": "2026-08-03T18:28:06.832136143Z",
+  "model": "glm-4.5"
+}

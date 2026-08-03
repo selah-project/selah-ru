@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "isaiah 40:17",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "Все ⟨гоимы⟩ — как ⟨ничто⟩ пред Ним; как ⟨ноль⟩ и ⟨тоху⟩, вменены Ему.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Все"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "⟨гоимы⟩"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "как ⟨ничто⟩"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "пред Ним"
+    },
+    {
+      "surface": "מאפס",
+      "gloss": "как ⟨ноль⟩"
+    },
+    {
+      "surface": "ותהו",
+      "gloss": "и ⟨тоху⟩"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "вменены"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ему"
+    }
+  ],
+  "timestamp": "2026-08-03T02:26:38.092435802Z",
+  "model": "glm-4.5"
+}

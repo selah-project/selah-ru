@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Он сказал в своём сердце: не поколеблюсь, из рода в род — без беды ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "в своём сердце"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "поколеблюсь"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "из рода"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "в род"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨—⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "без"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "беды"
+    }
+  ],
+  "timestamp": "2026-08-03T06:39:59.256113367Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "daniel 5:22",
+  "book": "daniel",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "А ты, ⟨его⟩ сын, Валтасар, не смирил ⟨своё⟩ сердце, хотя всё это ты знал",
+  "tokens": [
+    {
+      "surface": "ואנתה",
+      "gloss": "А ты"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "⟨его⟩ сын"
+    },
+    {
+      "surface": "בלשאצר",
+      "gloss": "Валтасар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "השפלת",
+      "gloss": "смирил"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "⟨своё⟩ сердце"
+    },
+    {
+      "surface": "כל",
+      "gloss": "хотя"
+    },
+    {
+      "surface": "קבל",
+      "gloss": ""
+    },
+    {
+      "surface": "די",
+      "gloss": "это"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "это"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ты знал"
+    }
+  ],
+  "timestamp": "2026-08-03T11:46:15.009139289Z",
+  "model": "glm-4.5"
+}

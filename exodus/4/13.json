@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И он сказал: о, Адонай, пошли, прошу, ⟨рукой того⟩, кого пошлёшь",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И он сказал"
+    },
+    {
+      "surface": "בי",
+      "gloss": "о"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "пошли"
+    },
+    {
+      "surface": "נא",
+      "gloss": "прошу"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨рукой того⟩",
+      "marks": "пошлёшь"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "кого пошлёшь"
+    }
+  ],
+  "timestamp": "2026-08-02T19:58:25.874042306Z",
+  "model": "glm-4.5"
+}

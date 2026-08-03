@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Кто сказал, и это ⟨было⟩, когда Адонай не ⟨так⟩ повелел?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кто"
+    },
+    {
+      "surface": "זה",
+      "gloss": "кто"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "и это ⟨было⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "⟨так⟩ повелел"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:59.319324830Z",
+  "model": "glm-4.5"
+}

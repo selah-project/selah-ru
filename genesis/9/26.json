@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "genesis 9:26",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И сказал: благословен ЯХВЕ, Элохим Шема, и да будет Кнаан слугой ему",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "благословен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шема"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и да будет"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кнаан"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "слугой"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ему"
+    }
+  ],
+  "timestamp": "2026-08-02T17:52:57.514292166Z",
+  "model": "glm-4.5"
+}

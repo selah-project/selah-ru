@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "genesis 5:19",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И жил Иеред после рождения ⟨им⟩ ⟨את⟩ Ханока восемьсот лет и родил сыновей и дочерей",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "И жил"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Иеред"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "после"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "рождения ⟨им⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ханока"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Ханока"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "восемьсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и родил"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "и дочерей"
+    }
+  ],
+  "timestamp": "2026-08-02T17:48:55.865524302Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "ezekiel 21:32",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Опрокину, опрокину, опрокину — ⟨это⟩ также; не ⟨будет⟩ ⟨это⟩ до прихода того, кому ⟨суд⟩, и отдам ⟨её⟩ ⟨ему⟩.",
+  "tokens": [
+    {
+      "surface": "עוה",
+      "gloss": "опрокину"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "опрокину"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "опрокину"
+    },
+    {
+      "surface": "אשימנה",
+      "gloss": "сделаю"
+    },
+    {
+      "surface": "גם",
+      "gloss": "также"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "это"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "будет"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בא",
+      "gloss": "прихода"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кому"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "суд"
+    },
+    {
+      "surface": "ונתתיו",
+      "gloss": "и отдам"
+    }
+  ],
+  "timestamp": "2026-08-03T04:43:01.964704836Z",
+  "model": "glm-4.5"
+}

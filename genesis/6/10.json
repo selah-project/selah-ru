@@ -1,0 +1,56 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И породил Ноах трёх сыновей: ⟨את⟩ Шем, ⟨את⟩ Хам и ⟨את⟩ Йефет.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "и породил"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "трёх"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шем"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шем"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хам"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Хам"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Йефет"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Йефет"
+    }
+  ],
+  "timestamp": "2026-08-02T17:49:53.130541022Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "jeremiah 31:1",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "В то время — слово ЯХВЕ: я буду Элохим для всех семейств Израиля, а они будут Мне ⟨как⟩ народ.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "В то время"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "та"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "я буду"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "для всех"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "семейств"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "а они"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "будут"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мне"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "народом"
+    }
+  ],
+  "timestamp": "2026-08-03T03:41:47.619299056Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "proverbs 21:19",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Лучше сидеть в пустыне, чем ⟨с⟩ ⟨женой⟩ ссор и ⟨и⟩ гнева.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "лучше"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "сидеть"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "пустыне"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "с"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "жены ссор"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "и гнева"
+    }
+  ],
+  "timestamp": "2026-08-03T09:48:53.636750401Z",
+  "model": "glm-4.5"
+}

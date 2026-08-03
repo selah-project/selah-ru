@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Я умножил ⟨свои⟩ деяния: построил ⟨себе⟩ дома, насадил ⟨себе⟩ виноградники",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "Я умножил"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "⟨свои⟩ деяния"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "построил"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨себе⟩"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "дома"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "насадил"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨себе⟩"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "виноградники"
+    }
+  ],
+  "timestamp": "2026-08-03T11:16:05.150879803Z",
+  "model": "glm-4.5"
+}

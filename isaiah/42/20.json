@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 42,
+  "translation": "Видишь ⟨многое⟩, но не хранишь; уши ⟨открыты⟩, но не слышит.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "Видишь"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "⟨многое⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "не хранишь"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "⟨открыты⟩"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "уши"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "не слышит"
+    }
+  ],
+  "timestamp": "2026-08-03T02:29:15.357961738Z",
+  "model": "glm-4.5"
+}

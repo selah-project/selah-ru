@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Не искушайте ⟨את⟩ ЯХВЕ Элоhейхем, как вы искушали в Массе",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "искушайте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элоhейхем"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "искушали"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "в Массе"
+    }
+  ],
+  "timestamp": "2026-08-02T21:57:12.919412186Z",
+  "model": "glm-4.5"
+}

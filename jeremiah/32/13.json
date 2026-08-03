@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "jeremiah 32:13",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "И я повелел ⟨את⟩ Бараку перед их глазами, говоря:",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "И я повелел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Барака"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Барака"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "перед их глазами"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-03T03:44:53.991175481Z",
+  "model": "glm-4.5"
+}

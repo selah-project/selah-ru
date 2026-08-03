@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "habakkuk 3:12",
+  "book": "habakkuk",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "В гневе наступаешь ⟨на⟩ землю, в ярости молотишь ⟨את⟩ народы",
+  "tokens": [
+    {
+      "surface": "בזעם",
+      "gloss": "в гневе"
+    },
+    {
+      "surface": "תצעד",
+      "gloss": "наступаешь"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨на⟩ землю"
+    },
+    {
+      "surface": "באף",
+      "gloss": "в ярости"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "молотишь"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "⟨את⟩ народы",
+      "marks": "народы"
+    }
+  ],
+  "timestamp": "2026-08-03T05:59:43.488793273Z",
+  "model": "glm-4.5"
+}

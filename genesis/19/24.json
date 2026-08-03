@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "genesis 19:24",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "И ЯХВЕ ⟨пролил⟩ на Сдом и на Амору серу и огонь от ЯХВЕ с небес.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "И ЯХВЕ"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "⟨пролил⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Сдом"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Амора"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "серу"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "и огонь"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "от"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "с"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небес"
+    }
+  ],
+  "timestamp": "2026-08-02T19:16:44.516047568Z",
+  "model": "glm-4.5"
+}

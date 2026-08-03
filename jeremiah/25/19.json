@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "jeremiah 25:19",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "⟨את⟩ Паро, царь Мицраима, и ⟨את⟩ его слуги, и ⟨את⟩ его князья, и ⟨את⟩ весь его народ",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Паро"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраима"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "его слуги"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "его слуги"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "его князья"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "его князья"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "весь"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "его народ"
+    }
+  ],
+  "timestamp": "2026-08-03T03:31:41.515480195Z",
+  "model": "glm-4.5"
+}

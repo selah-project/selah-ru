@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И хотя ⟨я⟩ ⟨есть⟩ гоэ́ль, всё же ⟨есть⟩ гоэ́ль ⟨ближе⟩ меня.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "И хотя"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨я⟩"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "⟨есть⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "גאל",
+      "gloss": "гоэ́ль"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": ""
+    },
+    {
+      "surface": "וגם",
+      "gloss": "всё же"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨есть⟩"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "гоэ́ль"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "⟨ближе⟩"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "меня"
+    }
+  ],
+  "timestamp": "2026-08-03T11:03:12.495350430Z",
+  "model": "glm-4.5"
+}

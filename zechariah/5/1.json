@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "zechariah 5:1",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И я возвратился и поднял глаза мои и увидел, и вот, ⟨מגלה⟩ летящая",
+  "tokens": [
+    {
+      "surface": "ואשוב",
+      "gloss": "И я возвратился"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "и поднял"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "глаза мои"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "и увидел"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "⟨מגלה⟩",
+      "marks": "летящая"
+    },
+    {
+      "surface": "עפה",
+      "gloss": "летящая"
+    }
+  ],
+  "timestamp": "2026-08-03T06:12:15.376575396Z",
+  "model": "glm-4.5"
+}

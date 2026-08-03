@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 50,
+  "translation": "И сделали его сыны ему так, как он ⟨заповедал⟩ им:",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "И сделали"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "его сыны"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "צום",
+      "gloss": "⟨заповедал⟩",
+      "marks": "им"
+    }
+  ],
+  "timestamp": "2026-08-02T19:54:46.266334633Z",
+  "model": "glm-4.5"
+}

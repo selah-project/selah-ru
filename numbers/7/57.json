@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 57,
+  "ref": "numbers 7:57",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "один телёнок, сын ⟨коровы⟩, один баран, один агнец, сын ⟨его⟩ года, для ⟨всесожжения⟩;",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "телёнок"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "коровы"
+    },
+    {
+      "surface": "איל",
+      "gloss": "баран"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "агнец"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "его года"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "для ⟨всесожжения⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T21:18:37.499789004Z",
+  "model": "glm-4.5"
+}

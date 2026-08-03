@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "deuteronomy 32:26",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "Я сказал: развею их, упраздню ⟨их⟩ память из людей,",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Я сказал"
+    },
+    {
+      "surface": "אפאיהם",
+      "gloss": "развею их"
+    },
+    {
+      "surface": "אשביתה",
+      "gloss": "упраздню"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "из людей"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "память ⟨их⟩",
+      "marks": "память их"
+    }
+  ],
+  "timestamp": "2026-08-02T22:22:49.236893435Z",
+  "model": "glm-4.5"
+}

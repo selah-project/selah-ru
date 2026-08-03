@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "А Хелув, брат Шуахи, породил ⟨את⟩ Мехира; ⟨он⟩ отец Эштона.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "А Хелув"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брат"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "Шуахи"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мехира"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Мехира"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отец"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "Эштона"
+    }
+  ],
+  "timestamp": "2026-08-03T12:40:14.265020797Z",
+  "model": "glm-4.5"
+}

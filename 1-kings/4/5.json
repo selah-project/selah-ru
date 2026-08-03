@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "1-kings 4:5",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "и Азария, сын Натана, над начальниками, и Завуд, сын Натана, коэн, друг царя",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "и Азария"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натана"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "начальниками"
+    },
+    {
+      "surface": "וזבוד",
+      "gloss": "и Завуд"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натана"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "коэн"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "друг"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    }
+  ],
+  "timestamp": "2026-08-03T00:23:49.059342450Z",
+  "model": "glm-4.5"
+}

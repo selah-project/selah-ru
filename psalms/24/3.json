@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 24:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Кто взойдёт на гору ЯХВЕ, и кто станет на ⟨место⟩ ⟨святыни⟩ Его?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кто"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "взойдёт"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "на гору"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и кто"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "станет"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "на ⟨место⟩"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "⟨святыни⟩ Его"
+    }
+  ],
+  "timestamp": "2026-08-03T06:58:10.383456428Z",
+  "model": "glm-4.5"
+}

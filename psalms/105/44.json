@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 44,
+  "ref": "psalms 105:44",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 105,
+  "translation": "И дал им земли народов, ⟨и⟩ труд народов они унаследовали,",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "И дал"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "земли"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народов"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "⟨и⟩ труд"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "народов"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "они унаследовали"
+    }
+  ],
+  "timestamp": "2026-08-03T08:36:01.467282415Z",
+  "model": "glm-4.5"
+}

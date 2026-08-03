@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "1-samuel 13:19",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И кузнец не ⟨был найден⟩ во всей земле Израиля, ибо сказали Плиштим: ⟨чтобы⟩ не сделали Ивrim меч или копьё",
+  "tokens": [
+    {
+      "surface": "וחרש",
+      "gloss": "и кузнец"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "⟨был найден⟩"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "во всей"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земле"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказали"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштим"
+    },
+    {
+      "surface": "פן",
+      "gloss": "⟨чтобы⟩ не"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "сделали"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Ивrim"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меч"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "копьё"
+    }
+  ],
+  "timestamp": "2026-08-02T23:24:27.694044561Z",
+  "model": "glm-4.5"
+}

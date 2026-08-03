@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Для всего ⟨есть⟩ назначенное время, и время для всякого желания под ⟨небесами⟩:",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "Для всего"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "назначенное время"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и время"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "для всякого"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "желания"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨небесами⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T11:17:21.950530354Z",
+  "model": "glm-4.5"
+}

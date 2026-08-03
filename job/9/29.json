@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "job 9:29",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Если я нечестив, ⟨то⟩ почему ⟨это⟩ напрасно? Я изнуряюсь.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Я"
+    },
+    {
+      "surface": "ארשע",
+      "gloss": "нечестив"
+    },
+    {
+      "surface": "למה",
+      "gloss": "почему"
+    },
+    {
+      "surface": "זה",
+      "gloss": "это"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "напрасно"
+    },
+    {
+      "surface": "איגע",
+      "gloss": "изнуряюсь"
+    }
+  ],
+  "timestamp": "2026-08-03T10:17:39.301682390Z",
+  "model": "glm-4.5"
+}

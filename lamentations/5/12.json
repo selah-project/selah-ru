@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Князья ⟨были⟩ повешены на их руке; лица старцев не ⟨были⟩ почтены",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "князья"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "на их руке"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "повешены"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лица"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "старцев"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "почтены"
+    }
+  ],
+  "timestamp": "2026-08-03T11:14:24.562862064Z",
+  "model": "glm-4.5"
+}

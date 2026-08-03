@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "proverbs 23:19",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Слушай, сын мой, и будь мудр, и направляй сердце твоё ⟨по⟩ пути.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Слушай"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сын"
+    },
+    {
+      "surface": "בני",
+      "gloss": "мой"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "и будь мудр"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "и направляй"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "⟨по⟩ пути"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "сердце твоё"
+    }
+  ],
+  "timestamp": "2026-08-03T09:54:19.687525735Z",
+  "model": "glm-4.5"
+}

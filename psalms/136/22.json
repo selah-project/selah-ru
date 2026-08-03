@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 136,
+  "translation": "В наследство Израилю, рабу Своему: ибо вовек хесед Его.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "в наследство"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Израилю"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "рабу Своему"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "вовек"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хесед Его"
+    }
+  ],
+  "timestamp": "2026-08-03T09:07:20.554230491Z",
+  "model": "glm-4.5"
+}

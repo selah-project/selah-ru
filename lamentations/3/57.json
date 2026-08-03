@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 57,
+  "ref": "lamentations 3:57",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Ты приблизился в день, когда я призвал Тебя: Ты сказал: не бойся.",
+  "tokens": [
+    {
+      "surface": "קרבת",
+      "gloss": "Ты приблизился"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в день"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "когда я призвал Тебя"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "Ты сказал"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "бойся"
+    }
+  ],
+  "timestamp": "2026-08-03T11:11:35.027495589Z",
+  "model": "glm-4.5"
+}

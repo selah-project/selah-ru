@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "2-kings 17:25",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И было в начале dwelling их там, не боялись ⟨את⟩ ЯХВЕ, и послал ЯХВЕ среди них ⟨את⟩ львов, и убивали среди них",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "в начале"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "dwelling их"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "боялись"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "и послал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "среди них"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "львов"
+    },
+    {
+      "surface": "האריות",
+      "gloss": "львов"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "и"
+    },
+    {
+      "surface": "הרגים",
+      "gloss": "убивали"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "среди них"
+    }
+  ],
+  "timestamp": "2026-08-03T01:26:15.816539933Z",
+  "model": "glm-4.5"
+}

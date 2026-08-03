@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И сказал Элохим Ноаху и сыновьям его с ним, говоря:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноаху"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "сыновьям его"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "с ним"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-02T17:52:33.577979909Z",
+  "model": "glm-4.5"
+}

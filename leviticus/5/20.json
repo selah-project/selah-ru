@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "leviticus 5:20",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И говорил ЯХВЕ ⟨к⟩ Моше, говоря:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-02T20:43:32.016341469Z",
+  "model": "glm-4.5"
+}

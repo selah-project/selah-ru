@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "и ⟨את⟩ дамана, так как он ⟨есть⟩ жующий жвачку, и ⟨но⟩ копыто не разделяет, нечист он вам",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "дамана"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "дамана"
+    },
+    {
+      "surface": "כי",
+      "gloss": "так как"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "⟨есть⟩ жующий"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "жвачку"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "и ⟨но⟩ копыто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "разделяет"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечист"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    }
+  ],
+  "timestamp": "2026-08-02T20:50:02.558327873Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "ezekiel 18:3",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Живу Я — слово Адоная ЯХВЕ: не будет у вас ⟨ещё⟩ употреблять ⟨эту⟩ притчу в Израиле.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Живу"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адоная"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "не будет"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "у вас"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨ещё⟩"
+    },
+    {
+      "surface": "משל",
+      "gloss": "употреблять"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "⟨эту⟩ притчу"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "в Израиле"
+    }
+  ],
+  "timestamp": "2026-08-03T04:37:19.575125165Z",
+  "model": "glm-4.5"
+}

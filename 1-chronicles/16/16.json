@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "который ⟨את⟩ завет заключил с Авраамом, и клятву Свою — Ицхаку",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "заключил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "завет"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "с Авраамом"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "и клятву Свою"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Ицхаку"
+    }
+  ],
+  "timestamp": "2026-08-03T12:59:54.959695353Z",
+  "model": "glm-4.5"
+}

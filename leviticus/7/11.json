@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И вотtora ⟨of⟩ ⟨sacrifice of⟩ shelamim, which ⟨he shall bring near⟩ to ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "И вот"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "tora ⟨of⟩",
+      "marks": "закона"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "⟨sacrifice of⟩",
+      "marks": "жертвы"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "shelamim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "which"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "⟨he shall bring near⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T20:46:15.912245934Z",
+  "model": "glm-4.5"
+}

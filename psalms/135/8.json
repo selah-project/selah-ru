@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 135,
+  "translation": "Поразивший первенцев Египета, от человека ⟨и⟩ до скота.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Поразивший"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "первенцев"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Египта"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "от человека"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "скота"
+    }
+  ],
+  "timestamp": "2026-08-03T09:05:27.298522397Z",
+  "model": "glm-4.5"
+}

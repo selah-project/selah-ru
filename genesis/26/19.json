@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "genesis 26:19",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "И выкопали рабы Ицхака в долине, и нашли там колодец воды живой",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "и выкопали"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "рабы"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхака"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "в долине"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "и нашли"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "באר",
+      "gloss": "колодец"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воды"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живой"
+    }
+  ],
+  "timestamp": "2026-08-02T19:26:03.492568478Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "joshua 19:30",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Умма и Афек и Рехов; двадцать два города и их поселения.",
+  "tokens": [
+    {
+      "surface": "ועמה",
+      "gloss": "Умма"
+    },
+    {
+      "surface": "ואפק",
+      "gloss": "и Афек"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "и Рехов"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "города"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцать"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "и два"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "и их поселения"
+    }
+  ],
+  "timestamp": "2026-08-02T22:42:25.058428334Z",
+  "model": "glm-4.5"
+}

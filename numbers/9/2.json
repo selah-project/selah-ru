@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И пусть сыны Израиля совершат ⟨את⟩ Песах в ⟨его⟩ назначенное время,",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "и пусть совершат"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Песах"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Песах"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "в его время"
+    }
+  ],
+  "timestamp": "2026-08-02T21:20:53.755709057Z",
+  "model": "glm-4.5"
+}

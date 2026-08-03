@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "isaiah 33:17",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "Царя в красоте Его увидят глаза твои, ⟨они⟩ увидят ⟨землю⟩ дальнюю",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "Царя"
+    },
+    {
+      "surface": "ביפיו",
+      "gloss": "в красоте Его"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "увидят"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "глаза твои"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "увидят"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "землю"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "מרחקים",
+      "gloss": "дальнюю"
+    }
+  ],
+  "timestamp": "2026-08-03T02:17:52.848700356Z",
+  "model": "glm-4.5"
+}

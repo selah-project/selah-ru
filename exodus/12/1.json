@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И сказал ЯХВЕ ⟨את⟩ Моше и ⟨את⟩ Аарону в земле Египетской, говоря:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и ⟨את⟩",
+      "marks": "Аарона"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарона"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земле"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Египетской"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-02T20:05:50.490982350Z",
+  "model": "glm-4.5"
+}

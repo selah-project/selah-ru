@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "genesis 12:18",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И призвал Паро Аврама, и сказал: что это ты сделал мне? почему не сообщил мне, что она твоя жена ⟨הוא⟩?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "и призвал"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Авраму"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "это"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ты сделал"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "למה",
+      "gloss": "почему"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "сообщил"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "твоя жена"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨הוא⟩",
+      "marks": "что она твоя жена"
+    }
+  ],
+  "timestamp": "2026-08-02T19:09:38.986692919Z",
+  "model": "glm-4.5"
+}

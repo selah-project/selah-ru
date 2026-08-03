@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "job 29:18",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "И я сказал: ⟨с⟩ моим гнездом умру, и как песок умножу дни",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "И я сказал"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "קני",
+      "gloss": "моим гнездом"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "умру"
+    },
+    {
+      "surface": "וכחול",
+      "gloss": "и как песок"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "умножу"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    }
+  ],
+  "timestamp": "2026-08-03T10:34:46.134413647Z",
+  "model": "glm-4.5"
+}

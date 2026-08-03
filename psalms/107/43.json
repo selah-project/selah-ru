@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 43,
+  "ref": "psalms 107:43",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 107,
+  "translation": "Кто мудр и ⟨будет⟩ наблюдать это? ⟨они⟩ уразумеют хесед ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кто"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудр"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "и ⟨будет⟩ наблюдать"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "это"
+    },
+    {
+      "surface": "ויתבוננו",
+      "gloss": "⟨они⟩ уразумеют"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T08:39:54.130411529Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 47,
+  "translation": "Слово, ⟨которое⟩ было ЯХВЕ к Ирмеяу, ⟨пророку⟩, к Плиштим, прежде чем поразил Паро ⟨את⟩ Газу",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "היה",
+      "gloss": "было"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмеяу"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "⟨пророку⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштим"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "прежде чем"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "поразил"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Газу"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Газу"
+    }
+  ],
+  "timestamp": "2026-08-03T04:06:26.901771928Z",
+  "model": "glm-4.5"
+}

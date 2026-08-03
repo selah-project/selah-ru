@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "ЯХВЕ ⟨есть⟩ благ ⟨тем⟩, ⟨которые⟩ ⟨ожидает⟩ Его, душе, взыскивающей ⟨Его⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "благ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "⟨тем⟩, ⟨которые⟩ ⟨ожидает⟩"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "душе"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "взыскивающей ⟨Его⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:46.362351604Z",
+  "model": "glm-4.5"
+}

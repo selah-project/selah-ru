@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "2-chronicles 9:22",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И царь Шеломо превзошёл всех царей земли ⟨в⟩ богатстве и мудрости",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "И превзошёл"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "царей"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земли"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "⟨в⟩ богатстве"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "и мудрости"
+    }
+  ],
+  "timestamp": "2026-08-03T13:34:04.829779929Z",
+  "model": "glm-4.5"
+}

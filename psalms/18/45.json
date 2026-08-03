@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "При слухе ⟨с⟩ уха они повинуются мне, сыны чужака лгут мне",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "При слухе"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "⟨с⟩ уха"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "они повинуются"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "чужака"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "лгут"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    }
+  ],
+  "timestamp": "2026-08-03T06:52:10.337813205Z",
+  "model": "glm-4.5"
+}

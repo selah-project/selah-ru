@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Он отстроил ⟨את⟩ Эйлат и возвратил его Иудее, после того как царь почил с отцами своими",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Он"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "отстроил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эйлат"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Эйлат"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "и возвратил его"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Иудее"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "после того как"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "почил"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "отцами своими"
+    }
+  ],
+  "timestamp": "2026-08-03T14:00:18.646254494Z",
+  "model": "glm-4.5"
+}

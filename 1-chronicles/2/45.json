@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "и сын Шаммая ⟨был⟩ Маон; и Маон — отец Бецура",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "и сын"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Шаммая"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Маон"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "и Маон"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отец"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бецур"
+    },
+    {
+      "surface": "צור",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T12:38:17.247057003Z",
+  "model": "glm-4.5"
+}

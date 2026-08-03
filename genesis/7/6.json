@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "А Ноах ⟨был⟩ сыном шестисот лет, и потоп ⟨был⟩ водою на земле",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "А Ноах"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сыном"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шестисот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "лет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "и потоп"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨был⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "водою"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земле"
+    }
+  ],
+  "timestamp": "2026-08-02T17:50:52.836321041Z",
+  "model": "glm-4.5"
+}

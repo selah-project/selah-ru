@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 63,
+  "ref": "numbers 7:63",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "молодой бык, ⟨один⟩ из стада, ⟨один⟩ баран, ⟨один⟩ агнец ⟨однолетний⟩ для о́лы,",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "молодой бык"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨один⟩",
+      "marks": "из стада"
+    },
+    {
+      "surface": "בן",
+      "gloss": "из"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "стада"
+    },
+    {
+      "surface": "איל",
+      "gloss": "⟨один⟩",
+      "marks": "баран"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨один⟩",
+      "marks": "агнец"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "агнец"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨один⟩",
+      "marks": "однолетний"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨однолетний⟩",
+      "marks": "года"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "года"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "для о́лы"
+    }
+  ],
+  "timestamp": "2026-08-02T21:19:08.746411356Z",
+  "model": "glm-4.5"
+}

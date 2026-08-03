@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "1-chronicles 12:17",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И пришли ⟨из⟩ сынов Биньямина и Иеѓуды до крепости к Давиду.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "и пришли"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨из⟩",
+      "marks": "сынов Биньямина и Иеѓуды"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Биньямина"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "и Иеѓуды"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "למצד",
+      "gloss": "к крепости"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "к Давиду"
+    }
+  ],
+  "timestamp": "2026-08-03T12:55:06.985342900Z",
+  "model": "glm-4.5"
+}

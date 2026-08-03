@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "amos 5:18",
+  "book": "amos",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Горе тем, кто желает ⟨את⟩ день ЯХВЕ — зачем вам ⟨этот⟩ день ЯХВЕ? Он — тьма, а не свет",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Горе"
+    },
+    {
+      "surface": "המתאוים",
+      "gloss": "тем, кто желает"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "день ЯХВЕ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "зачем"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨этот⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Он"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "тьма"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "אור",
+      "gloss": "свет"
+    }
+  ],
+  "timestamp": "2026-08-03T05:39:18.175769430Z",
+  "model": "glm-4.5"
+}

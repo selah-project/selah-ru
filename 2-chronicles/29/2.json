@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "2-chronicles 29:2",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "И сделал он прямое в глазах ЯХВЕ, как всё, что сделал Давид, отец его.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И сделал"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "прямое"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в глазах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "как всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "отец его"
+    }
+  ],
+  "timestamp": "2026-08-03T14:04:14.365663892Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 47,
+  "ref": "nehemiah 7:47",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "сыновья Кероса, сыновья Сиа, сыновья Падона",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "קירס",
+      "gloss": "Кероса"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "סיעא",
+      "gloss": "Сиа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "Падона"
+    }
+  ],
+  "timestamp": "2026-08-03T12:22:55.306125374Z",
+  "model": "glm-4.5"
+}

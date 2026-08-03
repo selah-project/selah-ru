@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "deuteronomy 13:2",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "когда встанет ⟨среди⟩ тебя пророк или сновидец снов и даст ⟨тебе⟩ знак или чудо",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "когда"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "встанет"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "⟨среди⟩ тебя"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "пророк"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "сновидец"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "снов"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "и даст"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨тебе⟩"
+    },
+    {
+      "surface": "אות",
+      "gloss": "знак"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "чудо"
+    }
+  ],
+  "timestamp": "2026-08-02T22:04:35.655741956Z",
+  "model": "glm-4.5"
+}

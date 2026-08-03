@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Счастлив человек, нашедший хохму, и человек, изымающий тебуну",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Счастлив"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человек"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "нашедший"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "хохму"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "и человек"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "изымающий"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "тебуну"
+    }
+  ],
+  "timestamp": "2026-08-03T09:23:24.507606799Z",
+  "model": "glm-4.5"
+}

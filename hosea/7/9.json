@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "hosea 7:9",
+  "book": "hosea",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Чужие съели его силу, и ⟨он⟩ не знал; даже седина рассыпана на нём, и ⟨он⟩ не знал.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "съели"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "чужие"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "его силу"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "и"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знал"
+    },
+    {
+      "surface": "גם",
+      "gloss": "даже"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "седина"
+    },
+    {
+      "surface": "זרקה",
+      "gloss": "рассыпана"
+    },
+    {
+      "surface": "בו",
+      "gloss": "на нём"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "и"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знал"
+    }
+  ],
+  "timestamp": "2026-08-03T05:24:59.807630289Z",
+  "model": "glm-4.5"
+}

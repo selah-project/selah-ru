@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 54,
+  "ref": "numbers 1:54",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И сделали сыны Израиля ⟨во⟩ всём, ⟨чему⟩ ЯХВЕ ⟨את⟩ משה повелел, так ⟨и⟩ сделали.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "И сделали"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "⟨во⟩ всём"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨чему⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "повелел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "משה"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так ⟨и⟩"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "сделали"
+    }
+  ],
+  "timestamp": "2026-08-02T21:10:39.636193409Z",
+  "model": "glm-4.5"
+}

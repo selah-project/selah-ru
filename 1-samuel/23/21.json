@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "1-samuel 23:21",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "И сказал Шаул: «Благословенны вы ЯХВЕ, ибо вы пожалели меня»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ברוכים",
+      "gloss": "благословенны"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вы"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "חמלתם",
+      "gloss": "пожалели"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "меня"
+    }
+  ],
+  "timestamp": "2026-08-02T23:39:34.966351957Z",
+  "model": "glm-4.5"
+}

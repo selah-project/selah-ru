@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "jeremiah 46:23",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 46,
+  "translation": "Они срубят ⟨её⟩ лес, — neum ЯХВЕ, — ибо ⟨он⟩ не будет исследован, ибо их больше, чем саранча, и ⟨у них⟩ нет числа.",
+  "tokens": [
+    {
+      "surface": "כרתו",
+      "gloss": "срубят"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "⟨её⟩ лес",
+      "marks": "⟨её⟩ лес"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "neum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "будет исследован"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "больше"
+    },
+    {
+      "surface": "מארבה",
+      "gloss": "чем саранча"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и ⟨у них⟩ нет"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨у них⟩"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "числа"
+    }
+  ],
+  "timestamp": "2026-08-03T04:05:39.237893609Z",
+  "model": "glm-4.5"
+}

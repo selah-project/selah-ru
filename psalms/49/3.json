@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 49,
+  "translation": "И сыны человека, и сыны мужа, ⟨вместе⟩ богатый и бедный.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мужа"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "⟨вместе⟩"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "богатый"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "и бедный"
+    }
+  ],
+  "timestamp": "2026-08-03T07:27:03.022463898Z",
+  "model": "glm-4.5"
+}

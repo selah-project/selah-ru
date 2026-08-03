@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "хлеб ⟨את⟩ не ели и вино и шекер ⟨את⟩ не пили, чтобы знали, что ⟨Я⟩ ЯХВЕ ⟨есть⟩ Элохим ваш.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "не ели",
+      "marks": "хлеб"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "и вино"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "и шекер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "не пили",
+      "marks": "вино и шекер"
+    },
+    {
+      "surface": "למען",
+      "gloss": "чтобы"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "знали"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨Я⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элохим ваш"
+    }
+  ],
+  "timestamp": "2026-08-02T22:19:28.427626576Z",
+  "model": "glm-4.5"
+}

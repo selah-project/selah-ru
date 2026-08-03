@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "proverbs 22:25",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Не научишься ⟨ты⟩ путям его, и примешь ⟨ты⟩ западню ⟨в⟩ нефеш твою",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תאלף",
+      "gloss": "научишься"
+    },
+    {
+      "surface": "ארחתו",
+      "gloss": "путям его"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "и примешь"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "западню"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "⟨в⟩ нефеш твою"
+    }
+  ],
+  "timestamp": "2026-08-03T09:50:18.150726792Z",
+  "model": "glm-4.5"
+}

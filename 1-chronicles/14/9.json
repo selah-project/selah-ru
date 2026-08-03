@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "1-chronicles 14:9",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И Плиштим пришли и распространились ⟨в⟩ долине Рефаим.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "И Плиштим"
+    },
+    {
+      "surface": "באו",
+      "gloss": "пришли"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "и распространились"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "⟨в⟩ долине"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Рефаим"
+    }
+  ],
+  "timestamp": "2026-08-03T12:57:41.423569307Z",
+  "model": "glm-4.5"
+}

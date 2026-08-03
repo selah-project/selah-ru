@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "jeremiah 44:16",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 44,
+  "translation": "Слово, которое ⟨ты⟩ говорил нам именем ЯХВЕ, мы не слышим тебя",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Слово"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "⟨ты⟩ говорил"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "именем"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "мы не"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "слышим"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "тебя"
+    }
+  ],
+  "timestamp": "2026-08-03T04:03:09.127212187Z",
+  "model": "glm-4.5"
+}

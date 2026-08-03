@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Ибо ты сделал втайне, а я сделаю ⟨את⟩ это пред всеми Израилем и пред солнцем",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "втайне"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "а я"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "сделаю"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "это"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "это"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "самое"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "пред"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всеми"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израилем"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "и пред"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "солнцем"
+    }
+  ],
+  "timestamp": "2026-08-02T23:58:19.627071583Z",
+  "model": "glm-4.5"
+}

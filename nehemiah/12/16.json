@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "nehemiah 12:16",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Иддо, Зехарья; Гиннетон, Мешуллам",
+  "tokens": [
+    {
+      "surface": "לעדיא",
+      "gloss": "Иддо"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Зехарья"
+    },
+    {
+      "surface": "לגנתון",
+      "gloss": "Гиннетон"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Мешуллам"
+    }
+  ],
+  "timestamp": "2026-08-03T12:31:09.116513308Z",
+  "model": "glm-4.5"
+}

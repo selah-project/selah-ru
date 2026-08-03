@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "jeremiah 33:23",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "И было слово ЯХВЕ к Иеремии, говоря:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Иеремии"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-03T03:47:23.780674545Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Зачем волнуются народы и племена ⟨思索⟩ пустое?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "зачем"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "волнуются"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народы"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "и племена"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "⟨思索⟩"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "пустое"
+    }
+  ],
+  "timestamp": "2026-08-03T18:39:12.514948985Z",
+  "model": "glm-4.5"
+}

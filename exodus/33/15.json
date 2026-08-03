@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "И сказал он ему: если ⟨не⟩ пойдут Лицо Твоё, не выводи нас отсюда",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "пойдут"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "Лицо Твоё"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "выводи нас"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "отсюда"
+    }
+  ],
+  "timestamp": "2026-08-02T20:31:11.618839622Z",
+  "model": "glm-4.5"
+}

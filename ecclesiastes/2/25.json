@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "ибо кто ⟨будет⟩ есть и кто ⟨будет〉 торопиться ⟨к наслаждению〉, кроме меня?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "будет есть"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и кто"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "будет торопиться"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "кроме"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "меня"
+    }
+  ],
+  "timestamp": "2026-08-03T11:17:02.840809151Z",
+  "model": "glm-4.5"
+}

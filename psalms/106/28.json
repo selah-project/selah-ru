@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "psalms 106:28",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 106,
+  "translation": "И привязались к Ваал-Фегору, и ели жертвы мертвецам",
+  "tokens": [
+    {
+      "surface": "ויצמדו",
+      "gloss": "и привязались"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "к Ваалу"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Фегору"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "и ели"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "жертвы"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "мертвецам"
+    }
+  ],
+  "timestamp": "2026-08-03T08:37:26.713240163Z",
+  "model": "glm-4.5"
+}

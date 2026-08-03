@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "lamentations 3:34",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Топтать под ногами Своими ⟨всех⟩ пленников земли",
+  "tokens": [
+    {
+      "surface": "לדכא",
+      "gloss": "Топтать"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ногами Своими"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨всех⟩"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "пленников"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земли"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:59.361242470Z",
+  "model": "glm-4.5"
+}

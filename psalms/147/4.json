@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 147,
+  "translation": "Исчисляет ⟨число⟩ звёзд, всем ⟨их⟩ имена ⟨Он⟩ призывает",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "Исчисляет"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "⟨число⟩"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "звёзд"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "всем ⟨их⟩"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "имена"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "⟨Он⟩ призывает"
+    }
+  ],
+  "timestamp": "2026-08-03T09:16:58.481250110Z",
+  "model": "glm-4.5"
+}

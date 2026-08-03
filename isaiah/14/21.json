@@ -1,0 +1,68 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "isaiah 14:21",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Подготовьте ⟨את⟩ сыновей его к закланию за беззаконие отцов их, чтобы они не встали и не владели ⟨את⟩ землёй, и не наполнили ⟨את⟩ лицо inhabited world ⟨гор⟩.",
+  "tokens": [
+    {
+      "surface": "הכינו",
+      "gloss": "Подготовьте"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "⟨את⟩",
+      "marks": "сыновей его"
+    },
+    {
+      "surface": "מטבח",
+      "gloss": "к закланию"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "за беззаконие"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "отцов их"
+    },
+    {
+      "surface": "בל",
+      "gloss": "чтобы"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "они не встали"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "и не владели"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨את⟩",
+      "marks": "землёй"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "и не наполнили"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨את⟩",
+      "marks": "лицо inhabited world"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "inhabited world"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "⟨гор⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T01:58:40.108125811Z",
+  "model": "glm-4.5"
+}

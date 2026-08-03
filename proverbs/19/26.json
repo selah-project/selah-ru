@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Разоряющий отца и прогоняющий мать ⟨есть⟩ сын, [который] бесчестит и позорит.",
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "разоряющий"
+    },
+    {
+      "surface": "אב",
+      "gloss": "отца"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "прогоняющий"
+    },
+    {
+      "surface": "אם",
+      "gloss": "мать"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "бесчестит"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "ипозорит"
+    }
+  ],
+  "timestamp": "2026-08-03T09:46:16.059755470Z",
+  "model": "glm-4.5"
+}

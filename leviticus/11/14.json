@@ -1,0 +1,35 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "и ⟨את⟩ гриф, и ⟨את⟩ коршун по роду его",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "гриф"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "гриф"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "коршун"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "коршун"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "по роду его"
+    }
+  ],
+  "timestamp": "2026-08-02T20:50:14.970909440Z",
+  "model": "glm-4.5"
+}

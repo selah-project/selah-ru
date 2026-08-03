@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "deuteronomy 3:22",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Не бойтесь их, ибо ЯХВЕ, ваш Элохим, ⟨это⟩ Тот, кто сражается за вас.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תיראום",
+      "gloss": "бойтесь их"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ваш Элохим"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨это⟩"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "Тот, кто сражается"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    }
+  ],
+  "timestamp": "2026-08-02T21:53:46.942118436Z",
+  "model": "glm-4.5"
+}

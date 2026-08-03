@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "proverbs 4:16",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Ибо не спят они, если ⟨не⟩ сотворили зло, и похищен сон их, если ⟨не⟩ заставили споткнуться.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "спят"
+    },
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "сотворили зло"
+    },
+    {
+      "surface": "ונגזלה",
+      "gloss": "и похищен"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "сон"
+    },
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "יכשולו",
+      "gloss": "заставили споткнуться"
+    }
+  ],
+  "timestamp": "2026-08-03T09:25:32.776895740Z",
+  "model": "glm-4.5"
+}

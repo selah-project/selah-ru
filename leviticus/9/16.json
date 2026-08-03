@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "и приблизил ⟨את⟩ всесожжение и сделал его по решению",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "и приблизил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всесожжение"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "всесожжение"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "и сделал его"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "по решению"
+    }
+  ],
+  "timestamp": "2026-08-02T20:48:41.175369777Z",
+  "model": "glm-4.5"
+}

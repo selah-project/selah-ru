@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Два ⟨и⟩ два вошли к Ноаху в ковчег, самец и самка, как повелел Элохим ⟨את⟩ Ноаха.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "באו",
+      "gloss": "вошли"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноаху"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "самец"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "и самка"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "повелел"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ноаха"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноаха"
+    }
+  ],
+  "timestamp": "2026-08-02T17:50:54.219355723Z",
+  "model": "glm-4.5"
+}

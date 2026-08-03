@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 136,
+  "translation": "Дающий пищу всякой плоти, ибо вовек хесед Его.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Дающий"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "пищу"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "всякой"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "плоти"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "вовек"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хесед Его"
+    }
+  ],
+  "timestamp": "2026-08-03T09:07:15.002609752Z",
+  "model": "glm-4.5"
+}

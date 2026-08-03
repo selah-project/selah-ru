@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "judges 17:12",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И Мика наполнил ⟨את⟩ руку левита, и стал юноша ему священником, и был в доме Мики",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "И наполнил"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Мика"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "руку"
+    },
+    {
+      "surface": "יד",
+      "gloss": "руку"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "левита"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и стал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "юноша"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "священником"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и был"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "в доме"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Мики"
+    }
+  ],
+  "timestamp": "2026-08-02T23:07:46.711262143Z",
+  "model": "glm-4.5"
+}

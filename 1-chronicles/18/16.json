@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "1-chronicles 18:16",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И Цадок сын Ахитува и Авимелех сын Авиафара ⟨были⟩ kohanim, и Шавша ⟨был⟩ sofer",
+  "tokens": [
+    {
+      "surface": "וְצָדֹק",
+      "gloss": "И Цадок"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אֲחִיטוּב",
+      "gloss": "Ахитува"
+    },
+    {
+      "surface": "וַאֲבִימֶלֶךְ",
+      "gloss": "и Авимелех"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אֶבְיָתָר",
+      "gloss": "Авиафара"
+    },
+    {
+      "surface": "כֹּהֲנִים",
+      "gloss": "kohanim"
+    },
+    {
+      "surface": "וְשַׁוְשָׁא",
+      "gloss": "и Шавша"
+    },
+    {
+      "surface": "סוֹפֵר",
+      "gloss": "sofer"
+    }
+  ],
+  "timestamp": "2026-08-03T13:03:44.334155208Z",
+  "model": "glm-4.5"
+}

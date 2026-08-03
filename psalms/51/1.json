@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 51,
+  "translation": "Начальнику. Псалом Давиду.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Начальнику"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "псалом"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиду"
+    }
+  ],
+  "timestamp": "2026-08-03T07:29:42.245048691Z",
+  "model": "glm-4.5"
+}

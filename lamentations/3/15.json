@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "lamentations 3:15",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Он ⟨ме⟩ насытил горечью, ⟨меня⟩ поил полынью",
+  "tokens": [
+    {
+      "surface": "השביעני",
+      "gloss": "Он ⟨меня⟩ насытил"
+    },
+    {
+      "surface": "במרורים",
+      "gloss": "горечью"
+    },
+    {
+      "surface": "הרוני",
+      "gloss": "⟨меня⟩ поил"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "полынью"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:16.077972926Z",
+  "model": "glm-4.5"
+}

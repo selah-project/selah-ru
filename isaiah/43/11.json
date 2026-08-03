@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 43,
+  "translation": "Я, Я — ЯХВЕ, и помимо Меня нет Спасителя",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Я"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и ⟨нет⟩"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "помимо Меня"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "Спасителя"
+    }
+  ],
+  "timestamp": "2026-08-03T02:30:09.134859162Z",
+  "model": "glm-4.5"
+}

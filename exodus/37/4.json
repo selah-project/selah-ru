@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "и сделал ⟨он⟩ брусья из дерева шиттим, и покрыл ⟨את⟩ их золотом",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "и сделал"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "брусья"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "из дерева"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "шиттим"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "и покрыл"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "их"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золотом"
+    }
+  ],
+  "timestamp": "2026-08-02T20:35:17.707651264Z",
+  "model": "glm-4.5"
+}

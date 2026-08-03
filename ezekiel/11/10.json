@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Мечом падёте, на границе Израиля рассужу ⟨вас⟩ и узнаете, что Я — ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "мечом"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "падёте"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "границе"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "рассужу"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨вас⟩",
+      "marks": "и узнаете"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "и узнаете"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T04:26:51.270754995Z",
+  "model": "glm-4.5"
+}

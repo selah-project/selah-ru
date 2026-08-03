@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "judges 13:12",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И сказал Маноах: теперь пусть ⟨будет⟩ слово твоё; каким ⟨будет⟩ mishpat ⟨отрока⟩ и ⟨дело⟩ его?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Маноах"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "теперь"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "пусть ⟨будет⟩"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "слово твоё"
+    },
+    {
+      "surface": "מה",
+      "gloss": "каким"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨будет⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mishpat"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "⟨отрока⟩"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "и ⟨дело⟩ его"
+    }
+  ],
+  "timestamp": "2026-08-02T23:04:05.937444526Z",
+  "model": "glm-4.5"
+}

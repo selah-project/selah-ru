@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "numbers 6:1",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И говорил ЯХВЕ ⟨с⟩ Моше, ⟨чтобы⟩ сказать:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨чтобы⟩ сказать"
+    }
+  ],
+  "timestamp": "2026-08-02T21:16:49.057174070Z",
+  "model": "glm-4.5"
+}

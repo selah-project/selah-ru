@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "proverbs 30:6",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Не прибавляй к словам Его, ⟨чтобы⟩ не обличил тебя ⟨и⟩ ты не оказался лжецом.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "прибавляй"
+    },
+    {
+      "surface": "על",
+      "gloss": "к"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "словам Его"
+    },
+    {
+      "surface": "פן",
+      "gloss": "⟨чтобы⟩"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "не обличил тебя"
+    },
+    {
+      "surface": "בך",
+      "gloss": ""
+    },
+    {
+      "surface": "ונכזבת",
+      "gloss": "⟨и⟩ ты не оказался лжецом"
+    }
+  ],
+  "timestamp": "2026-08-03T10:06:50.336135331Z",
+  "model": "glm-4.5"
+}

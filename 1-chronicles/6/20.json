@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "1-chronicles 6:20",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "сын Цуфа, сын Элканы, сын Махата, сын Амасая",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "ציף",
+      "gloss": "Цуфа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Элканы"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "מחת",
+      "gloss": "Махата"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "Амасая"
+    }
+  ],
+  "timestamp": "2026-08-03T12:44:33.689614038Z",
+  "model": "glm-4.5"
+}

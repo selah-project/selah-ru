@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 39,
+  "ref": "nehemiah 7:39",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Коэны, сыновья Йедаи́и, из дома Йешуа: девятьсот семьдесят три",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "Коэны"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Йедаи́и"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "из дома"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "Йешуа"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "девятьсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "семьдесят"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": ""
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "три"
+    }
+  ],
+  "timestamp": "2026-08-03T12:23:01.309165442Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "lamentations 5:2",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Наше наследие ⟨обратилось⟩ к чужакам, дома наши — к иностранцам",
+  "tokens": [
+    {
+      "surface": "נחלתנו",
+      "gloss": "наше наследие"
+    },
+    {
+      "surface": "נהפכה",
+      "gloss": "⟨обратилось⟩"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "к чужакам"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "дома наши"
+    },
+    {
+      "surface": "לנכרים",
+      "gloss": "к иностранцам"
+    }
+  ],
+  "timestamp": "2026-08-03T11:14:47.985493029Z",
+  "model": "glm-4.5"
+}

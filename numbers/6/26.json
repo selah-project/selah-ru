@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "numbers 6:26",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "ЯХВЕ возведёт ⟨Свое⟩ лице ⟨Свое⟩ на ⟨тебя⟩ и даст ⟨тебе⟩ шалом",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "возведёт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лице ⟨Свое⟩"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "на ⟨тебя⟩"
+    },
+    {
+      "surface": "והשם",
+      "gloss": "и даст"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨тебе⟩"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "шалом"
+    }
+  ],
+  "timestamp": "2026-08-02T21:17:25.922977256Z",
+  "model": "glm-4.5"
+}

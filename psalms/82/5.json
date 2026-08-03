@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 82,
+  "translation": "Они не знают и не понимают, во тьме ⟨они⟩ ходят; шатаются все основания ⟨земли⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знают"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "понимают"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "во тьме"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "ходят"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "шатаются"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "основания"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨земли⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T08:08:30.338876863Z",
+  "model": "glm-4.5"
+}

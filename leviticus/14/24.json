@@ -1,0 +1,72 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И возьмёт ⟨коэн⟩ ⟨את⟩ барана ⟨אשם⟩ и ⟨את⟩ лог масла и взмахнёт ⟨אתם⟩ ⟨коэн⟩ — взмах пред ⟨лицом⟩ ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "и возьмёт"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨коэн⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "барана"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "барана"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "⟨אшам⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "лог"
+    },
+    {
+      "surface": "לג",
+      "gloss": "лог"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "масла"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "и взмахнёт"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "⟨коэн⟩"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨коэн⟩"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "взмах"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред ⟨лицом⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T20:54:16.382096147Z",
+  "model": "glm-4.5"
+}

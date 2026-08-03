@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Человек, угнетающий ⟨в⟩ крови [жизни] ⟨души⟩, [побежит] до ямы, пусть никто не удержит его",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Человек"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "угнетающий"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "⟨в⟩ крови"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨души⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ямы"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "[побежит]"
+    },
+    {
+      "surface": "אל",
+      "gloss": "пусть"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "никто не удержит"
+    },
+    {
+      "surface": "בו",
+      "gloss": "его"
+    }
+  ],
+  "timestamp": "2026-08-03T10:04:49.877058333Z",
+  "model": "glm-4.5"
+}

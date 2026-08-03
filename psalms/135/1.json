@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 135,
+  "translation": "Аллилуйа! Хвалите имя ЯХВЕ, хвалите ⟨את⟩, рабы ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Хвалите"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Аллилуйа"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "хвалите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "имя ЯХВЕ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "имя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "хвалите"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "рабы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T09:05:28.818576074Z",
+  "model": "glm-4.5"
+}

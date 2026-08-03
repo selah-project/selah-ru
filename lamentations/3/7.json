@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Он огородил меня ⟨своим⟩ забором, и ⟨я⟩ не выйду; Он отягощ ⟨мои⟩ оковы",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "Огородил"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "⟨своим⟩ забором"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "выйду"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "отягощ"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "⟨мои⟩ оковы"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:11.777858551Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "2-samuel 22:32",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Ибо кто ⟨есть⟩ Эль, кроме ЯХВЕ, и кто — скала, кроме Элохим нашего?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эль"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "кроме"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и кто"
+    },
+    {
+      "surface": "צור",
+      "gloss": "скала"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "кроме"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элохим нашего"
+    }
+  ],
+  "timestamp": "2026-08-03T00:11:52.109708746Z",
+  "model": "glm-4.5"
+}

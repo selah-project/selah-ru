@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "трава высыхает, цвет увядает, но слово ⟨нашего⟩ Элохима встанет навсегда",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "высыхает"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "трава"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "увядает"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "цвет"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "но слово"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "⟨нашего⟩ Эlohима"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "встанет"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навсегда"
+    }
+  ],
+  "timestamp": "2026-08-03T02:26:24.553945469Z",
+  "model": "glm-4.5"
+}

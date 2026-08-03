@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И царь, и ⟨весь⟩ народ принося́т жертву, ⟨заклание⟩ пред лицо ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "И царь"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и ⟨весь⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "принося́т"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "жертву, ⟨заклание⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред лицо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T13:30:34.960084044Z",
+  "model": "glm-4.5"
+}

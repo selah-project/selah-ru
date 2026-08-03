@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "2-kings 17:40",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И ⟨они⟩ не слушали, а ⟨делали⟩ по ⟨их⟩ первому закону",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И ⟨они⟩ не"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "слушали"
+    },
+    {
+      "surface": "כי",
+      "gloss": "а"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "по ⟨их⟩ закону"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "первому"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨они⟩"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "⟨делали⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T01:27:14.992201349Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 105,
+  "translation": "говоря: тебе дам ⟨את⟩ землю Кнаана, ⟨как⟩ часть владения вашего",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "дам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "землю Кнаана"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кнаана"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "⟨как⟩ часть"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "владения вашего"
+    }
+  ],
+  "timestamp": "2026-08-03T08:34:46.214963733Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 51,
+  "translation": "Приходе к нему пророка Нафана, когда он вошёл к Бэт-Шэва",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Приходе"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "к нему"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "пророка Нафана"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророка"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "когда"
+    },
+    {
+      "surface": "בא",
+      "gloss": "вошёл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Бэт-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шэва"
+    }
+  ],
+  "timestamp": "2026-08-03T07:29:21.554820310Z",
+  "model": "glm-4.5"
+}

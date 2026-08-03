@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "proverbs 21:26",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Весь день жаждет жаждущий, а праведник даёт и не withholdeth.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Весь"
+    },
+    {
+      "surface": "היום",
+      "gloss": "день"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "жаждет"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "жаждущий"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "а праведник"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "даёт"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "withholdeth"
+    }
+  ],
+  "timestamp": "2026-08-03T09:48:34.837121801Z",
+  "model": "glm-4.5"
+}

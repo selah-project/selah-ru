@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "1-chronicles 16:25",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Ибо велик ЯХВЕ и весьма достойный хвалы, и страшен Он ⟨над⟩ всеми богами",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "и весьма достойный хвалы"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "весьма"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "и страшен"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Он"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨над⟩",
+      "marks": "всеми богами"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всеми"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "богами"
+    }
+  ],
+  "timestamp": "2026-08-03T13:00:13.640536960Z",
+  "model": "glm-4.5"
+}

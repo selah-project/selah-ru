@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И породил от Ходеш, жены его, ⟨את⟩ Йовава и ⟨את⟩ Цивью и ⟨את⟩ Мешу и ⟨את⟩ Малкама",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "И породил"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Ходеш"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "жены его"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йовава"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Йовав"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Цивью"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Цивья"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Мешу"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Меша"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Малкама"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Малкам"
+    }
+  ],
+  "timestamp": "2026-08-03T12:48:58.515243873Z",
+  "model": "glm-4.5"
+}

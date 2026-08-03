@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Жена прелюбодействующая, ⟨под⟩ мужем своим, принимает ⟨את⟩ чужих.",
+  "tokens": [
+    {
+      "surface": "האשה",
+      "gloss": "Жена"
+    },
+    {
+      "surface": "המנאפת",
+      "gloss": "прелюбодействующая"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨под⟩"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "мужем своим"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "принимает"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "чужих"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "чужих"
+    }
+  ],
+  "timestamp": "2026-08-03T04:34:16.526167620Z",
+  "model": "glm-4.5"
+}

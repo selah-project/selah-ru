@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 77,
+  "translation": "Твой путь, Элохим, в святости: кто ⟨такой⟩ великий Эль, как Элохим?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "в святости"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "Твой путь"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эль"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "великий"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "как Элохим"
+    }
+  ],
+  "timestamp": "2026-08-03T08:00:06.368186866Z",
+  "model": "glm-4.5"
+}

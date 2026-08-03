@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "jeremiah 48:42",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 48,
+  "translation": "И Моав будет истреблён от ⟨того, чтобы быть⟩ народом, ибо против ЯХВЕ возгордился",
+  "tokens": [
+    {
+      "surface": "ונשמד",
+      "gloss": "И будет истреблён"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "от"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "על",
+      "gloss": "против"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "возгордился"
+    }
+  ],
+  "timestamp": "2026-08-03T04:08:17.488386643Z",
+  "model": "glm-4.5"
+}

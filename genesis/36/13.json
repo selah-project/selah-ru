@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "genesis 36:13",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "А вот сыновья Рэуэла: Нафах, Зерах, Шамма и Мицца; это сыновья Босмат, жены Эсава.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "А вот"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Рэуэла"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "Нафах"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "Зерах"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Шамма"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "и Мицца"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "это"
+    },
+    {
+      "surface": "היו",
+      "gloss": "были"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Босмат"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жены"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсава"
+    }
+  ],
+  "timestamp": "2026-08-02T19:38:10.929632542Z",
+  "model": "glm-4.5"
+}

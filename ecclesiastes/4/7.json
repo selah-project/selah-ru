@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И я обратился и увидел суету ⟨под⟩ солнцем",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "и я обратился"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "и увидел"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "суету"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨под⟩"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "солнцем"
+    }
+  ],
+  "timestamp": "2026-08-03T11:19:07.486544251Z",
+  "model": "glm-4.5"
+}

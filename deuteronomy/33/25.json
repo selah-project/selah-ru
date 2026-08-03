@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "deuteronomy 33:25",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "Железо и медь — ⟨твои⟩ засовы, и как ⟨твои⟩ дни, так ⟨твоя⟩ сила.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "Железо"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "и медь"
+    },
+    {
+      "surface": "מנעליך",
+      "gloss": "⟨твои⟩ засовы"
+    },
+    {
+      "surface": "וכימיך",
+      "gloss": "и как ⟨твои⟩ дни"
+    },
+    {
+      "surface": "דבאך",
+      "gloss": "так ⟨твоя⟩ сила"
+    }
+  ],
+  "timestamp": "2026-08-02T22:24:07.460638337Z",
+  "model": "glm-4.5"
+}

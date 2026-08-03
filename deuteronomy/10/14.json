@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Вот, ЯХВЕ, твоему Элохиму, ⟨принадлежат⟩ небеса и небеса небес, земля и всё, что ⟨в ней⟩",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Вот"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ, твоему Эlohиму",
+      "marks": "ЯХВЕ, твоему Эlohиму"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": ""
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "и небеса"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨в ней⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T22:01:51.868667065Z",
+  "model": "glm-4.5"
+}

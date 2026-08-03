@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "1-samuel 4:22",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И сказала: «Ушёл ⟨את⟩ вес от Израиля, ибо взят ⟨את⟩ ковчег Элогима»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "И сказала"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "Ушёл"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "⟨את⟩ вес",
+      "marks": "вес"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "от Израиля"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "взят"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "⟨את⟩ ковчег",
+      "marks": "ковчег"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элогима"
+    }
+  ],
+  "timestamp": "2026-08-02T23:16:55.620102662Z",
+  "model": "glm-4.5"
+}

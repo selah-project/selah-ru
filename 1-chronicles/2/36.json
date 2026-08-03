@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И Аттай породил ⟨את⟩ Натана, и Натан породил ⟨את⟩ Завада",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "И Аттай"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Натана"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натана"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "и Натан"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Завада"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Завада"
+    }
+  ],
+  "timestamp": "2026-08-03T12:38:17.638881653Z",
+  "model": "glm-4.5"
+}

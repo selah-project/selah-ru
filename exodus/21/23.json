@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "но если ⟨будет⟩ несчастье, то дай ⟨את⟩ нефеш за нефеш",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "но если"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "несчастье"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨будет⟩"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "то дай"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нефеш"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нефеш"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нефеш"
+    }
+  ],
+  "timestamp": "2026-08-02T20:14:58.929200015Z",
+  "model": "glm-4.5"
+}

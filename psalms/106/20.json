@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 106,
+  "translation": "И променили ⟨את⟩ славу свою на подобие быка, поедающего траву",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "и променили"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "славу их"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "славу их"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "на подобие"
+    },
+    {
+      "surface": "שור",
+      "gloss": "быка"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "поедающего"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "траву"
+    }
+  ],
+  "timestamp": "2026-08-03T08:36:43.724871921Z",
+  "model": "glm-4.5"
+}

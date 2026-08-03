@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "И сказал ЯХВЕ: вот, место ⟨рядом⟩ со Мной, и ты встанешь на скале",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨рядом⟩ со Мной"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "и ты встанешь"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "скале"
+    }
+  ],
+  "timestamp": "2026-08-02T20:30:51.882618021Z",
+  "model": "glm-4.5"
+}

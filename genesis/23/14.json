@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "И ответил Эфрон ⟨את⟩ Авраама, говоря ему:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И ответил"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Эфрон"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авраама"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраама"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    }
+  ],
+  "timestamp": "2026-08-02T19:20:13.205156785Z",
+  "model": "glm-4.5"
+}

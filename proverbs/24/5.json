@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Могуч мудрец ⟨в⟩ силе, и человек знания укрепляет мощь",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "Могуч"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудрец"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "⟨в⟩ силе"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "и человек"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знания"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "укрепляет"
+    },
+    {
+      "surface": "כח",
+      "gloss": "мощь"
+    }
+  ],
+  "timestamp": "2026-08-03T18:28:20.999166036Z",
+  "model": "glm-4.5"
+}

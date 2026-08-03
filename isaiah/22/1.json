@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Бремя долины видения. Что ⟨тебе⟩ теперь, что ты, ⟨весь⟩, взошел на кровли?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Бремя"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "долины"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "видения"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Что"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨тебе⟩"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "теперь"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "взошел"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "⟨весь⟩"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "на кровли"
+    }
+  ],
+  "timestamp": "2026-08-03T02:04:33.947116865Z",
+  "model": "glm-4.5"
+}

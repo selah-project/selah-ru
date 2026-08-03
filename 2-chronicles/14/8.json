@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "2-chronicles 14:8",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И выступил против них Зерах Хушит с войском тысячи тысяч и триста колесниц, и пришёл до Мареши.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "и выступил"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "против них"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Зерах"
+    },
+    {
+      "surface": "הכושי",
+      "gloss": "Хушит"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "с войском"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тысячи"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "тысяч"
+    },
+    {
+      "surface": "ומרכבות",
+      "gloss": "и триста"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "⟨колесниц⟩"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и пришёл"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Мареши"
+    }
+  ],
+  "timestamp": "2026-08-03T13:41:21.143064666Z",
+  "model": "glm-4.5"
+}

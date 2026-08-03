@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "Так Элохим забрал ⟨את⟩ скот вашего отца и дал мне",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "так"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "скот вашего отца"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "скот"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "вашего отца"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и дал"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    }
+  ],
+  "timestamp": "2026-08-02T19:32:15.293698657Z",
+  "model": "glm-4.5"
+}

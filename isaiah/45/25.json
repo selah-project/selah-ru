@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "isaiah 45:25",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 45,
+  "translation": "В ЯХВЕ оправдаются ⟨и⟩ возрадуются всё семя Израиля",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "В ЯХВЕ"
+    },
+    {
+      "surface": "יצדקו",
+      "gloss": "оправдаются"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "⟨и⟩ возрадуются"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "семя"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-03T02:33:14.633686866Z",
+  "model": "glm-4.5"
+}

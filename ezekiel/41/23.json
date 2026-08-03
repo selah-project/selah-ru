@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "ezekiel 41:23",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 41,
+  "translation": "И две двери ⟨были⟩ Храму и ⟨в⟩ Святилище",
+  "tokens": [
+    {
+      "surface": "ושתים",
+      "gloss": "И две"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "двери"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "Храму"
+    },
+    {
+      "surface": "ולקדש",
+      "gloss": "и Святилищу"
+    }
+  ],
+  "timestamp": "2026-08-03T05:09:28.505472822Z",
+  "model": "glm-4.5"
+}

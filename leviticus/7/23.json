@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Говори сыновьям Израиля, говоря: никакого жира ⟨от⟩ быка, и ⟨от⟩ овцы, и ⟨от⟩ козы не ешьте",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "сыновьям"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "никакого"
+    },
+    {
+      "surface": "כל",
+      "gloss": "жира"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "быка"
+    },
+    {
+      "surface": "שור",
+      "gloss": "и"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "овцы"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "и"
+    },
+    {
+      "surface": "לא",
+      "gloss": "козы"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "не ешьте"
+    }
+  ],
+  "timestamp": "2026-08-02T20:46:13.859361493Z",
+  "model": "glm-4.5"
+}

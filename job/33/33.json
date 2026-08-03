@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "job 33:33",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "Если нет, послушай меня: промолчи, и ⟨я⟩ научу тебя мудрости.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Если"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "послушай"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "промолчи"
+    },
+    {
+      "surface": "ואאלפך",
+      "gloss": "и ⟨я⟩ научу тебя"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрости"
+    }
+  ],
+  "timestamp": "2026-08-03T10:41:12.678366614Z",
+  "model": "glm-4.5"
+}

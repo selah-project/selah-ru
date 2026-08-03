@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Не к лицу глупцу наслаждение, и тем более ⟨как⟩ слуге править над князьями.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "к лицу"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "глупцу"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "наслаждение"
+    },
+    {
+      "surface": "אף",
+      "gloss": "и тем более"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨как⟩"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "слуге"
+    },
+    {
+      "surface": "משל",
+      "gloss": "править"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "над князьями"
+    }
+  ],
+  "timestamp": "2026-08-03T09:46:33.686048911Z",
+  "model": "glm-4.5"
+}

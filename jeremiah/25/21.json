@@ -1,0 +1,44 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "⟨את⟩ Эдом, и ⟨את⟩ Моав, и ⟨את⟩ сыновья Аммона",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эдом"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Моав"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "сыновья"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммона"
+    }
+  ],
+  "timestamp": "2026-08-03T03:31:13.261389796Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 132,
+  "translation": "Пока я не найду место для ЯХВЕ, жилища для Могучего Яакова.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "пока"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "я найду"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "для ЯХВЕ"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "жилища"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "для Могучего"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    }
+  ],
+  "timestamp": "2026-08-03T09:03:20.480758530Z",
+  "model": "glm-4.5"
+}

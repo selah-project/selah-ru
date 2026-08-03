@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "exodus 24:7",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "И взял ⟨он⟩ книгу ⟨брита⟩ и proclaimed в ушах народа, и сказали они: всё, что говорил ЯХВЕ, сделаем и послушаемся.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "и взял"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "книгу"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "⟨брита⟩"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и proclaimed"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "в ушах"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народа"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и сказали они"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "сделаем"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "и послушаемся"
+    }
+  ],
+  "timestamp": "2026-08-03T17:53:25.203832814Z",
+  "model": "glm-4.5"
+}

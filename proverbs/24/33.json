@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "proverbs 24:33",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Немного сна, немного дремоты, немного сложения рук, чтобы ⟨лежать⟩",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "немного"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "сна"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "немного"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "дремоты"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "немного"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "сложения"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "рук"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "чтобы ⟨лежать⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T18:27:38.426977505Z",
+  "model": "glm-4.5"
+}

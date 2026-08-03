@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "numbers 3:18",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "а вот имена сыновей Гершона по их семействам ⟨это⟩ Ливни и Шими",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "а вот"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "имена"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Гершона"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "по их семействам"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Ливни",
+      "marks": "Libni"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "и Шими"
+    }
+  ],
+  "timestamp": "2026-08-02T21:12:14.454405705Z",
+  "model": "glm-4.5"
+}

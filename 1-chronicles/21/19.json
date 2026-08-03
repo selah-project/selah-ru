@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "1-chronicles 21:19",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И взошёл Давид по слову Гада, ⟨которое⟩ он сказал во имя ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "и взошёл"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "по слову"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гада"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨которое⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "он сказал"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "во имя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T13:06:38.420431613Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "isaiah 28:29",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Даже это ⟨исходит⟩ от ЯХВЕ Цеваот — чуден ⟨в⟩ совете, велика ⟨в⟩ мудрости.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Даже"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "это"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "от"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "⟨исходит⟩"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "чуден"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "⟨в⟩ совете"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "велика"
+    },
+    {
+      "surface": "תושיה",
+      "gloss": "⟨в⟩ мудрости"
+    }
+  ],
+  "timestamp": "2026-08-03T02:12:40.924114797Z",
+  "model": "glm-4.5"
+}

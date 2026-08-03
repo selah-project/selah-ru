@@ -1,0 +1,89 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "jeremiah 50:18",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 50,
+  "translation": "Посему так говорит ЯХВЕ Цеваот, Элохи Исраэля: вот, Я взыщу с царя Вавилона и с ⟨его⟩ земли, как взыскал с царя Ашшура.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Посему"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "говорит"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохи"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраэля"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "вот"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "взыщу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "с"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилона"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и с"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "⟨его⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "взыскал"
+    },
+    {
+      "surface": "אל",
+      "gloss": "с"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшура"
+    }
+  ],
+  "timestamp": "2026-08-03T04:11:05.028459857Z",
+  "model": "glm-4.5"
+}

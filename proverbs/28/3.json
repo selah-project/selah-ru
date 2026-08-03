@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Нуждающийся муж, ⟨который⟩ притесняет слабых, ⟨как⟩ ливень смывающий, и нет хлеба.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "муж"
+    },
+    {
+      "surface": "רש",
+      "gloss": "нуждающийся"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "и притесняющий"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "слабых"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ливень"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "смувающий"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нет"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеба"
+    }
+  ],
+  "timestamp": "2026-08-03T10:04:37.235754204Z",
+  "model": "glm-4.5"
+}

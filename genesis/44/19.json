@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 44,
+  "translation": "Господин мой спрашивал ⟨את⟩ своих слуг, говоря: есть ли у вас отец или брат?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Господин мой"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "спрашивал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "своих слуг"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "своих слуг"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "היש",
+      "gloss": "есть ли"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "у вас"
+    },
+    {
+      "surface": "אב",
+      "gloss": "отец"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "אח",
+      "gloss": "брат"
+    }
+  ],
+  "timestamp": "2026-08-02T19:48:37.577531789Z",
+  "model": "glm-4.5"
+}

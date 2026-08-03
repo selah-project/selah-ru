@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "На это ⟨стало⟩ больным сердце наше, на это померкли глаза наши",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "На"
+    },
+    {
+      "surface": "זה",
+      "gloss": "это"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨стало⟩"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "больным"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "сердце наше"
+    },
+    {
+      "surface": "על",
+      "gloss": "На"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "это"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "померкли"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "глаза наши"
+    }
+  ],
+  "timestamp": "2026-08-03T11:14:48.658055011Z",
+  "model": "glm-4.5"
+}

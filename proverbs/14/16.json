@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Мудрый ⟨с⟩ боится и отходит от зла, а ⟨же⟩ глупец переступает и доверяет",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "Мудрый"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "боится"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "и отходит"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "от зла"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "а ⟨же⟩ глупец"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "переступает"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "и доверяет"
+    }
+  ],
+  "timestamp": "2026-08-03T09:38:21.365217588Z",
+  "model": "glm-4.5"
+}

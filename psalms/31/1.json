@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "Начальнику хоров. Псалом Давиду.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Начальнику хоров"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Псалом"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиду"
+    }
+  ],
+  "timestamp": "2026-08-03T07:06:40.620658145Z",
+  "model": "glm-4.5"
+}

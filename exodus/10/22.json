@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И простёр Моше руку свою на небеса, и была тьма густая по всей земле Мицраим три дня",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "и простёр"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "руку его"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "руку его"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и была"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "тьма"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "густая"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "по всей"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земле"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дня"
+    }
+  ],
+  "timestamp": "2026-08-02T20:04:39.202569263Z",
+  "model": "glm-4.5"
+}

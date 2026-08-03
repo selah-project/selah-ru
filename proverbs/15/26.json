@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "proverbs 15:26",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "Мерзость пред ЯХВЕ — замыслы ⟨зла⟩, а ⟨слова⟩ приятности — чисты",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "Мерзость"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "замыслы"
+    },
+    {
+      "surface": "רע",
+      "gloss": "⟨зла⟩"
+    },
+    {
+      "surface": "וטהרים",
+      "gloss": "а ⟨слова⟩"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "приятности"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "— чисты"
+    }
+  ],
+  "timestamp": "2026-08-03T09:39:50.078453121Z",
+  "model": "glm-4.5"
+}

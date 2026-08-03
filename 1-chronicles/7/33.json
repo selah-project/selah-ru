@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "1-chronicles 7:33",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Сыновья Яфлета: Пасах, и Бимхал, и Ашват; эти сыновья Яфлета.",
+  "tokens": [
+    {
+      "surface": "וּבְנֵי",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "יַפְלֵט",
+      "gloss": "Яфлета"
+    },
+    {
+      "surface": "פָּסַךְ",
+      "gloss": "Пасах"
+    },
+    {
+      "surface": "וּבִמְהָל",
+      "gloss": "и Бимхал"
+    },
+    {
+      "surface": "וַעֲשׁוָת",
+      "gloss": "и Ашват"
+    },
+    {
+      "surface": "אֵלֶּה",
+      "gloss": "эти"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "יַפְלֵט",
+      "gloss": "Яфлета"
+    }
+  ],
+  "timestamp": "2026-08-03T12:47:51.555294567Z",
+  "model": "glm-4.5"
+}

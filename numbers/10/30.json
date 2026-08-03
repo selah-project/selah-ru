@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И сказал он ему: не ⟨я⟩ пойду, но ⟨в⟩ свою землю и ⟨в⟩ своё родство ⟨я⟩ пойду",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "пойду"
+    },
+    {
+      "surface": "כי",
+      "gloss": "но"
+    },
+    {
+      "surface": "אם",
+      "gloss": "если\/кроме"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в\/к"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "свою землю"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и к"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "своё родство"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "пойду"
+    }
+  ],
+  "timestamp": "2026-08-02T21:22:27.301769860Z",
+  "model": "glm-4.5"
+}

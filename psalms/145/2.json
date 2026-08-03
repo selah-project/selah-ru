@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 145,
+  "translation": "Каждый день ⟨я⟩ благословлю Тебя, и ⟨я⟩ восхвалю Имя Твоё навеки и вечно.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "каждый"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "благословлю Тебя"
+    },
+    {
+      "surface": "ו",
+      "gloss": "и"
+    },
+    {
+      "surface": "אהללה",
+      "gloss": "восхвалю"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Имя Твоё"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навеки"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и вечно"
+    }
+  ],
+  "timestamp": "2026-08-03T09:15:08.659754741Z",
+  "model": "glm-4.5"
+}

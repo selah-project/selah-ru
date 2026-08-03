@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "ezekiel 48:35",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 48,
+  "translation": "Кругом — восемнадцать тысяч, и имя города от того дня — ЯХВЕ [там].",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "кругом"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "восемь"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "десять"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тысяч"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "и имя"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "города"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "от того дня"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "[там]"
+    }
+  ],
+  "timestamp": "2026-08-03T05:19:45.680686883Z",
+  "model": "glm-4.5"
+}

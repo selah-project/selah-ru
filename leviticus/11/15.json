@@ -1,0 +1,30 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "⟨את⟩ ⟨весь⟩ ворон по ⟨его⟩ роду;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "весь ворон"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ворон"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "по ⟨его⟩ роду"
+    }
+  ],
+  "timestamp": "2026-08-02T20:50:14.506575379Z",
+  "model": "glm-4.5"
+}

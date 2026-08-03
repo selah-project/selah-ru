@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "ezekiel 23:31",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Путём сестры твоей ⟨ты⟩ шла, и Я дам чашу её в руку твою",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "Путём"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "сестры твоей"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "⟨ты⟩ шла"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "и Я дам"
+    },
+    {
+      "surface": "כוסה",
+      "gloss": "чашу её"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "в руку твою"
+    }
+  ],
+  "timestamp": "2026-08-03T04:45:37.040413038Z",
+  "model": "glm-4.5"
+}

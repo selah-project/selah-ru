@@ -1,0 +1,86 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "exodus 6:29",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И говорил ЯХВЕ Моше, говоря: Я — ЯХВЕ; говори ⟨את⟩ Паро, царю Египта, всё, что Я говорю тебе",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Египта"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всё"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорю"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "тебе"
+    }
+  ],
+  "timestamp": "2026-08-02T20:00:46.103172980Z",
+  "model": "glm-4.5"
+}

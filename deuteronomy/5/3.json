@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Не с отцами нашими ⟨את⟩ режет ЯХВЕ ⟨את⟩ завет этот, но с нами мы эти здесь сегодня все мы живые.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "отцами нашими"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "с отцами нашими"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "режет"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "завет этот"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "завет"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "этот"
+    },
+    {
+      "surface": "כי",
+      "gloss": "но"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "с нами"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "мы"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "эти"
+    },
+    {
+      "surface": "פה",
+      "gloss": "здесь"
+    },
+    {
+      "surface": "היום",
+      "gloss": "сегодня"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "все мы"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живые"
+    }
+  ],
+  "timestamp": "2026-08-02T21:56:18.448394335Z",
+  "model": "glm-4.5"
+}

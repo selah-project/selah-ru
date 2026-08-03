@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 116,
+  "translation": "Драгоценен в глазах ЯХВЕ ⟨מותה⟩ хасидов Его.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "Драгоценен"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в глазах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "⟨מותה⟩",
+      "marks": "смерть"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "хасидов Его"
+    }
+  ],
+  "timestamp": "2026-08-03T08:46:38.222840001Z",
+  "model": "glm-4.5"
+}

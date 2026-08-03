@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "2-samuel 7:4",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И было в ту ночь, и ⟨было⟩ слово ЯХВЕ к Натану, говоря:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "в ту ночь"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ту"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и ⟨было⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натану"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-02T23:54:08.354450329Z",
+  "model": "glm-4.5"
+}

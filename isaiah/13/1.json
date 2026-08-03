@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "Пророчество о Вавилоне, которое увидел Йешайаху, сын Амоца:",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Пророчество"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "о Вавилоне"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "увидел"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Йешайаху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Амоца"
+    }
+  ],
+  "timestamp": "2026-08-03T01:56:51.283177607Z",
+  "model": "glm-4.5"
+}

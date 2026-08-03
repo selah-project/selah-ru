@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "nehemiah 12:15",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "От Харима, Адна; от Мераиофа, Хелкай",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "От Харима"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "Адна"
+    },
+    {
+      "surface": "למריות",
+      "gloss": "от Мераиофа"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "Хелкай"
+    }
+  ],
+  "timestamp": "2026-08-03T12:32:13.181634851Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "obadiah 1:8",
+  "book": "obadiah",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Разве не в тот день, — ne'um ЯХВЕ, — истреблю ⟨я⟩ мудрецов из Эдома и понимание с горы Эсава?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Разве не"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в тот день"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨тот⟩"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ne'um"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "истреблю ⟨я⟩"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудрецов"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "из Эдома"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "и понимание"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "с ⟨горы⟩"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсава"
+    }
+  ],
+  "timestamp": "2026-08-03T05:43:22.556624223Z",
+  "model": "glm-4.5"
+}

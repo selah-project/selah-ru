@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Их плод ты уничтожишь ⟨с⟩ земли, и их семя — ⟨от⟩ сынов Адама",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "Их плод"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "⟨с⟩ земли"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ты уничтожишь"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "и их семя"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "⟨от⟩ сынов"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Адама"
+    }
+  ],
+  "timestamp": "2026-08-03T06:54:17.541129509Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "И не помутнеют ⟨את⟩ глаза видящих, и уши слушающих внемлют",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И не"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "помутнеют"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "⟨את⟩",
+      "marks": "глаза"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "видящих"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "и уши"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "слушающих"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "внемлют"
+    }
+  ],
+  "timestamp": "2026-08-03T02:16:41.445818137Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "amos 5:4",
+  "book": "amos",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Ибо так сказал ЯХВЕ дому Израиля: ищите Меня, и живите.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "דרשוני",
+      "gloss": "ищите Меня"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "и живите"
+    }
+  ],
+  "timestamp": "2026-08-03T05:39:01.678838866Z",
+  "model": "glm-4.5"
+}

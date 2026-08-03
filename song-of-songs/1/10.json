@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Прекрасны щёки твои ⟨в⟩ нитях, шея твоя ⟨в⟩ ожерельях",
+  "tokens": [
+    {
+      "surface": "נאוו",
+      "gloss": "прекрасны"
+    },
+    {
+      "surface": "לחייך",
+      "gloss": "щёки твои"
+    },
+    {
+      "surface": "בתרים",
+      "gloss": "⟨в⟩ нитях"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "шея твоя"
+    },
+    {
+      "surface": "בחרוזים",
+      "gloss": "⟨в⟩ ожерельях"
+    }
+  ],
+  "timestamp": "2026-08-03T10:54:09.725916304Z",
+  "model": "glm-4.5"
+}

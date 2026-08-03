@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "и ⟨את⟩ дочь страуса, и ⟨את⟩ выпь, и ⟨את⟩ чайку, и ⟨את⟩ ястреба по роду его",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "дочь страуса"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочь"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "страуса"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "выпь"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "выпь"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "чайку"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "чайку"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "ястреба"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "ястреба"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "по роду его"
+    }
+  ],
+  "timestamp": "2026-08-02T22:05:40.688358097Z",
+  "model": "glm-4.5"
+}

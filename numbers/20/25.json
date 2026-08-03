@@ -1,0 +1,56 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "Возьми ⟨את⟩ Аарона и ⟨את⟩ Элазара, сына его, и возвысь ⟨את⟩ их на гору Хор",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "возьми"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аарона"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарона"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Элазара"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Элазара"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "сына его"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "и возвысь"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "их"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гора"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "Хор"
+    }
+  ],
+  "timestamp": "2026-08-02T21:33:13.457161610Z",
+  "model": "glm-4.5"
+}

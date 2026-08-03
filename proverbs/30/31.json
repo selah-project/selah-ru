@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "proverbs 30:31",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "перепоясанный чреслами, или козёл, и царь — нет восставания с ⟨ним⟩",
+  "tokens": [
+    {
+      "surface": "זרזיר",
+      "gloss": "перепоясанный"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "чреслами"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "תיש",
+      "gloss": "козёл"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "и царь"
+    },
+    {
+      "surface": "אלקום",
+      "gloss": "нет восставания"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с ⟨ним⟩",
+      "marks": "ним"
+    }
+  ],
+  "timestamp": "2026-08-03T10:07:30.755308356Z",
+  "model": "glm-4.5"
+}

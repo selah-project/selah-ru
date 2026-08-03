@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "numbers 26:14",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Вот семьи Шимони: двадцать две тысячи и двести.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "семьи"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "Шимони"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "две"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и двадцать"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тысячи"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "и двести"
+    }
+  ],
+  "timestamp": "2026-08-02T21:39:06.608590271Z",
+  "model": "glm-4.5"
+}

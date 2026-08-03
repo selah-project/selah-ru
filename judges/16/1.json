@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "judges 16:1",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "И пошёл Шимшон в Азу, и увидел там женщину, блудницу, и вошёл к ⟨неё⟩",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "И пошёл"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Шимшон"
+    },
+    {
+      "surface": "עזתה",
+      "gloss": "в Азу"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "и увидел"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "женщину"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "блудницу"
+    },
+    {
+      "surface": "ואליה",
+      "gloss": "к ⟨неё⟩"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "к"
+    }
+  ],
+  "timestamp": "2026-08-02T23:06:23.785071859Z",
+  "model": "glm-4.5"
+}

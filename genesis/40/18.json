@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "genesis 40:18",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "И отвечал Иосиф и сказал: это толкование его — три корзины, три дня ⟨это⟩:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "и отвечал"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Иосиф"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "זה",
+      "gloss": "это"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "толкование его"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "הסלים",
+      "gloss": "корзины"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дня"
+    },
+    {
+      "surface": "הם",
+      "gloss": "это"
+    }
+  ],
+  "timestamp": "2026-08-02T19:43:39.691974332Z",
+  "model": "glm-4.5"
+}

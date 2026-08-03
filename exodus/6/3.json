@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "exodus 6:3",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И Явился ⟨я⟩ к Аврааму, к Ицхаку и к Яакову — как Эль Шаддай, а имя Моё — ЯХВЕ — не ⟨было⟩ познано им",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "И Явился"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврааму"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхаку"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и к"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакову"
+    },
+    {
+      "surface": "באל",
+      "gloss": "как Эль"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шаддай"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "а имя Моё"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נודעתי",
+      "gloss": "⟨было⟩ познано"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    }
+  ],
+  "timestamp": "2026-08-02T20:00:13.797012544Z",
+  "model": "glm-4.5"
+}

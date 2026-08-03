@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "judges 2:16",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И встал ЯХВЕ судей, и спасал их из руки грабителей их,",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "и встал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "судей"
+    },
+    {
+      "surface": "ויושיעום",
+      "gloss": "и спасал их"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "из руки"
+    },
+    {
+      "surface": "שסיהם",
+      "gloss": "грабителей их"
+    }
+  ],
+  "timestamp": "2026-08-02T22:50:39.004704012Z",
+  "model": "glm-4.5"
+}

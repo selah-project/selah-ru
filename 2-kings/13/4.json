@@ -1,0 +1,88 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И умолял Иехоахаз ⟨את⟩ лицо ЯХВЕ, и услышал его ЯХВЕ, ибо увидел ⟨את⟩ гнёт Израиля, что гнёт ⟨את⟩ них царь Арама",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "и умолял"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Иехоахаз"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лицо"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "и услышал"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "увидел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гнёт"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "гнёт"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "гнёт"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "них"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арама"
+    }
+  ],
+  "timestamp": "2026-08-03T01:20:35.788958872Z",
+  "model": "glm-4.5"
+}

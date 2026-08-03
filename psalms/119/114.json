@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 114,
+  "ref": "psalms 119:114",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Ты — моё укрытие и мой щит; на слово Твоё я уповал.",
+  "tokens": [
+    {
+      "surface": "סתרי",
+      "gloss": "укрытие моё"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "и щит мой"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "на слово Твоё"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "я уповал"
+    }
+  ],
+  "timestamp": "2026-08-03T08:53:17.626950331Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Я — муж, видевший бедствие ⟨в⟩ жезле гнева Его.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "муж"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "видевший"
+    },
+    {
+      "surface": "עני",
+      "gloss": "бедствие"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "⟨в⟩ жезле"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "гнева Его"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:04.525596291Z",
+  "model": "glm-4.5"
+}

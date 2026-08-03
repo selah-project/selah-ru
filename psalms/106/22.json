@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 106,
+  "translation": "Чудесные [дела] в стране Хама, [дела] страшные ⟨по⟩ Ям Суф.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "Чудесные"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в стране"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Хама"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "[дела] страшные"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨по⟩"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Ям"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Суф"
+    }
+  ],
+  "timestamp": "2026-08-03T08:37:00.934507520Z",
+  "model": "glm-4.5"
+}

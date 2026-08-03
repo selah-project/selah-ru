@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Даже не творили ⟨они⟩ беззакония, в путях Его ходили.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Даже",
+      "lemma": "אַף"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не",
+      "lemma": "לֹא"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "творили ⟨они⟩",
+      "lemma": "פָּעַל"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "беззакония",
+      "lemma": "עֶוֶל"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "в путях Его",
+      "lemma": "b\/1870"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ходили",
+      "lemma": "הָלַךְ"
+    }
+  ],
+  "timestamp": "2026-08-03T08:49:18.325437307Z",
+  "model": "glm-4.5"
+}

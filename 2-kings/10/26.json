@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И вынесли ⟨את⟩ столпы дома Баала и сожгли их",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "и вынесли"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "столпы"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "столпы"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Баала"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "и сожгли их"
+    }
+  ],
+  "timestamp": "2026-08-03T01:16:14.871326399Z",
+  "model": "glm-4.5"
+}

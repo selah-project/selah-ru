@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 55,
+  "ref": "nehemiah 7:55",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "сыновья Баркоса, сыновья Сисеры, сыновья Тэмаха",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "ברקוס",
+      "gloss": "Баркос"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Сисера"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "Тэмах"
+    }
+  ],
+  "timestamp": "2026-08-03T12:22:42.035273266Z",
+  "model": "glm-4.5"
+}

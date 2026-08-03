@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "мудростью ⟨строится⟩ дом и ⟨с⟩ разумения утверждается",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "мудростью"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "⟨строится⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "и ⟨с⟩ разумения"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "утверждается"
+    }
+  ],
+  "timestamp": "2026-08-03T18:27:34.863143751Z",
+  "model": "glm-4.5"
+}

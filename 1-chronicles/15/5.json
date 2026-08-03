@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "1-chronicles 15:5",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "Сынам Кехата: Уриэль начальник и братья его сто двадцать",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Сынам"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кехата"
+    },
+    {
+      "surface": "אוריאל",
+      "gloss": "Уриэль"
+    },
+    {
+      "surface": "השר",
+      "gloss": "начальник"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "и братья его"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "двадцать"
+    }
+  ],
+  "timestamp": "2026-08-03T12:58:58.020442487Z",
+  "model": "glm-4.5"
+}

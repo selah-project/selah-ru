@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Ибо не отречёт навсегда ⟨Адонай⟩",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "отречёт"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навсегда"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "⟨Адонай⟩",
+      "marks": "Адонай"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:33.755953494Z",
+  "model": "glm-4.5"
+}

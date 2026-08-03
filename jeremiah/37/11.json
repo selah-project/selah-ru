@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "jeremiah 37:11",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "И было, при восхождениях войска Халдеев от Иерусалима из-за войска Паро",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И было"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "при восхождениях"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "войска"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Халдеев"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "от"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Иерусалима"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "из-за"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "войска"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    }
+  ],
+  "timestamp": "2026-08-03T03:51:56.517452692Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Не граби бедного, ⟨ибо⟩ он беден, и не притесня ⟨нищего⟩ в ⟨воротах⟩:",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "граби"
+    },
+    {
+      "surface": "דל",
+      "gloss": "бедного"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ибо⟩"
+    },
+    {
+      "surface": "דל",
+      "gloss": "он беден"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "притесня"
+    },
+    {
+      "surface": "עני",
+      "gloss": "⟨нищего⟩"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "в ⟨воротах⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T09:49:47.620107817Z",
+  "model": "glm-4.5"
+}

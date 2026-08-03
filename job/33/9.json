@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "job 33:9",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "Чист я, ⟨без⟩ преступления, непорочен я, и ⟨нет⟩ вины у меня",
+  "tokens": [
+    {
+      "surface": "זך",
+      "gloss": "чист"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "⟨без⟩",
+      "marks": "преступления"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "преступления"
+    },
+    {
+      "surface": "חף",
+      "gloss": "непорочен"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и ⟨нет⟩"
+    },
+    {
+      "surface": "עון",
+      "gloss": "вины"
+    },
+    {
+      "surface": "לי",
+      "gloss": "у меня"
+    }
+  ],
+  "timestamp": "2026-08-03T18:29:09.134415438Z",
+  "model": "glm-4.5"
+}

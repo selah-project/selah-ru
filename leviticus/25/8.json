@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "leviticus 25:8",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "И насчитаешь себе семь шаббатов лет, семь раз по семь лет, и будут ⟨это⟩ тебе дни семи шаббатов лет — сорок девять лет",
+  "tokens": [
+    {
+      "surface": "וספרת",
+      "gloss": "и насчитаешь"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себе"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семь"
+    },
+    {
+      "surface": "שבתת",
+      "gloss": "шаббатов"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "лет"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семь"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "лет"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семь"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "раз"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "и будут"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дни"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семи"
+    },
+    {
+      "surface": "שבתת",
+      "gloss": "шаббатов"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "лет"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "сорок девять"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    }
+  ],
+  "timestamp": "2026-08-02T21:05:23.600420356Z",
+  "model": "glm-4.5"
+}

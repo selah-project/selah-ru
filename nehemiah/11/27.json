@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "nehemiah 11:27",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "и в Хацар-Шуал, и в Беэр-Шева, и в её дочерних ⟨городах⟩",
+  "tokens": [
+    {
+      "surface": "ובחצר",
+      "gloss": "и в Хацар-Шуал"
+    },
+    {
+      "surface": "שועל",
+      "gloss": ""
+    },
+    {
+      "surface": "ובבאר",
+      "gloss": "и в Беэр-Шева"
+    },
+    {
+      "surface": "שבע",
+      "gloss": ""
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "и в её дочерних ⟨городах⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T12:29:49.082509988Z",
+  "model": "glm-4.5"
+}

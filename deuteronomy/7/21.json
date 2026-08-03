@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Не страшись ⟨их⟩, ибо ЯХВЕ, твой Элохим, ⟨в⟩ середине твоей, Эль великий и ужасный",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "страшись"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "⟨их⟩",
+      "marks": "от лица их"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твой Элохим"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "⟨в⟩ середине твоей"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эль"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "великий"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "и ужасный"
+    }
+  ],
+  "timestamp": "2026-08-02T21:58:23.818887131Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "joshua 1:17",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Всему, что мы слушали Моше, так ⟨будем⟩ слушать тебя; лишь ЯХВЕ, твой Элохим, ⟨будет⟩ с тобой, как ⟨был⟩ с Моше",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "Всему"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "мы слушали"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "⟨будем⟩ слушать"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "тебя"
+    },
+    {
+      "surface": "רק",
+      "gloss": "лишь"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨будет⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твой Элохим"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "с тобой"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨был⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-08-02T22:25:38.165135086Z",
+  "model": "glm-4.5"
+}

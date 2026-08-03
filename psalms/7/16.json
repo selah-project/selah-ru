@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Яму — он выкопал её, и упал в ров, который ⟨он⟩ делал.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "Яму"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "— он выкопал её"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": ""
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "и упал"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "в ров"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "который ⟨он⟩ делал"
+    }
+  ],
+  "timestamp": "2026-08-03T06:37:31.318219887Z",
+  "model": "glm-4.5"
+}

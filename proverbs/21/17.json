@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Человек недостатка любит радость; любит ⟨את⟩ вино и масло, не разбогатеет",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Человек"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "недостатка"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "любит"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "радость"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "любит"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "вино и масло"
+    },
+    {
+      "surface": "יין",
+      "gloss": "вино"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "и масло"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "разбогатеет"
+    }
+  ],
+  "timestamp": "2026-08-03T09:48:40.445393140Z",
+  "model": "glm-4.5"
+}

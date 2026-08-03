@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "и положат ⟨её⟩ и ⟨את⟩ все её utensils в покров из кожи тахаш и положат ⟨на⟩ ⟨шест⟩",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "и положат"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨её⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "все её utensils"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "её utensils"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "покров"
+    },
+    {
+      "surface": "עור",
+      "gloss": "кожи"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "тахаш"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "и положат"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "⟨шест⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T21:14:21.581695790Z",
+  "model": "glm-4.5"
+}

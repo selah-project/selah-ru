@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "deuteronomy 9:2",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "народ великий и высокий, сыны Анакима, которых ⟨ты⟩ знаешь, и ⟨ты⟩ слышал: кто устоит перед сынами Анака?",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "великий"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "и высокий"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "ענקים",
+      "gloss": "Анакима"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которых"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ты⟩"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаешь"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "и ⟨ты⟩"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "слышал"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "устроит"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынами"
+    },
+    {
+      "surface": "ענק",
+      "gloss": "Анака"
+    }
+  ],
+  "timestamp": "2026-08-02T22:00:25.096892Z",
+  "model": "glm-4.5"
+}

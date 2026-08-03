@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "2-chronicles 22:3",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Также ⟨он⟩ шёл путями дома Ахава, ибо мать ⟨его⟩ была ⟨его⟩ советницей делать ⟨зло⟩",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Также"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "шёл"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "путями"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахава"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "мать ⟨его⟩"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "была"
+    },
+    {
+      "surface": "יועצתו",
+      "gloss": "⟨его⟩ советницей"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "делать ⟨зло⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T13:54:31.540809285Z",
+  "model": "glm-4.5"
+}

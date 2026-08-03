@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "2-chronicles 4:17",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "В долине ⟨Иордана⟩ отлил их царь ⟨в⟩ земляном глине между Сукко́т и Цередатою",
+  "tokens": [
+    {
+      "surface": "בככר",
+      "gloss": "В долине"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "⟨Иордана⟩"
+    },
+    {
+      "surface": "יצקם",
+      "gloss": "отлил их"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "בעבי",
+      "gloss": "⟨в⟩ земляном"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "глине"
+    },
+    {
+      "surface": "בין",
+      "gloss": "между"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Сукко́т"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и между"
+    },
+    {
+      "surface": "צרדתה",
+      "gloss": "Цередатою"
+    }
+  ],
+  "timestamp": "2026-08-03T13:24:25.824231423Z",
+  "model": "glm-4.5"
+}

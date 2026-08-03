@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "job 18:8",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Ибо он послан ⟨своими⟩ ногами в сеть, и на тенета ⟨он⟩ ходит.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "послан"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "в сеть"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "⟨своими⟩ ногами"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "שבכה",
+      "gloss": "тенета"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "ходит"
+    }
+  ],
+  "timestamp": "2026-08-03T10:25:23.552157692Z",
+  "model": "glm-4.5"
+}

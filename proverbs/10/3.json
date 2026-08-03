@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "ЯХВЕ не ⟨даст⟩ голодать душе праведного, ⟨а⟩ желание ⟨של⟩ wickedness Он оттолкнёт",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "⟨даст⟩ голодать"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душе"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведного"
+    },
+    {
+      "surface": "והות",
+      "gloss": "⟨а⟩ желание"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "⟨של⟩ wickedness"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "Он оттолкнёт"
+    }
+  ],
+  "timestamp": "2026-08-03T09:32:37.717591161Z",
+  "model": "glm-4.5"
+}

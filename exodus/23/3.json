@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "и бедняка ⟨не⟩ возвеличивай в его тяжбе",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "и бедняка"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "возвеличивай"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "в его тяжбе"
+    }
+  ],
+  "timestamp": "2026-08-02T20:16:40.135308651Z",
+  "model": "glm-4.5"
+}

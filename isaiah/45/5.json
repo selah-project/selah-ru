@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 45,
+  "translation": "Я — ЯХВЕ, и ⟨нет⟩ иного; кроме Меня нет Элохима. Я опоясал тебя, ⟨а⟩ ты не знал Меня",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и ⟨нет⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "иного"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "кроме Меня"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Эlohим"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "опоясал тебя"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "⟨а⟩"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "не знал Меня"
+    }
+  ],
+  "timestamp": "2026-08-03T02:32:53.158708948Z",
+  "model": "glm-4.5"
+}

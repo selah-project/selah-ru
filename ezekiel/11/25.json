@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И я говорил ⟨את⟩ изгнанникам все слова ЯХВЕ, которые Он показал мне",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "и я говорил"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "изгнанникам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "все слова ЯХВЕ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "Он показал мне"
+    }
+  ],
+  "timestamp": "2026-08-03T04:27:09.795727175Z",
+  "model": "glm-4.5"
+}

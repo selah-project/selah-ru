@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "И повелел Ирмиягу ⟨את⟩ Баруху, говоря: я задержан, не могу войти в Дом ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "И повелел"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмиягу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Баруху"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Баруху"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "задержан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "могу"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "войти"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Дом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T03:50:28.535526213Z",
+  "model": "glm-4.5"
+}

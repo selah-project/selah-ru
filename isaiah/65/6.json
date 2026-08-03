@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "isaiah 65:6",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 65,
+  "translation": "Вот, ⟨она⟩ написана предо Мною; не буду молчать, но воздам, и воздам в недро их",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Вот"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "⟨она⟩ написана"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "предо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אחשה",
+      "gloss": "буду молчать"
+    },
+    {
+      "surface": "כי",
+      "gloss": "но"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "שלמתי",
+      "gloss": "воздам"
+    },
+    {
+      "surface": "ושלמתי",
+      "gloss": "и воздам"
+    },
+    {
+      "surface": "על",
+      "gloss": "в"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "недро их"
+    }
+  ],
+  "timestamp": "2026-08-03T02:55:19.556435853Z",
+  "model": "glm-4.5"
+}

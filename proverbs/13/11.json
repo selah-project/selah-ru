@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "Богатство из суеты умалится, а собирающий по руке умножится",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Богатство"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "из суеты"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "умалится"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "а собирающий"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "יד",
+      "gloss": "руке"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "умножится"
+    }
+  ],
+  "timestamp": "2026-08-03T09:37:19.159685615Z",
+  "model": "glm-4.5"
+}

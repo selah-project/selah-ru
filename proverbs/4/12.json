@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Когда ты идёшь, шаг твой не будет стеснён, и если побежишь — не споткнёшься.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "Когда ты идёшь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "будет стеснён"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "шаг твой"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "и если"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "побежишь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "споткнёшься"
+    }
+  ],
+  "timestamp": "2026-08-03T09:24:44.502630947Z",
+  "model": "glm-4.5"
+}

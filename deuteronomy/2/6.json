@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Еду покупайте у них за серебро, и ешьте; и воду покупайте у них за серебро, и пейте.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "еду"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "покупайте"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "у них",
+      "marks": "от них — יאתם"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "за серебро"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "и ешьте"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воду"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "покупайте"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "у них",
+      "marks": "от них — יאתם"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "за серебро"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "и пейте"
+    }
+  ],
+  "timestamp": "2026-08-02T21:52:19.357556035Z",
+  "model": "glm-4.5"
+}

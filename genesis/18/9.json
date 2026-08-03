@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И сказали они ему: где ⟨есть⟩ Сарра, жена твоя? И сказал: вот, ⟨в⟩ шатре.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "и сказали они"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "איה",
+      "gloss": "где"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сарра"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "жена твоя"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "⟨в⟩ шатре"
+    }
+  ],
+  "timestamp": "2026-08-02T19:15:05.276518291Z",
+  "model": "glm-4.5"
+}

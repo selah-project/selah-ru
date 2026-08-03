@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Сердце мудрого — ⟨у⟩ его правой руки, а сердце глупца — ⟨у⟩ его левой.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Сердце"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудрого"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "— ⟨у⟩ его правой руки"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "а сердце"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупца"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "— ⟨у⟩ его левой"
+    }
+  ],
+  "timestamp": "2026-08-03T11:24:18.490623775Z",
+  "model": "glm-4.5"
+}

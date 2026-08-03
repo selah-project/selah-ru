@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "И отдал Лаван ей ⟨את⟩ Зилпу служанку своей Лее дочери своей служанкою.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "и отдал"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ей"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Зилпу"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Зилпу"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "служанку своей"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "Лее"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "дочери своей"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "служанкою"
+    }
+  ],
+  "timestamp": "2026-08-02T19:30:12.593664536Z",
+  "model": "glm-4.5"
+}

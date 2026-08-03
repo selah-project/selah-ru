@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Лицом к лицу говорил ЯХВЕ с вами ⟨в⟩ горе, из среды огня",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "Лицом к лицу"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "⟨с вами⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "с вами"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "⟨в⟩ горе"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "из среды"
+    },
+    {
+      "surface": "האש",
+      "gloss": "огня"
+    }
+  ],
+  "timestamp": "2026-08-02T21:56:03.415079837Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "hosea 2:23",
+  "book": "hosea",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И будет в тот день, отвечу — слово ЯХВЕ, отвечу ⟨את⟩ небесам, а они ⟨את⟩ земле",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И будет"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в тот день"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": ""
+    },
+    {
+      "surface": "אענה",
+      "gloss": "отrespondу"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "отвечу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨את⟩ небесам"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небесам"
+    },
+    {
+      "surface": "והם",
+      "gloss": "а они"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ответят"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨את⟩ земле"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земле"
+    }
+  ],
+  "timestamp": "2026-08-03T05:21:23.189710609Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "и ⟨на⟩ всех высоких горах и ⟨на⟩ всех холмах, ⟨что⟩ подняты",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и ⟨на⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "высоких горах"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "высоких"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и ⟨на⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "холмах"
+    },
+    {
+      "surface": "הנשאות",
+      "gloss": "⟨что⟩ подняты"
+    }
+  ],
+  "timestamp": "2026-08-03T01:42:42.577205103Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "numbers 34:19",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "И вот имена мужей: ⟨для⟩ колена Йехуды — Калев ⟨сын⟩ Ифуннеха",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "И вот"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "имена"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "мужей"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "⟨для⟩ колена",
+      "marks": "колена Йехуды"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуды"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калев"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨сын⟩"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Ифуннеха"
+    }
+  ],
+  "timestamp": "2026-08-02T21:48:42.383949762Z",
+  "model": "glm-4.5"
+}

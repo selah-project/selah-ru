@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И оставили они там ⟨את⟩ Элохим своих, и сказал Давид: и сожгли их в огне",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "и оставили"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элохим своих"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Элохим своих"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "и сожгли"
+    },
+    {
+      "surface": "באש",
+      "gloss": "в огне"
+    }
+  ],
+  "timestamp": "2026-08-03T12:57:52.376712943Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 53,
+  "translation": "Все отступили, вместе они растлились, нет делающего добро, нет ⟨даже⟩ одного.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "все"
+    },
+    {
+      "surface": "סג",
+      "gloss": "отступили"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "вместе"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "они растлились"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "делающего"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨даже⟩"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одного"
+    }
+  ],
+  "timestamp": "2026-08-03T07:31:07.153877839Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "zechariah 8:11",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "А теперь не ⟨как⟩ в дни первые ⟨Я⟩ к остатку этого народа, — слово ЯХВЕ Цеваот.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "А теперь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "⟨как⟩ в дни"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "первые"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨Я⟩"
+    },
+    {
+      "surface": "לשארית",
+      "gloss": "к остатку"
+    },
+    {
+      "surface": "העם",
+      "gloss": "этого народа"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨этого⟩"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "— слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    }
+  ],
+  "timestamp": "2026-08-03T06:14:45.621830878Z",
+  "model": "glm-4.5"
+}

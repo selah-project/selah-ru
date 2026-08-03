@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 91,
+  "translation": "Ибо Он ⟨он⟩ избавит тебя от ловушки птицелова и от гибельной язвы.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Он"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "избавит тебя"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "от ловушки"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "птицелова"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "от ⟨болезни⟩"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "язвы"
+    }
+  ],
+  "timestamp": "2026-08-03T08:20:20.114473061Z",
+  "model": "glm-4.5"
+}

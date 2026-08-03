@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Маазья, Билгай, Шемайя: ⟨это⟩ коэны.",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "Маазья"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "Билгай"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемайя"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "это"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "коэны"
+    }
+  ],
+  "timestamp": "2026-08-03T12:27:56.794421147Z",
+  "model": "glm-4.5"
+}

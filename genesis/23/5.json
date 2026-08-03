@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "И отвечали сыны Хета Аврааму, говоря ⟨ему⟩:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "И отвечали"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Хета"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аврааму"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврааму"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ему⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T19:20:14.512752838Z",
+  "model": "glm-4.5"
+}

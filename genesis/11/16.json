@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И жил Эвер тридцать четыре года, и породил ⟨את⟩ Пелега",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "и жил"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Эвер"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четыре"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "и тридцать"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "года"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Пелега"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Пелега"
+    }
+  ],
+  "timestamp": "2026-08-02T19:08:21.096261533Z",
+  "model": "glm-4.5"
+}

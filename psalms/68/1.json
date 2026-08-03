@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 68,
+  "translation": "Начальнику песней. Псалом — песнь Давида.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Начальнику песней"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Псалом"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "песнь"
+    }
+  ],
+  "timestamp": "2026-08-03T07:47:04.996031123Z",
+  "model": "glm-4.5"
+}

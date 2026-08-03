@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "leviticus 14:7",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "и покропит на очищаемого от проказы семь раз, и очистит его, и отправит ⟨את⟩ живую птицу на лицо поля",
+  "tokens": [
+    {
+      "surface": "והזה",
+      "gloss": "и покропит"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "очищаемого"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "проказы"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семь"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "раз"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "и очистит его"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "и отправит"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "живую птицу"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "живую птицу"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "живую"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицо"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "поля"
+    }
+  ],
+  "timestamp": "2026-08-02T20:53:34.395226177Z",
+  "model": "glm-4.5"
+}

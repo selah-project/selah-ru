@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Даже ⟨солнце⟩ ⟨оно⟩ не видело и ⟨ничего⟩ не знало; покой ⟨этому⟩ — нежели ⟨тому⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Даже"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "солнце"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "видело"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знало"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "покой"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "этому"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "нежели тому"
+    }
+  ],
+  "timestamp": "2026-08-03T11:20:26.757913054Z",
+  "model": "glm-4.5"
+}

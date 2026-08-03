@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "1-chronicles 25:28",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "Двадцать первый — Гaddir, его сыновья и его братья — двенадцать:",
+  "tokens": [
+    {
+      "surface": "לאחד",
+      "gloss": "к единому"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и двадцати"
+    },
+    {
+      "surface": "להותיר",
+      "gloss": "Гаддиру"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "его сыновья"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "и его братья"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "десять"
+    }
+  ],
+  "timestamp": "2026-08-03T13:12:10.926296361Z",
+  "model": "glm-4.5"
+}

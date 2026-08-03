@@ -1,0 +1,35 @@
+{
+  "tier": "bulk",
+  "verse": 41,
+  "ref": "1-chronicles 11:41",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Урия ⟨החתי⟩, Завад ⟨בן⟩ Ахлая",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "Урия"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "⟨החתי⟩",
+      "marks": "хеттеянина"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Завад"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨בן⟩",
+      "marks": "сын"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Ахлая"
+    }
+  ],
+  "timestamp": "2026-08-03T12:54:20.949606869Z",
+  "model": "glm-4.5"
+}

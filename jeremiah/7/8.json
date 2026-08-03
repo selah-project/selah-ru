@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "jeremiah 7:8",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Вот, вы ⟨вы⟩ надеетесь для себя на слова лжи, ⟨чтобы⟩ не ⟨быть⟩ полезными.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Вот"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вы"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "надеетесь"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "для себя"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "лжи"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "⟨чтобы⟩ не"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "⟨быть⟩ полезными"
+    }
+  ],
+  "timestamp": "2026-08-03T03:07:10.085448596Z",
+  "model": "glm-4.5"
+}

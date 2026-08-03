@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "psalms 136:24",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 136,
+  "translation": "И избавил нас от врагов наших, ибо навек хесед Его",
+  "tokens": [
+    {
+      "surface": "ויפרקנו",
+      "gloss": "И избавил нас"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "от врагов наших"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навек"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хесед Его"
+    }
+  ],
+  "timestamp": "2026-08-03T09:07:12.559327351Z",
+  "model": "glm-4.5"
+}

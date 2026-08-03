@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 49,
+  "translation": "Как ⟨не⟩ оставлен город ⟨ praise⟩, город радости ⟨my⟩!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Как"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "оставлен"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "город"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "⟨ praise⟩"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "город"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "радости ⟨my⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T04:09:27.847849018Z",
+  "model": "glm-4.5"
+}

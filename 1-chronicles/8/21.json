@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "и Адая, и Бераия, и Шимрат — сыновья Шимия;",
+  "tokens": [
+    {
+      "surface": "וַעֲדָיָה",
+      "gloss": "и Адая"
+    },
+    {
+      "surface": "וּבְרָאיָה",
+      "gloss": "и Бераия"
+    },
+    {
+      "surface": "וְשִׁמְרָת",
+      "gloss": "и Шимрат"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "שִׁמְעִי",
+      "gloss": "Шимия"
+    }
+  ],
+  "timestamp": "2026-08-03T12:49:17.614434138Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "genesis 31:40",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "Таким ⟨я был⟩: днём меня пожирал зной, а ночью мороз, и сон бежал от глаз моих.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "я был"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "днём"
+    },
+    {
+      "surface": "אכלני",
+      "gloss": "меня пожирал"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "зной"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "и мороз"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ночью"
+    },
+    {
+      "surface": "ותדד",
+      "gloss": "и бежал"
+    },
+    {
+      "surface": "שנתי",
+      "gloss": "сон"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "от глаз моих"
+    }
+  ],
+  "timestamp": "2026-08-02T19:33:13.692306688Z",
+  "model": "glm-4.5"
+}

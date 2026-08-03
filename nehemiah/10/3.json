@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "nehemiah 10:3",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Серайя, Азарйя, Ирмийя,",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "Серайя"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азарйя"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Ирмийя"
+    }
+  ],
+  "timestamp": "2026-08-03T12:27:55.213833377Z",
+  "model": "glm-4.5"
+}

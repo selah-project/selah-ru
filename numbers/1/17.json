@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И взял Моше и Аарон ⟨эти⟩ людей, которые названы по именам.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "И взял"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "и Аарон"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эти людей"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "людей"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "⟨эти⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "названы"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "по именам"
+    }
+  ],
+  "timestamp": "2026-08-02T21:09:42.655315581Z",
+  "model": "glm-4.5"
+}

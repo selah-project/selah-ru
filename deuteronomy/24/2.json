@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "и выйдет она из дома его и пойдёт и станет ⟨для⟩ другого мужа",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "и выйдет"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "из дома его"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "и пойдёт"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "и станет"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "⟨для⟩ мужа",
+      "marks": "другого мужа"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "другого"
+    }
+  ],
+  "timestamp": "2026-08-02T22:14:19.945595298Z",
+  "model": "glm-4.5"
+}

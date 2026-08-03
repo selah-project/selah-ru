@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "1-chronicles 11:37",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Хецро ⟨из⟩ Кармеля, Наараи, сын Эзбая,",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "Хецро"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "⟨из⟩ Кармеля",
+      "marks": "Кармеля"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "Наараи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אזבי",
+      "gloss": "Эзбая"
+    }
+  ],
+  "timestamp": "2026-08-03T12:54:03.834846558Z",
+  "model": "glm-4.5"
+}

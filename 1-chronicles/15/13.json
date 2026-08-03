@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "1-chronicles 15:13",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "Ибо в первый раз ⟨это⟩ не вы, ЯХВЕ, наш Элохим, прервал ⟨burst forth against⟩ нас, ибо не вопрошили Его, как по уставу.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "למ",
+      "gloss": "⟨в⟩"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "первый раз"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вы"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "прервал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "наш Элохим"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨в⟩ нас"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "вопрошили Его"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "как по уставу"
+    }
+  ],
+  "timestamp": "2026-08-03T12:59:02.648380499Z",
+  "model": "glm-4.5"
+}

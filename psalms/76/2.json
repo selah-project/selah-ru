@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 76,
+  "translation": "В Иудее познан Элохим, в Израиле велико ⟨Его⟩ имя.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "познан"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "в Иудее"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "в Израиле"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велико"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "⟨Его⟩ имя"
+    }
+  ],
+  "timestamp": "2026-08-03T07:57:43.888735928Z",
+  "model": "glm-4.5"
+}

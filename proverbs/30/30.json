@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Лев, могучий ⟨среди⟩ зверей, и не отступает ⟨от⟩ лица ⟨всякого⟩;",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "лев"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "могучий"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "среди"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "отступит"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "от"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всякого"
+    }
+  ],
+  "timestamp": "2026-08-03T10:07:27.814455894Z",
+  "model": "glm-4.5"
+}

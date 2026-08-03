@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И восстал сатан ⟨против⟩ Израиля, и подстрекал ⟨את⟩ Давида исчислить ⟨את⟩ Израиля.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "и восстал"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "сатан"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨против⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "и подстрекал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давида"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "исчислить"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Израиля"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-03T13:06:07.656800648Z",
+  "model": "glm-4.5"
+}

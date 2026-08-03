@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Не сдвигай межи древние и ⟨в⟩ поля сирот не входи",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "сдвигай"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "межи"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "древние"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "и ⟨в⟩ поля"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "сирот"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "входи"
+    }
+  ],
+  "timestamp": "2026-08-03T18:27:54.490315626Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 116,
+  "translation": "О, ЯХВЕ, ⟨ведь⟩ я ⟨Твой⟩ раб, я ⟨Твой⟩ раб, сын рабыни Твоей: Ты развязал ⟨мои⟩ узы",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "О"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ведь⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "⟨Твой⟩ раб"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "⟨Твой⟩ раб"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "рабыни Твоей"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "Ты развязал"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "⟨мои⟩ узы"
+    }
+  ],
+  "timestamp": "2026-08-03T08:46:44.312288749Z",
+  "model": "glm-4.5"
+}

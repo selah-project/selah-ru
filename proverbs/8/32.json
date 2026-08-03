@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "proverbs 8:32",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "А теперь, сыновья, слушайте меня, ⟨и⟩ блаженны ⟨те⟩, кто хранит ⟨мои⟩ пути",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "А теперь"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "слушайте"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "и блаженны"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "пути"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "хранят"
+    }
+  ],
+  "timestamp": "2026-08-03T09:30:21.781261435Z",
+  "model": "glm-4.5"
+}

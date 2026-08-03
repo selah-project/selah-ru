@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И этому народу ты скажи: так говорит ЯХВЕ: вот, я ставлю перед вами ⟨את⟩ путь жизни и ⟨את⟩ путь смерти",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "и"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народу"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "этому"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ты скажи"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "говорит"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "вот"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "я ставлю"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "перед вами"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "путь жизни"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "путь"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "жизни"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "путь смерти"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "путь"
+    },
+    {
+      "surface": "המות",
+      "gloss": "смерти"
+    }
+  ],
+  "timestamp": "2026-08-03T03:25:52.710700790Z",
+  "model": "glm-4.5"
+}

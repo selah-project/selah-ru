@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "daniel 12:12",
+  "book": "daniel",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Блажен ⟨тот⟩, кто ожидает и дойдет до тысячи трёхсот тридцати пяти дней.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Блажен"
+    },
+    {
+      "surface": "המחכה",
+      "gloss": "кто ожидает"
+    },
+    {
+      "surface": "ויגיע",
+      "gloss": "и дойдет"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "до дней"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тысячи"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "трёх"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сот"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "тридцати"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "пяти"
+    }
+  ],
+  "timestamp": "2026-08-03T11:55:57.989866041Z",
+  "model": "glm-4.5"
+}

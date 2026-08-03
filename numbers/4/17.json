@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "numbers 4:17",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И сказал ЯХВЕ Моше и Аарону, говоря:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и ⟨к⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарону"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-02T21:13:54.169646516Z",
+  "model": "glm-4.5"
+}

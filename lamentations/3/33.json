@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "lamentations 3:33",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Ибо не afflict He ⟨with⟩ His heart, and ⟨He⟩ grieves ⟨the⟩ sons of men.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "afflict"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "⟨with⟩ His heart"
+    },
+    {
+      "surface": "ויגה",
+      "gloss": "⟨He⟩ grieves"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человеков"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:50.910241927Z",
+  "model": "glm-4.5"
+}

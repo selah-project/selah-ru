@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "чтобы ⟨не⟩ ел и насытился, и хорошие дома построил, и ⟨в⟩ них жил",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "чтобы ⟨не⟩"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ел"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "и насытился"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "и дома"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "хорошие"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "построил"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "и ⟨в⟩ них жил"
+    }
+  ],
+  "timestamp": "2026-08-02T21:59:31.206474335Z",
+  "model": "glm-4.5"
+}

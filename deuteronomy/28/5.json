@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Благословенна будет корзина твоя и ⟨ה⟩ закваска твоя",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Благословенна будет"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "корзина твоя"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "и закваска твоя"
+    }
+  ],
+  "timestamp": "2026-08-02T22:17:09.706694594Z",
+  "model": "glm-4.5"
+}

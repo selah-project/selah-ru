@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "При приходе нечестивого приходит ⟨и⟩ презрение, и с бесчестием — поругание.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "При приходе"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "нечестивого"
+    },
+    {
+      "surface": "בא",
+      "gloss": "приходит"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨и⟩"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "презрение"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "и с"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "бесчестием"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "поругание"
+    }
+  ],
+  "timestamp": "2026-08-03T09:44:05.390115389Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "1-chronicles 3:13",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Ахаз, его сын Хизкиягу, его сын Менаше, его сын",
+  "tokens": [
+    {
+      "surface": "אחז",
+      "gloss": "Ахаз"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "его сын"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкиягу"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "его сын"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "его сын"
+    }
+  ],
+  "timestamp": "2026-08-03T12:39:11.763365964Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "job 30:26",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Я ⟨же⟩ ждал добра, и пришло зло; ⟨я⟩ уповал на свет, и пришла тьма.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "когда"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добра"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "я ждал"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и пришло"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "ואיחלה",
+      "gloss": "⟨я⟩ уповал"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "на свет"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и пришла"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "тьма"
+    }
+  ],
+  "timestamp": "2026-08-03T10:35:54.575291219Z",
+  "model": "glm-4.5"
+}

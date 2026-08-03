@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 105,
+  "translation": "который завет заключил ⟨את⟩ Авраама и клятву свою Исааку",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "завет заключил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авраама"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраама"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "и клятву свою"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "Исааку"
+    }
+  ],
+  "timestamp": "2026-08-03T08:34:38.446229064Z",
+  "model": "glm-4.5"
+}

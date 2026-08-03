@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "Трава засыхает, цвет увядает, когда Руах ЯХВЕ подует на ⟨неё⟩; ⟨ведь⟩ трава ⟨есть⟩ народ.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "засыхает"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "трава"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "увядает"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "цвет"
+    },
+    {
+      "surface": "כי",
+      "gloss": "когда"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Руах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "подует"
+    },
+    {
+      "surface": "בו",
+      "gloss": "на ⟨неё⟩"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "⟨ведь⟩"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "трава"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    }
+  ],
+  "timestamp": "2026-08-03T02:26:26.666861653Z",
+  "model": "glm-4.5"
+}

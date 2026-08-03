@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "1-chronicles 16:23",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Пойте ЯХВЕ, вся земля, ⟨и⟩ благовествуйте со дня ⟨на⟩ день спасение Его.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "пойте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "вся"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "⟨и⟩ благовествуйте"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "со дня"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "спасение Его"
+    }
+  ],
+  "timestamp": "2026-08-03T13:00:11.978857612Z",
+  "model": "glm-4.5"
+}

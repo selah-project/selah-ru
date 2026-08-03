@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Не завидуй людям ⟨зла⟩ и не желай быть ⟨с ними⟩",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "завидуй"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "людям"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "⟨зла⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "не"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "желай быть"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨с ними⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T09:55:16.199311736Z",
+  "model": "glm-4.5"
+}

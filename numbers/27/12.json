@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "numbers 27:12",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "И сказал ЯХВЕ Моше: поднимись на эту гору Аварим и посмотри на ⟨את⟩ землю, которую Я дал сынам Израиля",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "поднимись"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Аварим"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "эту"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "и посмотри"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которую"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Я дал"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "сынам"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-02T21:40:28.157851171Z",
+  "model": "glm-4.5"
+}

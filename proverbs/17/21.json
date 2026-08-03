@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "Рождающий глупца ⟨делает⟩ это к своему огорчению, и не порадуется отец глупца.",
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "Рождающий"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупца"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "к своему огорчению"
+    },
+    {
+      "surface": "לו",
+      "gloss": "это"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "порадуется"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отец"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "глупца"
+    }
+  ],
+  "timestamp": "2026-08-03T09:43:33.713527355Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 85,
+  "translation": "Хесед и эмэт встретились, цдек и шалом поцеловались",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Хесед"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "и эмэт"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "встретились"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цдек"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "и шалом"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "поцеловались"
+    }
+  ],
+  "timestamp": "2026-08-03T08:10:59.481203205Z",
+  "model": "glm-4.5"
+}

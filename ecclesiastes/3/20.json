@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Всё идёт в одно ⟨место⟩; всё ⟨было⟩ из праха, и всё возвращается в прах.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Всё"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "идёт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одно"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "היה",
+      "gloss": "было"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "праха"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "и всё"
+    },
+    {
+      "surface": "שב",
+      "gloss": "возвращается"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "прах"
+    }
+  ],
+  "timestamp": "2026-08-03T11:17:22.549236553Z",
+  "model": "glm-4.5"
+}

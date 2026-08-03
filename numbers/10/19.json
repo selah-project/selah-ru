@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "numbers 10:19",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "и над войском ⟨колена⟩ сыновей Шим광на Шелумиэл, сын Цуришаддая",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и над"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "войском"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "⟨колена⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шим광на"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "Шелумиэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "Цуришаддая"
+    },
+    {
+      "surface": "שדי",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-02T21:22:22.505590927Z",
+  "model": "glm-4.5"
+}

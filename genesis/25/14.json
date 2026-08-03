@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "genesis 25:14",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "и Мишма, и Дума, и Масса,",
+  "tokens": [
+    {
+      "surface": "וּמִשְׁמָע",
+      "gloss": "и Мишма"
+    },
+    {
+      "surface": "וְדוּמָה",
+      "gloss": "и Дума"
+    },
+    {
+      "surface": "וּמַשָּׂא",
+      "gloss": "и Масса"
+    }
+  ],
+  "timestamp": "2026-08-02T19:23:24.544580445Z",
+  "model": "glm-4.5"
+}

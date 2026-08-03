@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "ЯХВЕ — царь навечно и вечно, погибли народы с земли Его.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "навечно"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и вечно"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "погибли"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народы"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "с земли Его"
+    }
+  ],
+  "timestamp": "2026-08-03T06:40:03.431010387Z",
+  "model": "glm-4.5"
+}

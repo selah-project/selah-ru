@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Слово, которое Йешайяху, сын Амоца, увидел ⟨о⟩ Иудее и Иерусалиме",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Слово"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "увидел"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Йешайяху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Амоца"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨о⟩"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иудее"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "Иерусалиме"
+    }
+  ],
+  "timestamp": "2026-08-03T01:42:15.211237438Z",
+  "model": "glm-4.5"
+}

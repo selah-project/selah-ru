@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 140,
+  "translation": "Ты знаешь, что ЯХВЕ творит дело угнетённых и суд бедняков",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Ты знаешь"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "сотворит"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "דין",
+      "gloss": "дело"
+    },
+    {
+      "surface": "עני",
+      "gloss": "угнетённых"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "и суд"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "бедняков"
+    }
+  ],
+  "timestamp": "2026-08-03T09:11:08.944098424Z",
+  "model": "glm-4.5"
+}

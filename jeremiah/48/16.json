@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "jeremiah 48:16",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 48,
+  "translation": "Близок ⟨את⟩ бедство Моава прийти, и ⟨את⟩ беда его весьма поспешно",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Близок"
+    },
+    {
+      "surface": "איד",
+      "gloss": "⟨את⟩",
+      "marks": "бедство"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "прийти"
+    },
+    {
+      "surface": "ורעתו",
+      "gloss": "и ⟨את⟩",
+      "marks": "беда его"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "весьма"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "поспешно"
+    }
+  ],
+  "timestamp": "2026-08-03T04:07:20.124904266Z",
+  "model": "glm-4.5"
+}

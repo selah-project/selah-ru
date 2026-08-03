@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "numbers 1:11",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "для Вениамина — Авидан, сын Гидеони;",
+  "tokens": [
+    {
+      "surface": "לבנימן",
+      "gloss": "для Вениамина"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "Авидан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "Гидеони"
+    }
+  ],
+  "timestamp": "2026-08-02T21:09:34.642743725Z",
+  "model": "glm-4.5"
+}

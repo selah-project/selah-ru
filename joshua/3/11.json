@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "joshua 3:11",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Вот, ковчег завета, Господь всей земли, ⟨идёт⟩ перед вами ⟨по⟩ Иордану",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Вот"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "завета"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Господь"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всей"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земли"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "⟨идёт⟩"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "перед вами"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "⟨по⟩ Иордану"
+    }
+  ],
+  "timestamp": "2026-08-02T22:26:53.257860861Z",
+  "model": "glm-4.5"
+}

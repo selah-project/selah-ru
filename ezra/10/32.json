@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "ezra 10:32",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Вениамин, Маллух и Шемарья.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "Вениамин"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "Маллух"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Шемарья"
+    }
+  ],
+  "timestamp": "2026-08-03T12:11:09.023445200Z",
+  "model": "glm-4.5"
+}

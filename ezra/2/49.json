@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 49,
+  "ref": "ezra 2:49",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "сыновья Уззы, сыновья Пасаха, сыновья Бэсая",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Уззы"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Пасаха"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "Бэсая"
+    }
+  ],
+  "timestamp": "2026-08-03T11:59:21.527265063Z",
+  "model": "glm-4.5"
+}

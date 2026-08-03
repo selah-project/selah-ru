@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "2-kings 24:19",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "И сделал он злое в глазах ЯХВЕ, ⟨как⟩ всё, что сделал Иехояким",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И сделал"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "злое"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в глазах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "⟨как⟩ всё",
+      "marks": "что сделал"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Иехояким"
+    }
+  ],
+  "timestamp": "2026-08-03T01:36:40.776071491Z",
+  "model": "glm-4.5"
+}

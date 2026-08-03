@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Кто — Элоха, кроме ЯХВЕ, и кто — скала, помимо Элогейну?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Элоха"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "кроме"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и кто"
+    },
+    {
+      "surface": "צור",
+      "gloss": "скала"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "помимо"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элогейну"
+    }
+  ],
+  "timestamp": "2026-08-03T06:51:13.632529772Z",
+  "model": "glm-4.5"
+}

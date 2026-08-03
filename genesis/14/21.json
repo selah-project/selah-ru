@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "genesis 14:21",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И сказал царь Содома Авраму: «отдай мне ⟨нефеш⟩, а имущество возьми себе»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Содома"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Авраму"
+    },
+    {
+      "surface": "תן",
+      "gloss": "отдай"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "нефеш"
+    },
+    {
+      "surface": "והרכש",
+      "gloss": "а имущество"
+    },
+    {
+      "surface": "קח",
+      "gloss": "возьми"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себе"
+    }
+  ],
+  "timestamp": "2026-08-02T19:10:50.274637305Z",
+  "model": "glm-4.5"
+}

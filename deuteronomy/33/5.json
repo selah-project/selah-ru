@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "И был царь в Иешуруне, когда собирались главы ⟨этого⟩ народа, вместе колена Израиля.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И был"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "в Иешуруне"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "когда собирались"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "главы"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨этого⟩ народа",
+      "marks": "народа"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "вместе"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "колена"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-02T22:23:42.853341676Z",
+  "model": "glm-4.5"
+}

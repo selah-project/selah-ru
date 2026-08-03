@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И поставил ⟨את⟩ одного в Бет-Эле, а ⟨את⟩ другого поставил в Дане",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "и поставил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "одного"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "одного"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "в"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Бет-Эле"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "а ⟨את⟩",
+      "marks": "другого"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "другого"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "поставил"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "в Дане"
+    }
+  ],
+  "timestamp": "2026-08-03T00:42:55.174460865Z",
+  "model": "glm-4.5"
+}

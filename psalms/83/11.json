@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 83,
+  "translation": "Погибли в Эйн-Доре, стали ⟨как⟩ навоз для ⟨почвы⟩.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "погибли"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "в"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Эйн-Дор"
+    },
+    {
+      "surface": "היו",
+      "gloss": "стали"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "навоз"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "для ⟨почвы⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T08:08:53.264628618Z",
+  "model": "glm-4.5"
+}

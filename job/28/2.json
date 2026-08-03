@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "job 28:2",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Железо берётся из праха, и ⟨из⟩ литого камня — медь",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "Железо"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "из праха"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "берётся"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "и ⟨из⟩ камня"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "литого"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "медь"
+    }
+  ],
+  "timestamp": "2026-08-03T10:33:35.275845010Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "exodus 40:1",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "И говорил ЯХВЕ ⟨с⟩ Моше, ⟨чтобы⟩ сказать:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨с⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨чтобы⟩ сказать"
+    }
+  ],
+  "timestamp": "2026-08-02T20:38:58.834775704Z",
+  "model": "glm-4.5"
+}

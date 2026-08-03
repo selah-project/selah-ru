@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Не сидел я с ⟨людьми⟩ суеты, и со скрывающимися не войду.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "сидел я"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "⟨людьми⟩"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "суеты"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "и с"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "скрывающимися"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "войду"
+    }
+  ],
+  "timestamp": "2026-08-03T07:02:27.684517391Z",
+  "model": "glm-4.5"
+}

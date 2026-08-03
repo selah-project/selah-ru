@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "1-chronicles 9:18",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "и до ⟨сего⟩ ⟨дня⟩ — в воротах царя на востоке, ⟨они⟩ — привратники в лагерях сыновей Леви.",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨сего⟩"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "в воротах"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "на востоке"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨они⟩"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "привратники"
+    },
+    {
+      "surface": "למחנות",
+      "gloss": "в лагерях"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леви"
+    }
+  ],
+  "timestamp": "2026-08-03T12:50:33.290250547Z",
+  "model": "glm-4.5"
+}

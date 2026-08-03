@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Воду нашу мы пили за серебро, дерево наше — за цену ⟨приходит⟩ ⟨к нам⟩.",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "Воду нашу"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "за серебро"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "мы пили"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "дерево наше"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "за цену"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "⟨приходит⟩ ⟨к нам⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T11:14:27.757599251Z",
+  "model": "glm-4.5"
+}

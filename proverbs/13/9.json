@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 13:9",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "Свет праведных радует, а ⟨светильник⟩ нечестивых угасает",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "Свет"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведных"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "радует"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "а ⟨светильник⟩"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивых"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "угасает"
+    }
+  ],
+  "timestamp": "2026-08-03T09:37:13.765934634Z",
+  "model": "glm-4.5"
+}

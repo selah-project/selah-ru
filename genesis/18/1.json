@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "genesis 18:1",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И явился к нему ЯХВЕ у дубравы Мамре, а ⟨он⟩ сидел у входа ⟨в⟩ шатёр в полдень",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "и явился"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "к нему"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "באלני",
+      "gloss": "у дубравы"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "Мамре"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а ⟨он⟩"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "сидел"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "у входа ⟨в⟩"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "шатёр"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "в полдень"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дня"
+    }
+  ],
+  "timestamp": "2026-08-02T19:14:46.887457742Z",
+  "model": "glm-4.5"
+}

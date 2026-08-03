@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 42,
+  "translation": "Мы все — сыновья одного человека, мы честные люди, рабы твои не шпионы.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "Мы все"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человека"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одного"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "мы"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "честные"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "люди"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨были⟩"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "рабы твои"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "шпионы"
+    }
+  ],
+  "timestamp": "2026-08-02T19:45:59.864882472Z",
+  "model": "glm-4.5"
+}

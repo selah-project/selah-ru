@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 44:5",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 44,
+  "translation": "Разве это не то, ⟨в⟩ чём пьёт мой господин, и ⟨он⟩ ворожит по нему? Зло вы совершили в том, что сделали.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "разве"
+    },
+    {
+      "surface": "זה",
+      "gloss": "это"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "пьёт"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "мой господин"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨в⟩"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "и ⟨он⟩"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ворожит"
+    },
+    {
+      "surface": "ינחש",
+      "gloss": "по нему"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "зло"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "сделали"
+    }
+  ],
+  "timestamp": "2026-08-02T19:48:27.465129971Z",
+  "model": "glm-4.5"
+}

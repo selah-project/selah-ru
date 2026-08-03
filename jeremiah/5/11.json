@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Ибо ⟨предательски⟩ изменили ⟨Мне⟩ дом Израиля и дом Иуды, слово ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "⟨предательски⟩"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "изменили ⟨Мне⟩"
+    },
+    {
+      "surface": "בי",
+      "gloss": ""
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "и дом"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иуды"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T03:04:42.714488137Z",
+  "model": "glm-4.5"
+}

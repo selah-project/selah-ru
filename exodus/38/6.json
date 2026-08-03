@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 38,
+  "translation": "И сделал ⟨он⟩ ⟨את⟩ шесты ⟨из⟩ дерева шиттим и покрыл ⟨את⟩ их медью",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "и сделал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "шесты"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "шесты"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "дерево"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "шиттим"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "и покрыл"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "медью"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "медью"
+    }
+  ],
+  "timestamp": "2026-08-02T20:36:25.684109912Z",
+  "model": "glm-4.5"
+}

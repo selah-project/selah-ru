@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "numbers 27:16",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "Пусть назначит ЯХВЕ, Элохи духов всей плоти, человека ⟨над⟩ общиной",
+  "tokens": [
+    {
+      "surface": "יפקד",
+      "gloss": "Пусть назначит"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохи"
+    },
+    {
+      "surface": "הרוחת",
+      "gloss": "духов"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "всей"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "плоти"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человека"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "общиной"
+    }
+  ],
+  "timestamp": "2026-08-02T21:40:36.209465117Z",
+  "model": "glm-4.5"
+}

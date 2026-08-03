@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И восходит ⟨солнце⟩, и заходит ⟨солнце⟩, и к месту своему спешит восходящий ⟨там⟩.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "И восходит"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "⟨солнце⟩"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "и заходит"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "⟨солнце⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и к"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "месту своему"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "спешит"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "восходящий"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨там⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T11:15:21.868450050Z",
+  "model": "glm-4.5"
+}

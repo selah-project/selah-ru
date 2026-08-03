@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "exodus 24:13",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "И встал Моше и Йегошуа, его слуга, и взошёл Моше на гору Элохим",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "и встал"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "и Йегошуа"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "его слуга"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "и взошёл"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-08-03T17:53:22.082286879Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 147,
+  "translation": "Хвали, ⟨Иерусалим⟩, ⟨את⟩ ЯХВЕ, хвали ⟨Элоха⟩ твоего, ⟨Цион⟩.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Хвали"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "⟨Иерусалим⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "хвали"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "⟨Элоха⟩ твоего"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "⟨Цион⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T09:17:20.135790983Z",
+  "model": "glm-4.5"
+}

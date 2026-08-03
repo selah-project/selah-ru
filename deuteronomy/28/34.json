@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "и будешь ⟨ты⟩ безумен от зрелища глаз твоих, которое увидишь ⟨ты⟩",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "и будешь"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "безумен"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "от зрелища"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "глаз твоих"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "увидишь ⟨ты⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T22:17:55.486363989Z",
+  "model": "glm-4.5"
+}

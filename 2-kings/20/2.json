@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И обратил он ⟨את⟩ лицо своё к стене, и молился он к ЯХВЕ, говоря:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "И обратил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лицо своё"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лицо своё"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "стене"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "и молился"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-03T01:31:07.171574327Z",
+  "model": "glm-4.5"
+}

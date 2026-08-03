@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "isaiah 38:2",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 38,
+  "translation": "И обратил Хизкия́гу ⟨свой⟩ лик ⟨к⟩ стене, и помолился ⟨к⟩ ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "И обратил"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкия́гу"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лик ⟨свой⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "стене"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "и помолился"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T02:24:49.135308457Z",
+  "model": "glm-4.5"
+}

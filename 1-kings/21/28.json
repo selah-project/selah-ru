@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "1-kings 21:28",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И было слово ЯХВЕ к Элияу Тишби, говоря:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Элияу"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "Тишби"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-03T00:59:08.414436243Z",
+  "model": "glm-4.5"
+}

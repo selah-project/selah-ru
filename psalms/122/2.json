@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 122,
+  "translation": "Стояли ⟨⟩ наши ноги в воротах твоих, Иерушалаим",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "Стояли"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "наши ноги"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "в воротах твоих"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Иерушалаим"
+    }
+  ],
+  "timestamp": "2026-08-03T08:57:06.055936263Z",
+  "model": "glm-4.5"
+}

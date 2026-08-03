@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Сын мой, Тору мою не забывай, и заповеди мои да хранит сердце твоё",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сын мой"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Тору мою"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "забывай"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "и заповеди мои"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "да хранит"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "сердце твоё"
+    }
+  ],
+  "timestamp": "2026-08-03T09:23:06.588692880Z",
+  "model": "glm-4.5"
+}

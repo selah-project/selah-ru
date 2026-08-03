@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "job 30:30",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Кожа моя почернела на мне, и кости мои горят от зноя.",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "кожа моя"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "почернела"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "на мне"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "и кости мои"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "горят"
+    },
+    {
+      "surface": "מני",
+      "gloss": "от"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "зноя"
+    }
+  ],
+  "timestamp": "2026-08-03T18:28:19.875358342Z",
+  "model": "glm-4.5"
+}

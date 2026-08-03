@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "genesis 36:34",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "И умер Йовав, и царствовал ⟨вместо⟩ него Хушам из земли Τεμани",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "и умер"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Йовав"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "и царствовал"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "⟨вместо⟩ него",
+      "marks": "него"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Хушам"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "из земли"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "Τεμани"
+    }
+  ],
+  "timestamp": "2026-08-02T19:39:09.346919041Z",
+  "model": "glm-4.5"
+}

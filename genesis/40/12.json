@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "И сказал ему Иосиф: вот толкование его: три ветви — ⟨это⟩ три дня.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Иосиф"
+    },
+    {
+      "surface": "זה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "толкование его"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "ветви"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дня"
+    },
+    {
+      "surface": "הם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-02T19:43:36.776448072Z",
+  "model": "glm-4.5"
+}

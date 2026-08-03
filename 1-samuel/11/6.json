@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И ощутила на себе ⟨ Ruach Элохим ⟩ при hearing его ⟨את⟩ ⟨the words⟩ ⟨these⟩, и вспыхнул гнев его весьма.",
+  "tokens": [
+    {
+      "surface": "וַתִּצְלַח",
+      "gloss": "и ощутила на себе"
+    },
+    {
+      "surface": "רֽוּחַ",
+      "gloss": "Ruach"
+    },
+    {
+      "surface": "אֱלֹהִים֙",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "при"
+    },
+    {
+      "surface": "שָׁא֔וּל",
+      "gloss": " hearing его"
+    },
+    {
+      "surface": "בְּשִׁמְעֽוֹ",
+      "gloss": "при"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the words⟩"
+    },
+    {
+      "surface": "הַדְּבָרִ֣ים",
+      "gloss": "⟨the words⟩"
+    },
+    {
+      "surface": "הָאֵ֑לֶּה",
+      "gloss": "⟨these⟩"
+    },
+    {
+      "surface": "וַיִּ֥חַר",
+      "gloss": "и вспыхнул"
+    },
+    {
+      "surface": "אַפּ֖וֹ",
+      "gloss": "гнев его"
+    },
+    {
+      "surface": "מְאֹֽד",
+      "gloss": "весьма"
+    }
+  ],
+  "timestamp": "2026-08-02T23:22:30.645898032Z",
+  "model": "glm-4.5"
+}

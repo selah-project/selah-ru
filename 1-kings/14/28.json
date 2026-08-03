@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "1-kings 14:28",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И было: когда входил царь в дом ЯХВЕ,Runnerы несли их и возвращали их в комнату Runnerов",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "когда"
+    },
+    {
+      "surface": "בא",
+      "gloss": "входил"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ישאום",
+      "gloss": "Runnerы несли их"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "⟨(субъект) Runnerы⟩"
+    },
+    {
+      "surface": "והשיבום",
+      "gloss": "и возвращали их"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "תא",
+      "gloss": "комнату"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "Runnerов"
+    }
+  ],
+  "timestamp": "2026-08-03T00:46:09.436104171Z",
+  "model": "glm-4.5"
+}

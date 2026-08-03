@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "Цедака охраняет ⟨тот⟩ путь ⟨для⟩ непорочного, а нечестие искажает ⟨тот⟩ грех",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "Цедака"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "охраняет"
+    },
+    {
+      "surface": "תם",
+      "gloss": "непорочный"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "путь"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "а нечестие"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "искажает"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "грех"
+    }
+  ],
+  "timestamp": "2026-08-03T09:37:35.837333929Z",
+  "model": "glm-4.5"
+}

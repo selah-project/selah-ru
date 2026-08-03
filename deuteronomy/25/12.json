@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "и отрубишь ⟨את⟩ ладонь её, ⟨не⟩ пожалеешь ⟨את⟩ глаз твой",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "и отрубишь"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ладонь её"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "ладонь её"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "пожалеешь"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "глаз твой"
+    }
+  ],
+  "timestamp": "2026-08-02T22:14:55.352052612Z",
+  "model": "glm-4.5"
+}

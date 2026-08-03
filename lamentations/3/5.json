@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Он построил ⟨против⟩ меня и окружил ⟨את⟩ горечь и изнеможение",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "построил"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "против меня"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "и окружил"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "горечь"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "и изнеможение"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:21.973400214Z",
+  "model": "glm-4.5"
+}

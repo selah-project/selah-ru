@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 41,
+  "ref": "leviticus 14:41",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "и ⟨он⟩ скребет ⟨את⟩ дом внутри кругом и выльют ⟨את⟩ пыль, которую скребли, вовне города ⟨в⟩ нечистое место",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и",
+      "marks": "дом"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "יקצע",
+      "gloss": "скребет"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "изнутри"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "кругом"
+    },
+    {
+      "surface": "ושפכו",
+      "gloss": "и выльют"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пыль"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "пыль"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которую"
+    },
+    {
+      "surface": "הקצו",
+      "gloss": "скребли"
+    },
+    {
+      "surface": "אל",
+      "gloss": "вовне"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "из"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "города"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечистое"
+    }
+  ],
+  "timestamp": "2026-08-02T20:54:54.043086089Z",
+  "model": "glm-4.5"
+}

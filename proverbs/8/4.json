@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "К вам, мужи, я взываю, и голос мой — к сынам ⟨Адам⟩",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "к вам"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "мужи"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "я взываю"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "и голос мой"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынам"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Адам"
+    }
+  ],
+  "timestamp": "2026-08-03T09:29:43.881364466Z",
+  "model": "glm-4.5"
+}

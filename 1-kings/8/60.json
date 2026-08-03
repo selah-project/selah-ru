@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 60,
+  "ref": "1-kings 8:60",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "чтобы знали все народы земли, что ЯХВЕ — ⟨это⟩ Элохим, ⟨и⟩ нет ⟨никакого⟩ иного",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "чтобы"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знали"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народы"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земли"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "— ⟨это⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨никакого⟩ иного"
+    }
+  ],
+  "timestamp": "2026-08-03T00:33:50.996221219Z",
+  "model": "glm-4.5"
+}

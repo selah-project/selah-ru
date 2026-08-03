@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 62,
+  "translation": "Только — Он скала моя и спасение моё, ↵защита моя, не поколеблюсь",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Только"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Он"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "скала моя"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "и спасение моё"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "защита моя"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "поколеблюсь"
+    }
+  ],
+  "timestamp": "2026-08-03T07:40:03.685833112Z",
+  "model": "glm-4.5"
+}

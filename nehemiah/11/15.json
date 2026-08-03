@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "nehemiah 11:15",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И из левитов: Шемайя, сын Хашшува, сын Азрикама, сын Хашавья, сын Бунни;",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "И из"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левитов"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемайя"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "Хашшува"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Азрикама"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Хашавья"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "בוני",
+      "gloss": "Бунни"
+    }
+  ],
+  "timestamp": "2026-08-03T12:30:04.059989488Z",
+  "model": "glm-4.5"
+}

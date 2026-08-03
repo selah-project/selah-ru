@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Мерзость пред ЯХВЕ — всякий надменный ⟨с⟩ сердцем: от руки к руке ⟨он⟩ не ⟨будет⟩ очищен.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "Мерзость"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "пред ЯХВЕ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всякий"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "надменный"
+    },
+    {
+      "surface": "לב",
+      "gloss": "⟨с⟩ сердцем"
+    },
+    {
+      "surface": "יד",
+      "gloss": "руке"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "к руке"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "⟨будет⟩ очищен"
+    }
+  ],
+  "timestamp": "2026-08-03T09:41:05.890847300Z",
+  "model": "glm-4.5"
+}

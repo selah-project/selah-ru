@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Ты заповедал заповеди Твои хранить ⟨весьма⟩.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "заповедал"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "заповеди Твои"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "хранить"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨весьма⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T08:49:58.042298661Z",
+  "model": "glm-4.5"
+}

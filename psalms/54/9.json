@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 54,
+  "translation": "Ибо от всякой беды избавил меня, и на врагов моих смотрело ⟨моё⟩ око",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "от всякой"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "беды"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "избавил меня"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "и на врагов моих"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "смотрело"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "око"
+    }
+  ],
+  "timestamp": "2026-08-03T07:31:43.004507652Z",
+  "model": "glm-4.5"
+}

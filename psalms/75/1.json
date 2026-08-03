@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 75,
+  "translation": "Начальнику. Не губи. Псалом. Асафу. Пение.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Начальнику"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "губи"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Псалом"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Асафу"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Пение"
+    }
+  ],
+  "timestamp": "2026-08-03T07:55:59.077283383Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "zechariah 2:5",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И я поднял глаза мои и увидел, и вот: человек, и в руке его ⟨חבל⟩ ⟨מדה⟩.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "и я поднял"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "глаза мои"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "и увидел"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человек"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "и в руке его"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "⟨חבל⟩",
+      "marks": "верёвка"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "⟨מדה⟩",
+      "marks": "измерения"
+    }
+  ],
+  "timestamp": "2026-08-03T06:09:39.178722441Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Ибо кого ⟨את⟩ любит ЯХВЕ, того вразумляет, и как отец ⟨את⟩ сына, ⟨в⟩ котором благоволит.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кого"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которого"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "любит"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "вразумляет"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "и как отец"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сына"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "благоволит"
+    }
+  ],
+  "timestamp": "2026-08-03T09:23:12.126323837Z",
+  "model": "glm-4.5"
+}

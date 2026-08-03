@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 105,
+  "translation": "Послал Моше, слугу Своего, и Аарона, ⟨которого⟩ Он избрал",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Послал"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "слугу Своего"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "и Аарона"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨которого⟩"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "Он избрал"
+    },
+    {
+      "surface": "בו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T08:34:52.463168239Z",
+  "model": "glm-4.5"
+}

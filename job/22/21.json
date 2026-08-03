@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "job 22:21",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Сблизься ⟨⟩ с ⟨⟩ Ним, и ⟨⟩ мирен ⟨⟩: ⟨ ним ⟨⟩ твоё ⟨⟩ ⟨⟩.",
+  "tokens": [
+    {
+      "surface": "הסכן",
+      "gloss": "Сблизься"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с ⟨⟩ Ним"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "и ⟨⟩ мирен"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "⟨ ним"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "твоё ⟨⟩"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "⟨⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T10:29:56.932365850Z",
+  "model": "glm-4.5"
+}

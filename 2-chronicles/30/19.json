@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "2-chronicles 30:19",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "всякое ⟨с⟩ prepared его сердце в ⟨по⟩драше Элохим ЯХВЕ Элоhи отцов его, и ⟨не⟩ как очищение ⟨д⟩о hа-Кодеш",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "всякое"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "⟨с⟩ prepared его сердце"
+    },
+    {
+      "surface": "הכין",
+      "gloss": ""
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "в ⟨по⟩драше"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоhи"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "отцов его"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и ⟨не⟩"
+    },
+    {
+      "surface": "כטהרת",
+      "gloss": "как очищение"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "⟨д⟩о hа-Кодеш"
+    }
+  ],
+  "timestamp": "2026-08-03T14:06:32.473982589Z",
+  "model": "glm-4.5"
+}

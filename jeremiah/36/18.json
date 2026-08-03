@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "jeremiah 36:18",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "И сказал Барух им: его устами он произносил ⟨את⟩ все эти слова, а я писал на свитке чернилами.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Барух"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "его устами"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "произносил"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "все эти слова"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "эти слова"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "эти"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "а я"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "писал"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "свитке"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "чернилами"
+    }
+  ],
+  "timestamp": "2026-08-03T03:51:09.886600170Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "zechariah 4:8",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И было слово ЯХВЕ ко мне, говоря:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ко мне"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-03T06:11:24.659646921Z",
+  "model": "glm-4.5"
+}

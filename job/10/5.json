@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Как ⟨дни⟩ человека — дни Твои, или годы Твои — как дни мужa?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "Как"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "человека"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "дни Твои"
+    },
+    {
+      "surface": "אם",
+      "gloss": "или"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "годы Твои"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "как"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "мужa"
+    }
+  ],
+  "timestamp": "2026-08-03T10:18:29.265588991Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 83,
+  "translation": "Даже Ашшур соединился с ними: они стали рукой для сыновей Лота. Села.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "даже"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшур"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "соединился"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "с ними"
+    },
+    {
+      "surface": "היו",
+      "gloss": "они стали"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "рукой"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "для сыновей"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Лота"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-08-03T08:08:51.687986642Z",
+  "model": "glm-4.5"
+}

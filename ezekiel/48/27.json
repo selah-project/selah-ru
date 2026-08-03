@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "ezekiel 48:27",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 48,
+  "translation": "И по рубежу Звулуна, от восточной ⟨стороны⟩ до ⟨стороны⟩ моря, Гад — ⟨один⟩",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и по"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "рубежу"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Звулуна"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "от ⟨стороны⟩"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "восточной"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "⟨стороны⟩"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "моря"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨один⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T05:19:36.299749854Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Услышь, ЯХВЕ, и помилуй меня; ЯХВЕ, будь ⟨моим⟩ помощником.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "услышь"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "וְחָנֵּ֑נִי",
+      "gloss": "и помилуй меня"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "будь"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "помощником"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨моим⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T07:05:59.626110054Z",
+  "model": "glm-4.5"
+}

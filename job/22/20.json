@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "job 22:20",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Если наша опора не скрыта, ⟨то⟩ огонь пожрёт их остатки",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Если"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "скрыта"
+    },
+    {
+      "surface": "קימנו",
+      "gloss": "наша опора"
+    },
+    {
+      "surface": "ויתרם",
+      "gloss": "их остатки"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "пожрёт"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огонь"
+    }
+  ],
+  "timestamp": "2026-08-03T10:29:43.528351055Z",
+  "model": "glm-4.5"
+}

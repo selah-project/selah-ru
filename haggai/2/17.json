@@ -1,0 +1,72 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "haggai 2:17",
+  "book": "haggai",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Я поражал ⟨את⟩ вас blasts-ом и mildew-ом и hail-ом — ⟨את⟩ весь труд ⟨the⟩ рук ваших; и ⟨нет⟩ ⟨את⟩ вас ко Мне, — речение ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "הכיתי",
+      "gloss": "поражал"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас",
+      "marks": "с blasting-ом и mildew-ом и hail-ом"
+    },
+    {
+      "surface": "בשדפון",
+      "gloss": "blasts-ом"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "и mildew-ом"
+    },
+    {
+      "surface": "ובברד",
+      "gloss": "и hail-ом"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "весь труд рук ваших"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "труд"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "⟨the⟩ рук ваших"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и ⟨нет⟩"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас",
+      "marks": "ко Мне"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ко Мне"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "речение"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T06:08:23.144333554Z",
+  "model": "glm-4.5"
+}

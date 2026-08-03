@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "numbers 34:25",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "и для колена сынов Завулона ⟨как⟩ начальник Элицафан сын Парнаха",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "и для колена"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Завулона"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "⟨как⟩ начальник"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "Элицафан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "פרנך",
+      "gloss": "Парнаха"
+    }
+  ],
+  "timestamp": "2026-08-02T21:48:45.112050062Z",
+  "model": "glm-4.5"
+}

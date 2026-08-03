@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "numbers 3:24",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "и князь ⟨дома⟩ отца ⟨Гиршонит⟩ Эльясаф, сын Лаэля",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "и князь"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨дома⟩"
+    },
+    {
+      "surface": "אב",
+      "gloss": "отца"
+    },
+    {
+      "surface": "לגרשני",
+      "gloss": "⟨Гиршонит⟩"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Эльясаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Лаэль"
+    }
+  ],
+  "timestamp": "2026-08-02T21:12:16.585750350Z",
+  "model": "glm-4.5"
+}

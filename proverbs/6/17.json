@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "proverbs 6:17",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "высокомерные глаза, язык лжи и руки, проливающие ⟨את⟩ кровь невинного",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "глаза"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "высокомерные"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "язык"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лжи"
+    },
+    {
+      "surface": "וידים",
+      "gloss": "и руки"
+    },
+    {
+      "surface": "שפכות",
+      "gloss": "проливающие"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кровь невинного"
+    },
+    {
+      "surface": "דם",
+      "gloss": "кровь"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "невинного"
+    }
+  ],
+  "timestamp": "2026-08-03T09:27:31.657753671Z",
+  "model": "glm-4.5"
+}

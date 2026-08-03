@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "numbers 1:33",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "их переписанные ⟨это⟩ для колена Эфраима: сорок тысяч и пять сотен",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "их переписанные"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "для колена"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраима"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "сорок"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тысяч"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "и пять"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотен"
+    }
+  ],
+  "timestamp": "2026-08-02T21:10:27.714392135Z",
+  "model": "glm-4.5"
+}

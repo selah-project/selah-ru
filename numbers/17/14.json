@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "numbers 17:14",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И стали умершие ⟨в⟩ море четырнадцать тысяч и семьсот, кроме умерших ⟨по⟩ делу Корахa",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "и стали"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "умершие"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "⟨в⟩ море"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "четырнадцать"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "тысяч"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "и"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "семь"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сот"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "кроме"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "умерших"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨по⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "делу"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корахa"
+    }
+  ],
+  "timestamp": "2026-08-02T21:30:12.461398201Z",
+  "model": "glm-4.5"
+}

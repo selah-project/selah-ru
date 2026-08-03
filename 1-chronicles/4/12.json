@@ -1,0 +1,76 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И Эштон породил ⟨את⟩ Бейт-Рафа и ⟨את⟩ Пасах и ⟨את⟩ Техинну, отца города Нахаш. Это люди Рехи.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "И Эштон"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бейт-Рафа"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Рафа"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Пасах"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Пасах"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Техинну"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Техинну"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отца"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "города"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Нахаш"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Это"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "люди"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Рехи"
+    }
+  ],
+  "timestamp": "2026-08-03T12:40:20.411737712Z",
+  "model": "glm-4.5"
+}

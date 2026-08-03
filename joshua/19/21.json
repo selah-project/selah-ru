@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "и Ремеф, и Эйн-Ганим, и Эйн-Хадда, и Бет-Пацец;",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "и Ремеф"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "и Эйн-Ганим"
+    },
+    {
+      "surface": "גנים",
+      "gloss": ""
+    },
+    {
+      "surface": "ועין",
+      "gloss": "и Эйн-Хадда"
+    },
+    {
+      "surface": "חדה",
+      "gloss": ""
+    },
+    {
+      "surface": "ובית",
+      "gloss": "и Бет-Пацец"
+    },
+    {
+      "surface": "פצץ",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-02T22:42:28.761295699Z",
+  "model": "glm-4.5"
+}

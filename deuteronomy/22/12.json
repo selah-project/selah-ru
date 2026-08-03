@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "deuteronomy 22:12",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "кисти ⟨сделай⟩ себе на ⟨четырёх⟩ ⟨углах⟩ одежды твоей, которой ⟨покрываешься⟩ ⟨в⟩ ⟨неё⟩",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "кисти"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "⟨сделай⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себе"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "⟨четырёх⟩"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "⟨углах⟩"
+    },
+    {
+      "surface": "כסותך",
+      "gloss": "одежды твоей"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которой"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "⟨покрываешься⟩"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨в⟩ ⟨неё⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T22:12:24.990940835Z",
+  "model": "glm-4.5"
+}

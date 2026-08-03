@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "genesis 7:3",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "также из птиц небесных семь, семь, самец и самка, ⟨чтобы⟩ сохранить ⟨их⟩ семя на лице всей земли",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "также"
+    },
+    {
+      "surface": "מעוף",
+      "gloss": "из птиц"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небесных"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "семь"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "семь"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "самец"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "и самка"
+    },
+    {
+      "surface": "לחיות",
+      "gloss": "⟨чтобы⟩ сохранить"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "семя"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лице"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всей"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земли"
+    }
+  ],
+  "timestamp": "2026-08-02T17:50:34.727320704Z",
+  "model": "glm-4.5"
+}

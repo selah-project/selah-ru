@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Даже на пути, когда глупец идёт, разум его ⟨не хватает⟩, и он говорит всякому: он — глупец.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Даже"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "на пути"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "когда глупец"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "идёт"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "разум его"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "⟨не хватает⟩"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и говорит"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "всякому"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "глупец"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-08-03T11:24:24.807508043Z",
+  "model": "glm-4.5"
+}

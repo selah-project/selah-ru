@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "genesis 13:3",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И отправился он в свои путешествия с юга до Бет-Эла, до места, где ⟨был⟩ его шатёр в начале, между Бет-Элом и Хаем.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "И отправился"
+    },
+    {
+      "surface": "למסעיו",
+      "gloss": "в свои путешествия"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "с юга"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "места"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "где"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨был⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "его"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "шатёр"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "в начале"
+    },
+    {
+      "surface": "בין",
+      "gloss": "между"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Элом"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Хаем"
+    }
+  ],
+  "timestamp": "2026-08-02T19:10:10.924175211Z",
+  "model": "glm-4.5"
+}

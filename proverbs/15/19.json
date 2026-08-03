@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "proverbs 15:19",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "Путь ленивца ⟨как⟩ изгородь из терновника, а ⟨путь⟩ прямых — вымощен.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "Путь"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ленивца"
+    },
+    {
+      "surface": "כמשכת",
+      "gloss": "⟨как⟩ изгородь"
+    },
+    {
+      "surface": "חדק",
+      "gloss": "из терновника"
+    },
+    {
+      "surface": "וארח",
+      "gloss": "а ⟨путь⟩"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "прямых"
+    },
+    {
+      "surface": "סללה",
+      "gloss": "вымощен"
+    }
+  ],
+  "timestamp": "2026-08-03T09:40:04.855671193Z",
+  "model": "glm-4.5"
+}

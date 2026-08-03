@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "и ⟨את⟩ весь жир его принесёт из него ⟨את⟩ курдюк и ⟨את⟩ жир, покрывающий ⟨את⟩ внутренности",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "весь"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "жир его"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "принесёт"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "из него"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "курдюк"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "курдюк"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "жир"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "жир"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "покрывающий"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "внутренности"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "внутренности"
+    }
+  ],
+  "timestamp": "2026-08-02T20:45:57.718868815Z",
+  "model": "glm-4.5"
+}

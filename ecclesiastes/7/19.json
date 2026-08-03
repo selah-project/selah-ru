@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Мудрость даёт силу мудрецу больше, чем десять правителей, ⟨которые были⟩ в городе.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "Мудрость"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "даёт силу"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "мудрецу"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "больше, чем десять"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "правителей"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨были⟩"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "в городе"
+    }
+  ],
+  "timestamp": "2026-08-03T11:21:50.887540860Z",
+  "model": "glm-4.5"
+}

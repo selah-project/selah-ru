@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Смотри, я поставил ⟨пред⟩ тобою сегодня ⟨את⟩ жизнь и ⟨את⟩ благо, и ⟨את⟩ смерть и ⟨את⟩ зло",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Смотри"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "я поставил"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "⟨пред⟩ тобою"
+    },
+    {
+      "surface": "היום",
+      "gloss": "сегодня"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жизнь"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "жизнь"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "благо"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "благо"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "смерть"
+    },
+    {
+      "surface": "המות",
+      "gloss": "смерть"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "зло"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-08-02T22:20:24.939625863Z",
+  "model": "glm-4.5"
+}

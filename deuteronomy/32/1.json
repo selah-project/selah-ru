@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "Внемлите, ⟨вы⟩ небеса, и я буду говорить, и слушай, земля, ⟨слова⟩ уст моих",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Внемлите"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨вы⟩ небеса"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "и я буду говорить"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "и слушай"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "⟨слова⟩"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уст моих"
+    }
+  ],
+  "timestamp": "2026-08-02T22:22:49.703586621Z",
+  "model": "glm-4.5"
+}

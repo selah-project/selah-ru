@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "proverbs 19:29",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Готовы суды ⟨для⟩ насмешников, и удары ⟨для⟩ глупцов.",
+  "tokens": [
+    {
+      "surface": "נכונו",
+      "gloss": "готовы"
+    },
+    {
+      "surface": "ללצים",
+      "gloss": "⟨для⟩ насмешников"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "суды"
+    },
+    {
+      "surface": "ומהלמות",
+      "gloss": "и удары"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "⟨для⟩"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "глупцов"
+    }
+  ],
+  "timestamp": "2026-08-03T09:46:37.221316120Z",
+  "model": "glm-4.5"
+}

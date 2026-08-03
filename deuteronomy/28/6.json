@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Благословен ⟨ты⟩ при входе твоём, и благословен ⟨ты⟩ при выходе твоём",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Благословен"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ты⟩"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "при входе твоём"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "и благословен"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ты⟩"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "при выходе твоём"
+    }
+  ],
+  "timestamp": "2026-08-02T22:17:16.353640800Z",
+  "model": "glm-4.5"
+}

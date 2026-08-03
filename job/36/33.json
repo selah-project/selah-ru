@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "job 36:33",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "Его шум ⟨оповещает⟩ о нём, и скот — о восходящем.",
+  "tokens": [
+    {
+      "surface": "יגיד",
+      "gloss": "оповещает"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "о нём"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "шум"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "скот"
+    },
+    {
+      "surface": "אף",
+      "gloss": "—"
+    },
+    {
+      "surface": "על",
+      "gloss": "о"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "восходящем"
+    }
+  ],
+  "timestamp": "2026-08-03T10:47:27.194357956Z",
+  "model": "glm-4.5"
+}

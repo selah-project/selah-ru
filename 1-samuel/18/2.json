@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И взял его Шаул в тот день, ⟨и⟩ не ⟨дал⟩ ему вернуться в дом отца его.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "И взял его"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в день"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тот"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "дал"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "вернуться"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "отца его"
+    }
+  ],
+  "timestamp": "2026-08-02T23:33:33.475902217Z",
+  "model": "glm-4.5"
+}

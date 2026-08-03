@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 60,
+  "translation": "Начальнику — на Шушан-Эдут; Михтам Давиду — для обучения",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Начальнику"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Шушан"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Эдут"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Михтам"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиду"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "для обучения"
+    }
+  ],
+  "timestamp": "2026-08-03T07:38:08.751100309Z",
+  "model": "glm-4.5"
+}

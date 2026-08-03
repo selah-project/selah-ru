@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "2-samuel 16:20",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "И сказал Авшалом Ахитофелу: дайте ⟨вам⟩ совет, что нам делать?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалом"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Ахитофелу"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "дайте"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨вам⟩"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "совет"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "нам делать"
+    }
+  ],
+  "timestamp": "2026-08-03T00:04:32.519450742Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "jeremiah 4:17",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Как стражи поля ⟨они⟩ вокруг неё, потому что ⟨⟨את⟩⟩ меня она взбунтовалась, слово ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "כשמרי",
+      "gloss": "Как стражи"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "поля"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨они⟩"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "вокруг неё"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": "потому что"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨⟨את⟩⟩",
+      "marks": "меня"
+    },
+    {
+      "surface": "מרתה",
+      "gloss": "она взбунтовалась"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T03:02:21.440945005Z",
+  "model": "glm-4.5"
+}

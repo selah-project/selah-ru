@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-chronicles 26:1",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Для очередей ⟨у⟩ ворот: ⟨из⟩ Корахитов — Мешелемьяу сын Коре, из сыновей Асафа.",
+  "tokens": [
+    {
+      "surface": "למחלקות",
+      "gloss": "Для очередей"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "⟨у⟩ ворот"
+    },
+    {
+      "surface": "לקרחים",
+      "gloss": "⟨из⟩ Корахитов"
+    },
+    {
+      "surface": "משלמיהו",
+      "gloss": "Мешелемьяу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Коре"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асафа"
+    }
+  ],
+  "timestamp": "2026-08-03T13:14:02.982156446Z",
+  "model": "glm-4.5"
+}

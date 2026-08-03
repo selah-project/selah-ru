@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Злой ⟨человек⟩ делает дело лжи, а сеющий праведность — награда истины.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Злой ⟨человек⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "делает"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "дело"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лжи"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "а сеющий"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "праведность"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "награда"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "истины"
+    }
+  ],
+  "timestamp": "2026-08-03T09:34:00.008726060Z",
+  "model": "glm-4.5"
+}

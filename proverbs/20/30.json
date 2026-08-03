@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "proverbs 20:30",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "Синяки ⟨от⟩ раны очищают ⟨от⟩ зла, и удары ⟨по⟩ внутренностям чрева.",
+  "tokens": [
+    {
+      "surface": "חברות",
+      "gloss": "Синяки"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "⟨от⟩ раны",
+      "marks": "раны"
+    },
+    {
+      "surface": "תמריק",
+      "gloss": "очищают"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "⟨от⟩ зла",
+      "marks": "зла"
+    },
+    {
+      "surface": "ומכות",
+      "gloss": "и удары"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "⟨по⟩ внутренностям"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "чрева"
+    }
+  ],
+  "timestamp": "2026-08-03T09:47:21.320680694Z",
+  "model": "glm-4.5"
+}

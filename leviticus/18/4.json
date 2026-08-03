@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "⟨את⟩ Мои суды творите и ⟨את⟩ Мои уставы храните, чтобы ходить в них; Я — ЯХВЕ, Элохим ваш",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мои суды"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "Мои суды"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "творите"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Мои уставы"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "Мои уставы"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "храните"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "чтобы ходить"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "в них"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элохим ваш"
+    }
+  ],
+  "timestamp": "2026-08-02T20:58:19.955485143Z",
+  "model": "glm-4.5"
+}

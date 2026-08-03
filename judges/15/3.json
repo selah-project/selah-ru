@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "judges 15:3",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "И сказал им Шимшон: «Я ⟨этот раз⟩ чист от Филистимлян, ⟨ибо⟩ зло ⟨делаю⟩ я с ними».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Шимшон"
+    },
+    {
+      "surface": "נקיתי",
+      "gloss": "чист"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "⟨этот раз⟩"
+    },
+    {
+      "surface": "מפלשתים",
+      "gloss": "от Филистимлян"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ибо⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨делаю⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "с ними"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-08-02T23:05:47.441853561Z",
+  "model": "glm-4.5"
+}

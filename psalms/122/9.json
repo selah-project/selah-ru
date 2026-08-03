@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 122,
+  "translation": "Ради дома ЯХВЕ Элохима нашего я взыщу добро для тебя.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Ради"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элохима нашего"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "я взыщу"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "לך",
+      "gloss": "для тебя"
+    }
+  ],
+  "timestamp": "2026-08-03T08:57:11.192092205Z",
+  "model": "glm-4.5"
+}

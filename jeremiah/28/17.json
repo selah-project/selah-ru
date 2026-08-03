@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "jeremiah 28:17",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "И умер Ханания, пророк, в том году, в седьмом месяце.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "и умер"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Ханания"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророк"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "в том году"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "⟨том⟩",
+      "marks": "в том году"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "в месяце"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "седьмом"
+    }
+  ],
+  "timestamp": "2026-08-03T03:38:10.474229782Z",
+  "model": "glm-4.5"
+}

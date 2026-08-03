@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 52,
+  "ref": "ezra 2:52",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Сыновья Бацлута, сыновья Мехиды, сыновья Харши",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "בצלות",
+      "gloss": "Бацлута"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "Мехиды"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "Харши"
+    }
+  ],
+  "timestamp": "2026-08-03T11:59:30.500073951Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 89,
+  "translation": "Ибо кто на небесах сравнится с ЯХВЕ? ⟨кто⟩ подобен ЯХВЕ среди сынов Элима?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "на небесах"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "сравнится"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "с ЯХВЕ",
+      "marks": "с ЯХВЕ"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "⟨кто⟩ подобен"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "среди сынов"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "Элима"
+    }
+  ],
+  "timestamp": "2026-08-03T08:16:01.020387998Z",
+  "model": "glm-4.5"
+}

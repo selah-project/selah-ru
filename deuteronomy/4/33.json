@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "deuteronomy 4:33",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Слыхал ⟨ли⟩ народ голос Элохима, говорящего из середины огня, как ⟨ты⟩ слышал, и остался жив?",
+  "tokens": [
+    {
+      "surface": "השמע",
+      "gloss": "Слыхал"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "голос"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохима"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "говорящего"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "из середины"
+    },
+    {
+      "surface": "האש",
+      "gloss": "огня"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "слышал"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "и остался жив"
+    }
+  ],
+  "timestamp": "2026-08-02T21:55:19.880304643Z",
+  "model": "glm-4.5"
+}

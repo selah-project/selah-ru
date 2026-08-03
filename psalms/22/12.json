@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Не удаляйся от меня, ибо беда близка, ибо нет ⟨помощника⟩",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "удаляйся"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "от меня"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "беда"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "близка"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "⟨помощника⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T06:55:18.628255852Z",
+  "model": "glm-4.5"
+}

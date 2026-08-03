@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "job 22:26",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Ибо тогда на Шаддай ты будешь наслаждаться, и поднимешь лицо к Элога",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тогда"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шаддай"
+    },
+    {
+      "surface": "תתענג",
+      "gloss": "будешь наслаждаться"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "и поднимешь"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Элога"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лицо"
+    }
+  ],
+  "timestamp": "2026-08-03T10:30:03.539648249Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 111,
+  "translation": "Добычу дал боящимся Его, помнит вовек завет Свой",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "добычу"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дал"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "боящимся Его"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "помнит"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "вовек"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "завет Свой"
+    }
+  ],
+  "timestamp": "2026-08-03T08:43:11.294311310Z",
+  "model": "glm-4.5"
+}

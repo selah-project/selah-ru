@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "proverbs 19:23",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Страх ЯХВЕ ⟨идёт⟩ к жизни, ⟨и⟩ насыщенный ⟨он⟩ пребывает, ⟨и⟩ не посетит его зло",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "Страх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "к жизни"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "⟨и⟩ насыщенный"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "⟨он⟩ пребывает"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨и⟩ не"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "посетит"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-08-03T09:46:10.232298532Z",
+  "model": "glm-4.5"
+}

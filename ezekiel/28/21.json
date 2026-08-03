@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "ezekiel 28:21",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Сын человеческий, обрати ⟨своё⟩ лицо к Цидону и пророчествуй о ней.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Сын"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человеческий"
+    },
+    {
+      "surface": "שים",
+      "gloss": "обрати"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "⟨своё⟩ лицо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Цидону"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "и пророчествуй"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "о ней"
+    }
+  ],
+  "timestamp": "2026-08-03T04:51:40.259228203Z",
+  "model": "glm-4.5"
+}

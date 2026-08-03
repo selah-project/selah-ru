@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Отсутствие ⟨дров⟩ погашает ⟨огонь⟩, и ⟨н absence клеветника⟩ утихает ⟨спор⟩.",
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "В отсутствии"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "⟨дров⟩",
+      "marks": "огонь"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "погашает"
+    },
+    {
+      "surface": "אש",
+      "gloss": "⟨огонь⟩"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "и ⟨в отсутствие⟩"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "клеветника",
+      "marks": "спор"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "утихает"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "⟨спор⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T10:02:11.560336021Z",
+  "model": "glm-4.5"
+}

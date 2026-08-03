@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "genesis 36:25",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "А вот сыновья Аны: Дишон и Оголивама, дочь Аны.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "А вот"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Аны"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "Дишон"
+    },
+    {
+      "surface": "ואהליבמה",
+      "gloss": "и Оголивама"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочь"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Аны"
+    }
+  ],
+  "timestamp": "2026-08-02T19:38:45.120121627Z",
+  "model": "glm-4.5"
+}

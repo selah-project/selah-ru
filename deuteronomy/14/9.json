@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "deuteronomy 14:9",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "⟨את⟩ это вы будете есть из всего, что в водах: всё, что ⟨ему⟩ плавник и чешуя, вы будете есть",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "это"
+    },
+    {
+      "surface": "זה",
+      "gloss": "это"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "вы будете есть"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "из всего"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "במים",
+      "gloss": "в водах"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ему⟩"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "плавник"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "и чешуя"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "вы будете есть"
+    }
+  ],
+  "timestamp": "2026-08-02T22:05:28.954747312Z",
+  "model": "glm-4.5"
+}

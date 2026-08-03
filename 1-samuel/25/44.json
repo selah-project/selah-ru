@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 44,
+  "ref": "1-samuel 25:44",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "А Саул дал ⟨את⟩ Михаль, дочь свою, жену Давида, Палти, сыну Лаиша, который из Галлима.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "А Саул"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Михаль"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Михаль"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "дочь свою"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жену"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "לפלטי",
+      "gloss": "Палти"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сыну"
+    },
+    {
+      "surface": "ליש",
+      "gloss": "Лаиша"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "מגלים",
+      "gloss": "из Галлима"
+    }
+  ],
+  "timestamp": "2026-08-02T23:42:19.854541413Z",
+  "model": "glm-4.5"
+}

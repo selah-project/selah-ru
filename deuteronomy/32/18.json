@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "deuteronomy 32:18",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "⟨Ты⟩ забыл ⟨А⟩ Скалу, родившую тебя, и забыл ⟨А⟩ Эля, сотворившего тебя.",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "Скалу"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "родившую тебя"
+    },
+    {
+      "surface": "תשי",
+      "gloss": "забыл"
+    },
+    {
+      "surface": "ותשכח",
+      "gloss": "и забыл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эля"
+    },
+    {
+      "surface": "מחללך",
+      "gloss": "сотворившего тебя"
+    }
+  ],
+  "timestamp": "2026-08-02T22:22:38.568789295Z",
+  "model": "glm-4.5"
+}

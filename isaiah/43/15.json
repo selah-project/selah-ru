@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 43,
+  "translation": "Я — ЯХВЕ, Святой ваш, Творец ⟨ your King",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "Святой ваш"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "Творец ⟨ your King",
+      "marks": "מלככם"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "Царь ваш"
+    }
+  ],
+  "timestamp": "2026-08-03T02:30:48.278780202Z",
+  "model": "glm-4.5"
+}

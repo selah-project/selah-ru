@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "genesis 41:17",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 41,
+  "translation": "И говорил Паро к Йосефу: во сне моём, вот, ⟨я⟩ стоял на берегу ⟨реки⟩",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говорил"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефу"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "во сне моём"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "вот"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "стоял"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "берегу"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "реки"
+    }
+  ],
+  "timestamp": "2026-08-02T19:44:45.512122142Z",
+  "model": "glm-4.5"
+}

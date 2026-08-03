@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "joshua 13:4",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "от юга всю землю ханаанскую и Меару, ⟨что⟩ у сидонян, до Афека до границы эморийской",
+  "tokens": [
+    {
+      "surface": "מתימן",
+      "gloss": "от юга"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всю"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ханаанскую"
+    },
+    {
+      "surface": "ומערה",
+      "gloss": "и Меару"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨что⟩"
+    },
+    {
+      "surface": "לצידנים",
+      "gloss": "у сидонян"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Афека"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "границы"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "эморийской"
+    }
+  ],
+  "timestamp": "2026-08-02T22:37:07.632023575Z",
+  "model": "glm-4.5"
+}

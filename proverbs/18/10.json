@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "proverbs 18:10",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Башня мощи — имя ЯХВЕ, в неё бежит праведник и возвышается.",
+  "tokens": [
+    {
+      "surface": "מגדל",
+      "gloss": "Башня"
+    },
+    {
+      "surface": "עז",
+      "gloss": "мощи"
+    },
+    {
+      "surface": "שם",
+      "gloss": "имя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в неё"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "бежит"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведник"
+    },
+    {
+      "surface": "ונשגב",
+      "gloss": "и возвышается"
+    }
+  ],
+  "timestamp": "2026-08-03T09:44:30.524140677Z",
+  "model": "glm-4.5"
+}

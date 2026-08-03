@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Ибо я глупее ⟨как⟩ человек, и нет у меня разумения человека.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "בער",
+      "gloss": "глупее"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "⟨как⟩ человек"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нет"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "разумения"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "לי",
+      "gloss": "у меня"
+    }
+  ],
+  "timestamp": "2026-08-03T10:06:51.028150043Z",
+  "model": "glm-4.5"
+}

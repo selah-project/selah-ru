@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "и ⟨את⟩ сыновей его поднесёшь, и облечёшь их в рубашки",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "сыновей его"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "сыновей его"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "поднесёшь"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "и облечёшь их"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "рубашки"
+    }
+  ],
+  "timestamp": "2026-08-02T20:25:22.966259231Z",
+  "model": "glm-4.5"
+}

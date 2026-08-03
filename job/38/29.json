@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "job 38:29",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 38,
+  "translation": "Из чрева чьего вышел лед, и иней небес — кто родил ⟨его⟩?",
+  "tokens": [
+    {
+      "surface": "מבטן",
+      "gloss": "Из чрева"
+    },
+    {
+      "surface": "מי",
+      "gloss": "чьего"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "вышел"
+    },
+    {
+      "surface": "הקרח",
+      "gloss": "лед"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "и иней"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "родил ⟨его⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T10:49:35.456460274Z",
+  "model": "glm-4.5"
+}

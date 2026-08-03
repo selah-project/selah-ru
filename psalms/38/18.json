@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 38,
+  "translation": "ибо я готов к падению, и моя боль предо мной ⟨всегда⟩",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "готов к падению"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "готов"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "и моя боль"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "предо мной"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "⟨всегда⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T07:17:16.281798825Z",
+  "model": "glm-4.5"
+}

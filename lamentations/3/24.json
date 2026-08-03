@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Доля ЯХВЕ, — сказала душа моя, — ⟨поэтому⟩ буду уповать ⟨на⟩ Него",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "Доля"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "сказала"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душа моя"
+    },
+    {
+      "surface": "על",
+      "gloss": "поэтому"
+    },
+    {
+      "surface": "כן",
+      "gloss": "—"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "буду уповать"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨на⟩ Него",
+      "marks": "Него"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:34.244223217Z",
+  "model": "glm-4.5"
+}

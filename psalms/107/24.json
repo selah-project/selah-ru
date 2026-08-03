@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 107,
+  "translation": "Они видят деяния ЯХВЕ и Его чудеса в пучине",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Они"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "видят"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "деяния"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "и Его чудеса"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "в пучине"
+    }
+  ],
+  "timestamp": "2026-08-03T08:39:11.335949079Z",
+  "model": "glm-4.5"
+}

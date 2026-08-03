@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И сыновья Хама: Куш и Мицраим, и Фут, и Ханаан.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И сыновья"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Хама"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "и Мицраим"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "и Фут"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "и Ханаан"
+    }
+  ],
+  "timestamp": "2026-08-02T17:53:28.264934277Z",
+  "model": "glm-4.5"
+}

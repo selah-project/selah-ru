@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "joshua 12:13",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "царь Двира, один; царь Гедера, один;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Двир"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "Гедер"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    }
+  ],
+  "timestamp": "2026-08-02T22:36:20.049703441Z",
+  "model": "glm-4.5"
+}

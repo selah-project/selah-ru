@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И распорядитель убирал ⟨את⟩ яства их и вино ⟨от⟩ питья их, и давал им семена",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "распорядитель"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "убирал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "яства их"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "яства их"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "и вино"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "от питья их"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "и давал"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "семена"
+    }
+  ],
+  "timestamp": "2026-08-03T11:38:01.174910207Z",
+  "model": "glm-4.5"
+}

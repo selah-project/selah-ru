@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 137,
+  "translation": "Блажен, кто схватит и разобьёт ⟨את⟩ твоих младенцев о скалу",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Блажен"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "кто схватит"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "и разобьёт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "твоих младенцев"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "твоих младенцев"
+    },
+    {
+      "surface": "אל",
+      "gloss": "о"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "скалу"
+    }
+  ],
+  "timestamp": "2026-08-03T09:08:10.851614696Z",
+  "model": "glm-4.5"
+}

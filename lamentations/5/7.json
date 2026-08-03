@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Отцы наши согрешили, и их нет, а мы понесли ⟨их⟩ беззакония.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "Отцы наши"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "согрешили"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "и их нет"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "а мы"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "беззакония"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "понесли"
+    }
+  ],
+  "timestamp": "2026-08-03T11:14:46.762843534Z",
+  "model": "glm-4.5"
+}

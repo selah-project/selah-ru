@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "isaiah 11:2",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "и почиет на ⟨нём⟩ Руах ЯХВЕ, Руах хохмы и бины, Руах э́цы и гвуры, Руах да́ат и ярэ́ат ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ונחה",
+      "gloss": "и почиет"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на ⟨нём⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Руах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Руах"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "хохмы"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "и бины"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Руах"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "э́цы"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "и гвуры"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Руах"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "да́ат"
+    },
+    {
+      "surface": "וראת",
+      "gloss": "и ярэ́ат"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T01:55:35.485473687Z",
+  "model": "glm-4.5"
+}

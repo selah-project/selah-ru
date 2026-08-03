@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 138,
+  "translation": "ЯХВЕ, будут славить Тебя все цари земли, ибо ⟨они⟩ услышат слова уст Твоих.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "будут славить Тебя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "цари"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земли"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "услышат"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "уст Твоих"
+    }
+  ],
+  "timestamp": "2026-08-03T09:08:58.501087939Z",
+  "model": "glm-4.5"
+}

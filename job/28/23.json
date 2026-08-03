@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Элохим понял ⟨את⟩ путь её, и Он знал ⟨את⟩ место её",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "понял"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "путь её"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "путь её"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "и Он"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "место её"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "место её"
+    }
+  ],
+  "timestamp": "2026-08-03T10:34:14.561378399Z",
+  "model": "glm-4.5"
+}

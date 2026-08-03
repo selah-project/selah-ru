@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Это я возвращаю на ⟨своё⟩ сердце: ⟨поэтому⟩ надеюсь",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Это"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "я возвращаю"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "сердце"
+    },
+    {
+      "surface": "על",
+      "gloss": "поэтому"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "надеюсь"
+    }
+  ],
+  "timestamp": "2026-08-03T18:34:04.372019499Z",
+  "model": "glm-4.5"
+}

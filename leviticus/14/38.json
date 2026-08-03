@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "и выйдет коэн из дома к двери дома и запрёт ⟨את⟩ дом на семь дней",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "и выйдет"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коэн"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "двери"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "и запрёт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дом"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "семь"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дней"
+    }
+  ],
+  "timestamp": "2026-08-03T17:57:35.223599154Z",
+  "model": "glm-4.5"
+}

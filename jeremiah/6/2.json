@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "jeremiah 6:2",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Прекрасную и нежную Я⟨уничтожил⟩, дочь Циона.",
+  "tokens": [
+    {
+      "surface": "הנוה",
+      "gloss": "прекрасную"
+    },
+    {
+      "surface": "והמענגה",
+      "gloss": "инежную"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "Я⟨уничтожил⟩"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочь"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Циона"
+    }
+  ],
+  "timestamp": "2026-08-03T03:05:16.853804451Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "isaiah 23:14",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Вопите, корабли Таршиша, ибо разрушено ⟨ваши⟩ укрепление",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "Вопите"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "корабли"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Таршиша"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "разрушено"
+    },
+    {
+      "surface": "מעזכן",
+      "gloss": "⟨ваши⟩ укрепление"
+    }
+  ],
+  "timestamp": "2026-08-03T02:07:14.756841728Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "numbers 26:16",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Озни, ⟨от⟩ него семья Ознитов; Эри, ⟨от⟩ него семья Эритов;",
+  "tokens": [
+    {
+      "surface": "לאזני",
+      "gloss": "Озни"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "семья"
+    },
+    {
+      "surface": "האזני",
+      "gloss": "Ознитов"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "Эри"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "семья"
+    },
+    {
+      "surface": "הערי",
+      "gloss": "Эритов"
+    }
+  ],
+  "timestamp": "2026-08-02T21:39:04.644099302Z",
+  "model": "glm-4.5"
+}

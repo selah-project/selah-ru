@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 43,
+  "ref": "psalms 119:43",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "И не вырывай из уст моих слово истины вовсе, ибо на суд Твой я уповал",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תצל",
+      "gloss": "вырывай"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "из уст ⟨моих⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "истины"
+    },
+    {
+      "surface": "עד",
+      "gloss": "вовсе"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨очень⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "למשפטך",
+      "gloss": "на суд Твой"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "я уповал"
+    }
+  ],
+  "timestamp": "2026-08-03T08:50:34.156281493Z",
+  "model": "glm-4.5"
+}

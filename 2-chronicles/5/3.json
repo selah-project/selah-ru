@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И собрались ⟨все⟩ люди Израиля к царю ⟨на⟩ праздник ⟨это⟩ ⟨в⟩ месяц седьмой",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "И собрались"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨все⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "люди"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "⟨на⟩ праздник"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨это⟩"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "⟨в⟩ месяц"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "седьмой"
+    }
+  ],
+  "timestamp": "2026-08-03T13:25:49.721345367Z",
+  "model": "glm-4.5"
+}

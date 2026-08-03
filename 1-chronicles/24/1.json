@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "И сыновьям Аарона — их череды; сыновья Аарона: Надав и Авигу, Эльазар и Итамар.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "И сыновьям"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарона"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "их череды"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарона"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Надав"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "и Авигу"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Эльазар"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "и Итамар"
+    }
+  ],
+  "timestamp": "2026-08-03T13:10:50.327790978Z",
+  "model": "glm-4.5"
+}

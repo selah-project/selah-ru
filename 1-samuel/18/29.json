@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "1-samuel 18:29",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И Собрал Шаул бояться מפני ⟨את⟩ Давида ещё, и был Шаул врагом ⟨את⟩ Давида все ⟨дни⟩.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "И Собрал"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "לרא",
+      "gloss": "бояться"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "מפני"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ещё"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и был"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "איב",
+      "gloss": "врагом"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давида"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "⟨дни⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T23:33:40.100901202Z",
+  "model": "glm-4.5"
+}

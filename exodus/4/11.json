@@ -1,0 +1,96 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "exodus 4:11",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И сказал ЯХВЕ ему: кто дал ⟨את⟩ рот человеку или кто сделает ⟨את⟩ немым, или глухим, или зрячим, или слепым? не ⟨את⟩ ли Я, ЯХВЕ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "שם",
+      "gloss": "дал"
+    },
+    {
+      "surface": "פה",
+      "gloss": "⟨את⟩",
+      "marks": "рот"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "человеку"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "ישום",
+      "gloss": "сделает"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "⟨את⟩",
+      "marks": "немым"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "глухим"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "зрячим"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "עור",
+      "gloss": "слепым"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨את⟩",
+      "marks": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T19:58:22.880001891Z",
+  "model": "glm-4.5"
+}

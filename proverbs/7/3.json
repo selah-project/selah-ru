@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Привяжи ⟨их⟩ на пальцы твои, запиши ⟨их⟩ на скрижали сердца твоего",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "Привяжи ⟨их⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "пальцы твои"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "запиши ⟨их⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "скрижали"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "сердца твоего"
+    }
+  ],
+  "timestamp": "2026-08-03T09:28:32.846902493Z",
+  "model": "glm-4.5"
+}

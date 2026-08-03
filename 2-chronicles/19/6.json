@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "2-chronicles 19:6",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "И сказал судьям: смотрите, что вы делаете; ведь не человека вы судите, а ЯХВЕ, ⟨Который⟩ с вами в слове суда.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "судьям"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "смотрите"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вы"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "делаете"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ведь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "вы судите"
+    },
+    {
+      "surface": "כי",
+      "gloss": "а"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "и ⟨Который⟩ с вами"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "в слове"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "суда"
+    }
+  ],
+  "timestamp": "2026-08-03T13:50:37.165714782Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И вышел Ноах и сыновья его, и жена его, и жёны сыновей его с ⟨ним⟩",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "И вышел"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "и сыновья его"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "и жена его"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "и жёны"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "сыновей его"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "с ⟨ним⟩",
+      "marks": "с Ноахом"
+    }
+  ],
+  "timestamp": "2026-08-02T17:51:31.260932977Z",
+  "model": "glm-4.5"
+}

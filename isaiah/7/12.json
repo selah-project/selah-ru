@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И сказал Ахаз: не ⟨буду⟩ просить и не ⟨буду⟩ искушать ⟨את⟩ ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ахаз"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "⟨буду⟩ просить"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "⟨буду⟩ искушать"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T01:50:45.173157584Z",
+  "model": "glm-4.5"
+}

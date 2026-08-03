@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "А вот имена сыновей Гершома: Ливни и Шими.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "А вот"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "имена"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Гершома"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Ливни"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "и Шими"
+    }
+  ],
+  "timestamp": "2026-08-03T12:44:06.864811940Z",
+  "model": "glm-4.5"
+}

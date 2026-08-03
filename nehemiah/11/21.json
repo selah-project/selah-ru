@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "nehemiah 11:21",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "А нетинимы живут в Офеле, и Циха и Гишпа — над нетинимами.",
+  "tokens": [
+    {
+      "surface": "והנתינים",
+      "gloss": "А нетинимы"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "живут"
+    },
+    {
+      "surface": "בעפל",
+      "gloss": "в Офеле"
+    },
+    {
+      "surface": "וציחא",
+      "gloss": "и Циха"
+    },
+    {
+      "surface": "וגשפא",
+      "gloss": "и Гишпа"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "нетинимами"
+    }
+  ],
+  "timestamp": "2026-08-03T12:29:46.071394246Z",
+  "model": "glm-4.5"
+}

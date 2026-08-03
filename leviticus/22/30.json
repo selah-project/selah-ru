@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "в тот день ⟨он⟩ будет съеден, не оставляйте ⟨от⟩ него до утра; Я — ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "в день"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тот"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "будет съеден"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "оставляйте"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "от него"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "утра"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T21:02:37.229877604Z",
+  "model": "glm-4.5"
+}

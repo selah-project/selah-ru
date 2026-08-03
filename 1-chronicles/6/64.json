@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "⟨и⟩ Кедемо́т ⟨и⟩ её пастбища ⟨и⟩ Мефаа́ф ⟨и⟩ её пастбища",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨и⟩",
+      "marks": "Кедемо́т"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Кедемо́т"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨и⟩",
+      "marks": "её пастбища"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "её пастбища"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨и⟩",
+      "marks": "Мефаа́ф"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Мефаа́ф"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨и⟩",
+      "marks": "её пастбища"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "её пастбища"
+    }
+  ],
+  "timestamp": "2026-08-03T12:45:42.587194724Z",
+  "model": "glm-4.5"
+}

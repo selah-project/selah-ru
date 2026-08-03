@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "proverbs 25:27",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "Съедать ⟨много⟩ мёда — не хорошо, и выискивать их славу — ⟨есть⟩ слава",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "Съедать"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "мёда"
+    },
+    {
+      "surface": "הרבות",
+      "gloss": "⟨много⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "хорошо"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "и выискивать"
+    },
+    {
+      "surface": "כבדם",
+      "gloss": "их славу"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "слава"
+    }
+  ],
+  "timestamp": "2026-08-03T10:00:43.490583857Z",
+  "model": "glm-4.5"
+}

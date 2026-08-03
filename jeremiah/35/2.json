@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "jeremiah 35:2",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "Иди в дом Рехавитов, и говори с ними, и приведи их в дом ЯХВЕ, в одну из палат, и пои их вином.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "Рехавитов"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "и говори"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "с ними"
+    },
+    {
+      "surface": "והבאותם",
+      "gloss": "и приведи"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "одну"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "из палат"
+    },
+    {
+      "surface": "והשקית",
+      "gloss": "и пои"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "их"
+    },
+    {
+      "surface": "יין",
+      "gloss": "вином"
+    }
+  ],
+  "timestamp": "2026-08-03T03:49:17.285790072Z",
+  "model": "glm-4.5"
+}

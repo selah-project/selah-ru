@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "2-samuel 7:17",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Согласно всем этим словам и всему этому видению, так говорил Натан к Давиду.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "Согласно"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "этим словам"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "этим"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "и"
+    },
+    {
+      "surface": "החזיון",
+      "gloss": "видению"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "этому"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорил"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давиду"
+    }
+  ],
+  "timestamp": "2026-08-02T23:54:38.273559195Z",
+  "model": "glm-4.5"
+}

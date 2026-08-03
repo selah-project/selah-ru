@@ -1,0 +1,90 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "и возьми ⟨את⟩ масло помазания и помажь ⟨את⟩ мишкан и ⟨את⟩ всё, что ⟨в⟩ нём, и освяти ⟨его⟩ и ⟨את⟩ все utensils его, и ⟨будет⟩ святыня",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "и возьми"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "масло помазания"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "масло"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "помазания"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "и помажь"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мишкан"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "мишкан"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "всё"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨в⟩ нём"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "и освяти"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨его⟩",
+      "marks": "и ⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "все"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "utensils его"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и ⟨будет⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "святыня"
+    }
+  ],
+  "timestamp": "2026-08-02T20:38:56.241267965Z",
+  "model": "glm-4.5"
+}

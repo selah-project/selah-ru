@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "proverbs 31:27",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "Она ⟨смотрит⟩ на ⟨пути⟩ дома своего, и хлебом лени не ест.",
+  "tokens": [
+    {
+      "surface": "צופיה",
+      "gloss": "⟨смотрит⟩"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "⟨пути⟩"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "дома своего"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "и хлебом"
+    },
+    {
+      "surface": "עצלות",
+      "gloss": "лени"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ест"
+    }
+  ],
+  "timestamp": "2026-08-03T10:08:41.757502134Z",
+  "model": "glm-4.5"
+}

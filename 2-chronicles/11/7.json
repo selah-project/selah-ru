@@ -1,0 +1,44 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "и ⟨Бет-Цур⟩, и ⟨Соко⟩, и ⟨Адуллам⟩",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Бет-Цур"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Цур"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Соко"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "Соко"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Адуллам"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Адуллам"
+    }
+  ],
+  "timestamp": "2026-08-03T13:36:20.781050712Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "ezekiel 20:37",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И пропущу вас под ⟨жезлом⟩ и приведу вас в ⟨узы⟩ завета",
+  "tokens": [
+    {
+      "surface": "והעברתי",
+      "gloss": "и пропущу"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "жезлом"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "и приведу"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "במסרת",
+      "gloss": "в ⟨узы⟩"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "завета"
+    }
+  ],
+  "timestamp": "2026-08-03T04:41:28.071053620Z",
+  "model": "glm-4.5"
+}

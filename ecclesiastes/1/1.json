@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Слова Кохелета, сына Давида, царя в Иерусалиме.",
+  "tokens": [
+    {
+      "surface": "דִּבְרֵי",
+      "gloss": "Слова"
+    },
+    {
+      "surface": "קֹהֶלֶת",
+      "gloss": "Кохелета"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "דָּוִד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "царя"
+    },
+    {
+      "surface": "בִּירוּשָׁלִָם",
+      "gloss": "в Иерусалиме"
+    }
+  ],
+  "timestamp": "2026-08-03T11:15:14.041322674Z",
+  "model": "glm-4.5"
+}

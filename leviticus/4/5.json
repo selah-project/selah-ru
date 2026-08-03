@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И возьмёт помазанный коэн ⟨из⟩ крови быка, и внесёт ⟨את⟩ его в шатёр собрания.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "и возьмёт"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коэн"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "помазанный"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "⟨из⟩ крови"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "быка"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "и внесёт"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "в шатёр собрания"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатёр"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "собрания"
+    }
+  ],
+  "timestamp": "2026-08-02T20:42:05.941348770Z",
+  "model": "glm-4.5"
+}

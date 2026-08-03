@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "psalms 44:27",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 44,
+  "translation": "Встань ⟨как⟩ помощь нам и выкупи нас ради хеседа Твоего",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Встань"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "⟨как⟩ помощь"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "ופדנו",
+      "gloss": "и выкупи нас"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ради"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хеседа Твоего"
+    }
+  ],
+  "timestamp": "2026-08-03T07:22:46.760270599Z",
+  "model": "glm-4.5"
+}

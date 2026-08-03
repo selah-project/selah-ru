@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "proverbs 20:26",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "Мудрый царь развевает ⟨и⟩ нечестивых, и обращает ⟨⟩ колесо над ⟨ними⟩.",
+  "tokens": [
+    {
+      "surface": "מזרה",
+      "gloss": "развевает ⟨и⟩"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивых"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "Мудрый"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и обращает"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "над ⟨ними⟩"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "колесо"
+    }
+  ],
+  "timestamp": "2026-08-03T09:47:22.841473989Z",
+  "model": "glm-4.5"
+}

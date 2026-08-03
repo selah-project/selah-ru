@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И настоял Авшалом на нём, и он послал с ним ⟨את⟩ Амнона и ⟨את⟩ всех сыновей царя",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "и настоял"
+    },
+    {
+      "surface": "בו",
+      "gloss": "на нём"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалом"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "и он послал"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "с ним"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Амнона"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Амнона"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "всех"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    }
+  ],
+  "timestamp": "2026-08-03T00:00:16.249089748Z",
+  "model": "glm-4.5"
+}

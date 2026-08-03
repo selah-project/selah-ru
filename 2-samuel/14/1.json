@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И познал Йоав, сын Церуйи, ⟨что⟩ сердце царя ⟨на⟩ Авшаломе",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "И познал"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Церуйи"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨что⟩"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сердце"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшаломе"
+    }
+  ],
+  "timestamp": "2026-08-03T00:01:12.822041593Z",
+  "model": "glm-4.5"
+}

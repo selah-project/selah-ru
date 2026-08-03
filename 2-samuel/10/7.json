@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И услышал Давид и послал ⟨את⟩ Йоава и ⟨את⟩ всё воинство ⟨из⟩ сильных",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "и услышал"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "и послал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йоава"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоава"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "всё"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "воинство"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "сильных"
+    }
+  ],
+  "timestamp": "2026-08-02T23:56:53.131876535Z",
+  "model": "glm-4.5"
+}

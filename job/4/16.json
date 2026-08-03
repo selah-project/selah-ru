@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "job 4:16",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Он стоял, и ⟨я⟩ не распознал ⟨его⟩ облика; ⟨как⟩ образ ⟨перед⟩ глазами моими, — безмолвие, и голос услышу:",
+  "tokens": [
+    {
+      "surface": "יעמד",
+      "gloss": "stood"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and not"
+    },
+    {
+      "surface": "אכיר",
+      "gloss": "I recognized"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "its appearance"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "a form"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "before"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my eyes"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "silence"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "and a voice"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "I heard"
+    }
+  ],
+  "timestamp": "2026-08-03T10:12:45.083265172Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 132,
+  "translation": "Песнь восходов. Помни, ЯХВЕ, ⟨за⟩ Давида ⟨את⟩ всё страдание его.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Песнь"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "восходов"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Помни"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "⟨за⟩ Давида"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всё страдание"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "страдание его"
+    }
+  ],
+  "timestamp": "2026-08-03T09:03:32.485307593Z",
+  "model": "glm-4.5"
+}

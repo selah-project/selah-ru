@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "теперь встаньте и перейдите ⟨для себя⟩ ⟨את⟩ поток Зеред, и перешли мы ⟨את⟩ поток Зеред",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "теперь"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "встаньте"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "и перейдите"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨для себя⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "поток Зеред"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "поток"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Зеред"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "и перешли мы"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "поток Зеред"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "поток"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Зеред"
+    }
+  ],
+  "timestamp": "2026-08-02T21:52:31.165239340Z",
+  "model": "glm-4.5"
+}

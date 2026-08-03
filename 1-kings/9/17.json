@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И построил Шеломо ⟨את⟩ Газер и ⟨את⟩ Бейт-Хорон нижний",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "и построил"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Газер"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Газер"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Бейт-Хорон"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "-Хорон"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "нижний"
+    }
+  ],
+  "timestamp": "2026-08-03T00:35:19.519680498Z",
+  "model": "glm-4.5"
+}

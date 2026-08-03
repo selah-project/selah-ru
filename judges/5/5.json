@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "judges 5:5",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Горы потекли от ⟨лица⟩ ЯХВЕ, ⟨этот⟩ Синай — от ⟨лица⟩ ЯХВЕ, Элохима Израиля.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "Горы"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "потекли"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "от ⟨лица⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨этот⟩"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синай"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "от ⟨лица⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохима"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-02T22:53:30.136211699Z",
+  "model": "glm-4.5"
+}

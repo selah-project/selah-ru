@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "И сказал Шехем Хамору, отцу своему, говоря: возьми мне ⟨את⟩ эту деву в жёны",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Шехем"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Хамору"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "отцу своему"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "קח",
+      "gloss": "возьми"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эту деву"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "эту деву"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "эту"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "в жёны"
+    }
+  ],
+  "timestamp": "2026-08-02T19:35:56.758432230Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "ezekiel 32:11",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "ибо так сказал Адонай ЯХВЕ: меч царя Вавилона придёт на тебя",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меч"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилона"
+    },
+    {
+      "surface": "תבואך",
+      "gloss": "придёт на тебя"
+    }
+  ],
+  "timestamp": "2026-08-03T04:55:31.099576619Z",
+  "model": "glm-4.5"
+}

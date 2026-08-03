@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Старцы ⟨перестали⟩ ⟨от⟩ ворот, юноши ⟨от⟩ ⟨пения⟩ ⟨их⟩",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "Старцы"
+    },
+    {
+      "surface": "משער",
+      "gloss": "⟨от⟩ ворот"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "⟨перестали⟩"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "юноши"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "⟨от⟩ ⟨пения⟩ ⟨их⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T11:14:39.105907901Z",
+  "model": "glm-4.5"
+}

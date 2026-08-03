@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Ибо я стал как мех в дыму, ⟨но⟩ постановления Твои не забыл",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "стал"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "как мех"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "в дыму"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "постановления Твои"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "забыл"
+    }
+  ],
+  "timestamp": "2026-08-03T08:52:29.029035844Z",
+  "model": "glm-4.5"
+}

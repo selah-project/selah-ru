@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Ведь если к разуму воззовёшь, к пониманию подашь ⟨свой⟩ голос",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ведь"
+    },
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "к разуму"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "воззовёшь"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "к пониманию"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "подашь"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "⟨свой⟩ голос"
+    }
+  ],
+  "timestamp": "2026-08-03T09:22:00.620798595Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "jeremiah 33:25",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "Так говорит ЯХВЕ: если ⟨не⟩ завет Мой днём и ночью, ⟨не⟩ установил Я уставы неба и земли,",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "говорит"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "завет Мой"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "днём"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "и ночью"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "уставы"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "неба"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "и земли"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "установил Я"
+    }
+  ],
+  "timestamp": "2026-08-03T03:47:12.775864213Z",
+  "model": "glm-4.5"
+}

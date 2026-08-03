@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Там они в великом страхе: ⟨потому что⟩ Элохим ⟨в⟩ роде праведных",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Там"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "они в страхе"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "страх"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨потому что⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "⟨в⟩ роде"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведных"
+    }
+  ],
+  "timestamp": "2026-08-03T06:44:04.210695340Z",
+  "model": "glm-4.5"
+}

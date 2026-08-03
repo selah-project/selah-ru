@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 80,
+  "translation": "Ты вынес лозу из Египта, ⟨ты⟩ изгнал народы и посадил её.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "лозу"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "из Египта"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "вынес"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "⟨ты⟩ изгнал"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народы"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "и посадил её"
+    }
+  ],
+  "timestamp": "2026-08-03T08:06:38.276638450Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "exodus 5:2",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И сказал Паро: кто ЯХВЕ, чтобы я ⟨heard⟩ голос Его, чтобы отправить ⟨את⟩ Израиль? Не ⟨knew⟩ я ЯХВЕ и также ⟨את⟩ Израиль не отправлю.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "чтобы"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "я ⟨heard⟩"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "голос Его"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "чтобы отправить"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Израиль"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "⟨knew⟩ я"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и также"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Израиль"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "отправлю"
+    }
+  ],
+  "timestamp": "2026-08-02T19:59:23.191167721Z",
+  "model": "glm-4.5"
+}

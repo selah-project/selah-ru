@@ -1,0 +1,94 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "leviticus 22:2",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Говори Аарону и сыновьям его, и пусть отделяются от святынь сынов Израиля, и не profane ⟨את⟩ имя святыни моей, которую они освящают Мне; Я — ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарону"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и к"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "сыновьям его"
+    },
+    {
+      "surface": "וינזרו",
+      "gloss": "и пусть отделяются"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "от святынь"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "profane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "имя святыни моей"
+    },
+    {
+      "surface": "שם",
+      "gloss": "имя"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "святыни моей"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которую"
+    },
+    {
+      "surface": "הם",
+      "gloss": "они"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "освящают"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мне"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T21:02:12.034423971Z",
+  "model": "glm-4.5"
+}

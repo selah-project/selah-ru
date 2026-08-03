@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "psalms 118:19",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 118,
+  "translation": "Откройте мне врата праведности; войду в них, буду славить ЯХ.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "Откройте"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "врата"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "праведности"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "войду"
+    },
+    {
+      "surface": "בם",
+      "gloss": "в них"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "буду славить"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ЯХ"
+    }
+  ],
+  "timestamp": "2026-08-03T08:48:26.971624391Z",
+  "model": "glm-4.5"
+}

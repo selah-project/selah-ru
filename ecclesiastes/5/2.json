@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Ибо сон приходит при множестве забот, и голос глупца ⟨знается⟩ при множестве слов",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "בא",
+      "gloss": "приходит"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "сон"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "при множестве"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "забот"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "и голос"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупца"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "при множестве"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "слов"
+    }
+  ],
+  "timestamp": "2026-08-03T11:19:34.728373662Z",
+  "model": "glm-4.5"
+}

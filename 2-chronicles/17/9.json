@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "2-chronicles 17:9",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И учили в Иудее, и с ⟨ними⟩ книга Торы ЯХВЕ, и обходили все города Иудеи и учили ⟨среди⟩ народа.",
+  "tokens": [
+    {
+      "surface": "וילמדו",
+      "gloss": "и учили"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "в Иудее"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "и с"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "книга"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Торы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "и обходили"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "все"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "города"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иудеи"
+    },
+    {
+      "surface": "וילמדו",
+      "gloss": "и учили"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "⟨среди⟩ народа"
+    }
+  ],
+  "timestamp": "2026-08-03T13:47:01.107648536Z",
+  "model": "glm-4.5"
+}

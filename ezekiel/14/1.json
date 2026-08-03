@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "ezekiel 14:1",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И пришли ко мне некоторые из старейшин Израиля и сели пред ⟨мною⟩.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "И пришли"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ко мне"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "некоторые"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "из старейшин"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "и сели"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред ⟨мною⟩",
+      "marks": "мною"
+    }
+  ],
+  "timestamp": "2026-08-03T04:31:52.601490287Z",
+  "model": "glm-4.5"
+}

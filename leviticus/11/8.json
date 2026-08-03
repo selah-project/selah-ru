@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Их плоти не ешьте и ⟨их⟩ трупами не касайтесь; нечисты они вам.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "их плоти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ешьте"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "и ⟨их⟩ трупами"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "касайтесь"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "нечисты"
+    },
+    {
+      "surface": "הם",
+      "gloss": "они"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    }
+  ],
+  "timestamp": "2026-08-02T20:50:29.246930792Z",
+  "model": "glm-4.5"
+}

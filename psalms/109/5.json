@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 109,
+  "translation": "И воздали мне злом за добро и ненавистью вместо любви моей",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "И воздали"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "злом"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "добро"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "и ненавистью"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "вместо"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "любви моей"
+    }
+  ],
+  "timestamp": "2026-08-03T08:41:41.721551796Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "И сказал Яаков: продай мне ⟨сегодня⟩ ⟨את⟩ первородство твоё мне.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "продай"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "⟨сегодня⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "первородство твоё"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "первородство твоё"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    }
+  ],
+  "timestamp": "2026-08-02T19:23:53.068631Z",
+  "model": "glm-4.5"
+}

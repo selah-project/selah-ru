@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Где царь Хамата и царь Арпада, и царь города Сепарваима, Хены и Ивы?",
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "где"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамата"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "и царь"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Арпада"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "и царь"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "города"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Сепарваима"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Хены"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "и Ивы"
+    }
+  ],
+  "timestamp": "2026-08-03T01:29:57.409912967Z",
+  "model": "glm-4.5"
+}

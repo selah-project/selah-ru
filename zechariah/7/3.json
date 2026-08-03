@@ -1,0 +1,89 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "zechariah 7:3",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "сaying to ⟨the⟩ kohanim belonging to ⟨the⟩ house of ЯХВЕ Цеваот and to ⟨the⟩ prophets, saying: shall I weep in ⟨the⟩ fifth month, ⟨being⟩ nazir, as I have done ⟨these⟩ so many years?",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "saying"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "⟨the⟩ kohanim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "belonging to"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨the⟩ house"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and to"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "⟨the⟩ prophets"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "saying"
+    },
+    {
+      "surface": "האבכה",
+      "gloss": "shall I weep"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "in ⟨the⟩ fifth"
+    },
+    {
+      "surface": "החמשי",
+      "gloss": "month"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "⟨being⟩ nazir"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "I have done"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨these⟩"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "so many"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "years"
+    }
+  ],
+  "timestamp": "2026-08-03T06:13:54.840440757Z",
+  "model": "glm-4.5"
+}

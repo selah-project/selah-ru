@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "nahum 3:9",
+  "book": "nahum",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Куш — мощь ⟨своё⟩ и Мицраим, и нет конца; Фут и лувимы — в помощи твоей.",
+  "tokens": [
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    },
+    {
+      "surface": "עצמה",
+      "gloss": "мощь"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "и Мицраим"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нет"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "конца"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "Фут"
+    },
+    {
+      "surface": "ולובים",
+      "gloss": "и лувимы"
+    },
+    {
+      "surface": "היו",
+      "gloss": "были"
+    },
+    {
+      "surface": "בעזרתך",
+      "gloss": "в помощи твоей"
+    }
+  ],
+  "timestamp": "2026-08-03T05:55:56.660282179Z",
+  "model": "glm-4.5"
+}

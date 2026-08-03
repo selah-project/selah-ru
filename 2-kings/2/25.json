@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И пошёл он оттуда на гору Кармил и оттуда ⟨он⟩ вернулся в Шомрон.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "и пошёл"
+    },
+    {
+      "surface": "משם",
+      "gloss": "оттуда"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Кармил"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "и оттуда"
+    },
+    {
+      "surface": "שב",
+      "gloss": "вернулся"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Шомрон"
+    }
+  ],
+  "timestamp": "2026-08-03T01:05:03.973149500Z",
+  "model": "glm-4.5"
+}

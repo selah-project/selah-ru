@@ -1,0 +1,39 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 105,
+  "translation": "Ищите ЯХВЕ и ⟨Его⟩ силу, ищите ⟨Его⟩ лицо всегда.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Ищите"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "и ⟨Его⟩ силу",
+      "marks": "силу"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ищите"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "⟨Его⟩ лицо",
+      "marks": "лицо"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "всегда"
+    }
+  ],
+  "timestamp": "2026-08-03T08:34:41.512450817Z",
+  "model": "glm-4.5"
+}

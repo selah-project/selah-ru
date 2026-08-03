@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И собрал Моше ⟨את⟩ стан, ⟨он⟩ и старейшины Израиля.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "И собрал"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨את⟩",
+      "marks": "стан"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "стан"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "и старейшины"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-02T21:23:14.520451856Z",
+  "model": "glm-4.5"
+}

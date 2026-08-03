@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Не ⟨должен⟩ брать в залог ⟨те⟩ жернова и ⟨их⟩ верхний камень, ибо душа ⟨это⟩ залог",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "⟨должен⟩ брать в залог"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "⟨те⟩ жернова"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "и ⟨их⟩ верхний камень"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душа"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨это⟩"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "залог"
+    }
+  ],
+  "timestamp": "2026-08-02T22:14:05.403674770Z",
+  "model": "glm-4.5"
+}

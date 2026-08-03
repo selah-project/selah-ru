@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "jeremiah 51:18",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 51,
+  "translation": "Суета ⟨они⟩ — дело обмана: во время посещения их они погибнут.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "суета"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨они⟩",
+      "marks": "суета"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "дело"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "обмана"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "во время"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "посещения их"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "они погибнут"
+    }
+  ],
+  "timestamp": "2026-08-03T04:12:57.826529461Z",
+  "model": "glm-4.5"
+}

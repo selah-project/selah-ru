@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "job 36:31",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "ибо ⟨ими⟩ судит Он народы, даёт пищу в избытке.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "בם",
+      "gloss": "⟨ими⟩",
+      "marks": "ими"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "судит"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народы"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "даёт"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "пищу"
+    },
+    {
+      "surface": "למכביר",
+      "gloss": "в избытке"
+    }
+  ],
+  "timestamp": "2026-08-03T10:47:22.066056743Z",
+  "model": "glm-4.5"
+}

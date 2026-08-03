@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Какая выгода ⟨у⟩ того, кто делает, в том, в чём он трудится?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Какая"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "выгода"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "⟨у⟩ того, кто делает"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "в том, в чём"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "трудится"
+    }
+  ],
+  "timestamp": "2026-08-03T11:17:23.951826764Z",
+  "model": "glm-4.5"
+}

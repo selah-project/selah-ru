@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 42,
+  "translation": "И сказал Иосиф им: это то, что я говорил вам, говоря: вы шпионы.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Иосиф"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "это то"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "я говорил"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "шпионы"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вы"
+    }
+  ],
+  "timestamp": "2026-08-02T19:45:59.072748570Z",
+  "model": "glm-4.5"
+}

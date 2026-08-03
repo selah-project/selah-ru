@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "nehemiah 12:2",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Амарйях, Маллух, Хаттуш",
+  "tokens": [
+    {
+      "surface": "אמריה",
+      "gloss": "Амарйях"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "Маллух"
+    },
+    {
+      "surface": "חטוש",
+      "gloss": "Хаттуш"
+    }
+  ],
+  "timestamp": "2026-08-03T12:30:48.339508046Z",
+  "model": "glm-4.5"
+}

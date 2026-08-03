@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "isaiah 24:14",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Они вознесут ⟨свой⟩ голос, восславят величием ЯХВЕ, возгласят от ⟨м ReSharperоя⟩.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Они"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "вознесут"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "голос"
+    },
+    {
+      "surface": "ירנו",
+      "gloss": "восславят"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "величием"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צהלו",
+      "gloss": "возгласят"
+    },
+    {
+      "surface": "מים",
+      "gloss": "от ⟨м ReSharperоя⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T02:08:19.249808068Z",
+  "model": "glm-4.5"
+}

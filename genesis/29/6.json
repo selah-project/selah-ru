@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 29:6",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "И сказал он им: «[Есть ли] шалом у него?» И они сказали: «Шalom; и вот, Рахель, дочь его, идёт со ⟨стадом⟩».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "[Есть ли] шalom"
+    },
+    {
+      "surface": "לו",
+      "gloss": "у него"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "И они сказали"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Шalom"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахель"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "дочь его"
+    },
+    {
+      "surface": "באה",
+      "gloss": "идёт"
+    },
+    {
+      "surface": "עם",
+      "gloss": "со"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "⟨стадом⟩",
+      "marks": "со стадом"
+    }
+  ],
+  "timestamp": "2026-08-02T19:29:10.619667447Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "Тогда сказал я: вот, я пришёл, в свитке ⟨книги⟩ ⟨את⟩ обо мне написано,",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "тогда"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "сказал я"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "я пришёл"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "в свитке"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "книги"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "обо мне"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "написано"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "обо мне"
+    }
+  ],
+  "timestamp": "2026-08-03T07:18:44.784379711Z",
+  "model": "glm-4.5"
+}

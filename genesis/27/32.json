@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "И сказал ему Ицхак, отец его: кто ⟨ты⟩? И сказал: я ⟨твой⟩ сын, ⟨твой⟩ первенец, Эсав.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхак"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "отец его"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ты⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "⟨твой⟩ сын"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "⟨твой⟩ первенец"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    }
+  ],
+  "timestamp": "2026-08-02T19:27:20.774900075Z",
+  "model": "glm-4.5"
+}

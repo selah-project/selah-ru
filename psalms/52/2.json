@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 52,
+  "translation": "Пришёл Доэг идумеянин и доложил Шаулу, и сказал ему: пришёл Давид ⟨в⟩ дом Ахимелеха.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Пришёл"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Доэг"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "идумеянин"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "и доложил"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Шаулу"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "בא",
+      "gloss": "пришёл"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨в⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ахимелеха"
+    }
+  ],
+  "timestamp": "2026-08-03T07:30:34.294896497Z",
+  "model": "glm-4.5"
+}

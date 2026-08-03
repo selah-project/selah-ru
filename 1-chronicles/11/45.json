@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 45,
+  "ref": "1-chronicles 11:45",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Идиаэль бен Шимри и Иоха, брат его, Тицитянин",
+  "tokens": [
+    {
+      "surface": "ידיעאל",
+      "gloss": "Идиаэль"
+    },
+    {
+      "surface": "בן",
+      "gloss": "бен"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "Шимри"
+    },
+    {
+      "surface": "ויחא",
+      "gloss": "и Иоха"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "брат его"
+    },
+    {
+      "surface": "התיצי",
+      "gloss": "Тицитянин"
+    }
+  ],
+  "timestamp": "2026-08-03T12:54:16.709229898Z",
+  "model": "glm-4.5"
+}

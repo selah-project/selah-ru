@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 102,
+  "translation": "А Ты, ЯХВЕ, вечно пребываешь, и память Твоя — в род и род.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "А Ты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "вечно"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "пребываешь"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "и память Твоя"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "в род"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "и род"
+    }
+  ],
+  "timestamp": "2026-08-03T08:30:59.102012485Z",
+  "model": "glm-4.5"
+}

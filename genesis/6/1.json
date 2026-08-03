@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И было, когда начал ⟨человек⟩ множиться на ⟨лице⟩ ⟨земли⟩, и родились дочери у них,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "כי",
+      "gloss": "когда"
+    },
+    {
+      "surface": "החל",
+      "gloss": "начал"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨человек⟩"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "множиться"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨лице⟩"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "⟨земли⟩"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "и дочери"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "родились"
+    },
+    {
+      "surface": "להם",
+      "gloss": "у них"
+    }
+  ],
+  "timestamp": "2026-08-02T17:49:37.074446862Z",
+  "model": "glm-4.5"
+}

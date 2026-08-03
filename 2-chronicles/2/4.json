@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "2-chronicles 2:4",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "и дом, который я строю, велик, ибо велик наш Элохим больше всех ⟨элохим⟩",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "и дом"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "строю"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "наш Элохим"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "больше всех"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨элохим⟩",
+      "marks": "элохим"
+    }
+  ],
+  "timestamp": "2026-08-03T13:21:31.831860971Z",
+  "model": "glm-4.5"
+}

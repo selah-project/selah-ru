@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "1-kings 22:21",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И вышел ⟨ Ruach ⟩, и предстал пред ЯХВЕ, и сказал: я соблазню его; и сказал ЯХВЕ ему: ⟨каким образом⟩?",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "и вышел"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "⟨ Ruach ⟩",
+      "marks": "дух"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "и предстал"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "אפתנו",
+      "gloss": "соблазню его"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "במה",
+      "gloss": "⟨каким образом⟩",
+      "marks": "в чём"
+    }
+  ],
+  "timestamp": "2026-08-03T01:01:08.006608970Z",
+  "model": "glm-4.5"
+}

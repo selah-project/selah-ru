@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 109,
+  "translation": "И пусть узнают, что это Твоя рука, что Ты, ЯХВЕ, сделал это.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "и пусть узнают"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "Твоя рука"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "это"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "сделал ⟨это⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T08:41:57.108136969Z",
+  "model": "glm-4.5"
+}

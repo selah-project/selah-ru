@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "numbers 16:29",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Если ⟨по⟩ смерти всех людей эти умрут, ⟨и⟩ визитация всех людей ⟨будет⟩ visits upon них, ⟨не⟩ ЯХВЕ послал меня.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Если"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "⟨по⟩ смерти"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "людей"
+    },
+    {
+      "surface": "ימתון",
+      "gloss": "эти умрут"
+    },
+    {
+      "surface": "אלה",
+      "gloss": ""
+    },
+    {
+      "surface": "ופקדת",
+      "gloss": "⟨и⟩ визитация"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "людей"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "⟨будет⟩ visits"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "upon них"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "послал меня"
+    }
+  ],
+  "timestamp": "2026-08-02T21:29:22.562583070Z",
+  "model": "glm-4.5"
+}

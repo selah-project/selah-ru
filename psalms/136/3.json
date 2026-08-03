@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 136,
+  "translation": "Славьте Адоная господ, ибо навеки хесед Его.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "славьте"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Адоная"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "господ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "навеки"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хесед Его"
+    }
+  ],
+  "timestamp": "2026-08-03T09:06:28.379517872Z",
+  "model": "glm-4.5"
+}

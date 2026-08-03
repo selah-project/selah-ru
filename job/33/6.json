@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "job 33:6",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "Вот, я — как ты перед Элохим; из глины я — тоже я леплен",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Вот"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "как ты"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "перед Элохим"
+    },
+    {
+      "surface": "מחמר",
+      "gloss": "из глины"
+    },
+    {
+      "surface": "קרצתי",
+      "gloss": "леплен"
+    },
+    {
+      "surface": "גם",
+      "gloss": "тоже"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    }
+  ],
+  "timestamp": "2026-08-03T10:40:42.922869040Z",
+  "model": "glm-4.5"
+}

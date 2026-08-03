@@ -1,0 +1,40 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "и ⟨את⟩ иевусеев, и ⟨את⟩ амореев, и ⟨את⟩ гергашеев",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "иевусеев"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "иевусеев"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "амореев"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "амореев"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "гергашеев"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "гергашеев"
+    }
+  ],
+  "timestamp": "2026-08-02T17:53:24.817634943Z",
+  "model": "glm-4.5"
+}

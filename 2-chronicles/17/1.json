@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "2-chronicles 17:1",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И воцарился Иегошафат, сын его, вместо него, и укрепился над Израилем.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "и воцарился"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Иегошафат"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "сын его"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "вместо него"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "и укрепился"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израилем"
+    }
+  ],
+  "timestamp": "2026-08-03T13:46:54.804272952Z",
+  "model": "glm-4.5"
+}

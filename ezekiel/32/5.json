@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "ezekiel 32:5",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "И положу ⟨את⟩ плоть твою на горы, и наполню долины высотою твоею",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "и положу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "плоть твою"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "плоть твою"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "горы"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "и наполню"
+    },
+    {
+      "surface": "הגאיות",
+      "gloss": "долины"
+    },
+    {
+      "surface": "רמותך",
+      "gloss": "высотою твоею"
+    }
+  ],
+  "timestamp": "2026-08-03T04:55:30.932954336Z",
+  "model": "glm-4.5"
+}

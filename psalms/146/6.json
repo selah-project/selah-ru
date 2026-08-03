@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 146,
+  "translation": "Тот, кто сотворил ⟨את⟩ небеса и землю, ⟨את⟩ море и всё, что в нём; хранящий истину навеки.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "сотворивший"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "и землю"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨את⟩ море"
+    },
+    {
+      "surface": "הים",
+      "gloss": "море"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "⟨את⟩ всё"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "בם",
+      "gloss": "в нём"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "хранящий"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "истину"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навеки"
+    }
+  ],
+  "timestamp": "2026-08-03T09:16:19.091055277Z",
+  "model": "glm-4.5"
+}

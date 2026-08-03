@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "2-chronicles 17:12",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И Иегошафат шёл и рос до величия, и построил в Иудее крепости и города запасов",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Иегошафат"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "шёл"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "и рос"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "величия"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "и построил"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "в Иудее"
+    },
+    {
+      "surface": "בירניות",
+      "gloss": "крепости"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "и города"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "запасов"
+    }
+  ],
+  "timestamp": "2026-08-03T13:47:13.465622498Z",
+  "model": "glm-4.5"
+}

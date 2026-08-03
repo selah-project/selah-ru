@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "И приблизил Моше ⟨את⟩ их требование пред лицо ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "и приблизил"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "их требование"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "их требование"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред лицо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T21:40:19.711135667Z",
+  "model": "glm-4.5"
+}

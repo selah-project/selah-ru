@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И закололи ⟨את⟩ быка, и привели ⟨את⟩ отрока к Эли",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "закололи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "быка"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "быка"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "привели"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "отрока"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "отрока"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Эли"
+    }
+  ],
+  "timestamp": "2026-08-02T23:13:38.998981686Z",
+  "model": "glm-4.5"
+}

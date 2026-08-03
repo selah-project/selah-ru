@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "numbers 4:8",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И прострут поверх них garments из червленого багрянца, и покроют его покровом из skins тахаш, и вставят ⟨את⟩ брусья его",
+  "tokens": [
+    {
+      "surface": "ופרשו",
+      "gloss": "И прострут"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "поверх них"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "garments"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "из червленого багрянца"
+    },
+    {
+      "surface": "שני",
+      "gloss": "багрянца"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "и покроют"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "покровом из skins тахаш"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "покровом"
+    },
+    {
+      "surface": "עור",
+      "gloss": "skins"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "тахаш"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "и вставят"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "брусья его"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "брусья его"
+    }
+  ],
+  "timestamp": "2026-08-02T21:13:54.692602858Z",
+  "model": "glm-4.5"
+}

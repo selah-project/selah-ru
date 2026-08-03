@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "и поставил ⟨את⟩ menorah в шатёр собрания, напротив стола, к югу от мишкана",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "и поставил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "менору"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "менору"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "в шатёр"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "собрания"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "напротив"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "стола"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "стороне"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "мишкана"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "к югу"
+    }
+  ],
+  "timestamp": "2026-08-02T20:38:51.774385212Z",
+  "model": "glm-4.5"
+}

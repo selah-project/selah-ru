@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Кроме ⟨את⟩ всесожжения утра, которое — для continual burnt offering, делайте ⟨את⟩ эти",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "кроме"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "всесожжения"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "утра"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "для"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "continual burnt offering"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "делайте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эти"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "эти"
+    }
+  ],
+  "timestamp": "2026-08-02T21:41:08.319197877Z",
+  "model": "glm-4.5"
+}

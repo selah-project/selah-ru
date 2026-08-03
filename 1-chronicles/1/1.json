@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-chronicles 1:1",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Адам, Шет, Энош,",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Адам"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Шет"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Энош"
+    }
+  ],
+  "timestamp": "2026-08-03T12:35:27.186745193Z",
+  "model": "glm-4.5"
+}

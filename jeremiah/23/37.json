@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "jeremiah 23:37",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Так ты скажешь пророку: что ЯХВЕ ответил тебе? и что ЯХВЕ говорил?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "скажешь"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророку"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "ענך",
+      "gloss": "ответил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T03:29:02.098078180Z",
+  "model": "glm-4.5"
+}

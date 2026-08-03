@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "genesis 45:26",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 45,
+  "translation": "и объявили ему, говоря: ещё Йосеф жив, и ⟨он⟩ правит всею землею Мицраим; и упало сердце его, потому что не поверил им",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "и объявили"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ещё"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жив"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "и"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "משל",
+      "gloss": "правит"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "всею"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землею"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "ויפג",
+      "gloss": "и упало"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "сердце его"
+    },
+    {
+      "surface": "כי",
+      "gloss": "потому что"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "поверил"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    }
+  ],
+  "timestamp": "2026-08-02T19:50:05.627520499Z",
+  "model": "glm-4.5"
+}

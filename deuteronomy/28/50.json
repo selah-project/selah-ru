@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "народ суровый ⟨по⟩ лицу, который не поднимет лица к старцу, и к юноше ⟨не⟩ окажет милости",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "суровый"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "⟨по⟩ лицу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "поднимет"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лица"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "к старцу"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "и к юноше"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "окажет милости"
+    }
+  ],
+  "timestamp": "2026-08-02T22:18:11.616204146Z",
+  "model": "glm-4.5"
+}

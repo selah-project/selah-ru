@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "deuteronomy 1:37",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Также и на меня ⟨был⟩ разгневан ЯХВЕ из-за вас, говоря: также и ты не войдёшь туда",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Также"
+    },
+    {
+      "surface": "בי",
+      "gloss": "на меня"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "⟨был⟩ разгневан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "из-за вас"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "גם",
+      "gloss": "также"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "и ты"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "войдёшь"
+    },
+    {
+      "surface": "שם",
+      "gloss": "туда"
+    }
+  ],
+  "timestamp": "2026-08-02T21:51:35.579671097Z",
+  "model": "glm-4.5"
+}

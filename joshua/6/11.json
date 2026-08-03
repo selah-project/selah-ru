@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "joshua 6:11",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И обошёл ковчег ЯХВЕ ⟨город⟩, обходя один раз; и пришли ⟨в⟩ стан, и ночевали в стане.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "И обошёл"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "город"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "город"
+    },
+    {
+      "surface": "הקף",
+      "gloss": "обходя"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "раз"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "один"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "и пришли"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "⟨в⟩ стан"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "и ночевали"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "в стане"
+    }
+  ],
+  "timestamp": "2026-08-02T22:29:21.999243928Z",
+  "model": "glm-4.5"
+}

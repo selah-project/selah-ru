@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "2-samuel 22:11",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И Он воссел на херувима, и полетел, и явился на крыльях ветра",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "И Он воссел"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "херувима"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "и полетел"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "и явился"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "крыльях"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ветра"
+    }
+  ],
+  "timestamp": "2026-08-03T00:11:33.618959076Z",
+  "model": "glm-4.5"
+}

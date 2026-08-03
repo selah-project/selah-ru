@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 148,
+  "translation": "Хвалите Его, все Его ангелы; хвалите Его, все Его воинства.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "хвалите Его"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "Его ангелы"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "хвалите Его"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "Его воинства"
+    }
+  ],
+  "timestamp": "2026-08-03T09:18:02.194982512Z",
+  "model": "glm-4.5"
+}

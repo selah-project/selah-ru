@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "а Ханне давал ⟨одну⟩ долю ⟨носов⟩, ибо ⟨את⟩ Ханну любил, а ЯХВЕ закрыл её утробу",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "а Ханне"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "давал"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "⟨долю⟩"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "⟨одину⟩"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "⟨носов⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ханну"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Ханну"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "любил"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "а ЯХВЕ"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "закрыл"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "утробу"
+    }
+  ],
+  "timestamp": "2026-08-02T23:13:56.460900444Z",
+  "model": "glm-4.5"
+}

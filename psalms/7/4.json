@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "ЯХВЕ, мой Элохим, если ⟨я⟩ сделал это; если ⟨есть⟩ зло в моих руках,",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "мой Элохим"
+    },
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "⟨я⟩ сделал"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "это"
+    },
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨есть⟩"
+    },
+    {
+      "surface": "עול",
+      "gloss": "зло"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "в моих руках"
+    }
+  ],
+  "timestamp": "2026-08-03T06:37:12.486632267Z",
+  "model": "glm-4.5"
+}

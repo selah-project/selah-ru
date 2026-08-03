@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Молитва Хаваккука, пророка, на Шигайо̆нот.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Молитва"
+    },
+    {
+      "surface": "לחבקוק",
+      "gloss": "Хаваккука"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророка"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שגינות",
+      "gloss": "Шигайо̆нот"
+    }
+  ],
+  "timestamp": "2026-08-03T05:59:43.613868911Z",
+  "model": "glm-4.5"
+}

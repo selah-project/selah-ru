@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "song-of-songs 1:16",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Вот ты красив, возлюбленный мой, да и приятен, да и ложе наше — из verdant зелени",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "Вот ты"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "красив"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "возлюбленный мой"
+    },
+    {
+      "surface": "אף",
+      "gloss": "да и"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "приятен"
+    },
+    {
+      "surface": "אף",
+      "gloss": "да и"
+    },
+    {
+      "surface": "ערשנו",
+      "gloss": "ложе наше"
+    },
+    {
+      "surface": "רעננה",
+      "gloss": "из verdant зелени"
+    }
+  ],
+  "timestamp": "2026-08-03T18:37:56.065390986Z",
+  "model": "glm-4.5"
+}

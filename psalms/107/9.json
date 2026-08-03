@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 107,
+  "translation": "Ибо ⟨Он⟩ насытил жаждущую нефеш, и голодную нефеш наполнил благом.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "насытил"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нефеш"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "жаждущую"
+    },
+    {
+      "surface": "ו",
+      "gloss": "и"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нефеш"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "голодную"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "наполнил"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "благом"
+    }
+  ],
+  "timestamp": "2026-08-03T08:38:53.787750310Z",
+  "model": "glm-4.5"
+}

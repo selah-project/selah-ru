@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "isaiah 37:18",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "Поистине, ЯХВЕ, цари Ашшура опустошили ⟨את⟩ все страны и ⟨את⟩ их землю",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Поистине"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "опустошили"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "цари"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшура"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "все страны"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "страны"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "их землю"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "их землю"
+    }
+  ],
+  "timestamp": "2026-08-03T02:22:14.600416881Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "2-kings 23:37",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "И сделал ⟨он⟩ зло в глазах ЯХВЕ, как всё, что сделали отцы его",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И сделал"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в глазах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "как всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "сделали"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "отцы его"
+    }
+  ],
+  "timestamp": "2026-08-03T01:35:36.888898731Z",
+  "model": "glm-4.5"
+}

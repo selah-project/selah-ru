@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "время искать, и время терять; время хранить, и время бросать;",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "время"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "искать"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и время"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "терять"
+    },
+    {
+      "surface": "עת",
+      "gloss": "время"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "хранить"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и время"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "бросать"
+    }
+  ],
+  "timestamp": "2026-08-03T11:17:56.148779135Z",
+  "model": "glm-4.5"
+}

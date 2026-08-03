@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "Обратись ко мне и помилуй меня, ибо я одинок и беден я.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "обратись"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ко мне"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "и помилуй меня"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "одинок"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "и беден"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    }
+  ],
+  "timestamp": "2026-08-03T07:01:07.108728015Z",
+  "model": "glm-4.5"
+}

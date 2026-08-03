@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Сказал я в сердце моём: «Иди же, испытаю тебя радостью и посмотри на благо»; и ⟨вот⟩, даже это — ⟨суета⟩.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "в сердце моём"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "иди"
+    },
+    {
+      "surface": "נא",
+      "gloss": "же"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "испытаю"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "радостью"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "и посмотри"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "на благо"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ⟨вот⟩"
+    },
+    {
+      "surface": "גם",
+      "gloss": "даже"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "оно"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "⟨суета⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T11:16:07.257283932Z",
+  "model": "glm-4.5"
+}

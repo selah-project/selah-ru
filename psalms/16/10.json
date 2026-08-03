@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "ибо ⟨ты⟩ не оставишь душу мою в Шеоле, не дашь хасида твоего увидеть яму",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "оставишь"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душу мою"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "в Шеоле"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "дашь"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "хасида твоего"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "увидеть"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "яму"
+    }
+  ],
+  "timestamp": "2026-08-03T06:45:17.666454354Z",
+  "model": "glm-4.5"
+}

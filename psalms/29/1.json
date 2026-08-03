@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "Псалом Давиду. Воздайте ЯХВЕ, сыны Элима, воздайте ЯХВЕ славу и мощь",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Псалом"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиду"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "воздайте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "Элима"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "воздайте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славу"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "и мощь"
+    }
+  ],
+  "timestamp": "2026-08-03T07:05:07.196076137Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "jeremiah 25:25",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "и ⟨את⟩ всех царей Зимри, и ⟨את⟩ всех царей Елама, и ⟨את⟩ всех царей Мидии",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "всех"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "царей"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Зимри"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "всех"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "царей"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Елама"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "всех"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "царей"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Мидии"
+    }
+  ],
+  "timestamp": "2026-08-03T03:31:17.104485099Z",
+  "model": "glm-4.5"
+}

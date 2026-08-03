@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Не будь слишком ⟨зло⟩умён и не будь глупцом: зачем тебе умирать не ⟨в⟩ твоё время?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "будь слишком ⟨зло⟩умён"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "слишком"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "будь"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "глупцом"
+    },
+    {
+      "surface": "למה",
+      "gloss": "зачем"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "умирать"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "не ⟨в⟩"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "твоё время"
+    }
+  ],
+  "timestamp": "2026-08-03T11:21:49.605457355Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "ezekiel 30:15",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "и изолью ярость мою на Син, крепость Мицраима, и ссеку ⟨את⟩ толпу Но",
+  "tokens": [
+    {
+      "surface": "ושפכתי",
+      "gloss": "и изолью"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "ярость мою"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "סין",
+      "gloss": "Син"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "крепость"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраима"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "и ссеку"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "толпу"
+    },
+    {
+      "surface": "המון",
+      "gloss": "толпу"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Но"
+    }
+  ],
+  "timestamp": "2026-08-03T04:53:52.028559427Z",
+  "model": "glm-4.5"
+}

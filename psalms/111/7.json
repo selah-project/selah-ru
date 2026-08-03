@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 111,
+  "translation": "Дела рук Его — истина и суд; все повеления Его верны.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "Дела"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "рук Его"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "истина"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "и суд"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "верны"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "повеления Его"
+    }
+  ],
+  "timestamp": "2026-08-03T08:43:07.934866319Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 58,
+  "ref": "ezekiel 16:58",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "⟨את⟩ твою злую волю и ⟨את⟩ твои мерзости ты несёшь, — слово ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "твою злую волю"
+    },
+    {
+      "surface": "זמתך",
+      "gloss": "твою злую волю"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "твои мерзости"
+    },
+    {
+      "surface": "תועבותיך",
+      "gloss": "твои мерзости"
+    },
+    {
+      "surface": "את",
+      "gloss": "ты"
+    },
+    {
+      "surface": "נשאתים",
+      "gloss": "несёшь"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T04:35:40.724082704Z",
+  "model": "glm-4.5"
+}

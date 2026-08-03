@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "2-chronicles 29:14",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "и из сыновей Эмана — Йехиэль и Шимей, и из сыновей Идитуна — Шемайя и Уззиэль",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "и из"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "הימן",
+      "gloss": "Эмана"
+    },
+    {
+      "surface": "יחואל",
+      "gloss": "Йехиэль"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "и Шимей"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и из"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Идитуна"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемайя"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "и Уззиэль"
+    }
+  ],
+  "timestamp": "2026-08-03T14:04:33.599119997Z",
+  "model": "glm-4.5"
+}

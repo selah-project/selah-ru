@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И увидел ⟨Ты⟩ ⟨את⟩ страдание отцов наших в Египте, и ⟨את⟩ вопль их услышал ⟨Ты⟩ у Ям Суф",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "и увидел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "страдание"
+    },
+    {
+      "surface": "עני",
+      "gloss": "страдание"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "отцов наших"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "в Египте"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "вопль их"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "вопль их"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "услышал"
+    },
+    {
+      "surface": "על",
+      "gloss": "у"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Ям"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Суф"
+    }
+  ],
+  "timestamp": "2026-08-03T12:26:35.894771904Z",
+  "model": "glm-4.5"
+}

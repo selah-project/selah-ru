@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 46,
+  "translation": "Вот сыновья Рахели, которые родились Яакову, все души — четырнадцать.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахели"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "родились"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яакову"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "души"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "четырнадцать"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-02T19:50:24.142467679Z",
+  "model": "glm-4.5"
+}

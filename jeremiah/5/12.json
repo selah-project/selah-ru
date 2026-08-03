@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "jeremiah 5:12",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Они солгали против ЯХВЕ и сказали: «Он не ⟨есть⟩, и не придёт на нас ⟨зло⟩, ни меч, и голод — не увидим».",
+  "tokens": [
+    {
+      "surface": "כחשו",
+      "gloss": "Они солгали"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "против ЯХВЕ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и сказали"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Он"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "придёт"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "на нас"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "⟨зло⟩"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "ни меч"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "и голод"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "увидим"
+    }
+  ],
+  "timestamp": "2026-08-03T03:03:58.728270588Z",
+  "model": "glm-4.5"
+}

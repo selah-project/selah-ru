@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "1-chronicles 7:11",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Всё ⟨это⟩ сыновья Идиаэля, главы ⟨отцов⟩,mighty men ⟨силою⟩, семнадцать тысяч и двести выходящих ⟨в⟩ ополчение на войну.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Всё"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "⟨это⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "ידיעאל",
+      "gloss": "Идиаэля"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "главы"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "⟨отцов⟩"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "mighty men"
+    },
+    {
+      "surface": "חילים",
+      "gloss": "⟨силою⟩"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "семнадцать"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "тысяч"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "и двести"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "выходящих"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "⟨в⟩"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ополчение"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "на войну"
+    }
+  ],
+  "timestamp": "2026-08-03T12:47:11.956251685Z",
+  "model": "glm-4.5"
+}

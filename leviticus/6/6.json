@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Огонь непрерывный ⟨будет⟩ гореть на ⟨жертвеннике⟩; не ⟨да⟩ угаснет.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "огонь"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "непрерывный"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "⟨будет⟩ гореть"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "⟨жертвеннике⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не ⟨да⟩"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "угаснет"
+    }
+  ],
+  "timestamp": "2026-08-02T20:45:25.014077050Z",
+  "model": "glm-4.5"
+}

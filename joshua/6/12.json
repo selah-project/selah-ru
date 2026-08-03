@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И Иегошуа встал утром, и священники понесли ⟨את⟩ ковчег ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "и встал"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Иегошуа"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "утром"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "и понесли"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "священники"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ковчег"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T22:28:53.155421183Z",
+  "model": "glm-4.5"
+}

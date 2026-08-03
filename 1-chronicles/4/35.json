@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "1-chronicles 4:35",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "и Йоэль и Йегу сын Йошивии сын Серайи сына Асиэля",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "и Йоэль"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "и Йегу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "יושביה",
+      "gloss": "Йошивии"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Серайи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "עשיאל",
+      "gloss": "Асиэля"
+    }
+  ],
+  "timestamp": "2026-08-03T12:41:05.983940724Z",
+  "model": "glm-4.5"
+}

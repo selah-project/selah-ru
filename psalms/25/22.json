@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "Выкупи, Элохим, ⟨את⟩ Израиля из всех его теснин",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Выкупи"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Израиля"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "из всех"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "его теснин"
+    }
+  ],
+  "timestamp": "2026-08-03T07:01:01.308934990Z",
+  "model": "glm-4.5"
+}

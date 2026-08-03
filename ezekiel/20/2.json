@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "ezekiel 20:2",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И было слово ЯХВЕ ко мне, говоря:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ко мне"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря:"
+    }
+  ],
+  "timestamp": "2026-08-03T04:40:01.486784594Z",
+  "model": "glm-4.5"
+}

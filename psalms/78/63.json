@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 63,
+  "ref": "psalms 78:63",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 78,
+  "translation": "Огонь поглотил ⟨их⟩ юношей, и ⟨их⟩ девы не ⟨были⟩ воспеты",
+  "tokens": [
+    {
+      "surface": "בחוריו",
+      "gloss": "⟨их⟩ юношей"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "поглотил"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огонь"
+    },
+    {
+      "surface": "ובתולתיו",
+      "gloss": "и ⟨их⟩ девы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הוללו",
+      "gloss": "⟨были⟩ воспеты"
+    }
+  ],
+  "timestamp": "2026-08-03T08:04:54.617417040Z",
+  "model": "glm-4.5"
+}

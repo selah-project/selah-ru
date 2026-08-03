@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "Проклят ⟨тот⟩, кто не утвердит ⟨את⟩ слова этой Торы, чтобы исполнять их, и скажет весь народ: амен.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Проклят"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨тот⟩, кто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "утвердит"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слова этой Торы"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "этой Торы"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "этой"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "чтобы исполнять"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "их"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и скажет"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "амен"
+    }
+  ],
+  "timestamp": "2026-08-02T22:16:37.357752043Z",
+  "model": "glm-4.5"
+}

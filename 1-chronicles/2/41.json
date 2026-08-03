@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И Шаллум родил ⟨את⟩ Йекамью, и Йекамья родил ⟨את⟩ Элишаму.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "И Шаллум"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "родил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йекамью"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Йекамью"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "и Йекамья"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "родил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элишаму"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Элишаму"
+    }
+  ],
+  "timestamp": "2026-08-03T12:38:20.882241051Z",
+  "model": "glm-4.5"
+}

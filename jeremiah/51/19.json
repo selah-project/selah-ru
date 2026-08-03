@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "jeremiah 51:19",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 51,
+  "translation": "Не как эти — часть Яакова, ибо Творец всего ⟨Он⟩, и жезл наследия его — ЯХВЕ Цеваот, имя ⟨Его⟩",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "как эти"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "часть"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Яакова"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "Творец"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "всего"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Он⟩"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "и жезл"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "наследия его"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "имя ⟨Его⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T04:12:59.163844745Z",
+  "model": "glm-4.5"
+}

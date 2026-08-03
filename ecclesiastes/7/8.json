@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Конец ⟨дела⟩ лучше ⟨начала⟩ его; ⟨терпеливый⟩ духом лучше ⟨высокомерного⟩ духом.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "лучше"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "конец"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "дела"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "начала"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "лучше"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "терпеливый"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "духом"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "высокомерного"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "духом"
+    }
+  ],
+  "timestamp": "2026-08-03T11:21:52.566197624Z",
+  "model": "glm-4.5"
+}

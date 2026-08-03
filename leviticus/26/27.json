@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "leviticus 26:27",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "И если за это не послушаетесь Меня, и пойдёте ⟨со⟩ Мной во вражде,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "И если"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "за это"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "послушаетесь"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Меня"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "и пойдёте"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "⟨со⟩ Мной"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "во вражде"
+    }
+  ],
+  "timestamp": "2026-08-02T21:07:15.717339924Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "Вспомни, ЯХВЕ, милосердия Твои и хесед Твой, ибо издавна ⟨они⟩",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Вспомни"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "милосердия Твои"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "и хесед Твой"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "издавна"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨они⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T07:00:46.632182832Z",
+  "model": "glm-4.5"
+}

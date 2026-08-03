@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "1-chronicles 20:8",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "Эти родились у Рафы в Гате и пали ⟨את⟩ рукою Давида и ⟨את⟩ рукою рабов его",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Эти"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "родились"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "у Рафы"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "в Гате"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "и пали"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "рукою"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "рукою"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "и ⟨את⟩ рукою"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "рабов его"
+    }
+  ],
+  "timestamp": "2026-08-03T13:05:36.608797493Z",
+  "model": "glm-4.5"
+}

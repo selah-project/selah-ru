@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Нет речи ⟨и⟩ нет слов, не слышен ⟨их⟩ голос.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Нет"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "речи"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "⟨и⟩ нет"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "слов"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "не слышен"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "⟨их⟩"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "голос"
+    }
+  ],
+  "timestamp": "2026-08-03T06:52:40.145232644Z",
+  "model": "glm-4.5"
+}

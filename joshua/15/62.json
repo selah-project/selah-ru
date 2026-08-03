@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 62,
+  "ref": "joshua 15:62",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "и Нибшан и Город Соли и Эйн-Геди городов шесть и их посёлки",
+  "tokens": [
+    {
+      "surface": "והנבשן",
+      "gloss": "и Нибшан"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "и Город"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Соли"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "и Эйн-Геди"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "—"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "городов шесть"
+    },
+    {
+      "surface": "שש",
+      "gloss": "—"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "и их посёлки"
+    }
+  ],
+  "timestamp": "2026-08-02T22:39:39.493613974Z",
+  "model": "glm-4.5"
+}

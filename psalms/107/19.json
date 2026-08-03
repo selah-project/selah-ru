@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 107,
+  "translation": "И возопили они к ЯХВЕ в беде своей, и спас Он их от скорбей их",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "И возопили"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "в беде"
+    },
+    {
+      "surface": "להם",
+      "gloss": "своей"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "от скорбей их"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "и спас Он их"
+    }
+  ],
+  "timestamp": "2026-08-03T08:38:53.178666973Z",
+  "model": "glm-4.5"
+}

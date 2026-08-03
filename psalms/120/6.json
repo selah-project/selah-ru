@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 120,
+  "translation": "Долго жила ⟨моей⟩ душой ⟨с⟩ ненавидящим шалом",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Долго"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "жила"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨моей⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душой"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ненавидящим"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "шалом"
+    }
+  ],
+  "timestamp": "2026-08-03T08:56:11.602251574Z",
+  "model": "glm-4.5"
+}

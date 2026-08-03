@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "proverbs 6:21",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Свяжи ⟨их⟩ на сердце своём всегда, обвяжи ⟨их⟩ на гортани своей",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "свяжи"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "сердце своё"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "всегда"
+    },
+    {
+      "surface": "ענדם",
+      "gloss": "обвяжи"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "גרגרתך",
+      "gloss": "гортань свою"
+    }
+  ],
+  "timestamp": "2026-08-03T09:27:26.253003204Z",
+  "model": "glm-4.5"
+}

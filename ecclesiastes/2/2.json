@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Сме́ху я сказал: ⟨это⟩ безумие; а ра́дости: что ⟨это⟩ де́лает?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "Сме́ху"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "я сказал"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "⟨это⟩ безумие"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "а ра́дости"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨это⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "де́лает"
+    }
+  ],
+  "timestamp": "2026-08-03T11:16:24.894014516Z",
+  "model": "glm-4.5"
+}

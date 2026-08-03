@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 51,
+  "translation": "Верни мне радость спасения Твоего, и Руахю благородною uphold ⟨меня⟩",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "Верни"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "радость"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "спасения Твоего"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "и Руахю"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "благородною"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "uphold ⟨меня⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T07:30:00.423140517Z",
+  "model": "glm-4.5"
+}

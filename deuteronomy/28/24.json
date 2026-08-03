@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "даст ЯХВЕ ⟨את⟩ дождь земли твоей прах и пепел; с неба сойдёт на тебя до исчезновения твоего.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "даст"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дождь земли твоей"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "дождь"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "земли твоей"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "прах"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "и пепел"
+    },
+    {
+      "surface": "מן",
+      "gloss": "с"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "неба"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "сойдёт"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "на тебя"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "исчезновения твоего"
+    }
+  ],
+  "timestamp": "2026-08-02T22:17:43.885001735Z",
+  "model": "glm-4.5"
+}

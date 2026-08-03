@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 65,
+  "ref": "lamentations 3:65",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Дай им ожесточение сердца, ⟨את⟩ проклятие Твоё им.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "Дай"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "מגנת",
+      "gloss": "ожесточение"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сердца"
+    },
+    {
+      "surface": "תאלתך",
+      "gloss": "проклятие Твоё"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им",
+      "marks": "проклятие Твоё"
+    }
+  ],
+  "timestamp": "2026-08-03T11:12:59.513541199Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "Храни ⟨свой⟩ язык от зла и ⟨свои⟩ губы от речи коварной",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Храни"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "⟨свой⟩ язык"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "от зла"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "и ⟨свои⟩ губы"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "от речи"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "коварной"
+    }
+  ],
+  "timestamp": "2026-08-03T07:10:24.487752687Z",
+  "model": "glm-4.5"
+}

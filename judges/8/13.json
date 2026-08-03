@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "judges 8:13",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И вернулся Гидеон, сын Иоаса, ⟨из⟩ войны ⟨с⟩ восхождения Херес.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "И вернулся"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Гидеон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Иоаса"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨из⟩"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "войны"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "⟨с⟩ восхождения"
+    },
+    {
+      "surface": "החרס",
+      "gloss": "Херес",
+      "marks": "Херес"
+    }
+  ],
+  "timestamp": "2026-08-02T22:58:03.058713297Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 51,
+  "translation": "Адонай, открой уста мои, и ⟨мой⟩ рот возвестит хвалу Твою",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "уста мои"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "открой"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "и ⟨мой⟩ рот"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "возвестит"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "хвалу Твою"
+    }
+  ],
+  "timestamp": "2026-08-03T07:29:55.867812085Z",
+  "model": "glm-4.5"
+}

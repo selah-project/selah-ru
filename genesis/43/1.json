@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 43,
+  "translation": "И ⟨את⟩ голод тяжкий ⟨был⟩ в ⟨את⟩ земле",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "И ⟨את⟩ голод"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "тяжкий"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в ⟨את⟩ земле"
+    }
+  ],
+  "timestamp": "2026-08-02T19:47:03.131105547Z",
+  "model": "glm-4.5"
+}

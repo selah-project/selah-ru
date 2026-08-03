@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "И послушался Яаков отца ⟨своего⟩ и ⟨своей⟩ матери, и пошёл в Падан-Арам,",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "И послушался"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨своего⟩",
+      "marks": "отца"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "отца"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и ⟨своей⟩",
+      "marks": "матери"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "матери"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и пошёл"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Падан"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам,"
+    }
+  ],
+  "timestamp": "2026-08-02T19:28:13.037753812Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 43,
+  "ref": "joshua 10:43",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И вернулся Иехошуа и весь ⟨Йисраэль⟩ с ним ⟨в⟩ лагерь ⟨в⟩ Гилгал",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "И вернулся"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Иехошуа"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и весь"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨Йисраэль⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с ним"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨в⟩"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "лагерь"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "⟨в⟩ Гилгал"
+    }
+  ],
+  "timestamp": "2026-08-02T22:34:42.549098264Z",
+  "model": "glm-4.5"
+}

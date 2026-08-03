@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Разве моя сила — сила камней, или ⟨и⟩ плоть моя — медная?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Разве"
+    },
+    {
+      "surface": "כח",
+      "gloss": "сила"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "камней"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "сила моя"
+    },
+    {
+      "surface": "אם",
+      "gloss": "или"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "плоть моя"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "медная"
+    }
+  ],
+  "timestamp": "2026-08-03T10:15:00.525612189Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 48,
+  "translation": "Элохим известен в её дворцах как защитник",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "в ⟨её⟩ дворцах"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "известен"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "как защитник"
+    }
+  ],
+  "timestamp": "2026-08-03T07:26:13.585097980Z",
+  "model": "glm-4.5"
+}

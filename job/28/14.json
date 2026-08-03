@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "job 28:14",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Бездна говорит: «Она ⟨не⟩ во мне»; и море говорит: «Нет ⟨её⟩ со мной»",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Бездна"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "говорит"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "בי",
+      "gloss": "во мне"
+    },
+    {
+      "surface": "היא",
+      "gloss": "Она"
+    },
+    {
+      "surface": "וים",
+      "gloss": "и море"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "говорит"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Нет"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "со мной"
+    }
+  ],
+  "timestamp": "2026-08-03T10:34:15.605948361Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Хорошо, что ты ухватишься за это, но ⟨и⟩ от того не отпускай ⟨את⟩ руку твою, ибо боящийся Элохима выйдет ⟨из⟩ ⟨את⟩ них ⟨всех⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "хорошо"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "ты ухватишься"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "за это"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "но ⟨и⟩"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "от того"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "отпускай"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "руку твою"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "руку твою"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "боящийся"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохима"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "выйдет"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "них ⟨всех⟩"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "них ⟨всех⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T11:22:20.398726617Z",
+  "model": "glm-4.5"
+}

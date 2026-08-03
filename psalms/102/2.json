@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 102,
+  "translation": "ЯХВЕ, услышь молитву мою, и вопль мой да придёт к Тебе",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "услышь"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "молитву мою"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "и вопль мой"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "к Тебе"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "да придёт"
+    }
+  ],
+  "timestamp": "2026-08-03T08:30:21.673433359Z",
+  "model": "glm-4.5"
+}

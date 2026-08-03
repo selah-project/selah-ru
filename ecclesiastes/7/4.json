@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Сердце мудрецов ⟨находится⟩ в доме траура, а сердце глупцов — в доме веселья.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Сердце"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудрецов"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "⟨находится⟩ в доме"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "траура"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "а сердце"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "глупцов"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "⟨находится⟩ в доме"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "веселья"
+    }
+  ],
+  "timestamp": "2026-08-03T11:21:32.490231786Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "1-samuel 14:8",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И сказал Йонатан: вот, мы перейдём к этим людям и откроемся им",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йонатан"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "мы"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "перейдём"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "эти́м людям"
+    },
+    {
+      "surface": "ונגלינו",
+      "gloss": "и откроемся"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "им"
+    }
+  ],
+  "timestamp": "2026-08-02T23:25:00.538523845Z",
+  "model": "glm-4.5"
+}

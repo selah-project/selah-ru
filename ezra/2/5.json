@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Сыновья Араха: семьсот семьдесят пять",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "Араха"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семьсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотен"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пять"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "и семьдесят"
+    }
+  ],
+  "timestamp": "2026-08-03T11:57:50.220806609Z",
+  "model": "glm-4.5"
+}

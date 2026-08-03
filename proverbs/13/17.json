@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "Посол нечестивого падает в беду, а верный вестник — ⟨здоровье⟩.",
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "посол"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "нечестивого"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "падает"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "в беду"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "а верный вестник"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "верный"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "здоровье"
+    }
+  ],
+  "timestamp": "2026-08-03T09:37:13.917440789Z",
+  "model": "glm-4.5"
+}

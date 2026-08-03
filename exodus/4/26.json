@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "exodus 4:26",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "и祂 отпустил его; тогда ⟨она⟩ сказала: жених крови из-за обрезания",
+  "tokens": [
+    {
+      "surface": "וירף",
+      "gloss": "иОн отпустил"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "от него"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тогда"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "сказала"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "жених"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "крови"
+    },
+    {
+      "surface": "למולת",
+      "gloss": "из-за обрезания"
+    }
+  ],
+  "timestamp": "2026-08-02T19:58:36.223366435Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "1-chronicles 11:33",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Азмавет Бахрумит, Элияхба Шаалбонит,",
+  "tokens": [
+    {
+      "surface": "עזמות",
+      "gloss": "Азмавет"
+    },
+    {
+      "surface": "הבחרומי",
+      "gloss": "Бахрумит"
+    },
+    {
+      "surface": "אליחבא",
+      "gloss": "Элияхба"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "Шаалбонит"
+    }
+  ],
+  "timestamp": "2026-08-03T12:53:59.030696987Z",
+  "model": "glm-4.5"
+}

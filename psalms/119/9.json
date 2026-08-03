@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Чем юноша очистит ⟨את⟩ путь свой? — хранить ⟨according⟩ Твоему слову.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "Чем"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "очистит"
+    },
+    {
+      "surface": "נער",
+      "gloss": "юноша"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "путь свой"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "путь свой"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "хранить"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "Твоему слову"
+    }
+  ],
+  "timestamp": "2026-08-03T08:49:50.979021502Z",
+  "model": "glm-4.5"
+}

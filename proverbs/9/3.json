@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Она послала ⟨своих⟩ служанок, она возвещает ⟨съ⟩ вершин высот ⟨города⟩",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "послала"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "служанок"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "возвещает"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨съ⟩"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "вершин"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "высот"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "⟨города⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T09:31:40.104876015Z",
+  "model": "glm-4.5"
+}

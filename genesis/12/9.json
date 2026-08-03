@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И отправился Аврам, ⟨продолжая⟩ идти и продвигаться к Негеву.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "И отправился"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "идти"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "продвигаться"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "к Негеву"
+    }
+  ],
+  "timestamp": "2026-08-02T19:09:20.578815560Z",
+  "model": "glm-4.5"
+}

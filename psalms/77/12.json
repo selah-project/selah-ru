@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 77,
+  "translation": "Я упоминаю деяния Ях, ибо вспоминаю чудеса Твои издревле",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "упоминаю"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "деяния"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "вспоминаю"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "издревле"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "чудеса Твои"
+    }
+  ],
+  "timestamp": "2026-08-03T07:59:59.092733047Z",
+  "model": "glm-4.5"
+}

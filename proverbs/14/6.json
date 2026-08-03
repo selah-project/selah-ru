@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "proverbs 14:6",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Ищет ⟨есть⟩ насмешник хохму, и её нет; а знание разумному ⟨есть⟩ легко",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "Ищет"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "насмешник"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "хохму"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и её нет"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "а знание"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "разумному"
+    },
+    {
+      "surface": "נקל",
+      "gloss": "⟨есть⟩ легко"
+    }
+  ],
+  "timestamp": "2026-08-03T09:37:57.043000602Z",
+  "model": "glm-4.5"
+}

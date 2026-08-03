@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "exodus 25:14",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "и вставить ⟨את⟩ шесты ⟨בטבעת⟩ на боках Ковчега, чтобы нести ⟨את⟩ Ковчег ими",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "и вставить"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "шесты"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "шесты"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "⟨в кольца⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "боках"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Ковчега"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "чтобы нести"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ковчег"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Ковчег"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ими"
+    }
+  ],
+  "timestamp": "2026-08-02T20:18:41.968110224Z",
+  "model": "glm-4.5"
+}

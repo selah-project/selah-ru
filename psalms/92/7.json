@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 92,
+  "translation": "Грубый человек не знает, и глупец не понимает ⟨את⟩ это",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "человек"
+    },
+    {
+      "surface": "בער",
+      "gloss": "грубый"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знает"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "и глупец"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "понимает"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "это"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "это"
+    }
+  ],
+  "timestamp": "2026-08-03T08:21:28.683103528Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "proverbs 25:14",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "Облака и ветер, и дождя нет — человек, хвалящийся ⟨даром⟩ лжи.",
+  "tokens": [
+    {
+      "surface": "נשיאים",
+      "gloss": "облака"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "и ветер"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "и дождя"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человек"
+    },
+    {
+      "surface": "מתהלל",
+      "gloss": "хвалящийся"
+    },
+    {
+      "surface": "במתת",
+      "gloss": "⟨даром⟩",
+      "marks": "дара"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лжи"
+    }
+  ],
+  "timestamp": "2026-08-03T10:00:02.595139538Z",
+  "model": "glm-4.5"
+}

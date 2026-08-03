@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "1-chronicles 21:28",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "В то время, увидев Давид, что ЯХВЕ ответил ему на гумне Орнана Иевусея, ⟨он⟩ принёс там жертву.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "В то время"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "—"
+    },
+    {
+      "surface": "בראות",
+      "gloss": "увидев"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "ответил ему"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "на гумне"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Орнана"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Иевусея"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "принёс жертву"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    }
+  ],
+  "timestamp": "2026-08-03T13:07:19.050979413Z",
+  "model": "glm-4.5"
+}

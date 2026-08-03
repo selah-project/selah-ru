@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "И написал Моше ⟨эту⟩ песнь в ⟨тот⟩ день, и научил ⟨ею⟩ сынов Израиля",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "И написал"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эту песнь"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "песнь"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "эту"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в ⟨тот⟩ день"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тот"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "и научил ⟨ею⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сынов Израиля"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-02T22:21:23.216551411Z",
+  "model": "glm-4.5"
+}

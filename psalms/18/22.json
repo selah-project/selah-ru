@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Ибо ⟨я⟩ хранил пути ЯХВЕ и ⟨не⟩ отступил ⟨зло⟩ от Элогим ⟨моего⟩",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "⟨я⟩ хранил"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "пути"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и ⟨не⟩"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "отступил ⟨зло⟩"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "от Элогим ⟨моего⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T06:51:31.533496579Z",
+  "model": "glm-4.5"
+}

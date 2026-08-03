@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "proverbs 23:34",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "И ты будешь как спящий в сердце моря, и как спящий на верху мачты",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "И ты будешь"
+    },
+    {
+      "surface": "כשכב",
+      "gloss": "как спящий"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "в сердце"
+    },
+    {
+      "surface": "ים",
+      "gloss": "моря"
+    },
+    {
+      "surface": "וכשכב",
+      "gloss": "и как спящий"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "на верху"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "мачты"
+    }
+  ],
+  "timestamp": "2026-08-03T09:54:42.236344150Z",
+  "model": "glm-4.5"
+}

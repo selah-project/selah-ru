@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "jeremiah 35:5",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "И я поставил перед сынами дома Рехавитов кубки, полные вина, и чаши, и сказал им: пейте вино.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "И я поставил"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынами"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "Рехавитов"
+    },
+    {
+      "surface": "גבעים",
+      "gloss": "кубки"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "полные"
+    },
+    {
+      "surface": "יין",
+      "gloss": "вина"
+    },
+    {
+      "surface": "וכסות",
+      "gloss": "и чаши"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "пейте"
+    },
+    {
+      "surface": "יין",
+      "gloss": "вино"
+    }
+  ],
+  "timestamp": "2026-08-03T03:49:11.647097629Z",
+  "model": "glm-4.5"
+}

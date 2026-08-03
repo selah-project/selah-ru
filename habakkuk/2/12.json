@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Горе строящему город ⟨в⟩ крови и основывающему город ⟨в⟩ нечестии",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Горе"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "строящему"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "город"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "⟨в⟩ крови"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "и основывающему"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "город"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "⟨в⟩ нечестии"
+    }
+  ],
+  "timestamp": "2026-08-03T05:58:05.346227672Z",
+  "model": "glm-4.5"
+}

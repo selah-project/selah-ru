@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "deuteronomy 31:15",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "и явился ЯХВЕ в шатре в столпе ⟨облака⟩, и стоял столп ⟨облака⟩ над входом ⟨шатра⟩",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "и явился"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "в шатре"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "в столпе"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "облака"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "и стоял"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "столп"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "облака"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "входом"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "шатра"
+    }
+  ],
+  "timestamp": "2026-08-02T22:21:32.152367759Z",
+  "model": "glm-4.5"
+}

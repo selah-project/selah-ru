@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "jeremiah 1:2",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "которое было слово ЯХВЕ к нему в дни Иошииу сына Амона царя Иуды в тринадцать лет его царствованию",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "היה",
+      "gloss": "было"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "к нему"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "в дни"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Иошииу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Амона"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иуды"
+    },
+    {
+      "surface": "בשלש",
+      "gloss": "в тринадцать"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "его царствованию"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T02:57:58.284806586Z",
+  "model": "glm-4.5"
+}

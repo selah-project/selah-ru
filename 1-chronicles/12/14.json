@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Иремияу ⟨десятый⟩, Макбенай ⟨одиннадцатый⟩",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "Иремияу"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "десятый"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "Макбенай"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "одиннадцатый"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T12:55:02.591266405Z",
+  "model": "glm-4.5"
+}

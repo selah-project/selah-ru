@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 145,
+  "translation": "Глаза всех ⟨устремлены⟩ к Тебе, и Ты даёшь им ⟨את⟩ пищу их в сезон его",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Глаза"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "к Тебе"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "⟨устремлены⟩"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "и Ты"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "даёшь"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пищу их"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "пищу их"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "в сезон его"
+    }
+  ],
+  "timestamp": "2026-08-03T09:15:53.046671946Z",
+  "model": "glm-4.5"
+}

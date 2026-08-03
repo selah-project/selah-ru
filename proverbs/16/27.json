@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "proverbs 16:27",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Человек Белиала роет зло, и ⟨на⟩ устах его — ⟨как⟩ огонь пожирающий.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Человек"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Белиала"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "роет"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и ⟨на⟩"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "устах его"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "⟨как⟩"
+    },
+    {
+      "surface": "צרבת",
+      "gloss": "огонь пожирающий"
+    }
+  ],
+  "timestamp": "2026-08-03T09:41:36.448291271Z",
+  "model": "glm-4.5"
+}

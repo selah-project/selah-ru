@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 82,
+  "translation": "Я сказал: вы Элохим, и сыны Эльона — вы все",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "вы Элохим"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вы"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и сыны"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Эльона"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "вы все"
+    }
+  ],
+  "timestamp": "2026-08-03T08:08:22.502652124Z",
+  "model": "glm-4.5"
+}

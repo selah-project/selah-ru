@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Старец и почтенный — он глава, и пророк, учащий лжи — он хвост.",
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "старец"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "и почтенный"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "почтенный"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "глава"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "и пророк"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "учащий"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лжи"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "хвост"
+    }
+  ],
+  "timestamp": "2026-08-03T01:53:14.471105692Z",
+  "model": "glm-4.5"
+}

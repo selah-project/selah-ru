@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "genesis 25:29",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "И сварил Яаков похлёбку, и пришёл Эсав ⟨с⟩ поля, и ⟨он⟩ изнемогал:",
+  "tokens": [
+    {
+      "surface": "ויזד",
+      "gloss": "и сварил"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "נזיד",
+      "gloss": "похлёбку"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и пришёл"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "поля"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "и ⟨он⟩"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "изнемогал"
+    }
+  ],
+  "timestamp": "2026-08-02T19:24:03.113247305Z",
+  "model": "glm-4.5"
+}

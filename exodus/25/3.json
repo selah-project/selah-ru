@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "И это — приношение, которое вы возьмёте у них: золото, и серебро, и медь",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "И это"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "приношение"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "вы возьмёте"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "у них"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золото"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "и серебро"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "и медь"
+    }
+  ],
+  "timestamp": "2026-08-02T20:18:36.360373724Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 60,
+  "translation": "Дай нам помощь от врага, ибо ⟨это⟩ напрасно — спасение человека.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Дай"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "помощь"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "от врага"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "ибо ⟨это⟩ напрасно"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "спасение"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человека"
+    }
+  ],
+  "timestamp": "2026-08-03T07:38:20.183657077Z",
+  "model": "glm-4.5"
+}

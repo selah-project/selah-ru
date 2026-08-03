@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "и сделаешь шесты ⟨из⟩ деревьев шиттим, и overlaid ⟨את⟩ их золотом",
+  "tokens": [
+    {
+      "surface": "וְעָשִׂיתָ",
+      "gloss": "и сделаешь"
+    },
+    {
+      "surface": "בַדֵּי",
+      "gloss": "шесты"
+    },
+    {
+      "surface": "עֲצֵי",
+      "gloss": "деревьев"
+    },
+    {
+      "surface": "שִׁטִּים",
+      "gloss": "шиттим"
+    },
+    {
+      "surface": "וְצִפִּיתָ",
+      "gloss": "и overlaid"
+    },
+    {
+      "surface": "אֹתָ֖ם",
+      "gloss": "⟨את⟩",
+      "marks": "их золотом"
+    },
+    {
+      "surface": "זָהָֽב",
+      "gloss": "золотом"
+    }
+  ],
+  "timestamp": "2026-08-02T20:18:53.371986425Z",
+  "model": "glm-4.5"
+}

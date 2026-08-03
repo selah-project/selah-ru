@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "numbers 19:11",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Касающийся ⟨мёртвого⟩ ⟨любой⟩ нефеш человека ⟨и⟩ нечист ⟨семь⟩ дней",
+  "tokens": [
+    {
+      "surface": "הנגע",
+      "gloss": "Касающийся"
+    },
+    {
+      "surface": "במת",
+      "gloss": "⟨мёртвого⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "⟨любой⟩"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нефеш"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "⟨и⟩ нечист"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "⟨семь⟩"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дней"
+    }
+  ],
+  "timestamp": "2026-08-02T21:31:56.567584376Z",
+  "model": "glm-4.5"
+}

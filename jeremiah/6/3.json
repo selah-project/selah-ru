@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "jeremiah 6:3",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "К ней придут пастухи и стада их; разбить палатки вокруг неё, пасти каждый ⟨את⟩ свою долю",
+  "tokens": [
+    {
+      "surface": "אליה",
+      "gloss": "к ней"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "придут"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "пастухи"
+    },
+    {
+      "surface": "ועדריהם",
+      "gloss": "и стада их"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "разбить"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "вокруг неё"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "палатки"
+    },
+    {
+      "surface": "סביב",
+      "gloss": ""
+    },
+    {
+      "surface": "רעו",
+      "gloss": "пасти"
+    },
+    {
+      "surface": "איש",
+      "gloss": "каждый"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "свою долю"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "свою долю"
+    }
+  ],
+  "timestamp": "2026-08-03T03:05:35.850181505Z",
+  "model": "glm-4.5"
+}

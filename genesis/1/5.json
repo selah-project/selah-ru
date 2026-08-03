@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И назвал Элохим свет днём, а ⟨את⟩ тьму назвал ночью. И был вечер, и было утро — день один.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И назвал"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "свет"
+    },
+    {
+      "surface": "יום",
+      "gloss": "днём"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "а ⟨את⟩ тьму"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "назвал"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ночью"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "И был"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "вечер"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и было"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "утро"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    }
+  ],
+  "timestamp": "2026-08-02T19:08:07.728227395Z",
+  "model": "glm-4.5"
+}

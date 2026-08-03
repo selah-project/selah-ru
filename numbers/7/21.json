@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "numbers 7:21",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "один телец, сын ⟨стада⟩, один баран, один ⟨мужской⟩ агнец, сын ⟨года⟩, для о́лы;",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "телец"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "⟨стада⟩"
+    },
+    {
+      "surface": "איל",
+      "gloss": "баран"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "⟨мужской⟩ агнец"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "⟨года⟩"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "для о́лы"
+    }
+  ],
+  "timestamp": "2026-08-02T21:18:05.153113595Z",
+  "model": "glm-4.5"
+}

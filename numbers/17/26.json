@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И сделал Моше ⟨так⟩, как ⟨את⟩ повелел ЯХВЕ ⟨ему⟩, так ⟨он⟩ сделал",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "и сделал"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "повелел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ему"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    }
+  ],
+  "timestamp": "2026-08-02T21:29:50.235188221Z",
+  "model": "glm-4.5"
+}

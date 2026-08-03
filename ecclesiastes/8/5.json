@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Соблюдающий заповедь не познает ⟨дело⟩ злое, ⟨и⟩ время и правосудие познает сердце мудрого.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "Соблюдающий"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "заповедь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "познает"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨дело⟩"
+    },
+    {
+      "surface": "רע",
+      "gloss": "злое"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "⟨и⟩ время"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "и правосудие"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "познает"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сердце"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудрого"
+    }
+  ],
+  "timestamp": "2026-08-03T11:22:48.847045871Z",
+  "model": "glm-4.5"
+}

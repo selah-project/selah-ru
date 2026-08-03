@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Бен-Хесед в Арувоф; ему ⟨принадлежал⟩ Соко и вся земля Хефер:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Бен"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Хесед"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "в Арувоф"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Соко"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и вся"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Хефер"
+    }
+  ],
+  "timestamp": "2026-08-03T00:23:43.378544461Z",
+  "model": "glm-4.5"
+}

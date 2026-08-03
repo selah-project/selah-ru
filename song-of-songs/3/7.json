@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "song-of-songs 3:7",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Вот ложе его, что у Шеломо: шестьдесят сильных вокруг него из сильных Израиля",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Вот"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "ложе его"
+    },
+    {
+      "surface": "שלשלמה",
+      "gloss": "что у Шеломо"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "шестьдесят"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "сильных"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "вокруг"
+    },
+    {
+      "surface": "לה",
+      "gloss": "него"
+    },
+    {
+      "surface": "מגברי",
+      "gloss": "из сильных"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-03T10:55:49.697328384Z",
+  "model": "glm-4.5"
+}

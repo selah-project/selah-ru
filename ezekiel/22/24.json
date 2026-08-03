@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "ezekiel 22:24",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Сын человеческий, скажи ей: ты — земля, не очищенная, ⟨את⟩ не дождём политая в день негодования.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Сын"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человеческий"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "скажи"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ей"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "землю"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מטהרה",
+      "gloss": "очищенная"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ты"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "גשמה",
+      "gloss": "дождём политая"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в день"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "негодования"
+    }
+  ],
+  "timestamp": "2026-08-03T04:44:03.270768052Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Тогда ты поймёшь страх ЯХВЕ и ⟨найдёшь⟩ знание Элохима",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тогда"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "поймёшь"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "страх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "и знание"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохима"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "найдёшь"
+    }
+  ],
+  "timestamp": "2026-08-03T09:21:58.065885174Z",
+  "model": "glm-4.5"
+}

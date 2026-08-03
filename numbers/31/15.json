@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "numbers 31:15",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "И сказал Моше им: «Живыми ⟨вы⟩ сохранили ⟨את⟩ всех самок?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "החייתם",
+      "gloss": "Живыми ⟨вы⟩ сохранили"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "⟨את⟩ самок",
+      "marks": "самок"
+    }
+  ],
+  "timestamp": "2026-08-02T21:44:16.297896885Z",
+  "model": "glm-4.5"
+}

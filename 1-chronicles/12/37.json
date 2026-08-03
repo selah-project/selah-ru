@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "1-chronicles 12:37",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И от Ашера, выходящих ⟨в⟩ строй ⟨для⟩ войны — сорок тысяч.",
+  "tokens": [
+    {
+      "surface": "ומאשר",
+      "gloss": "И от Ашера"
+    },
+    {
+      "surface": "יוצאי",
+      "gloss": "выходящих"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "⟨в⟩ строй"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "⟨для⟩"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "войны"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "сорок"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тысяч"
+    }
+  ],
+  "timestamp": "2026-08-03T12:55:49.150345079Z",
+  "model": "glm-4.5"
+}

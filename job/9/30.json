@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Если я омоюсь במו снегом и очищу мои руки ⟨את⟩ мылом,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Если"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "омоюсь"
+    },
+    {
+      "surface": "במו",
+      "gloss": "במו"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "снегом"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "и очищу"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "мылом"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "мои руки"
+    }
+  ],
+  "timestamp": "2026-08-03T10:17:44.300143627Z",
+  "model": "glm-4.5"
+}

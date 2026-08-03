@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 69,
+  "ref": "psalms 119:69",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Наговорили на меня ложь надменные, а я всем сердцем храну повеления Твои",
+  "tokens": [
+    {
+      "surface": "טפלו",
+      "gloss": "наговорили"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на меня"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ложь"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "надменные"
+    },
+    {
+      "surface": "אני",
+      "gloss": "а я"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "всем"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сердцем"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "храню"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "повеления Твои"
+    }
+  ],
+  "timestamp": "2026-08-03T08:52:05.076526493Z",
+  "model": "glm-4.5"
+}

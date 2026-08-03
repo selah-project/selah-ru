@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "Начальнику. Псалом Давиду.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Начальнику"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Псалом"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиду"
+    }
+  ],
+  "timestamp": "2026-08-03T06:53:30.715917135Z",
+  "model": "glm-4.5"
+}

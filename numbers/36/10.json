@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "Как ЯХВЕ ⟨повелел⟩ ⟨את⟩ Моше, так ⟨и⟩ сделали дочери Целофхада",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "⟨повелел⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "сделали"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "дочери"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Целофхада"
+    }
+  ],
+  "timestamp": "2026-08-02T21:50:24.532477054Z",
+  "model": "glm-4.5"
+}

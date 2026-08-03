@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "ezekiel 47:21",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 47,
+  "translation": "И разделите вы ⟨את⟩ эту землю вам, по коленам Израиля",
+  "tokens": [
+    {
+      "surface": "וחלקתם",
+      "gloss": "И разделите вы"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эту землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "эту землю"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "эту"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "לשבטי",
+      "gloss": "по коленам"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-03T05:17:34.124979626Z",
+  "model": "glm-4.5"
+}

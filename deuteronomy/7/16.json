@@ -1,0 +1,99 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "deuteronomy 7:16",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И съешь ⟨את⟩ все народы, которые ЯХВЕ Элохим твой дает тебе, не пожалеет глаз твой ⟨их⟩, и не служи ⟨את⟩ элохим их, ибо западня это тебе",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "и съешь"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "все народы"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "народы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохим твой"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дает"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "пожалеет"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "глаз твой"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "⟨их⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "служи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "элохим их"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "элохим их"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "западня"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "это"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    }
+  ],
+  "timestamp": "2026-08-02T21:58:11.022457022Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "genesis 42:9",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 42,
+  "translation": "И вспомнил Иосиф ⟨את⟩ сны, которые видел им, и сказал им: шпионы вы, видеть ⟨את⟩ наготу земли пришли",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "и вспомнил"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Иосиф"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сны"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "сны"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "видел"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "шпионы"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вы"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "видеть"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "наготу"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "наготу"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земли"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "пришли"
+    }
+  ],
+  "timestamp": "2026-08-02T19:46:00.525763505Z",
+  "model": "glm-4.5"
+}

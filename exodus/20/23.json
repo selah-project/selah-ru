@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "Не делайте ⟨с⟩ Мной божеств серебра и божеств золота, не делайте ⟨их⟩ себе.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "делайте"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨с⟩ Мной"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "божеств"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "серебра"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "и божеств"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золота"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "делайте"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨их⟩ себе"
+    }
+  ],
+  "timestamp": "2026-08-02T20:13:57.548867288Z",
+  "model": "glm-4.5"
+}

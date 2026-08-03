@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И собрался весь Израиль к Давиду в Хеврон, говоря: вот, мы ⟨это⟩ кость твоя и плоть твоя.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "и собрался"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давиду"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "в Хеврон"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "кость твоя"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "и плоть твоя"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "мы"
+    }
+  ],
+  "timestamp": "2026-08-03T12:52:57.434574520Z",
+  "model": "glm-4.5"
+}

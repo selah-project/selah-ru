@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "⟨Лже⟩свидетель не ⟨будет⟩ оправдан, и дующий ложью погибнет",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "свидетель"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "ложью"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "оправдан"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "и дующий"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ложью"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "погибнет"
+    }
+  ],
+  "timestamp": "2026-08-03T09:46:37.844122153Z",
+  "model": "glm-4.5"
+}

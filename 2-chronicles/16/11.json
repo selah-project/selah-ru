@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "2-chronicles 16:11",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "И вот, деяния Асы, ранние и поздние, вот, они ⟨это⟩ записаны в книге царей Йехуды и Исраэля.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "И вот"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "деяния"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Асы"
+    },
+    {
+      "surface": "הראשונים",
+      "gloss": "ранние"
+    },
+    {
+      "surface": "והאחרונים",
+      "gloss": "и поздние"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "вот"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "записаны"
+    },
+    {
+      "surface": "על",
+      "gloss": "в"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "книге"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "царей"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Йехуды"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "и Исраэля"
+    }
+  ],
+  "timestamp": "2026-08-03T13:46:08.239057592Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "1-chronicles 3:11",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Йорам, его сын Ахазияу, его сын Йоаш, его сын",
+  "tokens": [
+    {
+      "surface": "יורם",
+      "gloss": "Йорам"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "его сын"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ахазияу"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "его сын"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Йоаш"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "его сын"
+    }
+  ],
+  "timestamp": "2026-08-03T12:39:14.038349126Z",
+  "model": "glm-4.5"
+}

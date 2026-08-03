@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Не ⟨будете⟩ есть ⟨ни⟩ одного дня, ⟨ни⟩ двух дней, ⟨ни⟩ пяти дней, ⟨ни⟩ десяти дней, ⟨ни⟩ двадцати дней",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дня"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одного"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "будете есть"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "двух дней"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пяти"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дней"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десяти"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дней"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцати"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дней"
+    }
+  ],
+  "timestamp": "2026-08-03T18:05:22.494329759Z",
+  "model": "glm-4.5"
+}

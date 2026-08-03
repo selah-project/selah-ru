@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "numbers 13:15",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "для колена Гад, Гэуэль сын Махи",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "для колена"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "גאואל",
+      "gloss": "Гэуэль"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "מכי",
+      "gloss": "Махи"
+    }
+  ],
+  "timestamp": "2026-08-02T21:24:49.768390338Z",
+  "model": "glm-4.5"
+}

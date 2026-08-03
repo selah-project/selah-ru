@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "proverbs 14:34",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Цедака возвышает ⟨⟩ го́й, а хесед ⟨⟩ леумим — хатта́т.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "Цедака"
+    },
+    {
+      "surface": "תרומם",
+      "gloss": "возвышает"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "го́й"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "а хесед"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "леумим"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "хатта́т"
+    }
+  ],
+  "timestamp": "2026-08-03T09:39:08.294368918Z",
+  "model": "glm-4.5"
+}

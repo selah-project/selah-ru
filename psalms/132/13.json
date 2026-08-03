@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 132,
+  "translation": "Ибо выбрал ЯХВЕ ⟨в⟩ Сионе, пожелал ⟨его⟩ для жилища Себе",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "выбрал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "⟨в⟩ Сионе"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "пожелал"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "для жилища"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Себе"
+    }
+  ],
+  "timestamp": "2026-08-03T09:03:48.322610276Z",
+  "model": "glm-4.5"
+}

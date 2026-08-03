@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 43,
+  "ref": "jeremiah 50:43",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 50,
+  "translation": "Царь Вавилона услышал ⟨весть⟩ о них, и ослабели его руки; distress охватил его, муки, как ⟨у⟩ роженицы.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "услышал"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилона"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "весть"
+    },
+    {
+      "surface": "שמעם",
+      "gloss": "о них"
+    },
+    {
+      "surface": "ורפו",
+      "gloss": "и ослабели"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "его руки"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "distress"
+    },
+    {
+      "surface": "החזיקתהו",
+      "gloss": "охватил его"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "муки"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "как ⟨у⟩ роженицы"
+    }
+  ],
+  "timestamp": "2026-08-03T04:11:52.819297779Z",
+  "model": "glm-4.5"
+}

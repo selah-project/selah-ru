@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 47,
+  "ref": "deuteronomy 28:47",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "за то, что ты не служил ⟨את⟩ ЯХВЕ, твоему Элохиму, в радости и ⟨в⟩ доброте сердца, ⟨от⟩ обилия всего.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "за то"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "служил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твоему Элохиму"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "в радости"
+    },
+    {
+      "surface": "ובטוב",
+      "gloss": "и ⟨в⟩"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "доброте сердца"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "⟨от⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "обилия всего"
+    }
+  ],
+  "timestamp": "2026-08-02T22:18:19.490661725Z",
+  "model": "glm-4.5"
+}

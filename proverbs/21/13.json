@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "proverbs 21:13",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Кто заткнёт ⟨своё⟩ ухо от вопля бедного, тот и сам будет взывать, и не будет услышан",
+  "tokens": [
+    {
+      "surface": "אטם",
+      "gloss": "заткнёт"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "⟨своё⟩ ухо"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "от вопля"
+    },
+    {
+      "surface": "דל",
+      "gloss": "бедного"
+    },
+    {
+      "surface": "גם",
+      "gloss": "тоже"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тот"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "будет взывать"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "будет услышан"
+    }
+  ],
+  "timestamp": "2026-08-03T09:48:40.124212357Z",
+  "model": "glm-4.5"
+}

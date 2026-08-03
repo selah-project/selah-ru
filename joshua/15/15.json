@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "joshua 15:15",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "И он поднялся оттуда к ⟨жителям⟩ Двира, а имя Двира прежде было Кирьят-Сефер.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "и он поднялся"
+    },
+    {
+      "surface": "משם",
+      "gloss": "оттуда"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "⟨жителям⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Двира"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "а имя"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Двира"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "прежде"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "было Кирьят-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Сефер"
+    }
+  ],
+  "timestamp": "2026-08-02T22:38:53.391668091Z",
+  "model": "glm-4.5"
+}

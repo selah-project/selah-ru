@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Что ⟨есть⟩, уже ⟨было⟩, и что ⟨должно быть⟩, уже ⟨было⟩, а Элохим взыскивает ⟨את⟩ гонимое.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Что"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "⟨есть⟩ уже ⟨было⟩"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "уже"
+    },
+    {
+      "surface": "הוא",
+      "gloss": ""
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "и что"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "⟨должно быть⟩"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "уже"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨было⟩"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "а Элохим"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "взыскивает"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гонимое"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "гонимое"
+    }
+  ],
+  "timestamp": "2026-08-03T11:17:41.049025246Z",
+  "model": "glm-4.5"
+}

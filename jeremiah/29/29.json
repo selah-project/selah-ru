@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "И призвал Цефания священник ⟨את⟩ это письмо в уши Иеремии пророку",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "и призвал"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Цефания"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "священник"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "это письмо"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "письмо"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "это"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "в уши"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Иеремии"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророку"
+    }
+  ],
+  "timestamp": "2026-08-03T03:39:34.006327690Z",
+  "model": "glm-4.5"
+}

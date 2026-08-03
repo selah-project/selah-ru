@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Тогда пойду Я ⟨и⟩ против вас с противлением и поражу ⟨את⟩ вас, даже Я, семь раз за грехи ваши",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "пойду"
+    },
+    {
+      "surface": "אף",
+      "gloss": "⟨и⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "против вас"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "с противлением"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "поражу"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "גם",
+      "gloss": "даже"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семь"
+    },
+    {
+      "surface": "על",
+      "gloss": "раз за"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "грехи ваши"
+    }
+  ],
+  "timestamp": "2026-08-02T21:07:49.191689521Z",
+  "model": "glm-4.5"
+}

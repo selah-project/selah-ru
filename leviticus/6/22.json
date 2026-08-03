@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Всякий самец из священников будет есть ⟨את⟩ её: святыня святынь она.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Всякий"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "самец"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "из священников"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "будет есть"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "её"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "святыня"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "святынь"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "она"
+    }
+  ],
+  "timestamp": "2026-08-02T20:45:38.131517187Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "numbers 16:16",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "И сказал Моше Кораху: ты и всё ⟨твоё⟩ собрание будьте пред лицем ЯХВЕ, ты и они и Аарон, завтра",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Кораху"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "⟨Кораху⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и всё"
+    },
+    {
+      "surface": "עדתך",
+      "gloss": "⟨твоё⟩ собрание"
+    },
+    {
+      "surface": "היו",
+      "gloss": "будьте"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред лицем"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    },
+    {
+      "surface": "והם",
+      "gloss": "и они"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "и Аарон"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "завтра"
+    }
+  ],
+  "timestamp": "2026-08-02T21:28:40.865955327Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 38,
+  "translation": "И было это зло в глазах ЯХВЕ, что он сделал, и умертвил ⟨את⟩ его также",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "и было это зло"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в глазах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "он сделал"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умертвил"
+    },
+    {
+      "surface": "גם",
+      "gloss": "также"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "его"
+    }
+  ],
+  "timestamp": "2026-08-02T19:41:03.680390524Z",
+  "model": "glm-4.5"
+}

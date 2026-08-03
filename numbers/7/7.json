@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Две повозки и четырёх ⟨את⟩ быков дал он сыновьям Гершона, ⟨по⟩ служению их",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "две повозки"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "две"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "повозки"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "четырёх быков"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "четырёх"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "быков"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дал"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "сыновьям"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Гершона"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "⟨по⟩"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "служению их"
+    }
+  ],
+  "timestamp": "2026-08-02T21:17:47.639308621Z",
+  "model": "glm-4.5"
+}

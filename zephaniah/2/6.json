@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "zephaniah 2:6",
+  "book": "zephaniah",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И станет ⟨море⟩ — ⟨участок⟩ пастухов и загоны ⟨для⟩ стада",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "И станет"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "⟨участок⟩"
+    },
+    {
+      "surface": "הים",
+      "gloss": "⟨море⟩"
+    },
+    {
+      "surface": "נות",
+      "gloss": "пастухов"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "и"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "загоны"
+    },
+    {
+      "surface": "וגדרות",
+      "gloss": "⟨для⟩"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "стада"
+    }
+  ],
+  "timestamp": "2026-08-03T06:03:06.783424075Z",
+  "model": "glm-4.5"
+}

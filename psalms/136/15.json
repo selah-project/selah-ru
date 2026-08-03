@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 136,
+  "translation": "И ниспроверг Паро и войско его в Ям-Суф, ибо вовек хесед Его",
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "и ниспроверг"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "и войско его"
+    },
+    {
+      "surface": "בים",
+      "gloss": "в [Ям]"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Суф"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "вовек"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хесед Его"
+    }
+  ],
+  "timestamp": "2026-08-03T09:07:04.157433494Z",
+  "model": "glm-4.5"
+}

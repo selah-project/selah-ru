@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "obadiah 1:2",
+  "book": "obadiah",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Вот, ⟨Я⟩ сделал тебя малым среди народов, ты презираем весьма",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Вот"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "малым"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "сделал тебя"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "среди народов"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "презираем"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "весьма"
+    }
+  ],
+  "timestamp": "2026-08-03T05:43:20.709039193Z",
+  "model": "glm-4.5"
+}

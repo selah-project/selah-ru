@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Ибо царь надеется на ЯХВЕ, и в хеседе Эльона ⟨он⟩ не поколеблется",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "надеется"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "на ЯХВЕ",
+      "marks": "на ЯХВЕ"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "и в хеседе"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Эльона"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "поколеблется"
+    }
+  ],
+  "timestamp": "2026-08-03T06:54:21.109468926Z",
+  "model": "glm-4.5"
+}

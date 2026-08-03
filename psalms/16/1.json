@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Михта́м Давида. Храни́ меня, Эль, ибо я в ⟨Тебе⟩ укрылся",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Михта́м"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Храни́ меня"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эль"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "я укрылся"
+    },
+    {
+      "surface": "בך",
+      "gloss": "в ⟨Тебе⟩",
+      "marks": "Эль"
+    }
+  ],
+  "timestamp": "2026-08-03T06:45:08.626994698Z",
+  "model": "glm-4.5"
+}

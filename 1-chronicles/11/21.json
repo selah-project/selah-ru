@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "1-chronicles 11:21",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "От трёх он ⟨был⟩ почтеннее двух, и был их вождём, но к первым трём не ⟨пришёл⟩.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "трёх"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "он ⟨был⟩ почтеннее двух"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "почтеннее"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и был"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "вождём"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "но"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "к первым трём"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בא",
+      "gloss": "⟨пришёл⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T12:53:45.907410205Z",
+  "model": "glm-4.5"
+}

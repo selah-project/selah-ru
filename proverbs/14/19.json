@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "proverbs 14:19",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Склоняются ⟨нещиеся⟩ перед добрыми, и ⟨нечестивые⟩ у ворот праведника.",
+  "tokens": [
+    {
+      "surface": "שחו",
+      "gloss": "Склоняются"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "⟨нещиеся⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "добрыми"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "и ⟨нечестивые⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "у"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "ворот"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведника"
+    }
+  ],
+  "timestamp": "2026-08-03T09:38:41.114853695Z",
+  "model": "glm-4.5"
+}

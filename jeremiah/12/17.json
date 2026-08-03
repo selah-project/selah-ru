@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "jeremiah 12:17",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "А если не послушаются, то Я вырву ⟨את⟩ тот народ, вырывая и губя, — заявление ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А если"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "послушаются"
+    },
+    {
+      "surface": "ונתשתי",
+      "gloss": "то Я вырву"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тот народ"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тот"
+    },
+    {
+      "surface": "נתוש",
+      "gloss": "вырывая"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "и губя"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "заявление"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T03:13:11.359866358Z",
+  "model": "glm-4.5"
+}

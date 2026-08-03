@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "Во всякое время любит ⟨друг⟩, и для беды ⟨родится брат⟩.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "во всякое"
+    },
+    {
+      "surface": "עת",
+      "gloss": "время"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "любит"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "⟨друг⟩"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "и"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "для беды"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "⟨родится брат⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T09:43:07.007240160Z",
+  "model": "glm-4.5"
+}

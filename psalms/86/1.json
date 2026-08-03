@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 86,
+  "translation": "Молитва Давида. Склони, ЯХВЕ, ⟨Своё⟩ ухо, ответь мне, ибо я беден и ⟨ещё⟩ нищ.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Молитва"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Склони"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ухо"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ответь мне"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "עני",
+      "gloss": "я беден"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "и нищ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    }
+  ],
+  "timestamp": "2026-08-03T08:11:36.534267086Z",
+  "model": "glm-4.5"
+}

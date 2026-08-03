@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 69,
+  "translation": "дай вину за вину их, и пусть не войдут в праведность Твою",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "дай"
+    },
+    {
+      "surface": "עון",
+      "gloss": "вину"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "вину их"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и пусть не"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "войдут"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "в праведность Твою"
+    }
+  ],
+  "timestamp": "2026-08-03T07:49:32.351451320Z",
+  "model": "glm-4.5"
+}

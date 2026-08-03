@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "⟨в⟩ сумерках, ⟨в⟩ вечер ⟨дня⟩, ⟨в⟩ тьме ночи и ⟨в⟩ мраке",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "⟨в⟩ сумерках"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "⟨в⟩ вечер"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дня"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "⟨в⟩ тьме"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ночи"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "и ⟨в⟩ мраке"
+    }
+  ],
+  "timestamp": "2026-08-03T09:29:19.647733629Z",
+  "model": "glm-4.5"
+}

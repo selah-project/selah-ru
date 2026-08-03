@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И сказал человек: женщина, которую ⟨ты⟩ дал ⟨быть⟩ со мной, она дала мне от дерева, и я съел.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "человек"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "женщина"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которую"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "⟨ты⟩ дал"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "⟨быть⟩ со мной"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "она"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "дала"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "дерева"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "и я съел"
+    }
+  ],
+  "timestamp": "2026-08-02T17:46:35.532749470Z",
+  "model": "glm-4.5"
+}

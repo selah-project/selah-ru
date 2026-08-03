@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "2-chronicles 26:12",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Всего число глав родов ⟨для⟩ могучих мужей ⟨силы⟩: две тысячи ⟨и⟩ шестьсот",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Всего"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "число"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "глав"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "родов"
+    },
+    {
+      "surface": "לגבורי",
+      "gloss": "⟨для⟩"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "могучих мужей ⟨силы⟩"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "две тысячи"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "⟨и⟩ шесть"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотен"
+    }
+  ],
+  "timestamp": "2026-08-03T14:00:17.238870192Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "И Я вел ⟨את⟩ вас сорок лет по пустыне; не ветшала одежда ваша на вас, и обувь твоя не ветшала на ноге твоей",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "И Я вел"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "сорок"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "по пустыне"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "ветшала"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "одежда ваша"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "на вас"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "и обувь твоя"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "ветшала"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "на"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ноге твоей"
+    }
+  ],
+  "timestamp": "2026-08-02T22:19:37.828403217Z",
+  "model": "glm-4.5"
+}

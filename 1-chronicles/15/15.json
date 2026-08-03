@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-chronicles 15:15",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "И подняли сыны Левия ⟨את⟩ ковчег Элохима на раменах их, на шестах, как повелел Моше по слову ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "И подняли"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Левия"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ковчег"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Эlohима"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "повелел"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "по слову"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בכתפם",
+      "gloss": "на раменах их"
+    },
+    {
+      "surface": "במטות",
+      "gloss": "на шестах"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T12:58:37.972338516Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "1-chronicles 9:34",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Эти главы отцов Левитов, по их родословиям, главные — эти ⟨сели⟩ в Иерусалиме.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Эти"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "главы"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "отцов"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Левитов"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "по их родословиям"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "главные"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "эти"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "⟨сели⟩"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "в Иерусалиме"
+    }
+  ],
+  "timestamp": "2026-08-03T12:51:25.846422687Z",
+  "model": "glm-4.5"
+}

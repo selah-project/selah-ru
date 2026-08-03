@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Хитрый видит зло и скрывается, а простодушные переходят и наказаны",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "Хитрый"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "видит"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "и скрывается"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "а простодушные"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "переходят"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "и наказаны"
+    }
+  ],
+  "timestamp": "2026-08-03T09:49:40.218524249Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "и был дождь на земле сорок дней и сорок ночей",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и был"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "дождь"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земле"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "сорок"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дней"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "и сорок"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ночей"
+    }
+  ],
+  "timestamp": "2026-08-02T17:50:44.016363152Z",
+  "model": "glm-4.5"
+}

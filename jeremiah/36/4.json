@@ -1,0 +1,95 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "jeremiah 36:4",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "И призвал Ирмеяhu ⟨את⟩ Баруха сына Нериии, и написал Барук из уст Ирмеяhu ⟨את⟩ все слова ЯХВЕ, которые Он говорил к нему, на свитке книги",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И призвал"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмеяhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Баруха"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Баруха"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "Нериии"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "и написал"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Барук"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "из уст"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмеяhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "все слова"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорил"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "к нему"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מגלת",
+      "gloss": "свитке"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "книги"
+    }
+  ],
+  "timestamp": "2026-08-03T03:50:30.957650623Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "leviticus 21:13",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И он ⟨את⟩ женщину в её девстве возьмёт",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "И он"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "женщину",
+      "marks": "женщину"
+    },
+    {
+      "surface": "בבתוליה",
+      "gloss": "в её девстве"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "возьмёт"
+    }
+  ],
+  "timestamp": "2026-08-02T21:01:35.456476964Z",
+  "model": "glm-4.5"
+}

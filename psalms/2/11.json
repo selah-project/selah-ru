@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Служите ⟨את⟩ ЯХВЕ со страхом и радуйтесь с трепетом",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Служите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "со страхом"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "и радуйтесь"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "с трепетом"
+    }
+  ],
+  "timestamp": "2026-08-03T18:38:09.062512636Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "genesis 31:36",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "И разгневался Yaakov, и спорил с Лаваном, и отвечал Yaakov и сказал Лавану: каков ⟨мой⟩ мятеж? каков ⟨мой⟩ грех, что ⟨ты⟩ пылал ⟨за⟩ мною?",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "И разгневался"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "и спорил"
+    },
+    {
+      "surface": "בלבן",
+      "gloss": "с Лаваном"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "и отвечал"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "Лавану"
+    },
+    {
+      "surface": "מה",
+      "gloss": "каков"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "⟨мой⟩ мятеж"
+    },
+    {
+      "surface": "מה",
+      "gloss": "каков"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "⟨мой⟩ грех"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "דלקת",
+      "gloss": "⟨ты⟩ пылал"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "⟨за⟩ мною"
+    }
+  ],
+  "timestamp": "2026-08-02T19:33:03.727962160Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 39,
+  "translation": "Начальнику, Идитуну. Псалом Давида.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Начальнику"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "Идитуну"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Псалом"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давида"
+    }
+  ],
+  "timestamp": "2026-08-03T07:17:47.660244828Z",
+  "model": "glm-4.5"
+}

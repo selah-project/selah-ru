@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "Собирает ⟨как⟩ кучу воды моря, кладёт в хранилища бездны",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "Собирает"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "⟨как⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "воду"
+    },
+    {
+      "surface": "הים",
+      "gloss": "моря"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "кладёт"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "в хранилища"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "бездны"
+    }
+  ],
+  "timestamp": "2026-08-03T07:08:57.590281481Z",
+  "model": "glm-4.5"
+}

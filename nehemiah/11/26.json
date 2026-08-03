@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "и в Йешуа, и в Молада, и в Бейт-Палет",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "и в Йешуа"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "и в Молада"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "и в Бейт"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "Палет"
+    }
+  ],
+  "timestamp": "2026-08-03T12:30:20.471587280Z",
+  "model": "glm-4.5"
+}

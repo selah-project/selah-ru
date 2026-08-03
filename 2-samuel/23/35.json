@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "2-samuel 23:35",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Хецро Кармелитский, Паарай Арбит,",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "Хецро"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "Кармелитский"
+    },
+    {
+      "surface": "פערי",
+      "gloss": "Паарай"
+    },
+    {
+      "surface": "הארבי",
+      "gloss": "Арбит"
+    }
+  ],
+  "timestamp": "2026-08-03T00:14:08.653267827Z",
+  "model": "glm-4.5"
+}

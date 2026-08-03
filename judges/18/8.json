@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "judges 18:8",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И пришли они к братьям своим, в Цору и Эштаол, и сказали им братья их: „Что ⟨вы⟩?",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "И пришли"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "братьям своим"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "в Цору"
+    },
+    {
+      "surface": "ואשתאל",
+      "gloss": "и Эштаол"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и сказали"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "братья их"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Что"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨вы⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T23:08:27.068461159Z",
+  "model": "glm-4.5"
+}

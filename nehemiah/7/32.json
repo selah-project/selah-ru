@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "nehemiah 7:32",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "мужчины Бейт-Эля и Ай ⟨составили⟩ сто двадцать три",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "мужчины"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эля"
+    },
+    {
+      "surface": "ו",
+      "gloss": "и"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ай"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцать"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "три"
+    }
+  ],
+  "timestamp": "2026-08-03T12:21:38.673614917Z",
+  "model": "glm-4.5"
+}

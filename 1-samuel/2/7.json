@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "ЯХВЕ обедняет и обогащает; унижает, даже возвышает",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "обедняет"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "и обогащает"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "унижает"
+    },
+    {
+      "surface": "אף",
+      "gloss": "даже"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "возвышает"
+    }
+  ],
+  "timestamp": "2026-08-02T23:14:27.991246233Z",
+  "model": "glm-4.5"
+}

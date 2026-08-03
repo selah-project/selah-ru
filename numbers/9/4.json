@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И говорил Моше сынам Израиля совершать Песах",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говорил"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынам"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "совершать"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Песах"
+    }
+  ],
+  "timestamp": "2026-08-02T21:21:14.786574788Z",
+  "model": "glm-4.5"
+}

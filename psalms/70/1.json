@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 70,
+  "translation": "Предводителю. Давиду. ⟨для⟩ напоминания.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Предводителю"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиду"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "⟨для⟩ напоминания"
+    }
+  ],
+  "timestamp": "2026-08-03T07:50:26.580943593Z",
+  "model": "glm-4.5"
+}

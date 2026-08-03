@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "job 22:8",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "А ⟨человек⟩ руки — у него ⟨земля⟩, и принятый лицами сидит в ней.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "А ⟨человек⟩"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "руки"
+    },
+    {
+      "surface": "לו",
+      "gloss": "у него"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨земля⟩"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "и принятый"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лицами"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "сидит"
+    },
+    {
+      "surface": "בה",
+      "gloss": "в ней"
+    }
+  ],
+  "timestamp": "2026-08-03T10:29:27.366363641Z",
+  "model": "glm-4.5"
+}

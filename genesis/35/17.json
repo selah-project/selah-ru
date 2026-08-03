@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "genesis 35:17",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "И было, когда она ⟨была⟩ в тяжёлых родах, сказала ей повитуха: не бойся, ибо и этот ⟨сын⟩ тебе.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "בהקשתה",
+      "gloss": "когда она ⟨была⟩"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "в тяжёлых родах"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "сказала"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ей"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "повитуха"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "бойся"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "זה",
+      "gloss": "этот"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨сын⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T19:37:30.445787925Z",
+  "model": "glm-4.5"
+}

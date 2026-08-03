@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И он разложил ⟨את⟩ дрова и рассёк ⟨את⟩ быка и положил его на дрова",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "и он разложил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дрова"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "дрова"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "и рассёк"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "быка"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "быка"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "и положил"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "дрова"
+    }
+  ],
+  "timestamp": "2026-08-03T00:54:12.277070511Z",
+  "model": "glm-4.5"
+}

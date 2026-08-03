@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Псалом Давиду, когда он бежал ⟨от⟩ лица Авшалома, сына ⟨его⟩.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Псалом"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиду"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "когда он бежал"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "⟨от⟩ лица"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалома"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "сына ⟨его⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T06:29:53.402705652Z",
+  "model": "glm-4.5"
+}

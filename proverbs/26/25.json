@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "proverbs 26:25",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Когда ⟨его⟩ голос делает мягким, не верь ему; ибо семь мерзостей в сердце ⟨его⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Когда"
+    },
+    {
+      "surface": "יחנן",
+      "gloss": "делает мягким"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "⟨его⟩ голос"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאמן",
+      "gloss": "верь"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семь"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "мерзостей"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "в сердце ⟨его⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T10:02:24.315945408Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Все эти объединились в долину Сиддим, она ⟨есть⟩ Море Солёное.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "эти"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "объединились"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "долину"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "Сиддим"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "она"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Море"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Солёное"
+    }
+  ],
+  "timestamp": "2026-08-02T19:10:46.630861432Z",
+  "model": "glm-4.5"
+}

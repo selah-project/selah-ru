@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "leviticus 9:6",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И сказал Моше: вот ⟨то⟩, ⟨что⟩ ЯХВЕ повелел делать, и явится к вам слава ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "זה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨то⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨что⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "повелел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "делать"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "и явится"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "к вам"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "слава"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T20:48:30.510514494Z",
+  "model": "glm-4.5"
+}

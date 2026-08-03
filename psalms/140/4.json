@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 140,
+  "translation": "Острили ⟨свои⟩ языки ⟨свои⟩, как змея; яд аспида — ⟨под⟩ ⟨их⟩ губами. Села.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "острили"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "языки ⟨свои⟩"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "как"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "змея"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "яд"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "аспида"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨под⟩"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "⟨их⟩ губами"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-08-03T09:10:45.756668195Z",
+  "model": "glm-4.5"
+}

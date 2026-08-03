@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "jeremiah 4:8",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "За это препояштесь ⟨в⟩ вретища, рыдайте и воплите, ибо не отвратился ярость гнева ЯХВЕ от нас",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "это"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "препояшитесь"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "вретища"
+    },
+    {
+      "surface": "ספדו",
+      "gloss": "рыдайте"
+    },
+    {
+      "surface": "והילילו",
+      "gloss": "и воплите"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שב",
+      "gloss": "отвратился"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "ярость"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гнева"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "от нас"
+    }
+  ],
+  "timestamp": "2026-08-03T03:02:09.824631807Z",
+  "model": "glm-4.5"
+}

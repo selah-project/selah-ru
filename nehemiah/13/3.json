@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И было, когда услышали ⟨את⟩ Тору, то отделили всякое смешанное от Израиля",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "когда услышали"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Тору"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Тору"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "то отделили"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всякое"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "смешанное"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "от Израиля"
+    }
+  ],
+  "timestamp": "2026-08-03T12:33:16.729587688Z",
+  "model": "glm-4.5"
+}

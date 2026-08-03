@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "Ибо ⟨это⟩ народ погибший в советах ⟨их⟩, и нет в ⟨них⟩ разумения",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "погибший"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "в советах"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨их⟩"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нет"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "в ⟨них⟩"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "разумения"
+    }
+  ],
+  "timestamp": "2026-08-02T22:22:26.523184140Z",
+  "model": "glm-4.5"
+}

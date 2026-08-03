@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "1-chronicles 27:18",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "Для Иуды — Элиху, из братьев Давида; для Иссахара — Омри, сын Михаэля:",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "Для Иуды"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Элиху"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "из братьев"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "ליששכר",
+      "gloss": "для Иссахара"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Омри"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "Михаэля"
+    }
+  ],
+  "timestamp": "2026-08-03T13:15:15.582739961Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "numbers 13:12",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "для колена Дан, Амиэль сын Гемалли.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "для колена"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Амиэль"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "גמלי",
+      "gloss": "Гемалли"
+    }
+  ],
+  "timestamp": "2026-08-02T21:24:45.603376731Z",
+  "model": "glm-4.5"
+}

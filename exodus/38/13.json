@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "exodus 38:13",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 38,
+  "translation": "И ⟨для⟩ восточной стороны к востоку пятьдесят локтей",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "И ⟨для⟩"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "восточной стороны"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "к востоку"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "пятьдесят"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "локтей"
+    }
+  ],
+  "timestamp": "2026-08-02T20:36:32.058798798Z",
+  "model": "glm-4.5"
+}

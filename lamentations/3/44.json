@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Ты покрыл ⟨себя⟩ облаком, чтобы ⟨תְפִלָּה⟩ не прошла ⟨сквозь⟩",
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "покрыл"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "облаком"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨себя⟩"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "⟨сквозь⟩"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "⟨תְפִלָּה⟩",
+      "marks": "молитва"
+    }
+  ],
+  "timestamp": "2026-08-03T11:10:07.155473197Z",
+  "model": "glm-4.5"
+}

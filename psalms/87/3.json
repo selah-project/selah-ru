@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 87,
+  "translation": "Славное ⟨говорится⟩ о тебе, город Элохим, ⟨Села⟩.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "Славное"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "говорится"
+    },
+    {
+      "surface": "בך",
+      "gloss": "о тебе"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "город"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "⟨Села⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T08:12:25.888523944Z",
+  "model": "glm-4.5"
+}

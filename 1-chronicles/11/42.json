@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "1-chronicles 11:42",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Адина, сын Шизы, Реувени, глава к Реувенитам, и ⟨с ним⟩ тридцать",
+  "tokens": [
+    {
+      "surface": "עדינא",
+      "gloss": "Адина"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "שיזא",
+      "gloss": "Шизы"
+    },
+    {
+      "surface": "הראובני",
+      "gloss": "Реувени"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "глава"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "к Реувенитам"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "и ⟨с ним⟩",
+      "marks": "тридцать"
+    },
+    {
+      "surface": "שלושים",
+      "gloss": "тридцать"
+    }
+  ],
+  "timestamp": "2026-08-03T12:54:22.884183589Z",
+  "model": "glm-4.5"
+}

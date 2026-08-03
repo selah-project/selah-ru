@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "genesis 38:15",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 38,
+  "translation": "И увидел её Иуда и ⟨почитал⟩ её блудницей, ⟨ибо⟩ покрыла она лицо своё.",
+  "tokens": [
+    {
+      "surface": "ויראה",
+      "gloss": "и увидел"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иуда"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "⟨почитал⟩"
+    },
+    {
+      "surface": "לזונה",
+      "gloss": "блуднице"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ибо⟩"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "покрыла"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "лицо своё"
+    }
+  ],
+  "timestamp": "2026-08-02T19:40:50.004142295Z",
+  "model": "glm-4.5"
+}

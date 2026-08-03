@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "joshua 8:28",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И сжёг Йеhошуа ⟨Ай⟩ и сделал её ⟨тел⟩ вечным пустошью до ⟨дня⟩ сего",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "И сжёг"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йеhошуа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ай"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ай"
+    },
+    {
+      "surface": "וישימה",
+      "gloss": "и сделал её"
+    },
+    {
+      "surface": "תל",
+      "gloss": "⟨тел⟩"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечным"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "пустошью"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨дня⟩"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "сего"
+    }
+  ],
+  "timestamp": "2026-08-02T22:31:48.680688392Z",
+  "model": "glm-4.5"
+}

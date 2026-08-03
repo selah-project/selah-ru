@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И Давид ⟨был⟩ тогда в крепости, а ⟨стан⟩ плиштим ⟨был⟩ тогда в Бейт-Лехеме",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "И Давид"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тогда"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "в крепости"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "а ⟨стан⟩"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "плиштим"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тогда"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "в Бейт-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лехеме"
+    }
+  ],
+  "timestamp": "2026-08-03T12:53:01.153431106Z",
+  "model": "glm-4.5"
+}

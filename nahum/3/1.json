@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Горе гори кровей, вся ⟨она⟩ — ложь и грабёж, ⟨она⟩ полна; добыча не отходит.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Горе"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "горе"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "кровей"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "вся"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "ложь"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "и грабёж"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "полна"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "отходит"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "добыча"
+    }
+  ],
+  "timestamp": "2026-08-03T05:55:40.020150015Z",
+  "model": "glm-4.5"
+}

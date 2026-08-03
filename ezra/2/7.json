@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Сыновья Эйлама: ⟨את⟩ тысяча двести пятьдесят и четыре",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Эйлам"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тысяча"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двести"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "пятьдесят"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "и четыре"
+    }
+  ],
+  "timestamp": "2026-08-03T11:57:54.802877575Z",
+  "model": "glm-4.5"
+}

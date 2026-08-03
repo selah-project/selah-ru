@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "и истощатся воды от ⟨моря⟩, и река опустеет и иссохнет",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "и истощатся"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воды"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "от ⟨моря⟩"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "и река"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "опустеет"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "и иссохнет"
+    }
+  ],
+  "timestamp": "2026-08-03T02:01:50.265498689Z",
+  "model": "glm-4.5"
+}

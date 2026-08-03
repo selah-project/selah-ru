@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "lamentations 3:19",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Вспомни ⟨моё⟩ страдание и ⟨моё⟩ скитание, полынь и желчь",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Вспомни"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "⟨моё⟩ страдание"
+    },
+    {
+      "surface": "ומרודי",
+      "gloss": "и ⟨моё⟩ скитание"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "полынь"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "и желчь"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:20.903000860Z",
+  "model": "glm-4.5"
+}

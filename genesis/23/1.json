@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "genesis 23:1",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "И было ⟨в⟩ жизни Сары сто двадцать семь лет — годы жизни Сары",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "и было"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "жизни"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сары"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и двадцать"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "и семь"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "лет"
+    },
+    {
+      "surface": "שני",
+      "gloss": "годы"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "жизни"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сары"
+    }
+  ],
+  "timestamp": "2026-08-02T19:20:14.592960891Z",
+  "model": "glm-4.5"
+}

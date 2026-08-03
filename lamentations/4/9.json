@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "lamentations 4:9",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Убитые мечом ⟨были⟩ лучше, чем ⟨те, кто⟩ убит голодом, ибо они изнемогают, пронзённые, из-за lacking плодов ⟨שדי⟩.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "лучше"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨были⟩"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "убитые"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мечом"
+    },
+    {
+      "surface": "מחללי",
+      "gloss": "⟨те, кто⟩ убит"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "голодом"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "יזובו",
+      "gloss": "изнемогают"
+    },
+    {
+      "surface": "מדקרים",
+      "gloss": "пронзённые"
+    },
+    {
+      "surface": "מתנובת",
+      "gloss": "из-за lacking"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "⟨שדי⟩",
+      "marks": "плодов"
+    }
+  ],
+  "timestamp": "2026-08-03T11:13:31.157425560Z",
+  "model": "glm-4.5"
+}

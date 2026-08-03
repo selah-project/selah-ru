@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "proverbs 15:16",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "Лучше мало с боязнью ЯХВЕ, чем великое сокровище и волнение с ⟨ним⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "лучше"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "мало"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "с боязнью"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מאוצר",
+      "gloss": "сокровище"
+    },
+    {
+      "surface": "רב",
+      "gloss": "великое"
+    },
+    {
+      "surface": "ומהומה",
+      "gloss": "и волнение"
+    },
+    {
+      "surface": "בו",
+      "gloss": "с ⟨ним⟩",
+      "marks": "сокровищем"
+    }
+  ],
+  "timestamp": "2026-08-03T09:39:31.021081892Z",
+  "model": "glm-4.5"
+}

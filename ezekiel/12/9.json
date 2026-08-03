@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "ezekiel 12:9",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Сын человеческий, не сказали ли тебе дом Израиля, дом бунтарский: «Что ты ⟨делаешь⟩?»",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Сын"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человеческий"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "сказали ли"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "бунтарский"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Что"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "делаешь"
+    }
+  ],
+  "timestamp": "2026-08-03T04:28:18.444663753Z",
+  "model": "glm-4.5"
+}

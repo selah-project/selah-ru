@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "и ⟨я⟩ пойду ⟨с⟩ вами в ярости сопротивления, и накажу ⟨את⟩ вас, даже ⟨я⟩, семь раз за грехи ваши",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "и пойду"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "с вами"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "в ярости"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "сопротивления"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "и накажу"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "אף",
+      "gloss": "даже"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семь раз"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "грехи ваши"
+    }
+  ],
+  "timestamp": "2026-08-02T21:07:32.345773004Z",
+  "model": "glm-4.5"
+}

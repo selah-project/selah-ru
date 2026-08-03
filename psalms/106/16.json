@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 106,
+  "translation": "И позавидели они Моше в стане, Аарону, святому ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "И позавидовали они"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "в стане"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Аарону"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "святому"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T08:36:46.290220466Z",
+  "model": "glm-4.5"
+}

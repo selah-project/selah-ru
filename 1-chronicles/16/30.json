@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Трепещите пред Ним, вся ⟨земля⟩; ведь ⟨мир⟩ утвердился, ⟨дабы⟩ не поколебался.",
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "Трепещите"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "пред Ним"
+    },
+    {
+      "surface": "כל",
+      "gloss": "вся"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨земля⟩"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ведь"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "⟨мир⟩ утвердился"
+    },
+    {
+      "surface": "תבל",
+      "gloss": ""
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨дабы⟩"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "не поколебался"
+    }
+  ],
+  "timestamp": "2026-08-03T13:00:44.472525652Z",
+  "model": "glm-4.5"
+}

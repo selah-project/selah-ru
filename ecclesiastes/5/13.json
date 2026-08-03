@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И погибло ⟨это⟩ богатство в ⟨злом⟩ деле, ⟨он⟩ родил сына, но нет в руке его ничего",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "И погибло"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "⟨это⟩ богатство",
+      "marks": "богатство"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨оно⟩"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "в деле"
+    },
+    {
+      "surface": "רע",
+      "gloss": "⟨злом⟩"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "⟨он⟩ родил"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нет"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "в руке его"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ничего"
+    }
+  ],
+  "timestamp": "2026-08-03T11:19:58.584516395Z",
+  "model": "glm-4.5"
+}

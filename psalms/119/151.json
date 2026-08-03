@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Близок Ты, ЯХВЕ, и все повеления Твои — истина.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "близок"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и все"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "повеления Твои"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "истина"
+    }
+  ],
+  "timestamp": "2026-08-03T08:54:16.015416632Z",
+  "model": "glm-4.5"
+}

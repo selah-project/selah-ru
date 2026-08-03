@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Лучше слушать выговор ⟨от⟩ мудрого, нежели человеку слышать песнь глупцов",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "лучше"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "слушать"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "выговор"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "⟨от⟩ мудрого",
+      "marks": "мудрого"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "нежели человеку"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слышать"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "песнь"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "глупцов"
+    }
+  ],
+  "timestamp": "2026-08-03T11:21:37.744917509Z",
+  "model": "glm-4.5"
+}

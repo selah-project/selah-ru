@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 129,
+  "translation": "Много ⟨раз⟩ стесняли меня от юности моей, даже не могли ⟨победить⟩ меня.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Много"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "стесняли меня"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "от юности моей"
+    },
+    {
+      "surface": "גם",
+      "gloss": "даже"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "могли"
+    },
+    {
+      "surface": "לי",
+      "gloss": "меня"
+    }
+  ],
+  "timestamp": "2026-08-03T09:01:11.988226973Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "1-chronicles 5:27",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Сыновья Леви: Гершон, Кехат и Мерари.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леви"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Гершон"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кехат"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "и Мерари"
+    }
+  ],
+  "timestamp": "2026-08-03T12:43:03.840938995Z",
+  "model": "glm-4.5"
+}

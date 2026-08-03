@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И также на рабов и на служанок в те дни изолью ⟨את⟩ дух Мой",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "И также"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "рабов"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "служанок"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "в дни"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "те"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "изолью"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дух Мой"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "дух Мой"
+    }
+  ],
+  "timestamp": "2026-08-03T05:32:55.784026615Z",
+  "model": "glm-4.5"
+}

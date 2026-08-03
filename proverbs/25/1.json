@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 25:1",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "Также эти притчи Шеломо, ⟨которые⟩ переписали люди Хизкиии, царя Иудеи:",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Также"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "эти"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "притчи"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨которые⟩"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "переписали"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "люди"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Хизкиии"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иудеи"
+    }
+  ],
+  "timestamp": "2026-08-03T09:59:44.382223574Z",
+  "model": "glm-4.5"
+}

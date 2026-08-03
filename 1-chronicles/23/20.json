@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "1-chronicles 23:20",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Сыновья Узииэля: Мика — ⟨ראש⟩, и Ишая — второй.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Узииэль"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Мика"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "⟨ראש⟩"
+    },
+    {
+      "surface": "וישיה",
+      "gloss": "и Ишая"
+    },
+    {
+      "surface": "השני",
+      "gloss": "второй"
+    }
+  ],
+  "timestamp": "2026-08-03T13:09:48.363997851Z",
+  "model": "glm-4.5"
+}

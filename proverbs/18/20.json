@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "proverbs 18:20",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "От плода уст человека насытится чрево его; от урожая его уст он ⟨насытится⟩",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "от плода"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уст"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человека"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "насытится"
+    },
+    {
+      "surface": "בטנו",
+      "gloss": "чрево его"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "от урожая"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "его уст"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "⟨насытится⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T09:44:23.064698234Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Руах ЯХВЕ говорила во мне, и слово Его ⟨на⟩ языке моём.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Руах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорила"
+    },
+    {
+      "surface": "בי",
+      "gloss": "во мне"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "и слово Его"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "языке моём"
+    }
+  ],
+  "timestamp": "2026-08-03T00:13:10.525220150Z",
+  "model": "glm-4.5"
+}

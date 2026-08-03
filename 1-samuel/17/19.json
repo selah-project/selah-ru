@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "1-samuel 17:19",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "А Шаул, и они, и ⟨все⟩ мужи Израиля в долине Элы сражаются с Плиштим.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "А Шаул"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "и они"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и ⟨все⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мужи"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "в долине"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "Элы"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "сражаются"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштим"
+    }
+  ],
+  "timestamp": "2026-08-02T23:32:01.668674434Z",
+  "model": "glm-4.5"
+}

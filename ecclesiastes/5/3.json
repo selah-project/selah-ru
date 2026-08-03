@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Когда дашь обет Элохим, не медли исполнить ⟨его⟩, ибо нет ⟨желания⟩ у глупцов ⟨в том, что⟩ ты ⟨обещал исполнить⟩.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Когда"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "дашь"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "обет"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "медли"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "исполнить"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "⟨желания⟩"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "у глупцов"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨в том, что⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨в том, что⟩"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "⟨обещал⟩"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "⟨исполнить⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T11:19:39.113086456Z",
+  "model": "glm-4.5"
+}

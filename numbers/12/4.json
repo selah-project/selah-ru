@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "numbers 12:4",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И сказал вдруг ЯХВЕ Моше и Аарону и Мириам: выйдите, вы трое, к шатру собрания. И вышли они трое.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "вдруг"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и к"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарону"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и к"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Мириам"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "выйдите"
+    },
+    {
+      "surface": "שלשתכם",
+      "gloss": "вы трое"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатру"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "собрания"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "И вышли"
+    },
+    {
+      "surface": "שלשתם",
+      "gloss": "они трое"
+    }
+  ],
+  "timestamp": "2026-08-02T21:24:05.748613822Z",
+  "model": "glm-4.5"
+}

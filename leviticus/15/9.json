@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "И ⟨всякое⟩ седло, на котором ⟨он⟩ поедет ⟨拥有⟩ выделение, ⟨будет⟩ нечисто",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "и ⟨всякое⟩"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "седло"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨на котором⟩"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "поедет"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨拥有⟩ выделение"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "⟨будет⟩"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "нечисто"
+    }
+  ],
+  "timestamp": "2026-08-02T20:55:17.288858679Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "1-chronicles 25:18",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "одиннадцатый — Азраэлю, его сыновьям и братьям его — двенадцать:",
+  "tokens": [
+    {
+      "surface": "עשתי",
+      "gloss": "одиннадцатый"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עזראל",
+      "gloss": "Азраэлю"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "его сыновьям"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "и братьям его"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "двенадцать"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T13:12:59.464751496Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Всякую вдову и сироту не ⟨вы⟩ тесните",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Всякую"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "вдову"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "и сироту"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "тесните"
+    }
+  ],
+  "timestamp": "2026-08-02T20:16:24.313206197Z",
+  "model": "glm-4.5"
+}

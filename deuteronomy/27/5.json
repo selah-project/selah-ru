@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "deuteronomy 27:5",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "И построишь там ⟨алтарь⟩ ЯХВЕ Элоheimу твоему, ⟨алтарь⟩ камней; не поднимешь на них железа",
+  "tokens": [
+    {
+      "surface": "ובנית",
+      "gloss": "И построишь"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "⟨алтарь⟩",
+      "marks": "алтарь ЯХВЕ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоheиму твоему"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "⟨алтарь⟩",
+      "marks": "алтарь камней"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "камней"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "поднимешь"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "на них"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "железа"
+    }
+  ],
+  "timestamp": "2026-08-02T22:16:36.713176437Z",
+  "model": "glm-4.5"
+}

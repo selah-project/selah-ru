@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-chronicles 4:4",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И Пнуэль — отец Гедера, и Эцер — отец Хуши; это сыновья Хура, первенца Эфраты, отца Бет-Лехема.",
+  "tokens": [
+    {
+      "surface": "ופנואל",
+      "gloss": "И Пнуэль"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отец"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "Гедера"
+    },
+    {
+      "surface": "ועזר",
+      "gloss": "и Эцер"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отец"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "Хуши"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "это"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Хура"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "первенца"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "Эфраты"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отца"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лехема"
+    }
+  ],
+  "timestamp": "2026-08-03T12:40:49.563854716Z",
+  "model": "glm-4.5"
+}

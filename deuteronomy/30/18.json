@@ -1,0 +1,90 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "deuteronomy 30:18",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Я возвещаю вам сегодня, что ⟨вы⟩ surely погибнете, не продлите ⟨ваши⟩ дни на ⟨земле⟩, которую ⟨ты⟩ переходишь ⟨את⟩ Иордан, чтобы войти туда, чтобы овладеть ею.",
+  "tokens": [
+    {
+      "surface": "הגדתי",
+      "gloss": "Я возвещаю"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "היום",
+      "gloss": "сегодня"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "surely погибнете"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "surely погибнете"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאריכן",
+      "gloss": "продлите"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "земле"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которую"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "переходишь"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Иордан"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Иордан"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "чтобы войти"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "туда"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "чтобы овладеть ею"
+    }
+  ],
+  "timestamp": "2026-08-02T22:20:55.581041742Z",
+  "model": "glm-4.5"
+}

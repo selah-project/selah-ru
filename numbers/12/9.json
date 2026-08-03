@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И воспылал гнев ЯХВЕ на них, и Он отошёл.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "и воспылал"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гнев"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "на них"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "и Он отошёл"
+    }
+  ],
+  "timestamp": "2026-08-02T21:24:14.637589332Z",
+  "model": "glm-4.5"
+}

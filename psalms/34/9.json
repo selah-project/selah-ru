@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "Вкусите и увидьте, что ЯХВЕ ⟨есть⟩ благ; блажен муж, ⟨который⟩ уповает ⟨на⟩ Него.",
+  "tokens": [
+    {
+      "surface": "טעמו",
+      "gloss": "Вкусите"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "и увидьте"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "благ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "блажен"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "муж"
+    },
+    {
+      "surface": "יחסה",
+      "gloss": "который уповает"
+    },
+    {
+      "surface": "בו",
+      "gloss": "на Него"
+    }
+  ],
+  "timestamp": "2026-08-03T07:10:31.668105200Z",
+  "model": "glm-4.5"
+}

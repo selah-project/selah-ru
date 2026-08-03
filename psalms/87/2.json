@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 87,
+  "translation": "Любит ЯХВЕ ворота Сиона больше ⟨чем⟩ все жилища Иакова",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Любит"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "ворота"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Сиона"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "больше ⟨чем⟩"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "жилища"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Иакова"
+    }
+  ],
+  "timestamp": "2026-08-03T08:12:29.648634880Z",
+  "model": "glm-4.5"
+}

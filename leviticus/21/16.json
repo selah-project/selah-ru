@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "leviticus 21:16",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И заговорил ЯХВЕ с Моше, говоря:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И заговорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "с"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-02T21:01:23.643710727Z",
+  "model": "glm-4.5"
+}

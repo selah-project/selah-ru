@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И ⟨את⟩ пол дома покрыл золотом, внутри и снаружи",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "И ⟨את⟩",
+      "marks": "пол дома"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "пол"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "покрыл"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золотом"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "внутри"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "и снаружи"
+    }
+  ],
+  "timestamp": "2026-08-03T00:27:19.851495330Z",
+  "model": "glm-4.5"
+}

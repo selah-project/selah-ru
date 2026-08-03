@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Вся дерево твоё и плод земли твоей ⟨завладеет⟩ цикада.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Вся"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "дерево твоё"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "и плод"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "земли твоей"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "⟨завладеет⟩"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "цикада"
+    }
+  ],
+  "timestamp": "2026-08-02T22:18:02.890243472Z",
+  "model": "glm-4.5"
+}

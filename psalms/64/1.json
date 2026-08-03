@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 64,
+  "translation": "Победителю. Псалом Давиду.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Победителю"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "псалом"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиду"
+    }
+  ],
+  "timestamp": "2026-08-03T07:42:20.864071674Z",
+  "model": "glm-4.5"
+}

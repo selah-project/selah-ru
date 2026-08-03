@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Не искажай ⟨שְׁפַּט⟩ judgement ⟨את⟩ бедного твоего в его споре",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "искажай"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "⟨שְׁפַּט⟩ judgement"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бедного твоего"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "бедного твоего"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "в его споре"
+    }
+  ],
+  "timestamp": "2026-08-02T20:16:46.220968543Z",
+  "model": "glm-4.5"
+}

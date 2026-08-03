@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "proverbs 16:11",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Весы ⟨и⟩ правильные гири — ⟨от⟩ ЯХВЕ; все гири ⟨в⟩ суме — ⟨это⟩ дело Его рук.",
+  "tokens": [
+    {
+      "surface": "פלס",
+      "gloss": "Весы"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "⟨и⟩ правильные гири"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "⟨от⟩ ЯХВЕ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "дело Его рук"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "гири ⟨в⟩"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "суме"
+    }
+  ],
+  "timestamp": "2026-08-03T09:41:30.469384731Z",
+  "model": "glm-4.5"
+}

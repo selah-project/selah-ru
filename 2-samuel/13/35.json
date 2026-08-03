@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "2-samuel 13:35",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И сказал Йонадав царю: вот, сыновья царя пришли, по слову раба твоего так ⟨и было⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יונדב",
+      "gloss": "Йонадав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "באו",
+      "gloss": "пришли"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "по слову"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "раба твоего"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨и было⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T00:00:52.891157893Z",
+  "model": "glm-4.5"
+}

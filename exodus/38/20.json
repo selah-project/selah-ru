@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "exodus 38:20",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 38,
+  "translation": "И ⟨все⟩ колья ⟨для⟩ мишкана и ⟨для⟩ двора, кругом, ⟨из⟩ меди",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "и ⟨все⟩"
+    },
+    {
+      "surface": "היתדת",
+      "gloss": "колья"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "⟨для⟩ мишкана"
+    },
+    {
+      "surface": "ולחצר",
+      "gloss": "и ⟨для⟩ двора"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "кругом"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "⟨из⟩ меди"
+    }
+  ],
+  "timestamp": "2026-08-02T20:36:39.888704928Z",
+  "model": "glm-4.5"
+}

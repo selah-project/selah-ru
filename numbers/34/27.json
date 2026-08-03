@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "numbers 34:27",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "и для колена сыновей Ашера — князь Ахиуд, сын Шеломи.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "и для колена"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашера"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "князь"
+    },
+    {
+      "surface": "אחיהוד",
+      "gloss": "Ахиуд"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "Шеломи"
+    }
+  ],
+  "timestamp": "2026-08-02T21:48:44.511048145Z",
+  "model": "glm-4.5"
+}

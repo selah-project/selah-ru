@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "1-chronicles 16:11",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Ищите ЯХВЕ и силу Его, ищите ⟨את⟩ лицо Его всегда",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Ищите"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "и силу Его"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ищите"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лицо Его",
+      "marks": "лицо Его"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "всегда"
+    }
+  ],
+  "timestamp": "2026-08-03T12:59:51.008907656Z",
+  "model": "glm-4.5"
+}

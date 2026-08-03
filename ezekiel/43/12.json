@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "ezekiel 43:12",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 43,
+  "translation": "Это закон Дома на верху горы; весь его предел, кругом — самое святое. Вот, это закон Дома.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "это"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "закон"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "Дома"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "верху"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "горы"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "גבלו",
+      "gloss": "предел"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "кругом"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "кругом"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "святое"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "самое"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Вот"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "это"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "закон"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "Дома"
+    }
+  ],
+  "timestamp": "2026-08-03T05:11:13.828372899Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "1-kings 22:23",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "А теперь, вот, ЯХВЕ дал дух лжи в уста всех этих пророков твоих, а ЯХВЕ говорил ⟨о тебе⟩ зло",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "А теперь"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дух"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лжи"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "в уста"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "пророков твоих"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "этих"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "а ЯХВЕ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорил"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "⟨о тебе⟩",
+      "marks": "о тебе"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-08-03T01:00:48.173501419Z",
+  "model": "glm-4.5"
+}

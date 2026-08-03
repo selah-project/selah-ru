@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И увидел Валак, сын Циппора, ⟨את⟩ всё, что сделал Израиль Аморею,",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "И увидел"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Валак"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Циппора"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всё"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "Аморею"
+    }
+  ],
+  "timestamp": "2026-08-02T21:34:40.833240655Z",
+  "model": "glm-4.5"
+}

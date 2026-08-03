@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Как снег летом и как дождь ⟨во⟩ время жатвы, так не к лицу глупцу почёт",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "Как снег"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "летом"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "и как дождь"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "⟨во⟩ время жатвы"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "к лицу"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "глупцу"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "почёт"
+    }
+  ],
+  "timestamp": "2026-08-03T10:01:55.582285353Z",
+  "model": "glm-4.5"
+}

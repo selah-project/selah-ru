@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "deuteronomy 32:23",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "Я соберу ⟨их⟩ беды, стрелы Мои ⟨будут⟩ израсходованы ⟨на⟩ них.",
+  "tokens": [
+    {
+      "surface": "אספה",
+      "gloss": "Я соберу"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "⟨их⟩"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "беды"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "стрелы Мои"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "⟨будут⟩ израсходованы"
+    },
+    {
+      "surface": "בם",
+      "gloss": "⟨на⟩ них"
+    }
+  ],
+  "timestamp": "2026-08-02T22:22:10.034582066Z",
+  "model": "glm-4.5"
+}

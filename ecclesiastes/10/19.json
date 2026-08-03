@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Пир делают для смеха, и wine веселит жизнь, а серебро отвечает ⟨את⟩ всё",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "для смеха"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "делают"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "пир"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "и wine"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "веселит"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "жизнь"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "а серебро"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "отвечает"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всё"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "всё"
+    }
+  ],
+  "timestamp": "2026-08-03T11:24:37.100817788Z",
+  "model": "glm-4.5"
+}

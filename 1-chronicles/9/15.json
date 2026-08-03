@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "и Бакбаккар, Хереш, и Галал, и Мафанья сын Михи, сын Зихри, сына Асафа;",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "и Бакбаккар"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Хереш"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "и Галал"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "и Мафанья"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "Михи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Зихри"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асафа"
+    }
+  ],
+  "timestamp": "2026-08-03T12:50:10.603545841Z",
+  "model": "glm-4.5"
+}

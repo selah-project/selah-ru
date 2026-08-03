@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 73,
+  "translation": "ибо нет мук ⟨в⟩ смерти их, ⟨и⟩ крепок ⟨их⟩ אולם",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "мук"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "⟨в⟩ смерти их"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "⟨и⟩ крепок ⟨их⟩"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "אולם"
+    }
+  ],
+  "timestamp": "2026-08-03T07:53:21.942071509Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "и не ⟨ты⟩ отвечай против ⟨твоего⟩ ближнего ⟨в качестве⟩ свидетеля ⟨лжи⟩",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "⟨ты⟩ отвечай"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "против ⟨твоего⟩ ближнего"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨в качестве⟩ свидетеля"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "⟨лжи⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T21:55:59.370172406Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И было это спустя дни, и воевали сыны Аммона с Израилем",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "спустя дни"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "и воевали"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммона"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израилем"
+    }
+  ],
+  "timestamp": "2026-08-02T23:01:10.428223205Z",
+  "model": "glm-4.5"
+}

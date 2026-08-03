@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "genesis 40:22",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "Но он повесил ⟨את⟩ главного пекаря, как истолковал им Иосиф.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "но ⟨את⟩",
+      "marks": "главного пекаря"
+    },
+    {
+      "surface": "שר",
+      "gloss": "главного"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "пекаря"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "повесил"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "истолковал"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Иосиф"
+    }
+  ],
+  "timestamp": "2026-08-02T19:43:27.869774473Z",
+  "model": "glm-4.5"
+}

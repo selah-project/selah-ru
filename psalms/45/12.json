@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 45,
+  "translation": "И возжелает царь красоту твою, ибо он — Адонай твой, и поклонись Ему",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "И возжелает"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "красоту твою"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "Адонай твой"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "и поклонись"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ему"
+    }
+  ],
+  "timestamp": "2026-08-03T07:23:55.417912409Z",
+  "model": "glm-4.5"
+}

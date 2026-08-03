@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "numbers 34:1",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "И говорил ЯХВЕ ⟨с⟩ Моше, ⟨говоря⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨с⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨говоря⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T21:48:10.946225476Z",
+  "model": "glm-4.5"
+}

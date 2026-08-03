@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И сказал он мне: «Человек, стой ⟨на⟩ ногах твоих, и я буду говорить ⟨с⟩ тобою».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Адам"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "стой"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "ногах твоих"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "и я буду говорить"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "тобою"
+    }
+  ],
+  "timestamp": "2026-08-03T04:17:52.000230968Z",
+  "model": "glm-4.5"
+}

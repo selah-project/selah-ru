@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "job 20:1",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И отвечал Цофар Нааматянин и сказал:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И отвечал"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "Цофар"
+    },
+    {
+      "surface": "הנעמתי",
+      "gloss": "Нааматянин"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    }
+  ],
+  "timestamp": "2026-08-03T10:27:09.220453377Z",
+  "model": "glm-4.5"
+}

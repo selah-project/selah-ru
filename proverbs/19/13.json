@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "proverbs 19:13",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Беда ⟨для⟩ отца его: сын глупый, и капель текущих — раздор жены",
+  "tokens": [
+    {
+      "surface": "הות",
+      "gloss": "беда"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "⟨для⟩ отца его"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупый"
+    },
+    {
+      "surface": "ודלף",
+      "gloss": "и капель"
+    },
+    {
+      "surface": "טרד",
+      "gloss": "текущих"
+    },
+    {
+      "surface": "מדיני",
+      "gloss": "раздор"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жены"
+    }
+  ],
+  "timestamp": "2026-08-03T09:46:08.527899348Z",
+  "model": "glm-4.5"
+}

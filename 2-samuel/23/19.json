@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "2-samuel 23:19",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Разве он не ⟨сам⟩ почётный из трёх? и он был для них главой; но к первым трём он не ⟨пришёл⟩.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "השלשה",
+      "gloss": "трёх"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "⟨сам⟩"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "почётный"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и ⟨был⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "для них"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "главой"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "но"
+    },
+    {
+      "surface": "השלשה",
+      "gloss": "к трём"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בא",
+      "gloss": "⟨пришёл⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T00:13:56.232423214Z",
+  "model": "glm-4.5"
+}

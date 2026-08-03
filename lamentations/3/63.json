@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 63,
+  "ref": "lamentations 3:63",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Смотри на ⟨их⟩ сидение и ⟨их⟩ вставание, я — ⟨их⟩ насмешливая песнь.",
+  "tokens": [
+    {
+      "surface": "שבתם",
+      "gloss": "сидение"
+    },
+    {
+      "surface": "וקימתם",
+      "gloss": "и вставание"
+    },
+    {
+      "surface": "הביטה",
+      "gloss": "смотри"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "⟨их⟩ насмешливая песнь"
+    }
+  ],
+  "timestamp": "2026-08-03T11:12:49.906217483Z",
+  "model": "glm-4.5"
+}

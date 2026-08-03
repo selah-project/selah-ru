@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 108,
+  "translation": "Проснись, навел и киннор, я разбужу ⟨שחר⟩.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "проснись"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "навел"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "и киннор"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "я разбужу"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "⟨шахар⟩",
+      "marks": "рассвет"
+    }
+  ],
+  "timestamp": "2026-08-03T08:40:20.032027461Z",
+  "model": "glm-4.5"
+}

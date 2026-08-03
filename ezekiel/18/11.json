@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "ezekiel 18:11",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "⟨Он⟩ ⟨את⟩ всё это не сделал, ибо ⟨даже⟩ на горах ⟨он⟩ ел, и ⟨את⟩ жены ближнего своего осквернил",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "⟨Он⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всё это"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "это"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨даже⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "горах"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ел"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "жену ближнего своего"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жены"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ближнего своего"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "осквернил"
+    }
+  ],
+  "timestamp": "2026-08-03T04:37:39.898852315Z",
+  "model": "glm-4.5"
+}

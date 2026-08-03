@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "genesis 35:26",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "А сыны Зилпы, служанки Лии: Гад и Ашер. Эти ⟨суть⟩ сыны Яакова, которые родились ему в Падан-Араме.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А сыны"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Зилпы"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "служанки"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Лии"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "и Ашер"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Эти"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "родились"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "בפדן",
+      "gloss": "в Падан"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Араме"
+    }
+  ],
+  "timestamp": "2026-08-02T19:37:45.541706033Z",
+  "model": "glm-4.5"
+}

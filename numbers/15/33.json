@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "numbers 15:33",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "И ⟨те, кто⟩ нашёл его, ⟨он⟩ собирающим дрова, привели его к Моше и к Аарону и ко всей общине",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "привели"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "те, кто нашёл его"
+    },
+    {
+      "surface": "המצאים",
+      "gloss": "нашедшие"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "он"
+    },
+    {
+      "surface": "מקשש",
+      "gloss": "собирающим"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "дрова"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и к"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарону"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и к"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всей"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "общине"
+    }
+  ],
+  "timestamp": "2026-08-03T18:06:07.875073654Z",
+  "model": "glm-4.5"
+}

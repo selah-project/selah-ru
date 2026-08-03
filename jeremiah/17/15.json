@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "Вот, они говорят мне: где ⟨слово⟩ ЯХВЕ? пусть придёт ⟨же⟩",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "המה",
+      "gloss": "они"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "говорят"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "איה",
+      "gloss": "где"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨слово⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "пусть придёт"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨же⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T03:19:18.911847016Z",
+  "model": "glm-4.5"
+}

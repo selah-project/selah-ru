@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И говорил ЯХВЕ ⟨в⟩ Гада, прозорливца Давида, говоря:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨в⟩",
+      "marks": "Гада"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гада"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "прозорливца"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-03T13:06:25.205889975Z",
+  "model": "glm-4.5"
+}

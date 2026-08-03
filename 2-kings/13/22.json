@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И Хазаэль, царь Арама, притеснял ⟨את⟩ Израиля во все дни Иегоахаза",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "И Хазаэль"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арама"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "притеснял"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Израиля"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "כל",
+      "gloss": "во все"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дни"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Иегоахаза"
+    }
+  ],
+  "timestamp": "2026-08-03T01:21:02.875823076Z",
+  "model": "glm-4.5"
+}

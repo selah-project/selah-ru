@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "numbers 7:34",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "один козёл ⟨из⟩ козлов ⟨для⟩ жертвы за грех",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "козёл"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "козлов"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "⟨для⟩ жертвы за грех"
+    }
+  ],
+  "timestamp": "2026-08-02T21:18:34.632049661Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "proverbs 20:11",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "Даже по своим поступкам ⟨распознаётся⟩ отрок — ⟨чисто ли⟩ дело его и ⟨прямо ли⟩ оно.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Даже"
+    },
+    {
+      "surface": "במעלליו",
+      "gloss": "по своим поступкам"
+    },
+    {
+      "surface": "יתנכר",
+      "gloss": "⟨распознаётся⟩"
+    },
+    {
+      "surface": "נער",
+      "gloss": "отрок"
+    },
+    {
+      "surface": "אם",
+      "gloss": "чисто ли"
+    },
+    {
+      "surface": "זך",
+      "gloss": "дело"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "и"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "прямо ли"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "оно"
+    }
+  ],
+  "timestamp": "2026-08-03T09:47:53.816675111Z",
+  "model": "glm-4.5"
+}

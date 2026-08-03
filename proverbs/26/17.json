@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "proverbs 26:17",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Схватывающий ⟨за⟩ уши собаки — проходящий, сердящийся из-за ссоры не ⟨своей⟩.",
+  "tokens": [
+    {
+      "surface": "מחזיק",
+      "gloss": "Схватывающий"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "⟨за⟩ уши"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "собаки"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "проходящий"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "сердящийся"
+    },
+    {
+      "surface": "על",
+      "gloss": "из-за"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ссоры"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨своей⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T10:02:40.289684283Z",
+  "model": "glm-4.5"
+}

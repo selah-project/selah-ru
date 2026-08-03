@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "genesis 30:17",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "И услышал Элохим ⟨את⟩ Лию, и зачала, и родила ⟨для⟩ Яакова сына, пятого",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "и услышал"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨את⟩",
+      "marks": "Лию"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Лию"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "и зачала"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и родила"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "⟨для⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "пятого"
+    }
+  ],
+  "timestamp": "2026-08-02T19:31:11.688474568Z",
+  "model": "glm-4.5"
+}

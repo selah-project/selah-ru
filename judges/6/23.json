@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "и сказал ему ЯХВЕ: шалом тебе; не бойся, не умрёшь",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "шалом"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "бойся"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "умрёшь"
+    }
+  ],
+  "timestamp": "2026-08-02T22:55:26.797296431Z",
+  "model": "glm-4.5"
+}

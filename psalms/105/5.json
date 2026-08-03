@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 105,
+  "translation": "Помните ⟨Его⟩ чудеса, которые ⟨Он⟩ сделал; ⟨Его⟩ знамения и суды уст ⟨Его⟩",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Помните"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "чудеса"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "знамения"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "и суды"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "уст"
+    }
+  ],
+  "timestamp": "2026-08-03T08:34:48.553972Z",
+  "model": "glm-4.5"
+}

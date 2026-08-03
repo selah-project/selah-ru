@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Ибо в Цоане его князья и его посланники дойдут до Ханеса.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "היו",
+      "gloss": "были"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "в Цоане"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "его князья"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "и его посланники"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "Ханес"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "дойдут"
+    }
+  ],
+  "timestamp": "2026-08-03T02:14:14.122713525Z",
+  "model": "glm-4.5"
+}

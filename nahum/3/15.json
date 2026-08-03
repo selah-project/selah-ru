@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "nahum 3:15",
+  "book": "nahum",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Там ⟨будет⟩ поедать ⟨тебя⟩ огонь, отрубать ⟨тебя⟩ меч, поедать ⟨тебя⟩ как саранчу; multiplied⟨ты⟩ как саранча, multiplied⟨ты⟩ как араба.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "תאכלך",
+      "gloss": "поедать ⟨тебя⟩"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огонь"
+    },
+    {
+      "surface": "תכריתך",
+      "gloss": "отрубать ⟨тебя⟩"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меч"
+    },
+    {
+      "surface": "תאכלך",
+      "gloss": "поедать ⟨тебя⟩"
+    },
+    {
+      "surface": "כילק",
+      "gloss": "как саранчу"
+    },
+    {
+      "surface": "התכבד",
+      "gloss": "multiplied⟨ты⟩"
+    },
+    {
+      "surface": "כילק",
+      "gloss": "как саранчу"
+    },
+    {
+      "surface": "התכבדי",
+      "gloss": "multiplied⟨ты⟩"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "как араба"
+    }
+  ],
+  "timestamp": "2026-08-03T05:56:06.905919371Z",
+  "model": "glm-4.5"
+}

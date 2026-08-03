@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 115,
+  "translation": "Небо — ⟨это⟩ небо ЯХВЕ, а землю Он дал сынам человеческим.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Небо"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨это⟩ небо"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "а землю"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дал"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "сынам"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человеческим"
+    }
+  ],
+  "timestamp": "2026-08-03T08:45:21.057014740Z",
+  "model": "glm-4.5"
+}

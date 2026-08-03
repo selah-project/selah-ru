@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "proverbs 24:13",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Ешь, сын мой, мёд, ибо ⟨он⟩ хорош, и соты, сладкие ⟨для⟩ твоего нёба.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "Ешь"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сын мой"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "мёд"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨он⟩ хорош"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "и соты"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "сладкие"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨для⟩"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "твоего нёба"
+    }
+  ],
+  "timestamp": "2026-08-03T18:28:26.559136887Z",
+  "model": "glm-4.5"
+}

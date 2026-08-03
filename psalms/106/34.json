@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 106,
+  "translation": "Они не истребили ⟨את⟩ народов, как ЯХВЕ сказал им",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "истребили"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народов"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "народов"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    }
+  ],
+  "timestamp": "2026-08-03T08:37:32.865511381Z",
+  "model": "glm-4.5"
+}

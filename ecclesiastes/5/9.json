@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Любящий ⟨серебро⟩ не насытится ⟨серебром⟩, и кто любит ⟨обилие⟩, ⟨дохода⟩ не ⟨будет⟩; также это — суета.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Любящий"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "⟨серебро⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "насытится"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "⟨серебром⟩"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и кто"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "любит"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "⟨обилие⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "⟨дохода⟩"
+    },
+    {
+      "surface": "גם",
+      "gloss": "также"
+    },
+    {
+      "surface": "זה",
+      "gloss": "это"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "суета"
+    }
+  ],
+  "timestamp": "2026-08-03T11:19:40.150156572Z",
+  "model": "glm-4.5"
+}

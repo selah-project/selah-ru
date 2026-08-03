@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 52,
+  "ref": "psalms 119:52",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Я вспомнил Твои суды от вечности, ЯХВЕ, и утешился",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "Я вспомнил"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "Твои суды"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "от вечности"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ואתנחם",
+      "gloss": "и утешился"
+    }
+  ],
+  "timestamp": "2026-08-03T08:50:45.057458006Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "jeremiah 52:10",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 52,
+  "translation": "И зарезал царь Вавилона сыновей Цидкииahu перед ⟨его⟩ глазами, и ⟨את⟩ всех князей Иехуды зарезал в Ривле",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "и зарезал"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилона"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сыновей"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Цидкииahu"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "перед ⟨его⟩ глазами"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всех"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "князей"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иехуды"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "зарезал"
+    },
+    {
+      "surface": "ברבלתה",
+      "gloss": "в Ривле"
+    }
+  ],
+  "timestamp": "2026-08-03T04:15:19.361516219Z",
+  "model": "glm-4.5"
+}

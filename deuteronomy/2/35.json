@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "deuteronomy 2:35",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Только скот мы взяли ⟨как⟩ добычу себе, и добычу городов, которые мы захватили",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Только"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "скот"
+    },
+    {
+      "surface": "בזזנו",
+      "gloss": "мы взяли ⟨как⟩ добычу"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "себе"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "и добычу"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "городов"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "לכדנו",
+      "gloss": "мы захватили"
+    }
+  ],
+  "timestamp": "2026-08-02T21:53:01.221808618Z",
+  "model": "glm-4.5"
+}

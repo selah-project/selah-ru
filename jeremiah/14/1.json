@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "jeremiah 14:1",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Слово, которое было ⟨от⟩ ЯХВЕ к Ирмеяу, о словах засух.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "היה",
+      "gloss": "было"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмеяу"
+    },
+    {
+      "surface": "על",
+      "gloss": "о"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "словах"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "засух"
+    }
+  ],
+  "timestamp": "2026-08-03T03:15:27.548556057Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И иссякли ⟨они⟩ воды из меха, и бросила ⟨את⟩ отрока под одним из кустов",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "и иссякли"
+    },
+    {
+      "surface": "המים",
+      "gloss": "⟨они⟩ воды"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "меха"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "и бросила"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "отрока"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "отрока"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одним"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "из кустов"
+    }
+  ],
+  "timestamp": "2026-08-02T19:18:51.837876410Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "proverbs 17:24",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "Мудрость — ⟨в⟩ лице ⟨разумного⟩, а глаза глупца — на краю земли.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "в лице ⟨разумного⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "в лице"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "разумного"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Мудрость"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "а глаза"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупца"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "на краю"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земли"
+    }
+  ],
+  "timestamp": "2026-08-03T09:43:36.693633468Z",
+  "model": "glm-4.5"
+}

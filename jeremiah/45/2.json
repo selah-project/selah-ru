@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 45,
+  "translation": "Так сказал ЯХВЕ, Элохи Израиля, о тебе, Варух:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохи"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "о тебе"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Варух"
+    }
+  ],
+  "timestamp": "2026-08-03T04:04:28.959457513Z",
+  "model": "glm-4.5"
+}

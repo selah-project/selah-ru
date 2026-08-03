@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 132,
+  "translation": "Как он клялся ЯХВЕ, давал обет Могучему Яакова:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "клялся"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "давал обет"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "Могучему"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    }
+  ],
+  "timestamp": "2026-08-03T09:03:20.755732061Z",
+  "model": "glm-4.5"
+}

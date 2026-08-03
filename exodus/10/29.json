@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "exodus 10:29",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И сказал Моше: ⟨ты⟩ хорошо ⟨говорил⟩, не добавлю видеть лицо ⟨твоё⟩ более.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨ты⟩ хорошо"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "⟨говорил⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "добавлю"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "более"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "видеть"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лицо ⟨твоё⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T20:04:21.379499998Z",
+  "model": "glm-4.5"
+}

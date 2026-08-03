@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "1-samuel 3:20",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И узнал весь Израиль от Дана и до Беэр-Шевы, что ⟨את⟩ Шмуэл верен ⟨как⟩ пророк ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "И узнал"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "от Дана"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беэр"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Шевы"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "верен"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шмуэл"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "⟨как⟩ пророк"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T23:15:57.568541307Z",
+  "model": "glm-4.5"
+}

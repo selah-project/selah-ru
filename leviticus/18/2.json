@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Говори сынам Израиля и скажи им: Я — ЯХВЕ, Элохим ваш.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "сынам"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "и"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "скажи"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элохим ваш"
+    }
+  ],
+  "timestamp": "2026-08-02T20:58:15.074617913Z",
+  "model": "glm-4.5"
+}

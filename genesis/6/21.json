@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "genesis 6:21",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "А ты возьми себе от всякой пищи, ⟨которая⟩ съедается, и соберешь к себе, и будет тебе и им для еды",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "а ты"
+    },
+    {
+      "surface": "קח",
+      "gloss": "возьми"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себе"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "от всякой"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "пищи"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которая"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "съедается"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "и соберешь"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "к себе"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и будет"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "и им"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "для еды"
+    }
+  ],
+  "timestamp": "2026-08-02T17:50:09.165067538Z",
+  "model": "glm-4.5"
+}

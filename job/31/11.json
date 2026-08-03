@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "job 31:11",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "Ибо это преступление, и ⟨оно⟩ беззаконие для судей.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "это"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "преступление"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "и"
+    },
+    {
+      "surface": "עון",
+      "gloss": "беззаконие"
+    },
+    {
+      "surface": "פלילים",
+      "gloss": "для судей"
+    }
+  ],
+  "timestamp": "2026-08-03T18:30:26.652376737Z",
+  "model": "glm-4.5"
+}

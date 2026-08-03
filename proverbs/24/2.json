@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Ибо насилие ⟨их⟩ сердце замышляет, и ⟨их⟩ губы говорят ⟨о⟩ тяжком труде",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "שד",
+      "gloss": "насилие"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "замышляет"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "⟨их⟩ сердце"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "и ⟨о⟩ тяжком труде"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "⟨их⟩ губы"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "говорят"
+    }
+  ],
+  "timestamp": "2026-08-03T09:55:18.350533355Z",
+  "model": "glm-4.5"
+}

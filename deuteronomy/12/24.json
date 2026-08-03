@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "не будешь есть ⟨его⟩, на землю излей ⟨его⟩ как воду",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "будешь есть"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "излей"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "как воду"
+    }
+  ],
+  "timestamp": "2026-08-02T22:03:36.851845818Z",
+  "model": "glm-4.5"
+}

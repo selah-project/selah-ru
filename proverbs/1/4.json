@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 1:4",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "дать простым ⟨את⟩ проницательность, юноше — ⟨את⟩ знание и замысел",
+  "tokens": [
+    {
+      "surface": "לתת",
+      "gloss": "дать"
+    },
+    {
+      "surface": "לפתאים",
+      "gloss": "простым"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "проницательность"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "юноше"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знание",
+      "marks": "знание и замысел"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "и замысел"
+    }
+  ],
+  "timestamp": "2026-08-03T09:20:42.460183679Z",
+  "model": "glm-4.5"
+}

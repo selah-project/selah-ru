@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 83,
+  "translation": "И да познают, что Ты, имя Твоё — ЯХВЕ, Ты один — Эльон над ⟨всей⟩ землёй",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "И да познают"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "имя Твоё"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "Ты один"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Эльон"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨всей⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землёй"
+    }
+  ],
+  "timestamp": "2026-08-03T08:09:26.992482776Z",
+  "model": "glm-4.5"
+}

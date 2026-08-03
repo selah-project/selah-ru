@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "их переписи ⟨для⟩ колена Шимона: пятьдесят девять тысяч и триста",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "их переписи"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "⟨для⟩ колена",
+      "marks": "колена"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимона"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "пятьдесят"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "девять"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тысяч"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "и"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "триста"
+    }
+  ],
+  "timestamp": "2026-08-02T21:09:58.619657346Z",
+  "model": "glm-4.5"
+}

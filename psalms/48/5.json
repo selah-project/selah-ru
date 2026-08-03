@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 48,
+  "translation": "Ибо, вот, цари собрались, прошли ⟨и⟩ вместе",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "цари"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "собрались"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "прошли"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "вместе"
+    }
+  ],
+  "timestamp": "2026-08-03T07:26:32.576486126Z",
+  "model": "glm-4.5"
+}

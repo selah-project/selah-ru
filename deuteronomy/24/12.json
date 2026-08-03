@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "И если ⟨он⟩ бедняк, не спи с ⟨его⟩ залогом,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "И если"
+    },
+    {
+      "surface": "איש",
+      "gloss": "он"
+    },
+    {
+      "surface": "עני",
+      "gloss": "бедняк"
+    },
+    {
+      "surface": "הוא",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "спи"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "с ⟨его⟩ залогом",
+      "marks": "с залогом"
+    }
+  ],
+  "timestamp": "2026-08-02T22:14:10.002886309Z",
+  "model": "glm-4.5"
+}

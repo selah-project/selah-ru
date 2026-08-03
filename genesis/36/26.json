@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "И вот сыновья Дишана: Хемдан и Эшбан и Итран и Керан.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "Дишана"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "Хемдан"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "и Эшбан"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "и Итран"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "и Керан"
+    }
+  ],
+  "timestamp": "2026-08-02T19:38:21.511601594Z",
+  "model": "glm-4.5"
+}

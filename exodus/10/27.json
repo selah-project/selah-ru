@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И укрепил ЯХВЕ ⟨את⟩ сердце Паро, и не согласился отпустить их",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "и укрепил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сердце"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сердце"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "согласился"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "отпустить их"
+    }
+  ],
+  "timestamp": "2026-08-02T20:04:35.115583457Z",
+  "model": "glm-4.5"
+}

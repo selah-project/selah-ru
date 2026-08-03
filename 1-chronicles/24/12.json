@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "одиннадцатый Элишíбу, двенадцатый Якíму",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "Элишíбу"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "одиннадцатый"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "Якíму"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "двенадцатый"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T13:10:47.421111202Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "1-samuel 14:25",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И вся ⟨земля⟩ пришла в лес, и был мёд ⟨на⟩ ⟨поверхности⟩ поля",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "И вся"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨земля⟩"
+    },
+    {
+      "surface": "באו",
+      "gloss": "пришла"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "в лес"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и был"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "мёд"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨поверхности⟩"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "поля"
+    }
+  ],
+  "timestamp": "2026-08-02T23:25:35.107841754Z",
+  "model": "glm-4.5"
+}

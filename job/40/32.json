@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "job 40:32",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "Положи на него руку твою; помни ⟨о⟩ брани — не прибавляй ⟨больше⟩.",
+  "tokens": [
+    {
+      "surface": "שים",
+      "gloss": "Положи"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на него"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "руку твою"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "помни"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "брани"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "прибавляй"
+    }
+  ],
+  "timestamp": "2026-08-03T10:51:39.251242434Z",
+  "model": "glm-4.5"
+}

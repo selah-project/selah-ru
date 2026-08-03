@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "2-samuel 23:34",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Элифлelet сын Ахасбая сын Маахатянина, Элиам сын Ахитофела Гилонитянин:",
+  "tokens": [
+    {
+      "surface": "אליפלט",
+      "gloss": "Элифлelet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אחסבי",
+      "gloss": "Ахасбая"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "המעכתי",
+      "gloss": "Маахатянина"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "Элиам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Ахитофела"
+    },
+    {
+      "surface": "הגלני",
+      "gloss": "Гилонитянин:"
+    }
+  ],
+  "timestamp": "2026-08-03T00:14:14.579949629Z",
+  "model": "glm-4.5"
+}

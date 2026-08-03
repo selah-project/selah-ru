@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "1-chronicles 21:27",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И сказал ЯХВЕ вестнику, и он возвратил ⟨свою⟩ меч ⟨в⟩ ножны ⟨его⟩",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "למלאך",
+      "gloss": "вестнику"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и он возвратил"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "⟨свою⟩ меч"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨в⟩"
+    },
+    {
+      "surface": "נדנה",
+      "gloss": "ножны ⟨его⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T13:07:07.329592878Z",
+  "model": "glm-4.5"
+}

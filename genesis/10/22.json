@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Сыновья Шема: Эйлам, и Ашшур, и Арпахшад, и Луд, и Арам.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шема"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Эйлам"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "и Ашшур"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "и Арпахшад"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "и Луд"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "и Арам"
+    }
+  ],
+  "timestamp": "2026-08-02T17:53:50.017884017Z",
+  "model": "glm-4.5"
+}

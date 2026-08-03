@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "ecclesiastes 7:23",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Всё это испытал я ⟨в⟩ Хохме, сказал я: «буду мудрым», но она далека от меня.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Всё"
+    },
+    {
+      "surface": "זה",
+      "gloss": "это"
+    },
+    {
+      "surface": "נסיתי",
+      "gloss": "испытал я"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "⟨в⟩ Хохме"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "сказал я"
+    },
+    {
+      "surface": "אחכמה",
+      "gloss": "буду мудрым"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "но она"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "далека"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "от меня"
+    }
+  ],
+  "timestamp": "2026-08-03T11:22:05.829176991Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И סмотрел Шаул ⟨את⟩ Давида от того дня и далее",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "עון",
+      "gloss": "смотрел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давида"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "от того дня"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": ""
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "и далее"
+    }
+  ],
+  "timestamp": "2026-08-02T23:33:49.703202082Z",
+  "model": "glm-4.5"
+}

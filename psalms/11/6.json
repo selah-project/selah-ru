@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Он прольёт на нечестивых сети, огонь и серу, и дыхание бурь — ⟨это⟩ доля их чаши",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "Он прольёт"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивых"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "сети"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огонь"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "и серу"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "и дыхание"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "бурь"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "доля"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "их чаши"
+    }
+  ],
+  "timestamp": "2026-08-03T06:40:51.261699630Z",
+  "model": "glm-4.5"
+}

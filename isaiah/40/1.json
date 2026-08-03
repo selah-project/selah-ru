@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "Утешайтесь, утешайтесь, народ Мой, — говорит ваш Элохим.",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "утешайтесь"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "утешайтесь"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народ Мой"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "говорит"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ваш Элохим"
+    }
+  ],
+  "timestamp": "2026-08-03T02:26:10.457037538Z",
+  "model": "glm-4.5"
+}

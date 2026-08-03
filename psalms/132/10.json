@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 132,
+  "translation": "Ради Давида, раба Твоего, не отвергай лица Помазанника Твоего",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "Ради"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "раба Твоего"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "отвергай"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лица"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Помазанника Твоего"
+    }
+  ],
+  "timestamp": "2026-08-03T09:03:28.114156258Z",
+  "model": "glm-4.5"
+}

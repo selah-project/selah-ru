@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 43,
+  "ref": "jeremiah 48:43",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 48,
+  "translation": "Ужас, и яма, и силок ⟨будут⟩ на тебе, живущий в Моаве, — изречение ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "ужас"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "и яма"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "и силок"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "на тебе"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "живущий"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "в Моаве"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изречение"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T04:08:14.130789527Z",
+  "model": "glm-4.5"
+}

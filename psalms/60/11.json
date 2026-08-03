@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 60,
+  "translation": "Кто приведёт меня ⟨в⟩ укреплённый город? кто направит меня ⟨до⟩ Эдома?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "приведёт меня"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "в город"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "укреплённый"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "направит меня"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдома"
+    }
+  ],
+  "timestamp": "2026-08-03T07:38:05.396956514Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "1-chronicles 5:19",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И они вели войну с Агреянами, с Итуром, и Нафишем, и Нодабом",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "И они вели"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "войну"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "ההגריאים",
+      "gloss": "Агреянами"
+    },
+    {
+      "surface": "ויטור",
+      "gloss": "с Итуром"
+    },
+    {
+      "surface": "ונפיש",
+      "gloss": "и Нафишем"
+    },
+    {
+      "surface": "ונודב",
+      "gloss": "и Нодабом"
+    }
+  ],
+  "timestamp": "2026-08-03T12:43:09.347494931Z",
+  "model": "glm-4.5"
+}

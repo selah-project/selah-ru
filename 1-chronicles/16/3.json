@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "1-chronicles 16:3",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "И разделил каждому ⟨из⟩ Израиля, от мужчины ⟨и⟩ до женщины, каждому: круг хлеба, и ⟨порцию⟩, и festive-cake.",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "И разделил"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "каждому"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨из⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "от мужчины"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "⟨и⟩ до"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "женщины"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "каждому"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "круг"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеба"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "и ⟨порцию⟩"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "и festive-cake"
+    }
+  ],
+  "timestamp": "2026-08-03T13:00:29.627794948Z",
+  "model": "glm-4.5"
+}

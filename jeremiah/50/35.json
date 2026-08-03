@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "jeremiah 50:35",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 50,
+  "translation": "Меч на халдеев — не́ум ЯХВЕ, и ⟨на⟩ жителей ⟨в⟩ Вавилоне, и ⟨на⟩ князей её, и ⟨на⟩ мудрецов её",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "меч"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "халдеев"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "не́ум"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "жителей"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "⟨в⟩ Вавилоне"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "князей её"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и"
+    },
+    {
+      "surface": "חכמיה",
+      "gloss": "мудрецов её"
+    }
+  ],
+  "timestamp": "2026-08-03T04:11:49.285732357Z",
+  "model": "glm-4.5"
+}

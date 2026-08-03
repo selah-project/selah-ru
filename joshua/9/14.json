@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И взяли ⟨люди⟩ ⟨пищу⟩ их, и ⟨את⟩ уст ЯХВЕ не спросили",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "и взяли"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "⟨люди⟩"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "⟨пищу⟩ их"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "уст ЯХВЕ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уст"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "спросили"
+    }
+  ],
+  "timestamp": "2026-08-02T22:33:14.833559784Z",
+  "model": "glm-4.5"
+}

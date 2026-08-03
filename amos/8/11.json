@@ -1,0 +1,98 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "amos 8:11",
+  "book": "amos",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Вот, дни идут, — слово Адоная ЯХВЕ, — и пошлю Я голод ⟨по⟩ земле: не голод хлеба и не жажда воды, но слышать ⟨את⟩ слова ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Вот"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "באים",
+      "gloss": "идут"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адоная"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "והשלחתי",
+      "gloss": "и пошлю Я"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "голод"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨по⟩ земле"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "голод"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "хлеба"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "жажда"
+    },
+    {
+      "surface": "למים",
+      "gloss": "воды"
+    },
+    {
+      "surface": "כי",
+      "gloss": "но"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "слышать"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слова"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T05:41:57.409393700Z",
+  "model": "glm-4.5"
+}

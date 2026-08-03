@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Сыновья Лэви: Гершом, Кэат и Мэрари.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Лэви"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Гершом"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кэат"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "и Мэрари"
+    }
+  ],
+  "timestamp": "2026-08-03T12:44:05.231556721Z",
+  "model": "glm-4.5"
+}

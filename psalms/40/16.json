@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "Да станут они в ужас от стыда своего, ⟨те⟩, кто говорит мне: ага, ага!",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "да станут"
+    },
+    {
+      "surface": "על",
+      "gloss": "от"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "из-за"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "стыда своего"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "говорит"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ага"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ага"
+    }
+  ],
+  "timestamp": "2026-08-03T07:19:04.954410552Z",
+  "model": "glm-4.5"
+}

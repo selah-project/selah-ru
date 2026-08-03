@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "1-chronicles 6:22",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "сын Тахата, сын Асира, сын Эвъясафа, сын Кореаха;",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "Тахат"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Асир"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אביסף",
+      "gloss": "Эвъясаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Кореах"
+    }
+  ],
+  "timestamp": "2026-08-03T12:44:39.466415268Z",
+  "model": "glm-4.5"
+}

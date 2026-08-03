@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "numbers 1:16",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Эти — призванные ⟨из⟩ общины, князья колен отцов их, главы тысяч Израиля, они",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Эти"
+    },
+    {
+      "surface": "קריאי",
+      "gloss": "призванные"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "⟨из⟩ общины",
+      "marks": "общины"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "князья"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "колен"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "отцов их"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "главы"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "тысяч"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "הם",
+      "gloss": "они"
+    }
+  ],
+  "timestamp": "2026-08-02T21:10:18.607622947Z",
+  "model": "glm-4.5"
+}

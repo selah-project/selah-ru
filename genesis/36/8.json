@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "И поселился Эсав в горе Сеир: Эсав — ⟨он⟩ Эдом.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "И поселился"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "в горе"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "— ⟨он⟩"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    }
+  ],
+  "timestamp": "2026-08-02T19:38:10.541670557Z",
+  "model": "glm-4.5"
+}

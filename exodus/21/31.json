@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Если боднет ⟨своего⟩ сына, или боднет ⟨своего⟩ дочь, по этому закону ⟨с ним⟩ поступят",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Если"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "боднет"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочь"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "боднет"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "по закону"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "этому"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "поступят"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨с ним⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T20:15:19.444061112Z",
+  "model": "glm-4.5"
+}

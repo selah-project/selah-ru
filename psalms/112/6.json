@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 112,
+  "translation": "Ибо вовек не поколеблется ⟨он⟩ — в вечной памяти праведник ⟨будет⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "вовек"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "поколеблется"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "в памяти"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечной"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨будет⟩"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведник"
+    }
+  ],
+  "timestamp": "2026-08-03T08:43:41.773417755Z",
+  "model": "glm-4.5"
+}

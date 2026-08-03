@@ -1,0 +1,88 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "judges 6:20",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И сказал ему ангел Элохима: возьми ⟨את⟩ мясо и ⟨את⟩ unleavened cakes и положи на этот камень, и ⟨את⟩ broth вылей; и сделал так",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ангел"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохима"
+    },
+    {
+      "surface": "קח",
+      "gloss": "возьми"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мясо"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "мясо"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "unleavened cakes"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "unleavened cakes"
+    },
+    {
+      "surface": "והנח",
+      "gloss": "и положи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "этот камень"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "этот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "broth"
+    },
+    {
+      "surface": "המרק",
+      "gloss": "broth"
+    },
+    {
+      "surface": "שפוך",
+      "gloss": "вылей"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "и сделал"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    }
+  ],
+  "timestamp": "2026-08-02T22:55:27.401235099Z",
+  "model": "glm-4.5"
+}

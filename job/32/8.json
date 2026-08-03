@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "job 32:8",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "Но ведь ⟨Ruach⟩ — в человеке, и дыхание Шаддай даёт им понимание.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Но ведь"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "⟨Ruach⟩"
+    },
+    {
+      "surface": "היא",
+      "gloss": "—"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "в человеке"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "и дыхание"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шаддай"
+    },
+    {
+      "surface": "תבינם",
+      "gloss": "даёт им понимание"
+    }
+  ],
+  "timestamp": "2026-08-03T10:37:35.124907651Z",
+  "model": "glm-4.5"
+}

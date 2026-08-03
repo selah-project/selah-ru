@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "daniel 6:22",
+  "book": "daniel",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "тогда Даниил говорил с царём: о царь, живи вечно:",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "тогда"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Даниил"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "царём"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "говорил"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "о царь"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "вечно"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "живи"
+    }
+  ],
+  "timestamp": "2026-08-03T11:47:19.053446478Z",
+  "model": "glm-4.5"
+}

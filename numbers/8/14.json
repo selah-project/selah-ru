@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "numbers 8:14",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И ты отделишь ⟨את⟩ левитов из среды сынов Израиля, и будут Мне ⟨левиты⟩",
+  "tokens": [
+    {
+      "surface": "והבדלת",
+      "gloss": "и отделишь"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "левитов"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левитов"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "из среды"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "и будут"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мне"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левиты"
+    }
+  ],
+  "timestamp": "2026-08-02T21:20:33.345364501Z",
+  "model": "glm-4.5"
+}

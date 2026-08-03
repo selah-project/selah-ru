@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И сказал ЯХВЕ рыбе, и она извергла ⟨את⟩ Йону на сушу.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "рыбе"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "и она извергла"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йону"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Йону"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "сушу"
+    }
+  ],
+  "timestamp": "2026-08-03T05:45:31.104016253Z",
+  "model": "glm-4.5"
+}

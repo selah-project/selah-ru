@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 89,
+  "translation": "Ты также обратил вспять ⟨острие⟩ меча его и не поддержал его в битве",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "даже"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "обратил"
+    },
+    {
+      "surface": "צור",
+      "gloss": "остриё"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "меча его"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "поддержал"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "в битве"
+    }
+  ],
+  "timestamp": "2026-08-03T08:17:15.411611054Z",
+  "model": "glm-4.5"
+}

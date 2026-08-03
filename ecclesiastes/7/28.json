@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "ecclesiastes 7:28",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "которого ещё искала душа моя и ⟨я⟩ не нашёл: человека одного из тысячи я нашёл, а женщину среди всех ⟨этих⟩ я не нашёл.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "которого"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ещё"
+    },
+    {
+      "surface": "בקשה",
+      "gloss": "искала"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душа моя"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и ⟨я⟩ не"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "нашёл"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одного"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "из тысячи"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "я нашёл"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "а женщину"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "среди всех"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "⟨этих⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "нашёл"
+    }
+  ],
+  "timestamp": "2026-08-03T11:22:12.632010941Z",
+  "model": "glm-4.5"
+}

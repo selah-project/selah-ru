@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И ⟨были⟩ все дни Эноша девятьсот пять лет, и он умер",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "и ⟨были⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дни"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Эноша"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пять"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "лет"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "и ⟨девять⟩"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотен"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "года"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и он умер"
+    }
+  ],
+  "timestamp": "2026-08-02T17:48:44.076119462Z",
+  "model": "glm-4.5"
+}

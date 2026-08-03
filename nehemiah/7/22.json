@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "nehemiah 7:22",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Сыновья Хашума: триста двадцать и восемь",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Хашума"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотни"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцать"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "и восемь"
+    }
+  ],
+  "timestamp": "2026-08-03T12:21:57.857583511Z",
+  "model": "glm-4.5"
+}

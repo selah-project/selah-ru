@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 78:12",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 78,
+  "translation": "Чудесное ⟨Он сделал⟩ перед отцами их, в земле Египетской, ⟨в поле⟩ Цоан.",
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "перед"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "отцами их"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "чудесное"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земле"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Египетской"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "⟨в поле⟩"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Цоан"
+    }
+  ],
+  "timestamp": "2026-08-03T08:00:52.163076363Z",
+  "model": "glm-4.5"
+}

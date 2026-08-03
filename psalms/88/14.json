@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 88,
+  "translation": "А я к Тебе, ЯХВЕ, взывал, и утром ⟨моё⟩ прошение встретит Тебя.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "А я"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "к Тебе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "взывал"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "и утром"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "⟨моё⟩ прошение"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "встретит Тебя"
+    }
+  ],
+  "timestamp": "2026-08-03T08:12:57.216973764Z",
+  "model": "glm-4.5"
+}

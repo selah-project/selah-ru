@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 96:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 96,
+  "translation": "Ибо все боги народов — идолы, а ЯХВЕ сотворил ⟨небеса⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "боги"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "народов"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "идолы"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "а ЯХВЕ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨небеса⟩",
+      "marks": "небеса"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сотворил"
+    }
+  ],
+  "timestamp": "2026-08-03T08:24:42.477680625Z",
+  "model": "glm-4.5"
+}

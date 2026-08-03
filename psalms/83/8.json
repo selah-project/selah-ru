@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 83,
+  "translation": "Гевал и Аммон, и Амалек, Филистимляне ⟨с⟩ жителями Цора,",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Гевал"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "и Аммон"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "и Амалек"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Филистимляне"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨с⟩",
+      "marks": "жителями Цора"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "жителями"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Цора"
+    }
+  ],
+  "timestamp": "2026-08-03T08:08:53.096192361Z",
+  "model": "glm-4.5"
+}

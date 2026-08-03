@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "Он построил ⟨את⟩ верхние ворота дома ЯХВЕ и на стене Офела построил ⟨на⟩ многое",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Он"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "построил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "верхние ворота"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ворота"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "верхние"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "и на стене"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "Офела"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "построил"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "⟨на⟩ многое"
+    }
+  ],
+  "timestamp": "2026-08-03T14:01:35.895592711Z",
+  "model": "glm-4.5"
+}

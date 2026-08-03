@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "deuteronomy 1:23",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И слово ⟨было⟩ благо в глазах моих, и я взял ⟨из⟩ вас двенадцать мужей, по одному мужу для колена:",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "и ⟨было⟩ благо"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в глазах моих"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "и я взял"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "⟨из⟩ вас"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "две"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "десять"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "мужей"
+    },
+    {
+      "surface": "איש",
+      "gloss": "муж"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "для колена"
+    }
+  ],
+  "timestamp": "2026-08-02T21:51:20.118671109Z",
+  "model": "glm-4.5"
+}

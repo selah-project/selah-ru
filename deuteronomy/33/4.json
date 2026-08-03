@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "Тору заповедал нам Моше, наследие собрания Яакова.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Тору"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповедал"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "наследие"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "собрания"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    }
+  ],
+  "timestamp": "2026-08-02T22:24:00.189029962Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 78,
+  "translation": "И сердце их не было ⟨было⟩ прямым с Ним, и не верны ⟨были они⟩ они в завете Его",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "И сердце их"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "прямым"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с Ним"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "верны"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "в завете Его"
+    }
+  ],
+  "timestamp": "2026-08-03T08:03:50.068772698Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "proverbs 9:18",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "А ⟨он⟩ не знает, что ⟨там⟩ Рефаимы, что ⟨в⟩ глубинах Шеола ⟨её⟩ зованные",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "А ⟨он⟩ не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знает"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Рефаимы"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨там⟩"
+    },
+    {
+      "surface": "בעמקי",
+      "gloss": "⟨в⟩ глубинах"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеола"
+    },
+    {
+      "surface": "קראיה",
+      "gloss": "⟨её⟩ зованные"
+    }
+  ],
+  "timestamp": "2026-08-03T09:31:40.277439536Z",
+  "model": "glm-4.5"
+}

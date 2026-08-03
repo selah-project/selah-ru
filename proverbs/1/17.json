@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "proverbs 1:17",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Ибо попусту ⟨есть⟩ раскинута сеть в глазах у всякого ⟨имеющего⟩ крыло",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "попусту"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "раскинута ⟨есть⟩"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "сеть"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в глазах"
+    },
+    {
+      "surface": "כל",
+      "gloss": "у всякого"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "⟨имеющего⟩"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "крыло"
+    }
+  ],
+  "timestamp": "2026-08-03T09:21:00.757151918Z",
+  "model": "glm-4.5"
+}

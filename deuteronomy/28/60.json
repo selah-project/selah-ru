@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 60,
+  "ref": "deuteronomy 28:60",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "и вернёт на тебя ⟨את⟩ все болезни Египта, которых ты боялся от лица их, и прилепятся к тебе",
+  "tokens": [
+    {
+      "surface": "והשיב",
+      "gloss": "и вернёт"
+    },
+    {
+      "surface": "בך",
+      "gloss": "на тебя"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "все болезни Египта"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "מדוה",
+      "gloss": "болезни"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Египта"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которых"
+    },
+    {
+      "surface": "יגרת",
+      "gloss": "ты боялся"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "от лица их"
+    },
+    {
+      "surface": "ודבקו",
+      "gloss": "и прилепятся"
+    },
+    {
+      "surface": "בך",
+      "gloss": "к тебе"
+    }
+  ],
+  "timestamp": "2026-08-02T22:18:25.161024888Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 38:6",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 38,
+  "translation": "И взял Иехуда женщину для Эра, первенца его, и имя её Тамар.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "и взял"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иехуда"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "женщину"
+    },
+    {
+      "surface": "לער",
+      "gloss": "для Эра"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "первенца его"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "и имя её"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Тамар"
+    }
+  ],
+  "timestamp": "2026-08-02T19:40:46.384364550Z",
+  "model": "glm-4.5"
+}

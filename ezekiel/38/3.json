@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "ezekiel 38:3",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 38,
+  "translation": "и скажешь: так говорит Адонай ЯХВЕ: вот, я против тебя, Гог, князь Роша, Мешеха и Фувала:",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "и скажешь"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "говорит"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "вот"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "я ⟨против⟩ тебя"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "Гог"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "князь"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "Роша"
+    },
+    {
+      "surface": "משך",
+      "gloss": "Мешеха"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "и Фувала"
+    }
+  ],
+  "timestamp": "2026-08-03T05:03:56.467324469Z",
+  "model": "glm-4.5"
+}

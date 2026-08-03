@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И сказал: ⟨есть⟩ слово мне к тебе. И она сказала: говори.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "к тебе"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "И она сказала"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говори"
+    }
+  ],
+  "timestamp": "2026-08-03T00:20:28.368877541Z",
+  "model": "glm-4.5"
+}

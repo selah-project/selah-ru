@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "genesis 19:38",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "И младшая, ⟨она⟩ также, родила сына и назвала имя его Бен-Амми: ⟨он⟩ отец сынов Аммона до сего дня.",
+  "tokens": [
+    {
+      "surface": "והצעירה",
+      "gloss": "И младшая"
+    },
+    {
+      "surface": "גם",
+      "gloss": "также"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨она⟩"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "родила"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "и назвала"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "имя его"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Бен-"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Амми"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отец"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммона"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "сего дня"
+    }
+  ],
+  "timestamp": "2026-08-02T19:17:01.389695859Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "zechariah 2:9",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И Я буду ⟨для⟩ неё стеной огня вокруг — слово ЯХВЕ — и ⟨буду⟩ славою ⟨в⟩ середине ⟨её⟩",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "И Я"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "буду"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨для⟩ неё"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "стеной"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огня"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "вокруг"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "и ⟨буду⟩ славою"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "⟨буду⟩"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "⟨в⟩ середине ⟨её⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T06:09:44.926688127Z",
+  "model": "glm-4.5"
+}

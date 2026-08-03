@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И я поднял ⟨את⟩ глаза мои, и вот, четыре рога",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "и я поднял"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "глаза мои"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "глаза мои"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "и увидел"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четыре"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "рога"
+    }
+  ],
+  "timestamp": "2026-08-03T06:09:34.180537397Z",
+  "model": "glm-4.5"
+}

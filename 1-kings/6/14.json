@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И построил Шеломо ⟨את⟩ Дом, и завершил его",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "И построил"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Дом"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "Дом"
+    },
+    {
+      "surface": "וכלהו",
+      "gloss": "и завершил его"
+    }
+  ],
+  "timestamp": "2026-08-03T00:26:29.726031716Z",
+  "model": "glm-4.5"
+}

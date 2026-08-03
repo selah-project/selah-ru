@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "joshua 12:14",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "царь Хормы, один; царь Арада, один;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Хормы"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "Арада"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    }
+  ],
+  "timestamp": "2026-08-02T22:36:13.166839100Z",
+  "model": "glm-4.5"
+}

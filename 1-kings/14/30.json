@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "1-kings 14:30",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И война была между Рехавамом и между Яровамом все дни.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "И война"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "была"
+    },
+    {
+      "surface": "בין",
+      "gloss": "между"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Рехавамом"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и между"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Яровамом"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дни"
+    }
+  ],
+  "timestamp": "2026-08-03T00:45:43.526692580Z",
+  "model": "glm-4.5"
+}

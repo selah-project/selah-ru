@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "2-chronicles 33:17",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "Но ⟨ещё⟩ народ приносит жертвы ⟨на⟩ высотах, ⟨только⟩ ЯХВЕ, своему Элохим.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "Но"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨ещё⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "приносят жертвы"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "⟨на⟩ высотах"
+    },
+    {
+      "surface": "רק",
+      "gloss": "⟨только⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "своему Эlohим"
+    }
+  ],
+  "timestamp": "2026-08-03T14:11:15.298717536Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "exodus 30:10",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "и сделает искупление Аарон на ⟨её⟩ рогах однажды в году из крови purification-for-sin purification-ов однажды в году очистит ⟨её⟩ для поколений ваших ⟨это⟩ святыня святынь ⟨она⟩ для ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "и сделает искупление"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "⟨её⟩ рогах"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "однажды"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "в году"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "из крови"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "purification-for-sin"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "purification-ов"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "однажды"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "в году"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "очистит"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨её⟩"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "для поколений ваших"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "святыня"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "святынь"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨это⟩ ⟨она⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "для ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T20:27:19.897023060Z",
+  "model": "glm-4.5"
+}

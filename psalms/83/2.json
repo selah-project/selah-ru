@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 83,
+  "translation": "Элохим, не молчи для Тебя, не безмолвствуй и не ⟨будь⟩ спокоен, Эль.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "молчи"
+    },
+    {
+      "surface": "לך",
+      "gloss": "для Тебя"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "безмолвствуй"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "⟨будь⟩ спокоен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эль"
+    }
+  ],
+  "timestamp": "2026-08-03T08:09:07.366708225Z",
+  "model": "glm-4.5"
+}

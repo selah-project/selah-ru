@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "2-samuel 14:21",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И сказал царь к Йоаву: вот, прошу, сделал ⟨я⟩ ⟨את⟩ это слово; и иди, верни ⟨את⟩ отрока ⟨את⟩ Авшаломa",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоаву"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "נא",
+      "gloss": "прошу"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "это слово"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "это слово"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "ולך",
+      "gloss": "и иди"
+    },
+    {
+      "surface": "השב",
+      "gloss": "верни"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "отрока"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "отрока"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авшалома"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалома"
+    }
+  ],
+  "timestamp": "2026-08-03T00:02:06.165288739Z",
+  "model": "glm-4.5"
+}

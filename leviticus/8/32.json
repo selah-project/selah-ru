@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "а ⟨то⟩, что останется ⟨от⟩ мяса и ⟨от⟩ хлеба, ⟨в⟩ огне сожгите",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "а ⟨то⟩, что останется"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "⟨от⟩ мяса"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "и ⟨от⟩ хлеба"
+    },
+    {
+      "surface": "באש",
+      "gloss": "⟨в⟩ огне"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "сожгите"
+    }
+  ],
+  "timestamp": "2026-08-02T20:47:44.144615805Z",
+  "model": "glm-4.5"
+}

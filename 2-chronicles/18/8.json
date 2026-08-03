@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "2-chronicles 18:8",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И призвал царь Израиля ⟨к⟩ одному из евнухов и сказал: Поторопись, Михей, сын Имлы!",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И призвал"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "⟨одному из⟩ евнухов"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одному"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "поторопись"
+    },
+    {
+      "surface": "מיכהו",
+      "gloss": "Михей"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "Имлы"
+    }
+  ],
+  "timestamp": "2026-08-03T13:48:01.235137090Z",
+  "model": "glm-4.5"
+}

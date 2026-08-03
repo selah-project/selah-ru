@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Пойте ЯХВЕ, ⟨Его⟩ хасиды, и славьте ⟨в⟩ памяти о ⟨Его⟩ святости",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Пойте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "хасиды"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "и славьте"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "в памяти о"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "святости"
+    }
+  ],
+  "timestamp": "2026-08-03T07:06:05.077805945Z",
+  "model": "glm-4.5"
+}

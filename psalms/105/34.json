@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 105,
+  "translation": "Он сказал, и пришла саранча, и гусеница ⟨без⟩ числа",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Он сказал"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и пришла"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "саранча"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "и гусеница"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "⟨без⟩"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "числа"
+    }
+  ],
+  "timestamp": "2026-08-03T08:35:45.257097415Z",
+  "model": "glm-4.5"
+}

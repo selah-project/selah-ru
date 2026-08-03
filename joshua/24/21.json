@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "И сказал народ Иешуа: нет, но ⟨את⟩ ЯХВЕ мы будем служить",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Иешуа"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "нет"
+    },
+    {
+      "surface": "כי",
+      "gloss": "но"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "мы будем служить"
+    }
+  ],
+  "timestamp": "2026-08-02T22:48:40.122289111Z",
+  "model": "glm-4.5"
+}

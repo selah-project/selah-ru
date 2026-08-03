@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "proverbs 19:15",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Лень повергает в глубокий сон, и ремиссная душа будет голодать.",
+  "tokens": [
+    {
+      "surface": "עצלה",
+      "gloss": "Лень"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "повергает"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "в глубокий сон"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "и душа"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ремиссная"
+    },
+    {
+      "surface": "תרעב",
+      "gloss": "будет голодать"
+    }
+  ],
+  "timestamp": "2026-08-03T09:46:34.153224544Z",
+  "model": "glm-4.5"
+}

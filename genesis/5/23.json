@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "genesis 5:23",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И было всех дней Ханока шестьдесят пять и триста лет",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дней"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Ханока"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "шестьдесят"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "пять"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "и"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "триста"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "лет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    }
+  ],
+  "timestamp": "2026-08-02T17:48:54.119347581Z",
+  "model": "glm-4.5"
+}

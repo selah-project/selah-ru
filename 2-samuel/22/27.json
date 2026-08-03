@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "2-samuel 22:27",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "С чистым Ты чист, ⟨и⟩ с извращённым — Ты извиваешься.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "чистым"
+    },
+    {
+      "surface": "תתבר",
+      "gloss": "Ты чист"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "⟨и⟩ с"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "извращённым"
+    },
+    {
+      "surface": "תתפל",
+      "gloss": "Ты извиваешься"
+    }
+  ],
+  "timestamp": "2026-08-03T00:11:50.627415106Z",
+  "model": "glm-4.5"
+}

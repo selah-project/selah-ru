@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 79,
+  "translation": "Пролили их кровь как воды вокруг Иерусалима, и ⟨нет⟩ хоронящего.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "пролили"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "кровь"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "как воды"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "вокруг"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Иерусалима"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "хоронящего"
+    }
+  ],
+  "timestamp": "2026-08-03T08:05:43.636332639Z",
+  "model": "glm-4.5"
+}

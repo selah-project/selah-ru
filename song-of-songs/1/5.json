@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "song-of-songs 1:5",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Я черна, но прекрасна, дочери Иерусалима, как шатры Кедара, как завесы Шеломо.",
+  "tokens": [
+    {
+      "surface": "שחורה",
+      "gloss": "Я черна"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "ונאוה",
+      "gloss": "но прекрасна"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "дочери"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Иерусалима"
+    },
+    {
+      "surface": "כאהלי",
+      "gloss": "как шатры"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Кедара"
+    },
+    {
+      "surface": "כיריעות",
+      "gloss": "как завесы"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    }
+  ],
+  "timestamp": "2026-08-03T10:54:11.619069755Z",
+  "model": "glm-4.5"
+}

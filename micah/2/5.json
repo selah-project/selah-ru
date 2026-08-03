@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "micah 2:5",
+  "book": "micah",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Поэтому не будет у тебя ⟨чтобы⟩ бросать шнур жребий в собрании ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Поэтому"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "будет"
+    },
+    {
+      "surface": "לך",
+      "gloss": "у тебя"
+    },
+    {
+      "surface": "משליך",
+      "gloss": "бросать"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "шнур"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "жребий"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "в собрании"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T05:48:19.607670245Z",
+  "model": "glm-4.5"
+}

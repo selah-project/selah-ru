@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И повелел Йегошуа ⟨את⟩ священникам, говоря: взойдите из Ярдена.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "И повелел"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йегошуа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "священников"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "священников"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "взойдите"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Ярдена"
+    }
+  ],
+  "timestamp": "2026-08-02T22:27:25.334591069Z",
+  "model": "glm-4.5"
+}

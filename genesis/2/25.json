@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И были оба наги, ⟨это⟩ Адам и его жена, и не стыдились.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И были"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "оба"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "наги"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨это⟩ Адам"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "и его жена"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "стыдились"
+    }
+  ],
+  "timestamp": "2026-08-02T17:46:02.145486662Z",
+  "model": "glm-4.5"
+}

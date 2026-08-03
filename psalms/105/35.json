@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 105,
+  "translation": "И съел ⟨он⟩ всякую траву в ⟨их⟩ земле, и съел плод ⟨их⟩ почвы",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "и съел"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всякую"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "траву"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "в ⟨их⟩ земле"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "и съел"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "плод"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "⟨их⟩ почвы"
+    }
+  ],
+  "timestamp": "2026-08-03T08:35:48.622450878Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "2-samuel 2:12",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И вышел Авнер, сын Нера, и слуги Иш-Бошета, сына Шауля, из Маханаима в Гаваон.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "И вышел"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнер"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Нера"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "и слуги"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Иш-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Бошета"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шауля"
+    },
+    {
+      "surface": "ממחנים",
+      "gloss": "из Маханаима"
+    },
+    {
+      "surface": "גבעונה",
+      "gloss": "в Гаваон"
+    }
+  ],
+  "timestamp": "2026-08-02T23:49:13.273280785Z",
+  "model": "glm-4.5"
+}

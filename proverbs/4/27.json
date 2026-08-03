@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Не склоняйся ни направо, ни налево; отврати ⟨свою⟩ ногу ⟨от⟩ зла.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תט",
+      "gloss": "склоняйся"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "направо"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "ни налево"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "отврати"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "⟨свою⟩ ногу"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "⟨от⟩ зла"
+    }
+  ],
+  "timestamp": "2026-08-03T09:25:03.625860227Z",
+  "model": "glm-4.5"
+}

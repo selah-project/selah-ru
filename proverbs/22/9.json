@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Добрый глаз — он ⟨будет⟩ благословен, ибо ⟨он⟩ дал от своего хлеба бедняку.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "добрый"
+    },
+    {
+      "surface": "עין",
+      "gloss": "глаз"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "благословен"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дал"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "от своего хлеба"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "бедняку"
+    }
+  ],
+  "timestamp": "2026-08-03T09:49:48.010753879Z",
+  "model": "glm-4.5"
+}

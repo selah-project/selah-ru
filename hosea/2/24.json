@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И земля ответит ⟨את⟩ зерно, и ⟨את⟩ вино, и ⟨את⟩ елей, и они ответят ⟨את⟩ Изреель.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "И земля"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ответит"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "зерно"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "зерно"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "вино"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "вино"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "елей"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "елей"
+    },
+    {
+      "surface": "והם",
+      "gloss": "и они"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ответят"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Изреель"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Изреель"
+    }
+  ],
+  "timestamp": "2026-08-03T05:21:30.294516413Z",
+  "model": "glm-4.5"
+}

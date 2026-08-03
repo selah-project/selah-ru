@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 42,
+  "translation": "И они не знали, что ⟨Йосеф⟩ слышит, ибо переводчик ⟨между⟩ ними",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "и они"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знали"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "⟨Йосеф⟩ слышит"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "⟨Йосеф⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "переводчик"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "⟨между⟩ ними"
+    }
+  ],
+  "timestamp": "2026-08-02T19:46:25.779930810Z",
+  "model": "glm-4.5"
+}

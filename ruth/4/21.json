@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "и Салмон породил ⟨את⟩ Воаза, а Воаз породил ⟨את⟩ Овида",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "и Салмон"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Воаза"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Воаз"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "а Воаз"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Овида"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Овид"
+    }
+  ],
+  "timestamp": "2026-08-03T11:03:34.158635101Z",
+  "model": "glm-4.5"
+}

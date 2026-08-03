@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И жил Кейнан семьдесят лет и родил ⟨את⟩ Махалалэла",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "И жил"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Кейнан"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "семьдесят"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и родил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Махалалэла"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Махалалэла"
+    }
+  ],
+  "timestamp": "2026-08-02T17:49:02.682313266Z",
+  "model": "glm-4.5"
+}

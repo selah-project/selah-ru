@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "ezra 2:36",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Коены: сыновья Йедаайи, дома ⟨из⟩ Йешуа, девятьсот семьдесят и три",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "Коены"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Йедаайи"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "Йешуа"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "девятьсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "семьдесят"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "и"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "три"
+    }
+  ],
+  "timestamp": "2026-08-03T11:59:11.404284715Z",
+  "model": "glm-4.5"
+}

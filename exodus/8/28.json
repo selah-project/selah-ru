@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "и ожесточил Паро ⟨את⟩ сердце своё также и ⟨в⟩ раз этот, и не послал ⟨את⟩ народ",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "и ожесточил"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сердце своё"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "сердце своё"
+    },
+    {
+      "surface": "גם",
+      "gloss": "также"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "⟨в⟩ раз"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "этот"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "послал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    }
+  ],
+  "timestamp": "2026-08-02T20:02:40.787949281Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "genesis 45:21",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 45,
+  "translation": "И сделали так сыновья Израиля, и дал им Йосеф повозки по повелению Паро, и дал им припасы для дороги",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "И сделали"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и дал"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "повозки"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "פי",
+      "gloss": "повелению"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и дал"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "припасы"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "для дороги"
+    }
+  ],
+  "timestamp": "2026-08-02T19:49:49.178296427Z",
+  "model": "glm-4.5"
+}

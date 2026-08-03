@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Также вы, Кушиты, ⟨будете⟩ пронзены мечом Моим, они.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Также"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вы"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "Кушиты"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "пронзены"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "мечом Моим"
+    },
+    {
+      "surface": "המה",
+      "gloss": "они"
+    }
+  ],
+  "timestamp": "2026-08-03T06:03:01.959407657Z",
+  "model": "glm-4.5"
+}

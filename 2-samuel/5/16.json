@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "2-samuel 5:16",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "и Элишама, и Элиада, и Элифалет",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "и Элишама"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "и Элиада"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "и Элифалет"
+    }
+  ],
+  "timestamp": "2026-08-02T23:52:19.817776271Z",
+  "model": "glm-4.5"
+}

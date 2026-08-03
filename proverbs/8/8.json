@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "proverbs 8:8",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Все слова уст моих — в праведности, нет в них ⟨ни⟩ кривого ⟨ни⟩ лукавого.",
+  "tokens": [
+    {
+      "surface": "בצדק",
+      "gloss": "в праведности"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Все"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уст моих"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "в них"
+    },
+    {
+      "surface": "נפתל",
+      "gloss": "⟨ни⟩ кривого"
+    },
+    {
+      "surface": "ועקש",
+      "gloss": "⟨ни⟩ лукавого"
+    }
+  ],
+  "timestamp": "2026-08-03T09:30:22.798424810Z",
+  "model": "glm-4.5"
+}

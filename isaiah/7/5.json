@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "isaiah 7:5",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Так как Арам замыслил против тебя ⟨зло⟩, Эфраим и сын Ремальяу, говоря:",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "так как"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "замыслил"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "против тебя"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "⟨зло⟩"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраим"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "и сын"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Ремальяу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-03T01:50:41.790798740Z",
+  "model": "glm-4.5"
+}

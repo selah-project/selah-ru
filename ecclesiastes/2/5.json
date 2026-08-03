@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Я сделал себе сады и парды, и посадил в них дерево всякого плода.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Я сделал"
+    },
+    {
+      "surface": "לי",
+      "gloss": "себе"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "сады"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "и парды"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "и посадил"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "в них"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дерево"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всякого"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "плода"
+    }
+  ],
+  "timestamp": "2026-08-03T11:16:48.157088283Z",
+  "model": "glm-4.5"
+}

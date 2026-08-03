@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "За ⟨Иорданом⟩, в земле Моава, ⟨был⟩ начал Моше разъяснять ⟨את⟩ эту Тору, говоря:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "За"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Иорданом"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земле"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "⟨был⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "באר",
+      "gloss": "разъяснять"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эту Тору"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Тору"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "эту"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-02T21:50:52.888618464Z",
+  "model": "glm-4.5"
+}

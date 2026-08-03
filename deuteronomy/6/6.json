@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И будут ⟨эти⟩ слова, которые ⟨я⟩ ⟨повелеваю⟩ тебе сегодня, на сердце твоём",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "и будут"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "слова"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "⟨эти⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨я⟩"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "⟨повелеваю⟩"
+    },
+    {
+      "surface": "היום",
+      "gloss": "сегодня"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "сердце твоём"
+    }
+  ],
+  "timestamp": "2026-08-02T21:57:16.729290164Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "2-chronicles 13:1",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "В восемнадцатый году царя Иеровоама воцарился Авия над Иудеёй",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "В году"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "восемнадцатом"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "למלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Иеровоама"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "воцарился"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Авия"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иудеёй"
+    }
+  ],
+  "timestamp": "2026-08-03T13:39:43.877344043Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Во всякое время да будут одежды твои белыми, и масло на голове твоей ⟨да⟩ не прекращается",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "во всякое"
+    },
+    {
+      "surface": "עת",
+      "gloss": "время"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "да будут"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "одежды твои"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "белыми"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "и масло"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "голове твоей"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨да⟩ не"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "прекращается"
+    }
+  ],
+  "timestamp": "2026-08-03T11:23:27.202804773Z",
+  "model": "glm-4.5"
+}

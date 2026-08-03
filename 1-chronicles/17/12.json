@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "Он построит для Меня дом, ⟨и⟩ Я утвержу ⟨את⟩ трон его навсегда",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Он"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "построит"
+    },
+    {
+      "surface": "לי",
+      "gloss": "для Меня"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "⟨и⟩ Я утвержу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "трон его"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "трон его"
+    },
+    {
+      "surface": "עד",
+      "gloss": "навсегда"
+    },
+    {
+      "surface": "עולם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T13:02:26.344502304Z",
+  "model": "glm-4.5"
+}

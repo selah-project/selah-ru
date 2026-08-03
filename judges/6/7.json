@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "judges 6:7",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И было: когда возопили сыны Израиля к ЯХВЕ, ⟨из-за⟩ Мидиана",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "כי",
+      "gloss": "когда"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "возопили"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨из-за⟩"
+    },
+    {
+      "surface": "אדות",
+      "gloss": ""
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мидиана"
+    }
+  ],
+  "timestamp": "2026-08-02T22:54:42.719743041Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И в день восьмой ⟨он⟩ обрежется ⟨את⟩ плоть крайней плоти его",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "И в день"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "восьмой"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "обрежется"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "⟨את⟩",
+      "marks": "плоть"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "крайней плоти его"
+    }
+  ],
+  "timestamp": "2026-08-02T20:51:16.591571121Z",
+  "model": "glm-4.5"
+}

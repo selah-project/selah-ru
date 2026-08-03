@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 47,
+  "ref": "leviticus 13:47",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И одежда, ⟨когда⟩ будет в ней поражение проказы в одежде шерстяной, или в одежде льняной,",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "И одежда"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨когда⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "будет"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в ней"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "поражение"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "показы"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "в одежде"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "шерстяной"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "в одежде"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "льняной"
+    }
+  ],
+  "timestamp": "2026-08-02T20:52:57.004695306Z",
+  "model": "glm-4.5"
+}

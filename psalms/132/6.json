@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 132,
+  "translation": "Вот, мы услышали о ⟨нём⟩ в Эфрафе, нашли ⟨его⟩ на полях Яара.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Вот"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "мы услышали о"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "в Эфрафе"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "нашли"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "на полях"
+    },
+    {
+      "surface": "יער",
+      "gloss": "Яара"
+    }
+  ],
+  "timestamp": "2026-08-03T09:03:40.838974351Z",
+  "model": "glm-4.5"
+}

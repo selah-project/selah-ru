@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "amos 7:14",
+  "book": "amos",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И отвечал Амос и сказал Амации: не пророк я и не сын пророка я, но скотовод я и собиратель сикоморов ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "и отвечал"
+    },
+    {
+      "surface": "עמוס",
+      "gloss": "Амос"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Амацье"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "пророк"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "пророка"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "כי",
+      "gloss": "но"
+    },
+    {
+      "surface": "בוקר",
+      "gloss": "скотовод"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "ובולס",
+      "gloss": "и собиратель"
+    },
+    {
+      "surface": "שקמים",
+      "gloss": "⟨את⟩",
+      "marks": "сикоморов"
+    }
+  ],
+  "timestamp": "2026-08-03T05:41:13.816732150Z",
+  "model": "glm-4.5"
+}

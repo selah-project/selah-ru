@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "2-chronicles 33:24",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "И слуги ⟨его⟩ сговорились против него и убили его в доме ⟨его⟩",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "и сговорились"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "против него"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "слуги ⟨его⟩"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "и убили его"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "в доме ⟨его⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T14:11:36.647112611Z",
+  "model": "glm-4.5"
+}

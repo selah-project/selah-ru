@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "genesis 11:15",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И жил Шелах после того, как он породил ⟨את⟩ Эвер, триста и три года, и породил сыновей и дочерей,",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "И жил"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Шелах"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "после"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "как он породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эвер"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Эвер"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "года"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "и"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотни"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и породил"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "и дочерей"
+    }
+  ],
+  "timestamp": "2026-08-02T19:08:59.191864309Z",
+  "model": "glm-4.5"
+}

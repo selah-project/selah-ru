@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 89,
+  "translation": "Благословен ЯХВЕ навечно. Аминь и аминь.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Благословен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навечно"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Аминь"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "и аминь"
+    }
+  ],
+  "timestamp": "2026-08-03T08:17:20.866046069Z",
+  "model": "glm-4.5"
+}

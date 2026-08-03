@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "1-chronicles 21:25",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "и дал Давид Орнану за место сикли золота по весу шестьсот",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "и дал"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לארנן",
+      "gloss": "Орнану"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "за место"
+    },
+    {
+      "surface": "שקלי",
+      "gloss": "сикли"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золота"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "по весу"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шестьсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T13:07:07.485939529Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "proverbs 3:11",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Наказание ЯХВЕ, сын мой, не презирай, и не тяготись ⟨Его⟩ вразумлением,",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "наказание"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сын мой"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמאס",
+      "gloss": "презирай"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תקץ",
+      "gloss": "тяготись"
+    },
+    {
+      "surface": "בתוכחתו",
+      "gloss": "вразумлением",
+      "marks": "Его"
+    }
+  ],
+  "timestamp": "2026-08-03T09:23:11.759806885Z",
+  "model": "glm-4.5"
+}

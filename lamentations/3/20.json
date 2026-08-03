@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Постоянно помни, и́бо смиряется ⟨сама⟩ душа моя во мне",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "постоянно помни"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "помни"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "и́бо смиряется"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "во мне"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душа моя"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:39.914617636Z",
+  "model": "glm-4.5"
+}

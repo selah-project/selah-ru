@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 45,
+  "ref": "1-chronicles 1:45",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И умер Йовав, и царствовал ⟨вместо⟩ него Хушам из страны теиманской",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "и умер"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Йовав"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "и царствовал"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "⟨вместо⟩ него"
+    },
+    {
+      "surface": "חושם",
+      "gloss": "Хушам"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "из страны"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "теиманской"
+    }
+  ],
+  "timestamp": "2026-08-03T12:36:15.412158864Z",
+  "model": "glm-4.5"
+}

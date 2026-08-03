@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "numbers 2:7",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "колено Завулона, и князь сынов Завулона Элиав, сын Хелона,",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "колено"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Завулона"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "и князь"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Завулона"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Элиав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Хелона"
+    }
+  ],
+  "timestamp": "2026-08-02T21:11:09.094705419Z",
+  "model": "glm-4.5"
+}

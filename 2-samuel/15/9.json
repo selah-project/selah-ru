@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "2-samuel 15:9",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "И сказал царь ему: иди в шалом. И ⟨он⟩ встал и пошел в Хеврон.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "לך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "в шалом"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "И ⟨он⟩ встал"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и пошел"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "в Хеврон"
+    }
+  ],
+  "timestamp": "2026-08-03T00:03:03.043973848Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "2-chronicles 11:15",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "и поставил ему kohanim для bamot и для se'irim и для eiglim, которые ⟨он⟩ сделал",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "и поставил"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "kohanim"
+    },
+    {
+      "surface": "לבמות",
+      "gloss": "для bamot"
+    },
+    {
+      "surface": "ולשעירים",
+      "gloss": "и для se'irim"
+    },
+    {
+      "surface": "ולעגלים",
+      "gloss": "и для eiglim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨он⟩ сделал"
+    }
+  ],
+  "timestamp": "2026-08-03T13:37:07.811290646Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "numbers 7:22",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "один козёл ⟨для⟩ жертвы ⟨за⟩ грех:",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "козёл"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "коз"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "для греха"
+    }
+  ],
+  "timestamp": "2026-08-02T21:18:06.649342865Z",
+  "model": "glm-4.5"
+}

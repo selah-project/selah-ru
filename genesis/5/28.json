@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "genesis 5:28",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И жил Лемех восемьдесят ⟨и⟩ два года, ⟨и⟩ родил сына",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "И жил"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Лемех"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "⟨и⟩ два"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "восемьдесят"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "года"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "⟨и⟩"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "года"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "⟨и⟩ родил"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    }
+  ],
+  "timestamp": "2026-08-02T17:49:22.283652640Z",
+  "model": "glm-4.5"
+}

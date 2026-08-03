@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "genesis 30:22",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "И вспомнил Элохим ⟨את⟩ Рахиль, и услышал её Элохим, и открыл ⟨את⟩ утробу её",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "и вспомнил"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Рахиль"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахиль"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "и услышал"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "её"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "и открыл"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "утробу её"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "утробу её"
+    }
+  ],
+  "timestamp": "2026-08-02T19:31:16.988209569Z",
+  "model": "glm-4.5"
+}

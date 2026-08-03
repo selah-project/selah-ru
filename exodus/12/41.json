@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 41,
+  "ref": "exodus 12:41",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И было в конце трёхсот тридцати лет, в самый этот день вышли все воинства ЯХВЕ из земли Египта",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "в конце"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "трёхсот"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "тридцати"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "лет"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "⟨и⟩"
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и было"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "в самый"
+    },
+    {
+      "surface": "היום",
+      "gloss": "этот"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "день"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "вышли"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "воинства"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "из земли"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Египта"
+    }
+  ],
+  "timestamp": "2026-08-02T20:07:04.640144543Z",
+  "model": "glm-4.5"
+}

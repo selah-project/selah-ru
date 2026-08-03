@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "1-chronicles 2:2",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Дан, Иосиф и Вениамин, Нефтали, Гад и Ашер.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Иосиф"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "и Вениамин"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нефтали"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "и Ашер"
+    }
+  ],
+  "timestamp": "2026-08-03T12:37:05.402462383Z",
+  "model": "glm-4.5"
+}

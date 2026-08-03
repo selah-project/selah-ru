@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 140,
+  "translation": "Глава окружающих меня ⟨—⟩ беда их уст да покроет их",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Глава"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "окружающих меня"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "беда"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "их уст"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "да покроет их"
+    }
+  ],
+  "timestamp": "2026-08-03T09:10:45.492376671Z",
+  "model": "glm-4.5"
+}

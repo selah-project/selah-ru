@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "ezra 2:11",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "сыновья Бевай, шесть сотен двадцать ⟨и⟩ три",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "Бевай"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шесть"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотен"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцать"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "⟨и⟩ три"
+    }
+  ],
+  "timestamp": "2026-08-03T11:58:03.073905018Z",
+  "model": "glm-4.5"
+}

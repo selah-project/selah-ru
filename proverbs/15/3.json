@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "Глаза ЯХВЕ ⟨во⟩ всяком месте, наблюдающие ⟨за⟩ злыми и ⟨за⟩ добрыми",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "⟨во⟩ всяком"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "месте"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "Глаза"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "наблюдающие"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "злыми"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "и ⟨за⟩ добрыми"
+    }
+  ],
+  "timestamp": "2026-08-03T09:39:23.072047638Z",
+  "model": "glm-4.5"
+}

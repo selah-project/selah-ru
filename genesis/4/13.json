@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И сказал Каин ЯХВЕ: велик ⟨мой⟩ грех ⟨чем⟩ можно ⟨нести⟩",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Каин"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "⟨мой⟩ грех"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "⟨чем⟩ можно ⟨нести⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T17:48:01.339377413Z",
+  "model": "glm-4.5"
+}

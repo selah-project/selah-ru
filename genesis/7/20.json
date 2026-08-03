@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "genesis 7:20",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "на пятнадцать локтей ⟨сверху⟩ усилились ⟨המים⟩ и покрылись горы",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "пятнадцать"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "אמה",
+      "gloss": "локтей"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "сверху"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "усилились"
+    },
+    {
+      "surface": "המים",
+      "gloss": "⟨את⟩",
+      "marks": "вода"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "и покрылись"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "горы"
+    }
+  ],
+  "timestamp": "2026-08-02T17:50:37.890655589Z",
+  "model": "glm-4.5"
+}

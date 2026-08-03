@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "job 34:24",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "Он сокрушает mighty без ⟨исследования⟩ и поставляет других ⟨на⟩ ⟨их⟩ место",
+  "tokens": [
+    {
+      "surface": "ירע",
+      "gloss": "Он сокрушает"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "mighty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "без"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "⟨исследования⟩"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "и поставляет"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "других"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "⟨на⟩ ⟨их⟩ место"
+    }
+  ],
+  "timestamp": "2026-08-03T10:44:58.469689559Z",
+  "model": "glm-4.5"
+}

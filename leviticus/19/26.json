@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Не ешьте ⟨с⟩ кровью; не гадайте ⟨и⟩ не волшебствуйте",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ешьте"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "кровью"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "гадайте"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "⟨и⟩ не"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "волшебствуйте"
+    }
+  ],
+  "timestamp": "2026-08-02T20:59:47.487703915Z",
+  "model": "glm-4.5"
+}

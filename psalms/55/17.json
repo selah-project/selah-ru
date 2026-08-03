@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 55,
+  "translation": "А я к Элохим взываю, и ЯХВЕ спасёт меня.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "А я"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "взываю"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "и ЯХВЕ"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "спасёт меня"
+    }
+  ],
+  "timestamp": "2026-08-03T07:32:26.659241054Z",
+  "model": "glm-4.5"
+}

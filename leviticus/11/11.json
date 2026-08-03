@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И мерзостью будут они для вас от мяса их не съедите и ⟨את⟩ трупы их не оскверняйте",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "и мерзостью"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "будут они"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "для вас"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "от мяса их"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "съедите"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "трупы их"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "трупы их"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "оскверняйте"
+    }
+  ],
+  "timestamp": "2026-08-02T20:50:16.329704509Z",
+  "model": "glm-4.5"
+}

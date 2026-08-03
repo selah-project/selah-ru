@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Тогда я не ⟨буду⟩ постыжён, когда ⟨я⟩ взираю на все заповеди Твои",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тогда"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "постыжён"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "когда ⟨я⟩ взираю"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "заповеди Твои"
+    }
+  ],
+  "timestamp": "2026-08-03T08:49:49.485314776Z",
+  "model": "glm-4.5"
+}

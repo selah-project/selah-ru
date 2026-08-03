@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 89,
+  "translation": "Тебе ⟨лежит⟩ рука с могуществом: сильна Твоя рука, высока десница Твоя.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Тебе"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "рука"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "могуществом"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "сильна"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "Твоя рука"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "высока"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "десница Твоя"
+    }
+  ],
+  "timestamp": "2026-08-03T08:16:13.829537681Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "У ⟨нее⟩ нет начальника, ⟨надсмотрщика⟩ ⟨и⟩ правителя",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Которая"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "לה",
+      "gloss": "у ⟨нее⟩"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "начальника"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "⟨надсмотрщика⟩"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "⟨и⟩ правителя"
+    }
+  ],
+  "timestamp": "2026-08-03T09:27:34.648463230Z",
+  "model": "glm-4.5"
+}

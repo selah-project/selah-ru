@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "proverbs 4:23",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Больше ⟨всех⟩ хранений храни сердце твоё, ибо из него — источники жизни.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "больше ⟨всех⟩"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "хранений"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "храни"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "сердце твоё"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "из него"
+    },
+    {
+      "surface": "תוצאות",
+      "gloss": "источники"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "жизни"
+    }
+  ],
+  "timestamp": "2026-08-03T09:25:05.655884103Z",
+  "model": "glm-4.5"
+}

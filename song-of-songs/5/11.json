@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "song-of-songs 5:11",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Глава его — чистое золото, кудри его — волнами, чёрные, как ворон",
+  "tokens": [
+    {
+      "surface": "ראשו",
+      "gloss": "Глава его"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "чистое золото"
+    },
+    {
+      "surface": "פז",
+      "gloss": "золото"
+    },
+    {
+      "surface": "קוצותיו",
+      "gloss": "кудри его"
+    },
+    {
+      "surface": "תלתלים",
+      "gloss": "волнами"
+    },
+    {
+      "surface": "שחרות",
+      "gloss": "чёрные"
+    },
+    {
+      "surface": "כעורב",
+      "gloss": "как ворон"
+    }
+  ],
+  "timestamp": "2026-08-03T10:57:07.649335410Z",
+  "model": "glm-4.5"
+}

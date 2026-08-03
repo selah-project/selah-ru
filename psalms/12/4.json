@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "ЯХВЕ отрежет ⟨все⟩ гладкие уста, ⟨язык⟩ говорящий величия:",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "отрежет"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨все⟩"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "гладкие уста"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": ""
+    },
+    {
+      "surface": "לשון",
+      "gloss": "⟨язык⟩"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "говорящий"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "величия"
+    }
+  ],
+  "timestamp": "2026-08-03T06:42:56.044479302Z",
+  "model": "glm-4.5"
+}

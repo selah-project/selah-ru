@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И с мужем ⟨ты⟩ не ложись ⟨как⟩ лежат ⟨с⟩ женщиною: мерзость ⟨это⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и с",
+      "marks": "мужем"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "мужем"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ложись"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "⟨как⟩ лежат ⟨с⟩"
+    },
+    {
+      "surface": "אשה",
+      "gloss": " женщиною"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "мерзость"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨это⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T20:58:27.079432605Z",
+  "model": "glm-4.5"
+}

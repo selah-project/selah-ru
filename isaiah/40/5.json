@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "И откроется слава ЯХВЕ, и увидит ⟨вся⟩ плоть ⟨её⟩ вместе, ибо уста ЯХВЕ изрекли",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "и откроется"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "слава"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "и увидит"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨вся⟩"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "плоть"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "вместе"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уста"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "изрекли"
+    }
+  ],
+  "timestamp": "2026-08-03T02:26:18.952369831Z",
+  "model": "glm-4.5"
+}

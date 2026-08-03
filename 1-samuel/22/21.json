@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И объявил Авиафар Давиду, что Шаул ⟨את⟩ священников ЯХВЕ убил",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "И объявил"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Авиафар"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиду"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "убил"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "священников ЯХВЕ"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "священников"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T23:38:28.206322756Z",
+  "model": "glm-4.5"
+}

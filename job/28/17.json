@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "job 28:17",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Не ⟨equals⟩ ⟨it⟩ золото и кристалл, и обмен ⟨its⟩ — ⟨vessels⟩ чистого ⟨золота⟩",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "יערכנה",
+      "gloss": "⟨equals⟩"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золото"
+    },
+    {
+      "surface": "וזכוכית",
+      "gloss": "и кристалл"
+    },
+    {
+      "surface": "ותמורתה",
+      "gloss": "и обмен ⟨its⟩"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "⟨vessels⟩"
+    },
+    {
+      "surface": "פז",
+      "gloss": "чистого ⟨золота⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T10:34:02.450560167Z",
+  "model": "glm-4.5"
+}

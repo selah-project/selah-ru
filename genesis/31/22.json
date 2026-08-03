@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "И ⟨было⟩ рассказано Лавану ⟨в⟩ день третий, что бежал Иаков",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "и ⟨было⟩ рассказано"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "Лавану"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "⟨в⟩ день"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "третий"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "бежал"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Иаков"
+    }
+  ],
+  "timestamp": "2026-08-02T19:32:34.654431103Z",
+  "model": "glm-4.5"
+}

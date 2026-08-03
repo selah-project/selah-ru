@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "ЯХВЕ будет сражаться за вас, а вы ⟨будете⟩ молчать.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "будет сражаться"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "а вы"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "⟨будете⟩ молчать"
+    }
+  ],
+  "timestamp": "2026-08-02T20:08:22.731375874Z",
+  "model": "glm-4.5"
+}

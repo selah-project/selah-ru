@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 108,
+  "translation": "Кто приведёт меня в укреплённый город? кто поведёт меня в Эдом?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кто"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "приведёт меня"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "в город"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "укреплённый"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "поведёт меня"
+    },
+    {
+      "surface": "עד",
+      "gloss": "в"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    }
+  ],
+  "timestamp": "2026-08-03T08:40:19.970227106Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "2-kings 24:9",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "И сделал ⟨он⟩ зло в глазах ЯХВЕ, по всему, что сделал отец его.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И сделал"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в глазах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "по всему"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "отец его"
+    }
+  ],
+  "timestamp": "2026-08-03T01:36:41.660014329Z",
+  "model": "glm-4.5"
+}

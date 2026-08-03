@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "judges 17:7",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И был юноша из Бейт-Лехема Йехуды из семьи Йехуды, и он леви, и он ⟨гер⟩ ⟨там⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И был"
+    },
+    {
+      "surface": "נער",
+      "gloss": "юноша"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "из"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Бейт-Лехема"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуды"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "из семьи"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуды"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "и он"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "леви"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "и он"
+    },
+    {
+      "surface": "גר",
+      "gloss": "⟨гер⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨там⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T23:07:54.013051082Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "Пойте Ему песнь новую, ⟨играйте⟩ искусно с восклицанием",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Пойте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ему"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "песнь"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "новую"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "⟨играйте⟩"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "искусно"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "с восклицанием"
+    }
+  ],
+  "timestamp": "2026-08-03T07:08:43.580557823Z",
+  "model": "glm-4.5"
+}

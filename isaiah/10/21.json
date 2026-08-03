@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Остаток возвратится, ⟨даже⟩ остаток Яакова, к Эль, ⟨сильному⟩ ⟨Богу⟩.",
+  "tokens": [
+    {
+      "surface": "שאר",
+      "gloss": "Остаток"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "возвратится"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "остаток"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эль"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "сильному"
+    }
+  ],
+  "timestamp": "2026-08-03T01:54:17.617267213Z",
+  "model": "glm-4.5"
+}

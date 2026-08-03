@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 118,
+  "translation": "От ЯХВЕ ⟨это⟩ было; она — чудесна в глазах наших.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "От"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨это⟩ было"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "она"
+    },
+    {
+      "surface": "היא",
+      "gloss": "—"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "чудесна"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "в глазах наших"
+    }
+  ],
+  "timestamp": "2026-08-03T08:48:14.314458767Z",
+  "model": "glm-4.5"
+}

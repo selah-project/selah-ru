@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "1-chronicles 27:20",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "Для сынов Эфраима, Хошеа, сын Азазьяу; для половины колена Менаше, Йоэль, сын Педаяу:",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "для сынов"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраима"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "Хошеа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "עזזיהו",
+      "gloss": "Азазьяу"
+    },
+    {
+      "surface": "לחצי",
+      "gloss": "для половины"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "колена"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Йоэль"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "פדיהו",
+      "gloss": "Педаяу"
+    }
+  ],
+  "timestamp": "2026-08-03T13:14:58.456098094Z",
+  "model": "glm-4.5"
+}

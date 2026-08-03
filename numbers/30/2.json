@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "numbers 30:2",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "И сказал Моше главам колен сынов Израиля, говоря: вот ⟨это⟩ слово, которое ⟨повелел⟩ ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "главам"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "колен"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "זה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "повелел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T18:08:46.079508105Z",
+  "model": "glm-4.5"
+}

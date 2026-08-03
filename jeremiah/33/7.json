@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "И возвращу ⟨את⟩ плен Иуды и ⟨את⟩ плен Израиля, и построю их, как в начале",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "и возвращу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "плен"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "плен"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иуды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "плен"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "плен"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "и построю их"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "как в начале"
+    }
+  ],
+  "timestamp": "2026-08-03T03:46:34.787849885Z",
+  "model": "glm-4.5"
+}

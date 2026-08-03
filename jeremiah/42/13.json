@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "jeremiah 42:13",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 42,
+  "translation": "А если вы скажете: «Не ⟨будем⟩ жить в этой земле, чтобы не слушать голоса ЯХВЕ, Элохим вашего»",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А если"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "скажете"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נשב",
+      "gloss": "⟨будем⟩ жить"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "этой"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "чтобы не"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слушать"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "голоса"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элохим вашего"
+    }
+  ],
+  "timestamp": "2026-08-03T04:01:01.237399397Z",
+  "model": "glm-4.5"
+}

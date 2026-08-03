@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "2-chronicles 11:5",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И жил Рехавам в Иерусалиме, и построил города для укрепления в Иудее",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "и жил"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Рехавам"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "в Иерусалиме"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "и построил"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "города"
+    },
+    {
+      "surface": "למצור",
+      "gloss": "для укрепления"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "в Иудее"
+    }
+  ],
+  "timestamp": "2026-08-03T13:36:32.779552002Z",
+  "model": "glm-4.5"
+}

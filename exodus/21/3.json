@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "если ⟨он⟩ войдёт ⟨один⟩, ⟨один⟩ и выйдет; если ⟨он⟩ муж жены, выйдет ⟨и⟩ жена его с ним",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "войдёт"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "⟨один⟩"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "⟨один⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "и"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "выйдет"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "если"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "муж"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "жены"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "выйдет ⟨и⟩ жена его с ним"
+    }
+  ],
+  "timestamp": "2026-08-02T20:14:45.036412277Z",
+  "model": "glm-4.5"
+}

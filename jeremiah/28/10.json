@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "И взял Ханания пророк ⟨את⟩ ⟨жезл⟩ с шеи Иеремии пророка и сломал его",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "И взял"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Ханания"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророк"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨жезл⟩"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "жезл"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "с"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "шеи"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Иеремии"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророк"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "и сломал его"
+    }
+  ],
+  "timestamp": "2026-08-03T03:38:15.756409729Z",
+  "model": "glm-4.5"
+}

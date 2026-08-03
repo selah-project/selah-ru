@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "proverbs 24:29",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Не говори: „как он ⟨сделал⟩ мне, так я ⟨сделаю⟩ ему; воздам ⟨человеку⟩ по ⟨делу⟩ его“",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "сделаю"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "воздам"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "человеку"
+    },
+    {
+      "surface": "כפעלו",
+      "gloss": "по делу его"
+    }
+  ],
+  "timestamp": "2026-08-03T09:55:32.000009599Z",
+  "model": "glm-4.5"
+}

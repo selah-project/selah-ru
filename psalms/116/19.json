@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 116,
+  "translation": "Во дворах дома ЯХВЕ, во средине твоей, Иерусалим: славьте ЯХ!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "Во дворах"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "во средине твоей"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Иерусалим"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "славьте"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ЯХ"
+    }
+  ],
+  "timestamp": "2026-08-03T08:46:36.402542254Z",
+  "model": "glm-4.5"
+}

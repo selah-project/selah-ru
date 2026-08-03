@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Тебе ⟨было⟩ показано, чтобы знать, что ЯХВЕ, ⟨Он⟩ Элохим; нет ⟨никого⟩ кроме Него",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "⟨было⟩ показано"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "чтобы знать"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Он⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨никого⟩"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "кроме Него"
+    }
+  ],
+  "timestamp": "2026-08-02T21:55:18.950912586Z",
+  "model": "glm-4.5"
+}

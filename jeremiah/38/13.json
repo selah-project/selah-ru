@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "jeremiah 38:13",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 38,
+  "translation": "И вытащили ⟨את⟩ Ирмию верёвками и вывели его из ямы, и сидел Ирмия во дворе стражи",
+  "tokens": [
+    {
+      "surface": "וימשכו",
+      "gloss": "И вытащили"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ирмию"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмию"
+    },
+    {
+      "surface": "בחבלים",
+      "gloss": "верёвками"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "и вывели"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "его"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "ямы"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и сидел"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмия"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "во дворе"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "стражи"
+    }
+  ],
+  "timestamp": "2026-08-03T03:53:04.483431758Z",
+  "model": "glm-4.5"
+}

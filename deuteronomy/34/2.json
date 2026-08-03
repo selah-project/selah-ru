@@ -1,0 +1,72 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "и ⟨את⟩ весь Нефтали и ⟨את⟩ землю Эфраима и Манассии, и ⟨את⟩ всю землю Иудеи до ⟨моря⟩ ⟨последнего⟩",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и",
+      "marks": "весь Нефтали"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нефтали"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и",
+      "marks": "землю Эфраима и Манассии"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраима"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "и Манассии"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и",
+      "marks": "всю землю Иудеи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всю"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иудеи"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "הים",
+      "gloss": "моря"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "последнего"
+    }
+  ],
+  "timestamp": "2026-08-02T22:24:43.599335606Z",
+  "model": "glm-4.5"
+}

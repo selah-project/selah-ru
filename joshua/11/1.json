@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "joshua 11:1",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И было, когда услышал Явин, царь Хацора, и послал к Йоваву, царю Мадона, и к царю Шимрона, и к царю Ахшафа",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "когда услышал"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "Явин"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Хацора"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "и послал"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Йоваву"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "Мадона"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и к"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Шимрона"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и к"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "Ахшафа"
+    }
+  ],
+  "timestamp": "2026-08-02T22:35:20.222346042Z",
+  "model": "glm-4.5"
+}

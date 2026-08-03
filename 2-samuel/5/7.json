@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И захватил Давид ⟨את⟩ крепость Цион, она — город Давида.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "И захватил"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "крепость"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "крепость"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    },
+    {
+      "surface": "היא",
+      "gloss": "она"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "город"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давида"
+    }
+  ],
+  "timestamp": "2026-08-02T23:52:25.256765644Z",
+  "model": "glm-4.5"
+}

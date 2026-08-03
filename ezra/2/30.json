@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Сыновья Магбиша, сто пятьдесят шесть",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "Магбиш"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "пятьдесят"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "шесть"
+    }
+  ],
+  "timestamp": "2026-08-03T11:57:59.192515266Z",
+  "model": "glm-4.5"
+}

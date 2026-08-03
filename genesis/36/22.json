@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "genesis 36:22",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "И сыновья Лотана ⟨были⟩ Хори и Гемам, и сестра Лотана — Тимна.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "и сыновья... ⟨были⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотана"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "Хори"
+    },
+    {
+      "surface": "והימם",
+      "gloss": "и Гемам"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "и сестра"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотана"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Тимна"
+    }
+  ],
+  "timestamp": "2026-08-02T19:38:36.652682772Z",
+  "model": "glm-4.5"
+}

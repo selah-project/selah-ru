@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "⟨את⟩ уставы Твои буду хранить, не оставляй меня совсем.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "уставы Твои"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "уставы Твои"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "буду хранить"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "оставляй меня"
+    },
+    {
+      "surface": "עד",
+      "gloss": "совсем"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "вполне"
+    }
+  ],
+  "timestamp": "2026-08-03T08:49:34.302456400Z",
+  "model": "glm-4.5"
+}

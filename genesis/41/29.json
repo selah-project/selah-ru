@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "genesis 41:29",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 41,
+  "translation": "вот, идут ⟨они⟩ семь лет большого изобилия ⟨по⟩ всей земле Мицраима",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семь"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "лет"
+    },
+    {
+      "surface": "באות",
+      "gloss": "идут"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "изобилия"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "большого"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "⟨по⟩ всей"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земле"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраима"
+    }
+  ],
+  "timestamp": "2026-08-02T19:44:44.537156315Z",
+  "model": "glm-4.5"
+}

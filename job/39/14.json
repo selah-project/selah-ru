@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "job 39:14",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 39,
+  "translation": "Ибо оставляет она яйца ⟨свои⟩ на земле, и на пыли согревает ⟨их⟩",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "оставляет"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "на землю"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "яйца"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "пыль"
+    },
+    {
+      "surface": "תחמם",
+      "gloss": "согревает ⟨их⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T10:50:43.708109578Z",
+  "model": "glm-4.5"
+}

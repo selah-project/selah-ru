@@ -1,0 +1,39 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 124,
+  "translation": "Наша помощь — в имени ЯХВЕ, ⟨Который⟩ сотворил ⟨שמים⟩ и ⟨ארץ⟩",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Наша помощь"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "в имени"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сотворил"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨שמים⟩",
+      "marks": "небо"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "⟨ארץ⟩",
+      "marks": "земля"
+    }
+  ],
+  "timestamp": "2026-08-03T08:58:34.186393411Z",
+  "model": "glm-4.5"
+}

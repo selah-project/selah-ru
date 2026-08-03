@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И пришёл Гатах и сообщил Эстер ⟨את⟩ слова Мордехая",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "и пришёл"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Гатах"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "и сообщил"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Эстер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слова Мордехая"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мордехая"
+    }
+  ],
+  "timestamp": "2026-08-03T11:31:19.540309990Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "proverbs 5:23",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Он умрёт без наставления, и в величии своей глупости он заблуждается.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "умрёт"
+    },
+    {
+      "surface": "באין",
+      "gloss": "без"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "наставления"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "и в"
+    },
+    {
+      "surface": "אולתו",
+      "gloss": "своей глупости"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "заблуждается"
+    }
+  ],
+  "timestamp": "2026-08-03T09:26:27.347256842Z",
+  "model": "glm-4.5"
+}

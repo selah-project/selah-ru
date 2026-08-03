@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И было, когда завершил весь народ переходить ⟨את⟩ Иордан, ЯХВЕ сказал Иегошуа, говоря:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "когда"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "завершил"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "переходить"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Иордан"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Иордан"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Иегошуа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-02T22:27:27.771130042Z",
+  "model": "glm-4.5"
+}

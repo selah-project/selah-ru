@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 51,
+  "translation": "Создай во мне сердце чистое, Элохим, и дух правый обнови внутри меня",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "сердце"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чистое"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "создай"
+    },
+    {
+      "surface": "לי",
+      "gloss": "во мне"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "и дух"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "правый"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "обнови"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "внутри меня"
+    }
+  ],
+  "timestamp": "2026-08-03T07:30:00.996482113Z",
+  "model": "glm-4.5"
+}

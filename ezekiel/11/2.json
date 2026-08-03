@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "ezekiel 11:2",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И сказал Он мне: сын человеческий, эти ⟨люди⟩, замышляющие aven, и дающие злой совет в этом городе.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человеческий"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "эти"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "люди"
+    },
+    {
+      "surface": "החשבים",
+      "gloss": "замышляющие"
+    },
+    {
+      "surface": "און",
+      "gloss": "aven"
+    },
+    {
+      "surface": "והיעצים",
+      "gloss": "и дающие"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "совет"
+    },
+    {
+      "surface": "רע",
+      "gloss": "злой"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "в городе"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "этом"
+    }
+  ],
+  "timestamp": "2026-08-03T04:26:36.347998586Z",
+  "model": "glm-4.5"
+}

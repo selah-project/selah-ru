@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "amos 8:7",
+  "book": "amos",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Поклялся ЯХВЕ гордостью Яакова: ⟨не⟩ забуду ⟨навсегда⟩ ⟨все⟩ дела ⟨их⟩.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "поклялся"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "гордостью"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "забуду"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "навсегда"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "дела ⟨их⟩",
+      "marks": "дела"
+    }
+  ],
+  "timestamp": "2026-08-03T05:41:46.083322419Z",
+  "model": "glm-4.5"
+}

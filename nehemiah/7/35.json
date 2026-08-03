@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "nehemiah 7:35",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Сыновья Харима: триста двадцать",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Харима"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ста"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "двадцать"
+    }
+  ],
+  "timestamp": "2026-08-03T12:22:41.712018841Z",
+  "model": "glm-4.5"
+}

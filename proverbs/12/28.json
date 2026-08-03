@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "На пути праведности — жизнь, ⟨а⟩ ⟨на⟩ тропе ⟨её⟩ нет смерти",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "На пути"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "праведности"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "жизнь"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "⟨а⟩ ⟨на⟩ тропе"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "⟨её⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "нет"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смерти"
+    }
+  ],
+  "timestamp": "2026-08-03T09:36:09.700851351Z",
+  "model": "glm-4.5"
+}

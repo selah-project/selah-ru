@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И пошёл Шеломо в Хамат-Цова и укрепился на ⟨ней⟩",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "И пошёл"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "в Хамат"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Цова"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "и укрепился"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "на ⟨ней⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T13:31:55.318416335Z",
+  "model": "glm-4.5"
+}

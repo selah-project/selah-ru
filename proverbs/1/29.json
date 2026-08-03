@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "proverbs 1:29",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Так как они возненавидели знание и страха ЯХВЕ не избрали.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "так как"
+    },
+    {
+      "surface": "כי",
+      "gloss": "так как"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "возненавидели"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знание"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "и страха"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "избрали"
+    }
+  ],
+  "timestamp": "2026-08-03T09:21:28.241154322Z",
+  "model": "glm-4.5"
+}

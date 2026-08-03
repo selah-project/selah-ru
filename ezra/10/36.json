@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "ezra 10:36",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Вания, Меремоф и Елиашив,",
+  "tokens": [
+    {
+      "surface": "וניה",
+      "gloss": "Вания"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "Меремоф"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Елиашиб"
+    }
+  ],
+  "timestamp": "2026-08-03T12:12:14.818465695Z",
+  "model": "glm-4.5"
+}

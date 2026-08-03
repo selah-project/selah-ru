@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И собрал Давид ⟨ещё⟩ всех ⟨את⟩ отборных в Израиле, тридцать тысяч.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "И собрал"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨ещё⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всех"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "отборных"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "в Израиле"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "тридцать"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тысяч"
+    }
+  ],
+  "timestamp": "2026-08-02T23:53:18.563499593Z",
+  "model": "glm-4.5"
+}

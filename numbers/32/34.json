@@ -1,0 +1,52 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "И построили сыновья Гада ⟨את⟩ Дивон и ⟨את⟩ Атароф и ⟨את⟩ Ароэр",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "и построили"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гада"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Дивон"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Дивон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Атароф"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Атароф"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ароэр"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Ароэр"
+    }
+  ],
+  "timestamp": "2026-08-02T21:46:28.283169756Z",
+  "model": "glm-4.5"
+}

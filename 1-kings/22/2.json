@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И было в третий год, и сошёл Йехошафат, царь Йехуды, к царю Израиля",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "в год"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "третий"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "и сошёл"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Йехошафат"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-03T01:00:16.608542305Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "judges 4:1",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И сыны Израиля продолжили делать зло в глазах ЯХВЕ, когда Эгуд умер",
+  "tokens": [
+    {
+      "surface": "ויספו",
+      "gloss": "продолжили"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "делать"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в глазах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ואהוד",
+      "gloss": "когда Эгуд"
+    },
+    {
+      "surface": "מת",
+      "gloss": "умер"
+    }
+  ],
+  "timestamp": "2026-08-02T22:52:30.500059402Z",
+  "model": "glm-4.5"
+}

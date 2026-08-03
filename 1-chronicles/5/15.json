@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Ахи, сын Авдиэля, сына Гуни, — глава ⟨дома⟩ отцов их.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "Ахи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "Авдиэля"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "Гуни"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "глава"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨дома⟩",
+      "marks": "дома"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "отцов их"
+    }
+  ],
+  "timestamp": "2026-08-03T12:43:14.860896350Z",
+  "model": "glm-4.5"
+}

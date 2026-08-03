@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "daniel 8:9",
+  "book": "daniel",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "и из одного из них вышла малая рожка одна из меньших и выросла больше к югу и к востоку и к прекрасной",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "и из"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "одной"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "них"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "вышла"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "рожка"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "одна"
+    },
+    {
+      "surface": "מצעירה",
+      "gloss": "из меньших"
+    },
+    {
+      "surface": "ותגדל",
+      "gloss": "и выросла"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "больше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "югу"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и к"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "востоку"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и к"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "прекрасной"
+    }
+  ],
+  "timestamp": "2026-08-03T11:50:07.450697026Z",
+  "model": "glm-4.5"
+}

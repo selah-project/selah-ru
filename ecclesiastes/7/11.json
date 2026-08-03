@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Хороша Хохма ⟨с⟩ ⟨наследством⟩, и ⟨преимущество⟩ для видящих ⟨солнце⟩",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "Хороша"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Хохма"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨с⟩",
+      "marks": "⟨наследством⟩"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "⟨наследством⟩"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "и ⟨преимущество⟩"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "для видящих",
+      "marks": "⟨солнце⟩"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "⟨солнце⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T11:21:53.638406094Z",
+  "model": "glm-4.5"
+}

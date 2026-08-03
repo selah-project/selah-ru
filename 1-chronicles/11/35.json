@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "1-chronicles 11:35",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Ахиам, сын Сакара ⟨ה⟩гарарита, Элифал, сын Ура",
+  "tokens": [
+    {
+      "surface": "אחיאם",
+      "gloss": "Ахиам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "Сакара"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "⟨ה⟩гарарита"
+    },
+    {
+      "surface": "אליפל",
+      "gloss": "Элифал"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אור",
+      "gloss": "Ура"
+    }
+  ],
+  "timestamp": "2026-08-03T12:54:06.412170414Z",
+  "model": "glm-4.5"
+}

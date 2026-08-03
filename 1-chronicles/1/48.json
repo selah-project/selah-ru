@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 48,
+  "ref": "1-chronicles 1:48",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И умер Шемла, и царствовал вместо него Шаул из Реховота ⟨у⟩ реки",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "И умер"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "Шемла"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "и царствовал"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "вместо него"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "из Реховота"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "⟨у⟩ реки"
+    }
+  ],
+  "timestamp": "2026-08-03T12:36:25.905377623Z",
+  "model": "glm-4.5"
+}

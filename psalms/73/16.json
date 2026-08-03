@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 73,
+  "translation": "И подумал я ⟨было⟩ познать это — тягота ⟨это⟩ в глазах моих",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "и подумал я"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "познать"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "это"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "тягота"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨это⟩"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в глазах моих"
+    }
+  ],
+  "timestamp": "2026-08-03T07:53:33.368991959Z",
+  "model": "glm-4.5"
+}

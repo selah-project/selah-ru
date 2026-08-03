@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "1-chronicles 16:14",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Он — ЯХВЕ, наш Элохим; по всей земле — ⟨ Его ⟩ суждения",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Он"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "наш Элохим"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "по всей"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земле"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "суждения"
+    }
+  ],
+  "timestamp": "2026-08-03T13:00:01.901202979Z",
+  "model": "glm-4.5"
+}

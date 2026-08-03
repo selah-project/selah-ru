@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "proverbs 22:8",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Сеющий ⟨авен⟩ пожнёт авен, и посох ⟨эбрато⟩ исчезнет.",
+  "tokens": [
+    {
+      "surface": "זורע",
+      "gloss": "Сеющий"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "⟨авен⟩"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "пожнёт"
+    },
+    {
+      "surface": "און",
+      "gloss": "авен"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "и посох"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "⟨эбрато⟩"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "исчезнет"
+    }
+  ],
+  "timestamp": "2026-08-03T09:50:08.165882639Z",
+  "model": "glm-4.5"
+}

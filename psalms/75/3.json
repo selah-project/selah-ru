@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 75,
+  "translation": "Когда Я назначу ⟨את⟩ время, Я буду судить справедливо.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Когда"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "назначу"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "⟨את⟩ время",
+      "marks": "время"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "справедливо"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "буду судить"
+    }
+  ],
+  "timestamp": "2026-08-03T07:56:02.607246738Z",
+  "model": "glm-4.5"
+}

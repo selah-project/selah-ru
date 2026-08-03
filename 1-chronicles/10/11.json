@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И услышали все из Явеш-Гилеада ⟨את⟩ всё, что сделали Плиштим Шаулу",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "и услышали"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "из Явеш"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилеада"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всё, что сделали Плиштим"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "сделали"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштим"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Шаулу"
+    }
+  ],
+  "timestamp": "2026-08-03T12:51:54.260707986Z",
+  "model": "glm-4.5"
+}

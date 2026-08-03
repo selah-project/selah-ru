@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "ЯХВЕ в одиночку вёл его, и не ⟨было⟩ с Ним чужого эла.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "в одиночку"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "вёл его"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и не"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с Ним"
+    },
+    {
+      "surface": "אל",
+      "gloss": "эла"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "чужого"
+    }
+  ],
+  "timestamp": "2026-08-02T22:22:38.173054181Z",
+  "model": "glm-4.5"
+}

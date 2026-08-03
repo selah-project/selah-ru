@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Вознесём сердце ⟨наше⟩ с ладонями ⟨нашими⟩ к Элю, в небеса",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "вознесём"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "сердце ⟨наше⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "с"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "ладонями ⟨нашими⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Элю"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "в небеса"
+    }
+  ],
+  "timestamp": "2026-08-03T11:10:05.110805745Z",
+  "model": "glm-4.5"
+}

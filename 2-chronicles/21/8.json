@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "2-chronicles 21:8",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "В его дни Эдом восстал ⟨из-под⟩ руки Иуды, и поставили ⟨над⟩ ними царя",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "В его дни"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "восстал"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "⟨из-под⟩"
+    },
+    {
+      "surface": "יד",
+      "gloss": "руки"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иуды"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "и поставили"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "⟨над⟩ ними"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    }
+  ],
+  "timestamp": "2026-08-03T13:53:16.119067457Z",
+  "model": "glm-4.5"
+}

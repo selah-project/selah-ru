@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "nehemiah 11:7",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "А это сыновья Вениамина: Саллу, сын Мешуллама, сын Йоэда, сын Педаи, сын Колаи, сына Маасеи, сын Ифиила, сын Йешаи",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "А это"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Вениамина"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "Саллу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Мешуллама"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "יועד",
+      "gloss": "Йоэда"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "פדיה",
+      "gloss": "Педаи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "קוליה",
+      "gloss": "Колаи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "Маасеи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "איתיאל",
+      "gloss": "Ифиила"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "Йешаи"
+    }
+  ],
+  "timestamp": "2026-08-03T12:29:33.351406116Z",
+  "model": "glm-4.5"
+}

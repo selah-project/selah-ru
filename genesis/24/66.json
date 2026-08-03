@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "И рассказал раб Ицхаку ⟨את⟩ всё ⟨о⟩ деяниях, ⟨что⟩ ⟨он⟩ сделал",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "И рассказал"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "раб"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Ицхаку"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всё о деяниях"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "о деяниях"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    }
+  ],
+  "timestamp": "2026-08-02T19:23:08.807186486Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "zechariah 5:7",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "и вот, круг свинца поднят, и вот одна женщина сидит внутри ⟨этого⟩ эфы",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "круг"
+    },
+    {
+      "surface": "עפרת",
+      "gloss": "свинца"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "поднят"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "женщина"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "одна"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "сидит"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "внутри"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "эфы"
+    }
+  ],
+  "timestamp": "2026-08-03T06:12:24.609075206Z",
+  "model": "glm-4.5"
+}

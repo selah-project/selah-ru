@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-chronicles 21:10",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Иди и скажи Давиду, говоря: так говорит ЯХВЕ: три ⟨я⟩ простираю над тобой; выбери для себя одно из них, и ⟨я⟩ сделаю тебе.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "и скажи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давиду"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "говорит"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "три"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨я⟩"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "простираю"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "над тобой"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "выбери"
+    },
+    {
+      "surface": "לך",
+      "gloss": "для себя"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "одно"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "из них"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "и ⟨я⟩ сделаю"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    }
+  ],
+  "timestamp": "2026-08-03T13:06:20.163882677Z",
+  "model": "glm-4.5"
+}

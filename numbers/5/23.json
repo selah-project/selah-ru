@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "и напишет ⟨את⟩ проклятия эти в книге, и смоет ⟨את⟩ их в воду горькую",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "и напишет"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "проклятия"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "проклятия"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "эти"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "в книге"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "и смоет"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "⟨את⟩",
+      "marks": "их"
+    },
+    {
+      "surface": "אל",
+      "gloss": "вводительный предлог"
+    },
+    {
+      "surface": "מי",
+      "gloss": "воду"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "горькую"
+    }
+  ],
+  "timestamp": "2026-08-02T21:15:56.034857673Z",
+  "model": "glm-4.5"
+}

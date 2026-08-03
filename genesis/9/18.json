@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "genesis 9:18",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И сыновья Ноя, выходящих ⟨из⟩ ковчега, были Шем, Хам и Яфет; а Хам — ⟨он⟩ отец Ханаана.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И сыновья"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноя"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "выходящих"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨из⟩"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ковчега"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шем"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "Хам"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "и Яфет"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "а Хам"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "— ⟨он⟩"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отец"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Ханаана"
+    }
+  ],
+  "timestamp": "2026-08-02T17:52:39.444883462Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Многие говорят моей душе: «Нет ⟨для⟩ него спасения в Элохим». Села.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Многие"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "говорят"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "моей душе"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Нет"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "спасения"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨для⟩ него",
+      "marks": "спасения"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "в Элохим"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-08-03T06:29:56.341014897Z",
+  "model": "glm-4.5"
+}

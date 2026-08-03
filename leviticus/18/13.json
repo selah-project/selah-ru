@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Наготу сестры матери твоей не открывай, ибо она ⟨есть⟩ плоть матери твоей",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "наготу"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "сестры"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "матери твоей"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "открывай"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "плоть"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "матери твоей"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨есть⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T20:58:47.853962345Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 128,
+  "translation": "и увидишь сыновей сынов твоих, шалом ⟨будет⟩ на Израиле.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "и увидишь"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "сынов твоих"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "шалом"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиле"
+    }
+  ],
+  "timestamp": "2026-08-03T09:00:43.074762723Z",
+  "model": "glm-4.5"
+}

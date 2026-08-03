@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "1-chronicles 12:36",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И от Дана — выстраивающих ⟨в⟩ боевом порядке двадцать восемь тысяч и шестьсот",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "и от"
+    },
+    {
+      "surface": "הדני",
+      "gloss": "Дана"
+    },
+    {
+      "surface": "ערכי",
+      "gloss": "выстраивающих"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "⟨в⟩ боевом порядке"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцать"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "восемь"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тысяч"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "и шесть"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сот"
+    }
+  ],
+  "timestamp": "2026-08-03T12:55:55.231539383Z",
+  "model": "glm-4.5"
+}

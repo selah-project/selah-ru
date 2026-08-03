@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "царь Македы, один; царь Бейт-Эля, один;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "Македы"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эля"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    }
+  ],
+  "timestamp": "2026-08-02T22:36:31.248870389Z",
+  "model": "glm-4.5"
+}

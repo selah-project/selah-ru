@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "jeremiah 32:27",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "вот, Я — ЯХВЕ, Элохим всякой плоти: от Меня ⟨есть⟩ слишком трудным ⟨את⟩ всякое слово?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я —"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всякой"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "плоти"
+    },
+    {
+      "surface": "הממני",
+      "gloss": "от Меня"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "⟨есть⟩ слишком трудным"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨את⟩",
+      "marks": "всякое слово"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    }
+  ],
+  "timestamp": "2026-08-03T03:45:18.408646606Z",
+  "model": "glm-4.5"
+}

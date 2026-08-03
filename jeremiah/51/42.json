@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "jeremiah 51:42",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 51,
+  "translation": "Взошло ⟨море⟩ на Вавилон, он покрыт множеством волн его.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "Взошло"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилон"
+    },
+    {
+      "surface": "הים",
+      "gloss": "⟨море⟩"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "множеством"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "волн"
+    },
+    {
+      "surface": "נכסתה",
+      "gloss": "покрыт"
+    }
+  ],
+  "timestamp": "2026-08-03T18:35:26.811005400Z",
+  "model": "glm-4.5"
+}

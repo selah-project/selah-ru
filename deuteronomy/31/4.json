@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "И сделает ЯХВЕ им, ⟨как⟩ сделал Сихону и Ог, царям Эморейскому, и ⟨в⟩ землю их, которую истребил ⟨את⟩ них.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "и сделает"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "Сихону"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "и Ог"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "царям"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Эморейскому"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "и ⟨в⟩ землю их"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которую"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "истребил"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "них"
+    }
+  ],
+  "timestamp": "2026-08-02T22:21:11.903557570Z",
+  "model": "glm-4.5"
+}

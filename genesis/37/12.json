@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "И пошли братья его ⟨את⟩ отцa стадо их пасти в Шхем",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "и пошли"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "братья его"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "пасти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "отца стадо их"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "стадо"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "отца их"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "в Шхем"
+    }
+  ],
+  "timestamp": "2026-08-02T19:39:49.827718338Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "ЯХВЕ знает дни цельных, и наследие их ⟨будет⟩ вовек",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "знает"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дни"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "цельных"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "и наследие их"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "вовек"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨будет⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T18:39:14.402421892Z",
+  "model": "glm-4.5"
+}

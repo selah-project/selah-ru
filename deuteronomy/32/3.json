@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "Ибо ⟨я⟩ провозглашу Имя ЯХВЕ, дайте величие Элогиму нашему!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Имя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "провозглашу"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "дайте"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "величие"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Элогиму нашему"
+    }
+  ],
+  "timestamp": "2026-08-02T22:22:12.531305899Z",
+  "model": "glm-4.5"
+}

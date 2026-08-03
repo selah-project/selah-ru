@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Элохим ⟨не⟩ поноси, и правителя в народе твоём ⟨не⟩ проклинай.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "поноси"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "и правителя"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "в народе твоём"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "проклинай"
+    }
+  ],
+  "timestamp": "2026-08-02T20:16:09.558079317Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "и вотtoraהמנחהприблизь⟨את⟩еёсыновьяАаронапередЯХВЕклицомהמזבח",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "тора"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "המנחה"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "приблизь"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "её"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарона"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицу"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "המזבח"
+    }
+  ],
+  "timestamp": "2026-08-02T20:44:12.535756872Z",
+  "model": "glm-4.5"
+}

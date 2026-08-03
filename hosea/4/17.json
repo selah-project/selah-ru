@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "hosea 4:17",
+  "book": "hosea",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Эфраим ⟨שֶׁמָּשׁוּי⟩ חבור к идолам: оставь его.",
+  "tokens": [
+    {
+      "surface": "חבור",
+      "gloss": "⟨שֶׁמָּשׁוּי⟩  соединён"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "идолам"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраим"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "оставь"
+    },
+    {
+      "surface": "לו",
+      "gloss": "его"
+    }
+  ],
+  "timestamp": "2026-08-03T05:22:55.296577078Z",
+  "model": "glm-4.5"
+}

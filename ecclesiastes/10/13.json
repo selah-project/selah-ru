@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "ecclesiastes 10:13",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Начало слов ⟨его⟩ рта — глупость, а конец ⟨его⟩ рта — злая безумная ярость",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "Начало"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слов"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "⟨его⟩ рта",
+      "marks": "его рта"
+    },
+    {
+      "surface": "סכלות",
+      "gloss": "глупость"
+    },
+    {
+      "surface": "ואחרית",
+      "gloss": "а конец"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "⟨его⟩ рта",
+      "marks": "его рта"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "безумная ярость"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "злая"
+    }
+  ],
+  "timestamp": "2026-08-03T11:24:37.371263557Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "ЯХВЕ, наш Элохим, ⟨ה⟩ заключил ⟨с нами⟩ завет в Хореве.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "наш Элохим"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "⟨ה⟩ заключил"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "⟨с нами⟩"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "завет"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "в Хореве"
+    }
+  ],
+  "timestamp": "2026-08-02T21:56:26.872677587Z",
+  "model": "glm-4.5"
+}

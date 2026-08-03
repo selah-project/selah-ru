@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Сад ⟨есть⟩ замкнутый, сестра моя, невеста; источник — запертый, ключ — запечатанный.",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "сад"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "замкнутый"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "сестра моя"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "невеста"
+    },
+    {
+      "surface": "גל",
+      "gloss": "ключ"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "запертый"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "источник"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "запечатанный"
+    }
+  ],
+  "timestamp": "2026-08-03T10:56:27.331200492Z",
+  "model": "glm-4.5"
+}

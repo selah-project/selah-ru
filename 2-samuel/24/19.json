@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "2-samuel 24:19",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "И взошёл Давид ⟨по⟩ слову Гада, ⟨так⟩ как ЯХВЕ повелел",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "и взошёл"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "⟨по⟩ слову"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гада"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "⟨так⟩ как"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "повелел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T00:14:27.714470436Z",
+  "model": "glm-4.5"
+}

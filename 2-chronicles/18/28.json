@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "2-chronicles 18:28",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И царь Израиля, и Иегошафат, царь Иудеи, поднялись в Рамот-Гилеад.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "и поднялись"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "и Иегошафат"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иудеи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Рамот"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилеад"
+    }
+  ],
+  "timestamp": "2026-08-03T13:48:51.426897033Z",
+  "model": "glm-4.5"
+}

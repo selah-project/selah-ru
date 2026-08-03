@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И сказал ему Элиша: возьми лук и стрелы. И взял он ⟨к⟩ нему лук и стрелы",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Элиша"
+    },
+    {
+      "surface": "קח",
+      "gloss": "возьми"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "лук"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "и стрелы"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "и взял"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨к⟩ нему"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "лук"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "и стрелы"
+    }
+  ],
+  "timestamp": "2026-08-03T01:20:46.417242388Z",
+  "model": "glm-4.5"
+}

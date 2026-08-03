@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 94,
+  "translation": "Восстань, Судия земли, воздай награду гордым.",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Восстань"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Судия"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земли"
+    },
+    {
+      "surface": "השב",
+      "gloss": "воздай"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "награду"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "гордым"
+    }
+  ],
+  "timestamp": "2026-08-03T08:22:35.896296528Z",
+  "model": "glm-4.5"
+}

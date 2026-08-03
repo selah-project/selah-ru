@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Шестьдесят ⟨это⟩ царицы и восемьдесят наложницы, и девы без числа",
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "шестьдесят"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨это⟩"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "царицы"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "и восемьдесят"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "наложницы"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "и девы"
+    },
+    {
+      "surface": "אין",
+      "gloss": "без"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "числа"
+    }
+  ],
+  "timestamp": "2026-08-03T10:57:52.592558685Z",
+  "model": "glm-4.5"
+}

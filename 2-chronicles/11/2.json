@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "2-chronicles 11:2",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И ⟨было⟩ слово ЯХВЕ к Шемайе, человеку Элохима, ⟨говоря⟩",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И ⟨было⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "Шемайе"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человеку"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохима"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨говоря⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T13:36:22.804768157Z",
+  "model": "glm-4.5"
+}

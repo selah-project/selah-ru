@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "job 38:2",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 38,
+  "translation": "Кто ⟨это⟩ омрачает ⟨את⟩ совет словами без знания?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кто"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨это⟩"
+    },
+    {
+      "surface": "מחשיך",
+      "gloss": "омрачает"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "⟨את⟩",
+      "marks": "совет"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "словами"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знания"
+    }
+  ],
+  "timestamp": "2026-08-03T10:48:48.319231882Z",
+  "model": "glm-4.5"
+}

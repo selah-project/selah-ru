@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "1-kings 5:24",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И Хирам давал Шломо кедры ⟨и⟩ кипарисы, ⟨по⟩ всему его желанию.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И"
+    },
+    {
+      "surface": "חירום",
+      "gloss": "Хирам"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "давал"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "кедры"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "⟨и⟩"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "кипарисы"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "⟨по⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всему"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "его желанию"
+    }
+  ],
+  "timestamp": "2026-08-03T00:25:36.532212331Z",
+  "model": "glm-4.5"
+}

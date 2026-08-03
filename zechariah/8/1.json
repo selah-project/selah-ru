@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "zechariah 8:1",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И было слово ЯХВЕ Цеваот, ⟨чтобы⟩ сказать:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨чтобы⟩ сказать"
+    }
+  ],
+  "timestamp": "2026-08-03T06:14:33.991982667Z",
+  "model": "glm-4.5"
+}

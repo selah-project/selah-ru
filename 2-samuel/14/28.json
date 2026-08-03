@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "2-samuel 14:28",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И жил Авшалом в Иерусалиме два года, и лица царя ⟨он⟩ не видел",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "и жил"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалом"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "в Иерусалиме"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "два года"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "[дней]"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "и лица"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "видел"
+    }
+  ],
+  "timestamp": "2026-08-03T00:01:51.023162490Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Ибо ещё немного, совсем немного, и кончится гнев, и ярость Моя — на их гибель.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ещё"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "немного"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "совсем немного"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "и кончится"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "гнев"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "и ярость Моя"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "תבליתם",
+      "gloss": "их гибель"
+    }
+  ],
+  "timestamp": "2026-08-03T01:54:49.853076689Z",
+  "model": "glm-4.5"
+}

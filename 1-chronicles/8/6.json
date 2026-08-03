@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "1-chronicles 8:6",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И вот сыновья Эхуда: вот они — главы отцовских ⟨домов⟩ для жителей Гивы, и выселили их в Манахат:",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "И вот"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "אחוד",
+      "gloss": "Эхуда"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "вот они"
+    },
+    {
+      "surface": "הם",
+      "gloss": "—"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "главы"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "отцовских"
+    },
+    {
+      "surface": "ליושבי",
+      "gloss": "для жителей"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Гивы"
+    },
+    {
+      "surface": "ויגלום",
+      "gloss": "и выселили их"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "Манахат"
+    }
+  ],
+  "timestamp": "2026-08-03T12:48:54.742161862Z",
+  "model": "glm-4.5"
+}

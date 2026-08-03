@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "jeremiah 52:9",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 52,
+  "translation": "И они схватили ⟨את⟩ царя и привели его к царю Вавилона в Ривлу, в землю Хамат, и говорил с ним ⟨судеб⟩",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "И они схватили"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "царя"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "и привели"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "его"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилона"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "в Ривлу"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в землю"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамат"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "и говорил"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "с ним"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "⟨судеб⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T04:15:17.454708081Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "1-chronicles 6:24",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "и брат его Асаф, ⟨стоявший⟩ с правой стороны его, Асаф, сын Берехияу, сын Шеима;",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "и брат его"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асаф"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "⟨стоявший⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "с"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "правой стороны его"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "Берехияу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Шеима"
+    }
+  ],
+  "timestamp": "2026-08-03T12:44:32.994188187Z",
+  "model": "glm-4.5"
+}

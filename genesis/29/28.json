@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "genesis 29:28",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "И сделал Яаков так, и исполнил неделю эту, и дал ему ⟨את⟩ Рахиль, дочь его, ему, ⟨как⟩ жену",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И сделал"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "и исполнил"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "неделю"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "эту"
+    },
+    {
+      "surface": "ותן",
+      "gloss": "и дал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Рахиль"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахиль"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "дочь его"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "⟨как⟩ жену"
+    }
+  ],
+  "timestamp": "2026-08-02T19:30:26.760871039Z",
+  "model": "glm-4.5"
+}

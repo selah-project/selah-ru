@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 113,
+  "translation": "Высок ЯХВЕ над всеми народами, ⟨Его⟩ слава над небесами.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "Высок"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всеми"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народами"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небесами"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "слава"
+    }
+  ],
+  "timestamp": "2026-08-03T08:44:19.654723482Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "1-chronicles 11:34",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "сыновья ха-Шема Гизонита, Ионатан, сын Шаге Харарита",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "השם",
+      "gloss": "ха-Шем"
+    },
+    {
+      "surface": "הגזוני",
+      "gloss": "Гизонита"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Ионатан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "Шаге"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "Харарита"
+    }
+  ],
+  "timestamp": "2026-08-03T12:54:10.158576377Z",
+  "model": "glm-4.5"
+}

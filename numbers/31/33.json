@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "и ⟨из⟩ крупного скота два и семьдесят тысяч",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "и ⟨из⟩ крупного скота"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "и семьдесят"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тысяч"
+    }
+  ],
+  "timestamp": "2026-08-02T21:44:52.270711270Z",
+  "model": "glm-4.5"
+}

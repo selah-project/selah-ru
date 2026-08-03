@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "numbers 16:25",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "И встал Моше и пошёл к Дафану и Авираму, и пошли за ним старейшины Израиля",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "И встал"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и пошёл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Дафану"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "и Авираму"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "и пошли"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "за ним"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "старейшины"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-02T21:29:21.776299364Z",
+  "model": "glm-4.5"
+}

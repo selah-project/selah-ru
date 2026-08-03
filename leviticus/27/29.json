@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "Всякий херем, ⟨который⟩ ⟨будет⟩ отделён от человека, не выкупится; смертию умрёт.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Всякий"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "херем"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "будет отделён"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "выкупится"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смертию"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "умрёт"
+    }
+  ],
+  "timestamp": "2026-08-02T21:08:57.776340486Z",
+  "model": "glm-4.5"
+}

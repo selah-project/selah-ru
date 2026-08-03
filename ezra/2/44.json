@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 44,
+  "ref": "ezra 2:44",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Сыновья Кероса, сыновья Сии, сыновья Падона",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "Кероса"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "סיעהא",
+      "gloss": "Сии"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "Падона"
+    }
+  ],
+  "timestamp": "2026-08-03T11:59:34.907905626Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Язык праведного — избранное серебро, сердце же wicked — как ничто.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "серебро"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "избранное"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "язык"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведного"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сердце"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивых"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "как ничто"
+    }
+  ],
+  "timestamp": "2026-08-03T09:32:37.799690827Z",
+  "model": "glm-4.5"
+}

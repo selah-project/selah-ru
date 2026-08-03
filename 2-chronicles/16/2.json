@@ -1,0 +1,86 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "2-chronicles 16:2",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "И вывел Аса ⟨את⟩ серебро и золото из сокровищниц дома ЯХВЕ и дома царя, и послал к Венададу, царю Арама, живущему в Дамаске, saying:",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "и вывел"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Аса"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "⟨את⟩ серебро",
+      "marks": "серебро и золото"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "и золото"
+    },
+    {
+      "surface": "מאצרות",
+      "gloss": "из сокровищниц"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "и ⟨из⟩ дома"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "и послал"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Венадад"
+    },
+    {
+      "surface": "הדד",
+      "gloss": ""
+    },
+    {
+      "surface": "מלך",
+      "gloss": ", царю"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арама"
+    },
+    {
+      "surface": "היושב",
+      "gloss": ", живущему"
+    },
+    {
+      "surface": "בדרמשק",
+      "gloss": "в Дамаске"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "saying:"
+    }
+  ],
+  "timestamp": "2026-08-03T13:46:07.027122100Z",
+  "model": "glm-4.5"
+}

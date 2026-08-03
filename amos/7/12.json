@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "amos 7:12",
+  "book": "amos",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И сказал Амацья Амосу: видящий, иди, убегай себе в землю Иегуды, и ешь там хлеб, и там пророчествуй:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Амацья"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "עמוס",
+      "gloss": "Амосу"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "видящий"
+    },
+    {
+      "surface": "לך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "убегай"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иегуды"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "и ешь"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "и там"
+    },
+    {
+      "surface": "תנבא",
+      "gloss": "пророчествуй"
+    }
+  ],
+  "timestamp": "2026-08-03T05:41:13.732101576Z",
+  "model": "glm-4.5"
+}

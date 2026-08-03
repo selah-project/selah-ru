@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 88,
+  "translation": "Будет ли recounted хесед твой в могиле, ⟨и⟩ верность твоя в Аваддоне?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "Будет ли recounted"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "в могиле"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хесед твой"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "верность твоя"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "в Аваддоне"
+    }
+  ],
+  "timestamp": "2026-08-03T08:13:23.320108960Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И вышел Гатах к Мордехаю, ⟨на⟩ площадь города, ⟨которая⟩ перед воротами царя",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "И вышел"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Гатах"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мордехаю"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "площадь"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "города"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨которая⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "שער",
+      "gloss": "воротами"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    }
+  ],
+  "timestamp": "2026-08-03T11:31:20.340781518Z",
+  "model": "glm-4.5"
+}

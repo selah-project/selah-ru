@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "daniel 7:21",
+  "book": "daniel",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Я смотрел, и этот рог вёл войну ⟨с⟩ кадоши́н, и превозмог ⟨их⟩",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "Я смотрел"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "и"
+    },
+    {
+      "surface": "וקרנא",
+      "gloss": "этот рог"
+    },
+    {
+      "surface": "דכן",
+      "gloss": "ведомый \/ тогда"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "вёл войну"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "קדישין",
+      "gloss": "кадоши́н"
+    },
+    {
+      "surface": "ויכלה",
+      "gloss": "и превозмог"
+    },
+    {
+      "surface": "להון",
+      "gloss": "⟨их⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T11:48:48.653470328Z",
+  "model": "glm-4.5"
+}

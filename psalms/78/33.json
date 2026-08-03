@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 78,
+  "translation": "И окончил Он ⟨в⟩ суете дни их и годы их ⟨в⟩ тревоге",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "И окончил Он"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "⟨в⟩ суете"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "дни их"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "и годы их"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "⟨в⟩ тревоге"
+    }
+  ],
+  "timestamp": "2026-08-03T08:03:49.177365907Z",
+  "model": "glm-4.5"
+}

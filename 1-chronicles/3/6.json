@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "1-chronicles 3:6",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "и Йивхар, и Элишма, и Элифалет",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "и Йивхар"
+    },
+    {
+      "surface": "ואלישמע",
+      "gloss": "и Элишма"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "и Элифалет"
+    }
+  ],
+  "timestamp": "2026-08-03T12:39:18.007017943Z",
+  "model": "glm-4.5"
+}

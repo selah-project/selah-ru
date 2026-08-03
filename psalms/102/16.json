@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 102,
+  "translation": "И убоятся народы имени ЯХВЕ ⟨את⟩, и все цари земли — славы Твоей ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "И убоятся"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народы"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "имени"
+    },
+    {
+      "surface": "שם",
+      "gloss": "имени"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и все"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "цари"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земли"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "славы Твоей"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "славы Твоей"
+    }
+  ],
+  "timestamp": "2026-08-03T08:30:32.926018831Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "job 28:15",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Не дадут ⟨её⟩ ⟨за⟩ золото, и не взвесят серебро ⟨в⟩ цену ⟨её⟩",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "дадут"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "⟨за⟩ золото"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "⟨её⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "взвесят"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "серебро"
+    },
+    {
+      "surface": "מחירה",
+      "gloss": "⟨в⟩ цену ⟨её⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T10:34:00.282989397Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 136,
+  "translation": "Славьте ⟨Элохим⟩ ⟨Элохимов⟩, ибо вовек хесед Его",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "славьте"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "⟨Элохим⟩",
+      "marks": "Элохим"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨Элохимов⟩",
+      "marks": "Элохимов"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "вовек"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хесед"
+    }
+  ],
+  "timestamp": "2026-08-03T09:06:34.052543761Z",
+  "model": "glm-4.5"
+}

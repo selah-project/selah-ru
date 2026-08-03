@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "isaiah 36:1",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "И было в четырнадцатый год царствования Хизкиягу, ascended Санхерив, царь Ашшура, на все укреплённые города Иеуды, и взял их",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и было"
+    },
+    {
+      "surface": "בארבע",
+      "gloss": "в четырнадцатый"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "год"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "царствования"
+    },
+    {
+      "surface": "למלך",
+      "gloss": ""
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкиягу"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ascended"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Санхерив"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшура"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "города"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иеуды"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "укреплённые"
+    },
+    {
+      "surface": "ויתפשם",
+      "gloss": "и взял их"
+    }
+  ],
+  "timestamp": "2026-08-03T02:20:43.120890684Z",
+  "model": "glm-4.5"
+}

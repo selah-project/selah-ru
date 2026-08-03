@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "proverbs 19:28",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Свидетель Белиала глумится над судом, а ⟨рот⟩ нечестивых глотает ⟨не haz —nothingness, trouble, wickedness⟩.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Свидетель"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Белиала"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "глумится"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "над ⟨судом⟩"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "а ⟨рот⟩"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивых"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "глотает"
+    },
+    {
+      "surface": "און",
+      "gloss": "⟨не haz —nothingness, trouble, wickedness⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T09:46:22.456448044Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "zechariah 4:4",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И я отвечал и сказал ангелу, говорящему во мне, говоря: что ⟨это⟩, Адонай?",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "И я отвечал"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ангелу"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "говорящему"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "во мне"
+    },
+    {
+      "surface": "בי",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "что"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨это⟩"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "אדני",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T06:11:30.666124649Z",
+  "model": "glm-4.5"
+}

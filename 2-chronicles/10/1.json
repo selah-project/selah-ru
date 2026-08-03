@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И пошёл Рехавам в Шхем, ибо в Шхем пришёл ⟨את⟩ весь Израрал, чтобы воцарить ⟨את⟩ его.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "И пошёл"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Рехавам"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "в Шхем"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "в Шхем"
+    },
+    {
+      "surface": "באו",
+      "gloss": "пришёл"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "чтобы воцарить"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "его"
+    }
+  ],
+  "timestamp": "2026-08-03T13:35:14.948058069Z",
+  "model": "glm-4.5"
+}

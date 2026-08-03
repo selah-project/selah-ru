@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 150,
+  "translation": "Хвалите Его на тарелках громоподобных, хвалите Его на тарелках ⟨со⟩ triumphem возглашения",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Хвалите Его"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "на тарелках"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "громоподобных"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "хвалите Его"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "на тарелках"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "triumphem возглашения"
+    }
+  ],
+  "timestamp": "2026-08-03T09:19:56.868795468Z",
+  "model": "glm-4.5"
+}

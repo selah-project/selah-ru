@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "1-chronicles 28:19",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "«Всё — в письме от руки ЯХВЕ, Он дал мне разум всем работам этого образца».",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "«Всё"
+    },
+    {
+      "surface": "בכתב",
+      "gloss": "в письме"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "от руки"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨на⟩ меня"
+    },
+    {
+      "surface": "השכיל",
+      "gloss": "Он дал мне разум"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всем"
+    },
+    {
+      "surface": "מלאכות",
+      "gloss": "работам"
+    },
+    {
+      "surface": "התבנית",
+      "gloss": "образца»"
+    }
+  ],
+  "timestamp": "2026-08-03T13:16:25.784098318Z",
+  "model": "glm-4.5"
+}

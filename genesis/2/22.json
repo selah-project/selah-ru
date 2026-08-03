@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И построил ЯХВЕ Элохим ⟨את⟩ ребро, которое взял от Адама, в женщину, и привёл её к Адаму",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "и построил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ребро"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "ребро"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "взял"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Адама"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "в женщину"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "и привёл её"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Адаму"
+    }
+  ],
+  "timestamp": "2026-08-02T17:45:58.472050432Z",
+  "model": "glm-4.5"
+}

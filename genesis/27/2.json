@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "И сказал: вот, ⟨я⟩ стар, не знаю дня моей смерти",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "נא",
+      "gloss": ""
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "⟨я⟩ стар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знаю"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дня"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "моей смерти"
+    }
+  ],
+  "timestamp": "2026-08-02T19:26:38.592414733Z",
+  "model": "glm-4.5"
+}

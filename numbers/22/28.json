@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "numbers 22:28",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И открыл ЯХВЕ ⟨את⟩ рот ослице, и она сказала Биламу: что я сделала тебе, что ты бил меня вот три раза?",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "И открыл"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "рот"
+    },
+    {
+      "surface": "פי",
+      "gloss": "рот"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "ослицы"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "и она сказала"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Биламу"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "я сделала"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "הכיתני",
+      "gloss": "ты бил меня"
+    },
+    {
+      "surface": "זה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "раза"
+    }
+  ],
+  "timestamp": "2026-08-02T21:35:29.261029649Z",
+  "model": "glm-4.5"
+}

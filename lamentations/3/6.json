@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "В темноте ⟨Он⟩ посадил меня, ⟨как⟩ мертвых ⟨давно⟩",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "В темноте"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "посадил меня"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "⟨как⟩ мертвых"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "⟨давно⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:03.086985037Z",
+  "model": "glm-4.5"
+}

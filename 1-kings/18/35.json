@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И побежали воды вокруг алтаря, и ⟨את⟩ ров наполнился водой",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "И побежали"
+    },
+    {
+      "surface": "המים",
+      "gloss": "воды"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "вокруг"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "алтаря"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ров"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "ров"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "наполнился"
+    },
+    {
+      "surface": "מים",
+      "gloss": "водой"
+    }
+  ],
+  "timestamp": "2026-08-03T00:54:14.842154307Z",
+  "model": "glm-4.5"
+}

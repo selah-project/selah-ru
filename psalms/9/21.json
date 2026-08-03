@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Поставь ⟨им⟩ в ужас, ЯХВЕ, да узнают народы, что ⟨они⟩ люди — сэла.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "поставь"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "в ужас"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨им⟩",
+      "marks": "поставь в ужас"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "да узнают"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народы"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "люди"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨они⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "сэла"
+    }
+  ],
+  "timestamp": "2026-08-03T06:39:19.869806517Z",
+  "model": "glm-4.5"
+}

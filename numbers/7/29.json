@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "numbers 7:29",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "и для жертвы shelamim, два вола, пять баранов, пять козлов, пять ягнят ⟨сыновей⟩ года, пять: это корбан Элиава бен Хелон",
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "и для жертвы"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "shelamim"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "вола"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "баранов"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пять"
+    },
+    {
+      "surface": "עתדים",
+      "gloss": "козлов"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пять"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ягнят"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨сыновей⟩"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "года"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пять"
+    },
+    {
+      "surface": "זה",
+      "gloss": "это"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "корбан"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Элиава"
+    },
+    {
+      "surface": "בן",
+      "gloss": "бен"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Хелон"
+    }
+  ],
+  "timestamp": "2026-08-02T21:18:25.521557136Z",
+  "model": "glm-4.5"
+}

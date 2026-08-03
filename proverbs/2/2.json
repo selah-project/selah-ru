@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 2:2",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "чтобы склонить ⟨своё⟩ ухо к Хохме и направить ⟨своё⟩ сердце к Твуне",
+  "tokens": [
+    {
+      "surface": "להקשיב",
+      "gloss": "чтобы склонить"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "к Хохме"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ухо"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "и направить"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "сердце"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "к Твуне"
+    }
+  ],
+  "timestamp": "2026-08-03T09:22:04.154122223Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "А вы, прилепившиеся к ЯХВЕ, вашему Элохим, ⟨есть⟩ живые, все вы, ⟨в⟩ этот день",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "А вы"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "прилепившиеся"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "к ЯХВЕ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "вашему Элохим"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "⟨есть⟩ живые"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "все вы"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨в⟩ этот день"
+    }
+  ],
+  "timestamp": "2026-08-02T21:54:10.854326271Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 132,
+  "translation": "Если я дам сон глазам моим, ⟨את⟩ веко́м — дремоту",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Если"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "я дам"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "сон"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "глазам моим"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "⟨את⟩",
+      "marks": "веко́м"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "дремоту"
+    }
+  ],
+  "timestamp": "2026-08-03T09:03:23.120558693Z",
+  "model": "glm-4.5"
+}

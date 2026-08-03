@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "job 37:14",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "Внимай этому, Ийов, стой и рассматривай чудеса Эля.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Внимай"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "этому"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ийов"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "стой"
+    },
+    {
+      "surface": "והתבונן",
+      "gloss": "и рассматривай"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "чудеса"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эля"
+    }
+  ],
+  "timestamp": "2026-08-03T10:48:10.129573013Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "deuteronomy 2:32",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И вышел Сихон навстречу нам, ⟨он⟩ и весь ⟨его⟩ народ, к войне, в Яхцэ",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "И вышел"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Сихон"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "навстречу нам"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и весь"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨его⟩ народ",
+      "marks": "народ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "к войне"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "в Яхцэ"
+    }
+  ],
+  "timestamp": "2026-08-02T21:52:47.762219109Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "Даст ⟨тебе⟩ по ⟨сердцу⟩ твоему и ⟨весь⟩ совет твой исполнит",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "даст"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "сердцу твоему"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "совет твой"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "исполнит"
+    }
+  ],
+  "timestamp": "2026-08-03T06:53:30.496553880Z",
+  "model": "glm-4.5"
+}

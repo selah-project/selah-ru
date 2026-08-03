@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "1-chronicles 23:6",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "И разделил их Давид на череды сынам Леви: Гершону, Кеату и Мерари.",
+  "tokens": [
+    {
+      "surface": "ויחלקם",
+      "gloss": "и разделил их"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "на череды"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "сынам"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леви"
+    },
+    {
+      "surface": "לגרשון",
+      "gloss": "Гершону"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кеату"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "и Мерари"
+    }
+  ],
+  "timestamp": "2026-08-03T13:09:26.819673821Z",
+  "model": "glm-4.5"
+}

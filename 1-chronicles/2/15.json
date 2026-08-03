@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-chronicles 2:15",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Оцём ⟨был⟩ шестым, Давид — седьмым.",
+  "tokens": [
+    {
+      "surface": "אצם",
+      "gloss": "Оцём"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "шестым"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "седьмым"
+    }
+  ],
+  "timestamp": "2026-08-03T12:37:34.036468700Z",
+  "model": "glm-4.5"
+}

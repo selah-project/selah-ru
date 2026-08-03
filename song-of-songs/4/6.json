@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "song-of-songs 4:6",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Пока ⟨не⟩ подует ⟨ветер⟩ ⟨дня⟩ и не убегут тени, я пойду к себе на гору мирры и на холм ладана.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Пока"
+    },
+    {
+      "surface": "שיפוח",
+      "gloss": "⟨не⟩ подует ⟨ветер⟩"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨дня⟩"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "и не убегут"
+    },
+    {
+      "surface": "הצללים",
+      "gloss": "тени"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "я пойду"
+    },
+    {
+      "surface": "לי",
+      "gloss": "к себе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "המור",
+      "gloss": "мирры"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "холм"
+    },
+    {
+      "surface": "הלבונה",
+      "gloss": "ладана"
+    }
+  ],
+  "timestamp": "2026-08-03T10:56:19.577884053Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "ибо что ⟨есть⟩ преимущества у мудрого над глупцом? что ⟨у⟩ бедного, знающего ⟨как⟩ ходить перед живыми?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "⟨есть⟩ преимущества"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "у мудрого"
+    },
+    {
+      "surface": "מן",
+      "gloss": "над"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "глупцом"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "⟨у⟩ бедного"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "знающего"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "⟨как⟩ ходить"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "перед"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "живыми"
+    }
+  ],
+  "timestamp": "2026-08-03T11:20:23.583643124Z",
+  "model": "glm-4.5"
+}

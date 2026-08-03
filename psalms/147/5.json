@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 147,
+  "translation": "Велик наш Адонай, и ⟨могуч⟩ ⟨силою⟩, разуму Его нет числа",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Велик"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "наш Адонай"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "и ⟨могуч⟩"
+    },
+    {
+      "surface": "כח",
+      "gloss": "⟨силою⟩"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "разуму Его"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "числа"
+    }
+  ],
+  "timestamp": "2026-08-03T09:17:22.679646393Z",
+  "model": "glm-4.5"
+}

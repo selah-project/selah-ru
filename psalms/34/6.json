@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "Взглянули на Него и засияли, и лица их не были постыжены",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "Взглянули"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "на Него"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "и засияли"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "и лица их"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "были постыжены"
+    }
+  ],
+  "timestamp": "2026-08-03T07:10:11.958703190Z",
+  "model": "glm-4.5"
+}

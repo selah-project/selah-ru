@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 71,
+  "translation": "Элохим, не удаляйся от меня, Элохи мой, к помощи моей поспеши",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "удаляйся"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "от меня"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохи"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "к помощи моей"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "поспеши"
+    }
+  ],
+  "timestamp": "2026-08-03T07:51:24.140850258Z",
+  "model": "glm-4.5"
+}

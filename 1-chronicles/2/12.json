@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И Воаз породил ⟨את⟩ Оведа, и Овед породил ⟨את⟩ Ишай",
+  "tokens": [
+    {
+      "surface": "וּבֹ֨עַז֙",
+      "gloss": "И Воаз"
+    },
+    {
+      "surface": "הוֹלִ֣יד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Оведа"
+    },
+    {
+      "surface": "עוֹבֵ֔ד",
+      "gloss": "Оведа"
+    },
+    {
+      "surface": "וְעוֹבֵ֖ד",
+      "gloss": "и Овед"
+    },
+    {
+      "surface": "הוֹלִ֥יד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Ишай"
+    },
+    {
+      "surface": "יִשָֽׁי",
+      "gloss": "Ишай"
+    }
+  ],
+  "timestamp": "2026-08-03T12:37:06.326203623Z",
+  "model": "glm-4.5"
+}

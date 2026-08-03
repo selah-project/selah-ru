@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-chronicles 6:4",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Сыновья Мерари: Махли и Муши, и вот семейства левитов по домам отцов их",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мерари"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Махли"
+    },
+    {
+      "surface": "ומשי",
+      "gloss": "и Муши"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "семейства"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "левитов"
+    },
+    {
+      "surface": "לאבותיהם",
+      "gloss": "по домам отцов их"
+    }
+  ],
+  "timestamp": "2026-08-03T12:44:02.243011651Z",
+  "model": "glm-4.5"
+}

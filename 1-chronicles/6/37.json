@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "1-chronicles 6:37",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Мераиот, сын его, Амария, сын его, Ахитув, сын его",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Мераиот"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "сын его"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Амария"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "сын его"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ахитув"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "сын его"
+    }
+  ],
+  "timestamp": "2026-08-03T12:44:50.335506038Z",
+  "model": "glm-4.5"
+}

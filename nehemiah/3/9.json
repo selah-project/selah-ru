@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "nehemiah 3:9",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И ⟨по⟩ руку их укрепил Рефайя, сын Хура, правитель ⟨половины⟩ округа Иерусалима.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и ⟨по⟩"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "руку их"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "укрепил"
+    },
+    {
+      "surface": "רפיה",
+      "gloss": "Рефайя"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Хура"
+    },
+    {
+      "surface": "שר",
+      "gloss": "правитель"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "⟨половины⟩"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "округа"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Иерусалима"
+    }
+  ],
+  "timestamp": "2026-08-03T12:16:14.451517980Z",
+  "model": "glm-4.5"
+}

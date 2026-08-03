@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 49,
+  "ref": "psalms 119:49",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Помни слово Твоему рабу, на ⟨которое⟩ Ты дал мне надежду.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Помни"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "Твоему рабу"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨которое⟩"
+    },
+    {
+      "surface": "יחלתני",
+      "gloss": "Ты дал мне надежду"
+    }
+  ],
+  "timestamp": "2026-08-03T08:51:11.741757961Z",
+  "model": "glm-4.5"
+}

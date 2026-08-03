@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "psalms 118:21",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 118,
+  "translation": "Благодарю Тебя, ибо Ты ответил мне, и стал мне ⟨спасением⟩",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Благодарю Тебя"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "Ты ответил мне"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "и стал"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "спасением"
+    }
+  ],
+  "timestamp": "2026-08-03T08:48:30.109487507Z",
+  "model": "glm-4.5"
+}

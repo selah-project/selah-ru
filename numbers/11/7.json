@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "а ман ⟨был⟩ как семя кориандра, и вид его ⟨как⟩ вид бделлаха",
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "а ман"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "как семя"
+    },
+    {
+      "surface": "גד",
+      "gloss": "кориандра"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨был⟩"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "и вид его"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "⟨как⟩ вид"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "бделлаха"
+    }
+  ],
+  "timestamp": "2026-08-02T21:22:57.500967563Z",
+  "model": "glm-4.5"
+}

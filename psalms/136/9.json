@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 136,
+  "translation": "⟨את⟩ луну и звёзды править ⟨в⟩ ночи, ибо ⟨в⟩ вечность хесед Его.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "луну"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "луну"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "и звёзды"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "править"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "⟨в⟩ ночи"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "⟨в⟩ вечность"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хесед Его"
+    }
+  ],
+  "timestamp": "2026-08-03T09:06:57.296915830Z",
+  "model": "glm-4.5"
+}

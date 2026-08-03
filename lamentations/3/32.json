@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "lamentations 3:32",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Ибо если ⟨Он⟩ причиняет страдание, то и помилует по множеству хеседа Своего",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "причиняет страдание"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "и помилует"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "по множеству"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хеседа Своего"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:46.572572182Z",
+  "model": "glm-4.5"
+}

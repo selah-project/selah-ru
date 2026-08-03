@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "2-kings 9:29",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И в одиннадцатый год Йорама, сына Ахава, царствовал Ахазия над Иудой",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "И в"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "один"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десять"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "год"
+    },
+    {
+      "surface": "ליורם",
+      "gloss": "Йорама"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахава"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царствовал"
+    },
+    {
+      "surface": "אחזיה",
+      "gloss": "Ахазия"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иудой"
+    }
+  ],
+  "timestamp": "2026-08-03T01:14:57.080547642Z",
+  "model": "glm-4.5"
+}

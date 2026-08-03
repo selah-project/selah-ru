@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "2-chronicles 30:23",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "И решил всё собрание проделать ⟨ещё⟩ семь дней ⟨других⟩, и совершили семь дней радости",
+  "tokens": [
+    {
+      "surface": "ויועצו",
+      "gloss": "и решили"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "собрание"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "проделать"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "семь"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дней"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "других"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "и совершили"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "семь"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дней"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "радости"
+    }
+  ],
+  "timestamp": "2026-08-03T14:07:02.999795305Z",
+  "model": "glm-4.5"
+}

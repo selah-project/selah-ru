@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 58,
+  "ref": "nehemiah 7:58",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "сыновья Йаалы, сыновья Даркона, сыновья Гиддэла",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "יעלא",
+      "gloss": "Йаалы"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "Даркона"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "Гиддэла"
+    }
+  ],
+  "timestamp": "2026-08-03T12:22:53.210936378Z",
+  "model": "glm-4.5"
+}

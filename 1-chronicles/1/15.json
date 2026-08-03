@@ -1,0 +1,40 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "и ⟨את⟩ Хиви, и ⟨את⟩ Аркий, и ⟨את⟩ Сини",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Хиви"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Хиви"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Аркий"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Аркий"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Сини"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Сини"
+    }
+  ],
+  "timestamp": "2026-08-03T12:35:49.443336038Z",
+  "model": "glm-4.5"
+}

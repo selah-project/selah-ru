@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "это ⟨есть слово⟩ пришедшее на Навуходоносора, царя",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "это"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "пришедшее"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Навуходоносора"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "царя"
+    }
+  ],
+  "timestamp": "2026-08-03T11:44:13.365504994Z",
+  "model": "glm-4.5"
+}

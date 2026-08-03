@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 59,
+  "ref": "nehemiah 7:59",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Сыновья Шефатьи, сыновья Хаттиля, сыновья Покерет-Гацваим, сыновья Амона",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Шефатьи"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "חטיל",
+      "gloss": "Хаттиля"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "פכרת",
+      "gloss": "Покерет"
+    },
+    {
+      "surface": "הצביים",
+      "gloss": "Гацваим"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Амона"
+    }
+  ],
+  "timestamp": "2026-08-03T12:23:21.453794438Z",
+  "model": "glm-4.5"
+}

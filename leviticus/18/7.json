@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Наготу отца твоего и наготу матери твоей не открывай: мать твоя она, не открывай наготу её",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "наготу"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "отца твоего"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "и наготу"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "матери твоей"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "открывай"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "мать твоя"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "она"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "открывай"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "наготу её"
+    }
+  ],
+  "timestamp": "2026-08-02T20:58:19.336609809Z",
+  "model": "glm-4.5"
+}

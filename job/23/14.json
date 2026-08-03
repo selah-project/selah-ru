@@ -1,0 +1,39 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "job 23:14",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Ибо он завершит ⟨את⟩ мой удел, и многого такого ⟨с⟩ Ним",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "ישלים",
+      "gloss": "завершит"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "⟨את⟩",
+      "marks": "мой удел"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "и"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "многого такого"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨с⟩",
+      "marks": "Ним"
+    }
+  ],
+  "timestamp": "2026-08-03T10:30:43.919600555Z",
+  "model": "glm-4.5"
+}

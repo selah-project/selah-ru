@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "ибо ⟨он⟩ приходит в суету и во тьме уходит, и во тьме имя его покроется",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "в суету"
+    },
+    {
+      "surface": "בא",
+      "gloss": "приходит"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "и во тьме"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "уходит"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "и во тьме"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "имя его"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "покроется"
+    }
+  ],
+  "timestamp": "2026-08-03T11:20:23.250027770Z",
+  "model": "glm-4.5"
+}

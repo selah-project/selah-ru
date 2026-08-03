@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "proverbs 27:6",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "Верны ⟨раны⟩ любящего, а ⟨поцелуи⟩ ненавидящего изобильны.",
+  "tokens": [
+    {
+      "surface": "נאמנים",
+      "gloss": "верны"
+    },
+    {
+      "surface": "פצעי",
+      "gloss": "⟨раны⟩"
+    },
+    {
+      "surface": "אוהב",
+      "gloss": "любящего"
+    },
+    {
+      "surface": "ונעתרות",
+      "gloss": "а ⟨поцелуи⟩"
+    },
+    {
+      "surface": "נשיקות",
+      "gloss": "⟨поцелуи⟩",
+      "marks": "поцелуи"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ненавидящего"
+    }
+  ],
+  "timestamp": "2026-08-03T10:03:36.259683551Z",
+  "model": "glm-4.5"
+}

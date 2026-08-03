@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "judges 5:29",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Мудрые её госпожи отвечают ей, ⟨даже⟩ она сама возвращает слова себе:",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Мудрые"
+    },
+    {
+      "surface": "שרותיה",
+      "gloss": "её госпожи"
+    },
+    {
+      "surface": "תענינה",
+      "gloss": "отвечают"
+    },
+    {
+      "surface": "אף",
+      "gloss": "⟨даже⟩"
+    },
+    {
+      "surface": "היא",
+      "gloss": "она"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "возвращает"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "слова"
+    },
+    {
+      "surface": "לה",
+      "gloss": "себе"
+    }
+  ],
+  "timestamp": "2026-08-02T22:54:05.103110232Z",
+  "model": "glm-4.5"
+}

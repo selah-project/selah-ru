@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "song-of-songs 2:6",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Его левая рука ⟨под⟩ моей головой, а правая его ⟨обнимает⟩ меня.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "Его левая рука"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨под⟩"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "моей головой"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "а правая его"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "⟨обнимает⟩ меня"
+    }
+  ],
+  "timestamp": "2026-08-03T10:55:02.418775034Z",
+  "model": "glm-4.5"
+}

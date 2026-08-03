@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 77,
+  "translation": "Голос мой — к Элохим, и воззову, голос мой — к Элохим, и внемлет ⟨Он⟩ ко мне.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Голос мой"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Эlohим"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "и воззову"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "голос мой"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Эlohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "и внемлет"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ко мне"
+    }
+  ],
+  "timestamp": "2026-08-03T07:59:08.727777107Z",
+  "model": "glm-4.5"
+}

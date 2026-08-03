@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "И пришёл к ним Йосеф утром и увидел ⟨את⟩ их, и вот, они мрачны",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и пришёл"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "к ним"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "утром"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "и увидел"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "их"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "они мрачны"
+    }
+  ],
+  "timestamp": "2026-08-02T19:43:26.680674968Z",
+  "model": "glm-4.5"
+}

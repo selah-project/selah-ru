@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "job 13:2",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "По знанию вашему я ⟨знаю⟩, ⟨даже⟩ я: не ⟨менее⟩ я от вас.",
+  "tokens": [
+    {
+      "surface": "כדעתכם",
+      "gloss": "По знанию вашему"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "я ⟨знаю⟩"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨даже⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "⟨менее⟩"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "от вас"
+    }
+  ],
+  "timestamp": "2026-08-03T10:20:51.644454099Z",
+  "model": "glm-4.5"
+}

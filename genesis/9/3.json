@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Всякое движущееся ⟨что⟩ живое, будет вам в пищу; как зелень травную Я дал вам ⟨את⟩ всё.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "всякое"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "движущееся"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨что⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨оно⟩"
+    },
+    {
+      "surface": "חי",
+      "gloss": "живое"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "будет"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "в пищу"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "как"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "зелень травную"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "дал"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всё"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    }
+  ],
+  "timestamp": "2026-08-02T17:52:59.360978697Z",
+  "model": "glm-4.5"
+}

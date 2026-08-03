@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "пройду ⟨по⟩ земле твоей ⟨по⟩ дороге ⟨по⟩ дороге пойду не сверну ⟨налево⟩ и ⟨направо⟩",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "пройду"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "⟨по⟩ земле твоей"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "⟨по⟩ дороге"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "⟨по⟩ дороге"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "пойду"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "сверну"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "⟨налево⟩"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "и ⟨направо⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T18:10:14.367829642Z",
+  "model": "glm-4.5"
+}

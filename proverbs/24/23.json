@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "proverbs 24:23",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Эти слова — мудрым. Признавать лица при суде — нехорошо.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "также"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "эти"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "мудрым"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "признавать"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лица"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "при суде"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "хорошо"
+    }
+  ],
+  "timestamp": "2026-08-03T18:28:29.355578622Z",
+  "model": "glm-4.5"
+}

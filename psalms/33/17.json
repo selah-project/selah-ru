@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "⟨The⟩ horse ⟨is⟩ a ложь для спасения, и множеством силы своего не спасёт.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "ложь"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "⟨The⟩ horse"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "для спасения"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "и множеством"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "силы своего"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "спасёт"
+    }
+  ],
+  "timestamp": "2026-08-03T07:08:51.022007199Z",
+  "model": "glm-4.5"
+}

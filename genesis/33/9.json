@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "И сказал Эсав: «У меня ⟨есть⟩ много, брат мой; пусть будет тебе то, что у тебя».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "יש",
+      "gloss": "есть"
+    },
+    {
+      "surface": "לי",
+      "gloss": "у меня"
+    },
+    {
+      "surface": "רב",
+      "gloss": "много"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брат мой"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "пусть будет"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "לך",
+      "gloss": "у тебя"
+    }
+  ],
+  "timestamp": "2026-08-02T19:35:35.791004822Z",
+  "model": "glm-4.5"
+}

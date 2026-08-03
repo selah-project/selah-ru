@@ -1,0 +1,48 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 39,
+  "translation": "⟨את⟩ стол, ⟨את⟩ все его утвари, и ⟨את⟩ хлеб לехем-паним",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "стол"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "стол"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "все его утвари"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "его утвари"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "хлеб"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "лехем-паним"
+    }
+  ],
+  "timestamp": "2026-08-02T20:38:25.433061885Z",
+  "model": "glm-4.5"
+}

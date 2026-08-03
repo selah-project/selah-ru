@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "job 33:28",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "искупил душу мою от перехода в яму, и жив ⟨я⟩ увижу свет.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "искупил"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душу мою"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "от перехода"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "в яму"
+    },
+    {
+      "surface": "וחיתי",
+      "gloss": "и жив ⟨я⟩"
+    },
+    {
+      "surface": "באור",
+      "gloss": "увижу свет"
+    },
+    {
+      "surface": "תראה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T10:41:05.137066086Z",
+  "model": "glm-4.5"
+}

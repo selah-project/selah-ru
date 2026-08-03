@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 84,
+  "translation": "Блажен муж, в ком ⟨есть⟩ сила в Тебе, в чьём сердце ⟨находятся⟩ пути ⟨Твои⟩.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Блажен"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "муж"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "сила"
+    },
+    {
+      "surface": "לו",
+      "gloss": "в ком"
+    },
+    {
+      "surface": "בך",
+      "gloss": "в Тебе"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "пути"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "в чьём сердце"
+    }
+  ],
+  "timestamp": "2026-08-03T08:09:57.613902703Z",
+  "model": "glm-4.5"
+}

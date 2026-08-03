@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "1-chronicles 5:14",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Вот сыновья Авижайла, сына Хури, сына Яроаха, сына Гилада, сына Михаила, сына Йешишая, сына Яхдо, сына Буза.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "אביחיל",
+      "gloss": "Авижайл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "Хури"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "ירוח",
+      "gloss": "Яроаха"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилада"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "Михаила"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "ישישי",
+      "gloss": "Йешишая"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "Яхдо"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Буза"
+    }
+  ],
+  "timestamp": "2026-08-03T12:42:49.403268846Z",
+  "model": "glm-4.5"
+}

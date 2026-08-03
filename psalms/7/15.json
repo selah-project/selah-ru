@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Вот, он волнует нечто, и замыслил труд, и породил ложь.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Вот"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "он волнует"
+    },
+    {
+      "surface": "און",
+      "gloss": "нечто"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "и замыслил"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "труд"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "и породил"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ложь"
+    }
+  ],
+  "timestamp": "2026-08-03T06:37:39.276091182Z",
+  "model": "glm-4.5"
+}

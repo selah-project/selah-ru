@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "zechariah 11:2",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Вой, кипарис, ⟨ибо⟩ пал кедр, ⟨потому что⟩ великие опустошены; войте, дубы Башана, ⟨ибо⟩ сошёл лес ⟨твёрдый⟩",
+  "tokens": [
+    {
+      "surface": "הילל",
+      "gloss": "вой"
+    },
+    {
+      "surface": "ברוש",
+      "gloss": "кипарис"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "пал"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "кедр"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "потому что"
+    },
+    {
+      "surface": "אדרים",
+      "gloss": "великие"
+    },
+    {
+      "surface": "שדדו",
+      "gloss": "опустошены"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "войте"
+    },
+    {
+      "surface": "אלוני",
+      "gloss": "дубы"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Башана"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "сошёл"
+    },
+    {
+      "surface": "יער",
+      "gloss": "лес"
+    },
+    {
+      "surface": "הבצור",
+      "gloss": "твёрдый"
+    }
+  ],
+  "timestamp": "2026-08-03T06:18:12.096142872Z",
+  "model": "glm-4.5"
+}

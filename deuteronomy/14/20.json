@@ -1,0 +1,30 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Вся ⟨כל⟩ чистую птицу ⟨עוף⟩ ешьте ⟨תאכלו⟩",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Вся"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "чистую птицу",
+      "marks": "птицу"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чистую"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ешьте"
+    }
+  ],
+  "timestamp": "2026-08-02T22:05:27.185301557Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И будет, когда вы приблизитесь ⟨к⟩ войне, и подойдёт коэн, и скажет ⟨народу⟩:",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И будет"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "когда вы приблизитесь"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "войне"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "и подойдёт"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коэн"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "и скажет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨народу⟩",
+      "marks": "народу"
+    }
+  ],
+  "timestamp": "2026-08-02T22:10:23.098774779Z",
+  "model": "glm-4.5"
+}

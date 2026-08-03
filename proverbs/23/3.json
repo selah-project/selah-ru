@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Не желай ⟨из⟩ яств его, ибо ⟨это⟩ — хлеб лжи",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "желай"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "⟨из⟩ яств его"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ибо ⟨это⟩"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "лжи"
+    }
+  ],
+  "timestamp": "2026-08-03T18:26:31.311851389Z",
+  "model": "glm-4.5"
+}

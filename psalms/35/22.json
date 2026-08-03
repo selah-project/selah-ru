@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "Ты видел ⟨это⟩, ЯХВЕ: не молчи, Адонай, не удаляйся от меня",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Ты видел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "молчи"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "удаляйся"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "от меня"
+    }
+  ],
+  "timestamp": "2026-08-03T07:11:29.760846218Z",
+  "model": "glm-4.5"
+}

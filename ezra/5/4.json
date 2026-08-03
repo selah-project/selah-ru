@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "ezra 5:4",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Тогда мы сказали им так: как ⟨их⟩ имена — мужей, которые ⟨этот⟩ дом строят?",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Тогда"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמרנא",
+      "gloss": "мы сказали"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "מן",
+      "gloss": "как"
+    },
+    {
+      "surface": "אנון",
+      "gloss": "⟨их⟩"
+    },
+    {
+      "surface": "שמהת",
+      "gloss": "имена"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "мужей"
+    },
+    {
+      "surface": "די",
+      "gloss": "которые"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "⟨этот⟩"
+    },
+    {
+      "surface": "בנינא",
+      "gloss": "дом"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "строят"
+    }
+  ],
+  "timestamp": "2026-08-03T12:03:06.674712579Z",
+  "model": "glm-4.5"
+}

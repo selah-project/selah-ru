@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 45,
+  "ref": "ezra 2:45",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "сыновья Лебаны, сыновья Хагавы, сыновья Аккува",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Лебаны"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "Хагавы"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "Аккува"
+    }
+  ],
+  "timestamp": "2026-08-03T11:59:31.057179221Z",
+  "model": "glm-4.5"
+}

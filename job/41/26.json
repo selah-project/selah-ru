@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "job 41:26",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 41,
+  "translation": "Он видит ⟨את⟩ всё высокое; он — царь над всеми сыновьями гордости.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всё высокое"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "высокое"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "видит"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всеми"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновьями"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "гордости"
+    }
+  ],
+  "timestamp": "2026-08-03T10:52:34.118105169Z",
+  "model": "glm-4.5"
+}

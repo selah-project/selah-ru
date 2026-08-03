@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "job 36:5",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "Вот, Эль могуч и не отвергает; могуч силой ⟨и⟩ разумением.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Вот"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эль"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "могуч"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "отвергает"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "могуч"
+    },
+    {
+      "surface": "כח",
+      "gloss": "силой"
+    },
+    {
+      "surface": "לב",
+      "gloss": "разумением"
+    }
+  ],
+  "timestamp": "2026-08-03T10:46:53.489159946Z",
+  "model": "glm-4.5"
+}

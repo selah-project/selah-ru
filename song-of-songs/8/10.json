@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "song-of-songs 8:10",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Я — стена, и сосцы мои — как башни; тогда я была в очах его ⟨как⟩ находящейей ⟨шалом⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "стена"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "и сосцы мои"
+    },
+    {
+      "surface": "כמגדלות",
+      "gloss": "как башни"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тогда"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "я была"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "в очах его"
+    },
+    {
+      "surface": "כמוצאת",
+      "gloss": "как находящейей"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "шалом"
+    }
+  ],
+  "timestamp": "2026-08-03T10:59:54.576568327Z",
+  "model": "glm-4.5"
+}

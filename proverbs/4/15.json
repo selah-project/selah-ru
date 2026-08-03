@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Избегай ⟨её⟩, не переходи ⟨на неё⟩; уклонись от ⟨неё⟩ и минуй.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "избегай"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "переходи"
+    },
+    {
+      "surface": "בו",
+      "gloss": "на неё",
+      "marks": "путь"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "уклонись"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "от неё"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "минуй"
+    }
+  ],
+  "timestamp": "2026-08-03T09:25:31.146311622Z",
+  "model": "glm-4.5"
+}

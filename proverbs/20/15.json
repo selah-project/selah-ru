@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "proverbs 20:15",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "Есть золото и множество жемчужин, а драгоценный сосуд — ⟨это⟩ губы знания.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "есть"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золото"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "и множество"
+    },
+    {
+      "surface": "פנינים",
+      "gloss": "жемчужин"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "а сосуд"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "драгоценный"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "губы"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знания"
+    }
+  ],
+  "timestamp": "2026-08-03T09:47:42.423746776Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 77,
+  "translation": "И я сказал: «Моя немощь — ⟨это⟩ годы десницы Эльона».",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "И я сказал"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "моя немощь"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨это⟩"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "годы"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "десницы"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Эльона"
+    }
+  ],
+  "timestamp": "2026-08-03T07:59:08.314577789Z",
+  "model": "glm-4.5"
+}

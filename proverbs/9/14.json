@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "proverbs 9:14",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Она сидит у ⟨⟩входа ⟨⟩дома своего, на ⟨⟩престоле, на ⟨⟩высотах ⟨⟩города",
+  "tokens": [
+    {
+      "surface": "וישבה",
+      "gloss": "Она сидит"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "у ⟨⟩входа"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "⟨⟩дома своего"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "⟨⟩престоле"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "на ⟨⟩высотах"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "⟨⟩города"
+    }
+  ],
+  "timestamp": "2026-08-03T09:31:37.944845858Z",
+  "model": "glm-4.5"
+}

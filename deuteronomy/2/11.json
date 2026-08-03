@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "deuteronomy 2:11",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Рефаимы считались ⟨также⟩ великанами, как ⟨и⟩ Анакимы; но Моавитяне называли их Эмимами",
+  "tokens": [
+    {
+      "surface": "רפאים",
+      "gloss": "Рефаимы"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "считались"
+    },
+    {
+      "surface": "אף",
+      "gloss": "также"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨они⟩"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "как Анакимы"
+    },
+    {
+      "surface": "והמאבים",
+      "gloss": "но Моавитяне"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "называли"
+    },
+    {
+      "surface": "להם",
+      "gloss": "их"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "Эмимами"
+    }
+  ],
+  "timestamp": "2026-08-02T21:52:10.038181352Z",
+  "model": "glm-4.5"
+}

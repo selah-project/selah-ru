@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Не надевай שַׁעַטְנֵז [смешанной ткани] из шерсти и льна вместе.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "надевай"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "שַׁעַטְנֵז"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "шерсти"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "и льна"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "вместе"
+    }
+  ],
+  "timestamp": "2026-08-02T22:11:59.875846941Z",
+  "model": "glm-4.5"
+}

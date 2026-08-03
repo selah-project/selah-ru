@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "genesis 44:27",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 44,
+  "translation": "И сказал раб твой, отец наш: вы знаете, что двое родила ⟨для⟩ меня жена моя:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "раб твой"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отец наш"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вы"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "знаете"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "двое"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "родила"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨для⟩ меня"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "жена моя"
+    }
+  ],
+  "timestamp": "2026-08-02T19:48:47.185009935Z",
+  "model": "glm-4.5"
+}

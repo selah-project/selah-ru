@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "joshua 1:1",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И было после смерти Моше, раба ЯХВЕ, что сказал ЯХВЕ Иегошуа, сыну Нуна, служителю Моше, говоря:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "после"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смерти"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "раба"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "что сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Иегошуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сыну"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Нуна"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "служителю"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-02T22:25:11.609578320Z",
+  "model": "glm-4.5"
+}

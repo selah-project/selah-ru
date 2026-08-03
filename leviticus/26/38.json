@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "и исчезнете среди народов, и ⟨את⟩ вас поглотит земля врагов ваших",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "и исчезнете"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "среди народов"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "и поглотит"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "врагов ваших"
+    }
+  ],
+  "timestamp": "2026-08-02T21:08:01.336799449Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "joshua 21:11",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И дали они им ⟨את⟩ город Арбы — отца Анака, он есть Хеврон — в горе Иуды, и ⟨אет⟩ pastureland её вокруг её",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "И дали они"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "город"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "город"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Арбы"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отца"
+    },
+    {
+      "surface": "הענוק",
+      "gloss": "Анака"
+    },
+    {
+      "surface": "היא",
+      "gloss": "он есть"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Хеврон"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "в горе"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иуды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨אет⟩",
+      "marks": "pastureland"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pastureland её"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "вокруг неё"
+    }
+  ],
+  "timestamp": "2026-08-02T22:44:03.837524530Z",
+  "model": "glm-4.5"
+}

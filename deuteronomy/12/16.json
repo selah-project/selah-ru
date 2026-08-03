@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Только кровь не ешьте; на ⟨землю⟩ изливай её, как воду.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Только"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "кровь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ешьте"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨землю⟩",
+      "marks": "на ⟨землю⟩"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "изливай её"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "как воду"
+    }
+  ],
+  "timestamp": "2026-08-02T22:03:44.688458785Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "Пусть боятся ⟨ЯХВЕ⟩ вся земля, от Него пусть трепещут все жители ⟨мира⟩",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "пусть боятся"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "⟨ЯХВЕ⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "вся"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "от Него"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "пусть трепещут"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "жители"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨мира⟩",
+      "marks": "мира"
+    }
+  ],
+  "timestamp": "2026-08-03T07:09:05.115506700Z",
+  "model": "glm-4.5"
+}

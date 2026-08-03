@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 142,
+  "translation": "Голос мой к ЯХВЕ взываю, голос мой к ЯХВЕ, я молю о милости",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Голос мой"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "взываю"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "голос мой"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "я молю о милости"
+    }
+  ],
+  "timestamp": "2026-08-03T09:12:09.218818108Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "jeremiah 10:15",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Суета они, ⟨это⟩ дело обмана; во время посещения их они погибнут.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Суета"
+    },
+    {
+      "surface": "המה",
+      "gloss": "они"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "дело"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "обмана"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "во время"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "посещения их"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "они погибнут"
+    }
+  ],
+  "timestamp": "2026-08-03T03:11:26.297505094Z",
+  "model": "glm-4.5"
+}

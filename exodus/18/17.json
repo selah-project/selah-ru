@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И сказал тесть Моше ему: не ⟨это⟩ хорошо ⟨то⟩, ⟨что⟩ ты делаешь",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "тесть"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "хорошо"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨это⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨что⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "делаешь"
+    }
+  ],
+  "timestamp": "2026-08-02T20:12:44.193961229Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 43,
+  "ref": "joshua 19:43",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "и Эйлон, и Тимнаф, и Экрон",
+  "tokens": [
+    {
+      "surface": "וְאֵיל֥וֹן",
+      "gloss": "и Эйлон"
+    },
+    {
+      "surface": "וְתִמְנָ֖תָה",
+      "gloss": "и Тимнаф"
+    },
+    {
+      "surface": "וְעֶקְרֽוֹן",
+      "gloss": "и Экрон"
+    }
+  ],
+  "timestamp": "2026-08-02T22:42:41.226558019Z",
+  "model": "glm-4.5"
+}

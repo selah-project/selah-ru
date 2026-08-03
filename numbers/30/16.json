@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "И ⟨את⟩, нарушит ⟨את⟩ после того, как услышит ⟨их⟩, и понесет ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "И"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "нарушит"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "אחרי"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "после"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "того, как услышит ⟨их⟩"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "и"
+    },
+    {
+      "surface": "את",
+      "gloss": "понесет ⟨את⟩",
+      "marks": "עונה"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "её вину"
+    }
+  ],
+  "timestamp": "2026-08-02T21:43:40.311607355Z",
+  "model": "glm-4.5"
+}

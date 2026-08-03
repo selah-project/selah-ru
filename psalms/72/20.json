@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 72,
+  "translation": "Завершены молитвы Давида, сына Ишая",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Завершены"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "молитвы"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Ишая"
+    }
+  ],
+  "timestamp": "2026-08-03T07:52:33.230288197Z",
+  "model": "glm-4.5"
+}

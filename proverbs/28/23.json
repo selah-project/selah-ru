@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "proverbs 28:23",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Укоряющий человека ⟨после⟩ найдет милость более, чем льстящий языком.",
+  "tokens": [
+    {
+      "surface": "מוכיח",
+      "gloss": "Укоряющий"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "⟨после⟩"
+    },
+    {
+      "surface": "חן",
+      "gloss": "милость"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "найдет"
+    },
+    {
+      "surface": "ממחליק",
+      "gloss": "льстящий"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "языком"
+    }
+  ],
+  "timestamp": "2026-08-03T10:05:01.047909932Z",
+  "model": "glm-4.5"
+}

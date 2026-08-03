@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "isaiah 12:5",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Пойте ЯХВЕ, ибо величественное ⟨Он⟩ сделал, это ⟨известно⟩ по всей земле.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Пойте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "величественное"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "מידעת",
+      "gloss": "⟨известно⟩"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "это"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "по всей"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земле"
+    }
+  ],
+  "timestamp": "2026-08-03T01:56:25.351778988Z",
+  "model": "glm-4.5"
+}

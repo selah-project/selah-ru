@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "1-chronicles 21:30",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И не мог Давид идти перед Ним, чтобы вопрошать Элохима, ибо устрашился ⟨он⟩ от меча малах ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И не"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "мог"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "идти"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "перед Ним"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "чтобы вопрошать"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохима"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "устрашился"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "от"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меча"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "малах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T13:07:28.838424519Z",
+  "model": "glm-4.5"
+}

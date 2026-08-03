@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 105,
+  "translation": "И пришёл Исраэль в Египет, и Яаков жил пришельцем в земле Хам",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и пришёл"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраэль"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "в Египет"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "и Яаков"
+    },
+    {
+      "surface": "גר",
+      "gloss": "жил пришельцем"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земле"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Хам"
+    }
+  ],
+  "timestamp": "2026-08-03T08:34:37.863830229Z",
+  "model": "glm-4.5"
+}

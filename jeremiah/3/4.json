@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Неужели с сего времени не взываешь ты ко Мне: «Отец мой, Ты ⟨את⟩ друг моей юности»?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Неужели"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "с сего времени"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "не взываешь ты"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ко Мне"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Отец мой"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "друг"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "моей юности"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ты⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T03:00:44.058815264Z",
+  "model": "glm-4.5"
+}

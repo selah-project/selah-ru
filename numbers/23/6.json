@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "numbers 23:6",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "И он вернулся к нему, и вот, ⟨он⟩ стоит возле ⟨своего⟩ всесожжения, ⟨он⟩ и все князья Моава",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "и он вернулся"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "к нему"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "стоит"
+    },
+    {
+      "surface": "על",
+      "gloss": "возле"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "всесожжения"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и все"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "князья"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    }
+  ],
+  "timestamp": "2026-08-02T21:36:02.810878927Z",
+  "model": "glm-4.5"
+}

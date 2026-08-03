@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И пришёл Моше и Аарон к ⟨лицу⟩ шатра собрания",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и пришёл"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "и Аарон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨лицу⟩"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатра"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "собрания"
+    }
+  ],
+  "timestamp": "2026-08-02T21:29:51.586048203Z",
+  "model": "glm-4.5"
+}

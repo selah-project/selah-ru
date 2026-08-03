@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 41,
+  "ref": "deuteronomy 28:41",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Сыновей и дочерей родишь, но не будет ⟨они⟩ для тебя, потому что пойдут в плен",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "и дочерей"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "родишь"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "будет ⟨они⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "для тебя"
+    },
+    {
+      "surface": "כי",
+      "gloss": "потому что"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "пойдут"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "в плен"
+    }
+  ],
+  "timestamp": "2026-08-02T22:18:00.535736624Z",
+  "model": "glm-4.5"
+}

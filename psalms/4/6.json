@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Приносите жертвы праведности и доверяйте ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "Приносите"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "жертвы"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "праведности"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "и доверяйте"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T06:30:32.428354223Z",
+  "model": "glm-4.5"
+}

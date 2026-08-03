@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "ecclesiastes 9:6",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Также и любовь их, и ненависть их, и зависть их уже ⟨погибли⟩, и нет у них ⟨доли⟩ уже во век во всём, что сделано под солнцем.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Также"
+    },
+    {
+      "surface": "אהבתם",
+      "gloss": "и любовь их"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "ненависть их"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "קנאתם",
+      "gloss": "зависть их"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "уже"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "⟨погибли⟩"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "и ⟨доли⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "להם",
+      "gloss": "у них"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "уже"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "во век"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "во всём"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "сделано"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "солнцем"
+    }
+  ],
+  "timestamp": "2026-08-03T11:23:35.030185858Z",
+  "model": "glm-4.5"
+}

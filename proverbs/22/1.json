@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 22:1",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Имя ⟨нужно⟩ избрать величия богатства, и благоволение лучше ⟨чем⟩ серебро и золото",
+  "tokens": [
+    {
+      "surface": "נבחר",
+      "gloss": "избрать"
+    },
+    {
+      "surface": "שם",
+      "gloss": "имя"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "величия"
+    },
+    {
+      "surface": "רב",
+      "gloss": "богатства"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "серебро"
+    },
+    {
+      "surface": "ומזהב",
+      "gloss": "и золото"
+    },
+    {
+      "surface": "חן",
+      "gloss": "благоволение"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "лучше"
+    }
+  ],
+  "timestamp": "2026-08-03T09:49:32.867001448Z",
+  "model": "glm-4.5"
+}

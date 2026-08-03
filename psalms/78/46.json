@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 46,
+  "ref": "psalms 78:46",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 78,
+  "translation": "Он дал их урожай гусенице и их труд саранче",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "дал"
+    },
+    {
+      "surface": "לחסיל",
+      "gloss": "гусенице"
+    },
+    {
+      "surface": "יבולם",
+      "gloss": "их урожай"
+    },
+    {
+      "surface": "ויגיעם",
+      "gloss": "и их труд"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "саранче"
+    }
+  ],
+  "timestamp": "2026-08-03T08:03:54.214971529Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "genesis 16:7",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "И нашёл её вестник ЯХВЕ ⟨у⟩ источника воды ⟨в⟩ пустыне, ⟨у⟩ источника ⟨на⟩ пути Шур.",
+  "tokens": [
+    {
+      "surface": "וימצאה",
+      "gloss": "И нашёл её"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "вестник"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨у⟩"
+    },
+    {
+      "surface": "עין",
+      "gloss": "источника"
+    },
+    {
+      "surface": "המים",
+      "gloss": "воды"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "⟨в⟩ пустыне"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨у⟩"
+    },
+    {
+      "surface": "העין",
+      "gloss": "источника"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "⟨на⟩ пути"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Шур"
+    }
+  ],
+  "timestamp": "2026-08-02T19:13:26.002238881Z",
+  "model": "glm-4.5"
+}

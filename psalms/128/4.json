@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 128,
+  "translation": "Вот, так ⟨будет⟩ благословен муж боящийся ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Вот"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ведь"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "⟨будет⟩ благословен"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "муж"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "боящийся"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T09:00:40.868737278Z",
+  "model": "glm-4.5"
+}

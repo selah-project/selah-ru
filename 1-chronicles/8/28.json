@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "1-chronicles 8:28",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Это — главы отцов по их поколениям, главы. Эти ⟨они⟩ жили в Иерусалиме.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Это"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "главы"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "отцов"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "по их поколениям"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "главы"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Эти"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "жили"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "в Иерусалиме"
+    }
+  ],
+  "timestamp": "2026-08-03T12:49:29.059098115Z",
+  "model": "glm-4.5"
+}

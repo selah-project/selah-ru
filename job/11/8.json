@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "job 11:8",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Высоты небес — что ⟨ты⟩ сделаешь? Глубже Шеола — что ⟨ты⟩ узнаешь?",
+  "tokens": [
+    {
+      "surface": "גבהי",
+      "gloss": "Высоты"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "תפעל",
+      "gloss": "сделаешь"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "глубже"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "Шеола"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "узнаешь"
+    }
+  ],
+  "timestamp": "2026-08-03T10:19:08.512882806Z",
+  "model": "glm-4.5"
+}

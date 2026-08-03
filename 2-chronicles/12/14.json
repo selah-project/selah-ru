@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И сделал он зло, потому что не направил сердце своё взыскивать ⟨את⟩ ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И сделал"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "כי",
+      "gloss": "потому что"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "направил"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "сердце своё"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "взыскивать"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T13:37:53.840884451Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "job 9:21",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Безупречен я; не знаю я ⟨свою⟩ нефеш, я презираю ⟨свою⟩ жизнь.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "Безупречен я"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "знаю"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨свою⟩ нефеш"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "презираю"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "⟨свою⟩ жизнь"
+    }
+  ],
+  "timestamp": "2026-08-03T10:17:50.112232338Z",
+  "model": "glm-4.5"
+}

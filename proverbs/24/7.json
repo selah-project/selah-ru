@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Мудрость ⟨слишком⟩ высока ⟨для⟩ глупца; в воротах он не откроет ⟨свои⟩ уста.",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "высока"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "⟨для⟩ глупца"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "Мудрость"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "в воротах"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "откроет"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "уста"
+    }
+  ],
+  "timestamp": "2026-08-03T18:27:44.334342769Z",
+  "model": "glm-4.5"
+}

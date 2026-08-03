@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "proverbs 30:32",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Если поступил ты глупо, возносясь, и если замыслил зло — руку ко рту!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Если"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "поступил ты глупо"
+    },
+    {
+      "surface": "בהתנשא",
+      "gloss": "возносясь"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "и если"
+    },
+    {
+      "surface": "זמות",
+      "gloss": "замыслил зло"
+    },
+    {
+      "surface": "יד",
+      "gloss": "руку"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "ко рту"
+    }
+  ],
+  "timestamp": "2026-08-03T10:07:27.829771427Z",
+  "model": "glm-4.5"
+}

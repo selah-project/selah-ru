@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "В полночь ⟨я⟩ встану славить Тебя ⟨за⟩ праведные суды Твои",
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "В полночь"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "⟨в⟩ ночи"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "встану"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "славить"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Тебя"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨за⟩"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "суды"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "праведные Твои"
+    }
+  ],
+  "timestamp": "2026-08-03T08:51:02.314776919Z",
+  "model": "glm-4.5"
+}

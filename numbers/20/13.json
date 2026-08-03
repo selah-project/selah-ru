@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "numbers 20:13",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "Это воды Меривы,因为 сыновья Израиля пререкались с ЯХВЕ, и Он освятился ⟨בָּם⟩.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Это —"
+    },
+    {
+      "surface": "מי",
+      "gloss": "воды"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Меривы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "потому что"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "пререкались"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "и Он освятился"
+    },
+    {
+      "surface": "בם",
+      "gloss": "⟨בָּם⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T21:33:17.681757164Z",
+  "model": "glm-4.5"
+}

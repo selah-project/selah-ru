@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "и ⟨нефеш⟩ человека шестнадцать тысяч",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "и ⟨нефеш⟩"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "шесть"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "десять"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тысяч"
+    }
+  ],
+  "timestamp": "2026-08-02T21:44:59.501352901Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "proverbs 3:8",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "это будет здоровьем для пупка твоего и refreshment для костей твоих",
+  "tokens": [
+    {
+      "surface": "רִפְאוּת",
+      "gloss": "здоровьем"
+    },
+    {
+      "surface": "תְּהִי",
+      "gloss": "это будет"
+    },
+    {
+      "surface": "לְשָׁרֶּךָ",
+      "gloss": "для пупка твоего"
+    },
+    {
+      "surface": "וְשִׁקּוּי",
+      "gloss": "и refreshment"
+    },
+    {
+      "surface": "לְעַצְמוֹתֶיךָ",
+      "gloss": "для костей твоих"
+    }
+  ],
+  "timestamp": "2026-08-03T09:23:08.296791112Z",
+  "model": "glm-4.5"
+}

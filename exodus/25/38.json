@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "exodus 25:38",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "И щипцы ⟨её⟩, и совочки ⟨её⟩ — из чистого золота",
+  "tokens": [
+    {
+      "surface": "ומלקחיה",
+      "gloss": "и щипцы ⟨её⟩"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "и совочки ⟨её⟩"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "из золота"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чистого"
+    }
+  ],
+  "timestamp": "2026-08-02T20:19:24.788566850Z",
+  "model": "glm-4.5"
+}

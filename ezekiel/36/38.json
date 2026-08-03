@@ -1,0 +1,93 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "ezekiel 36:38",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "как ⟨стадо⟩ qedoshim, как ⟨стадо⟩ Иерушалаима в её mo'adim, так ḥorvot будут mel'ot ⟨стадом⟩ adam, и yada'u, ki ani ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "כצאן",
+      "gloss": "как ⟨стадо⟩",
+      "marks": "как ⟨стадо⟩ kedoshim"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "qedoshim",
+      "marks": "святынь"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "как ⟨стадо⟩",
+      "marks": "как ⟨стадо⟩ Иерушалаима"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Иерушалаим",
+      "marks": ""
+    },
+    {
+      "surface": "במועדיה",
+      "gloss": "в её mo'adim",
+      "marks": "в её праздниках"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так",
+      "marks": ""
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ḥorvot будут",
+      "marks": "разрушенные [города] будут"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "",
+      "marks": ""
+    },
+    {
+      "surface": "החרבות",
+      "gloss": "",
+      "marks": ""
+    },
+    {
+      "surface": "מלאות",
+      "gloss": "mel'ot",
+      "marks": "наполнены"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "⟨стадом⟩",
+      "marks": "⟨стадом⟩ adam"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam",
+      "marks": "людей"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "и yada'u",
+      "marks": "и узнают"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki",
+      "marks": "что"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani",
+      "marks": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-08-03T05:02:08.010342850Z",
+  "model": "glm-4.5"
+}

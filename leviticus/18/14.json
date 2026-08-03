@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Наготу брата отца твоего не открывай, к жене его не приближайся, тётка твоя ⟨она⟩",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "наготу"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брата"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "отца твоего"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "открывай"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "жене его"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "приближайся"
+    },
+    {
+      "surface": "דדתך",
+      "gloss": "тётка твоя"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨она⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T20:58:51.900787389Z",
+  "model": "glm-4.5"
+}

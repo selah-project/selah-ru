@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "joshua 10:15",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И вернулся Йегошуа и весь Израиль с ним ⟨в⟩ стан ⟨в⟩ Гилгал",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "И вернулся"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йегошуа"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и весь"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с ним"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨в⟩"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "стан"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "⟨в⟩ Гилгал"
+    }
+  ],
+  "timestamp": "2026-08-02T22:34:05.441687279Z",
+  "model": "glm-4.5"
+}

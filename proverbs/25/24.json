@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "proverbs 25:24",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "Лучше сидеть на ⟨углу⟩ кровли, чем ⟨в⟩ доме ⟨с⟩ женщиною ссор и ⟨в⟩ обществе.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Лучше"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "сидеть"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "⟨углу⟩"
+    },
+    {
+      "surface": "גג",
+      "gloss": "кровли"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "с"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "женщиною ссор"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "и ⟨в⟩"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "обществе"
+    }
+  ],
+  "timestamp": "2026-08-03T10:00:30.635655587Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "Не поднимай ⟨את⟩ имя ЯХВЕ, Эlohim твоего, попусту, ибо не очистит ЯХВЕ ⟨את⟩ того, кто поднимет ⟨את⟩ имя Его попусту",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "поднимай"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "имя"
+    },
+    {
+      "surface": "שם",
+      "gloss": "имя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Эlohim твоего"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "попусту"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "очистит"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "того"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кто"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "поднимет"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "имя"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Его"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "попусту"
+    }
+  ],
+  "timestamp": "2026-08-02T20:14:06.940439139Z",
+  "model": "glm-4.5"
+}

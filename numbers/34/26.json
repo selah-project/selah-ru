@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "numbers 34:26",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "и для колена сынов Иссахара — князь Палтиэль, сын Азана;",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "и для колена"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Иссахар"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "князь"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "Палтиэль"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "עזן",
+      "gloss": "Азан"
+    }
+  ],
+  "timestamp": "2026-08-02T21:48:37.875082535Z",
+  "model": "glm-4.5"
+}

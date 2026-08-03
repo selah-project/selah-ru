@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Желание сердца его Ты дал ему, и просьбу уст его не withholden. Села.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Желание"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "сердца его"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "Ты дал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "и просьбу"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "уст его"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "withholden"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-08-03T06:54:36.173092157Z",
+  "model": "glm-4.5"
+}

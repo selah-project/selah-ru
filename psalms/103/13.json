@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 103,
+  "translation": "Как ⟨отец⟩ милует сыновей, так милует ЯХВЕ боящихся ⟨Его⟩",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "Как ⟨милует⟩"
+    },
+    {
+      "surface": "אב",
+      "gloss": "отец"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨над⟩"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сыновьями"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "милует"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨над⟩"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "боящимися ⟨Его⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T08:31:49.978221141Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "job 22:24",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "и положишь на прах ⟨золото⟩, и на ⟨среди⟩ потоков — Офир",
+  "tokens": [
+    {
+      "surface": "ושית",
+      "gloss": "и положишь"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "прах"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "⟨золото⟩"
+    },
+    {
+      "surface": "ובצור",
+      "gloss": "и на"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "⟨среди⟩ потоков"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Офир"
+    }
+  ],
+  "timestamp": "2026-08-03T10:29:37.874781477Z",
+  "model": "glm-4.5"
+}

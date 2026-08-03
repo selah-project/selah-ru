@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "2-chronicles 16:13",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "И почил Аса с отцами своими и умер в год сорок один царствования ⟨его⟩",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "и почил"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Аса"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "отцами ⟨своими⟩"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умер"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "в год"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "сорок"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "и один"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "царствования ⟨его⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T13:46:30.962500980Z",
+  "model": "glm-4.5"
+}

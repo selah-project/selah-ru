@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "proverbs 18:6",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Губы глупца вступают в ⟨ссору⟩, а его рот призывает к ⟨битью⟩.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "Губы"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупца"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "вступают"
+    },
+    {
+      "surface": "בריב",
+      "gloss": "в ⟨ссору⟩"
+    },
+    {
+      "surface": "ופיו",
+      "gloss": "а его рот"
+    },
+    {
+      "surface": "למהלמות",
+      "gloss": "к ⟨битью⟩"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "призывает"
+    }
+  ],
+  "timestamp": "2026-08-03T09:44:01.972753240Z",
+  "model": "glm-4.5"
+}

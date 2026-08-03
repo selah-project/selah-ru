@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "job 18:9",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Ловушка схватит его за пятку, и силок возьмёт ⟨его⟩.",
+  "tokens": [
+    {
+      "surface": "יאחז",
+      "gloss": "схватит"
+    },
+    {
+      "surface": "בעקב",
+      "gloss": "за пятку"
+    },
+    {
+      "surface": "פח",
+      "gloss": "ловушка"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "силок"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "возьмёт ⟨его⟩",
+      "marks": "его"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "силок"
+    }
+  ],
+  "timestamp": "2026-08-03T10:25:30.263780381Z",
+  "model": "glm-4.5"
+}

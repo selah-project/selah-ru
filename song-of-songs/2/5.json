@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "song-of-songs 2:5",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Поддержите меня ⟨с⟩ виноградными cakes, освежите меня ⟨с⟩ яблоками, ибо я больна от любви",
+  "tokens": [
+    {
+      "surface": "סמכוני",
+      "gloss": "поддержите меня"
+    },
+    {
+      "surface": "באשישות",
+      "gloss": "⟨с⟩ виноградными cakes"
+    },
+    {
+      "surface": "רפדוני",
+      "gloss": "освежите меня"
+    },
+    {
+      "surface": "בתפוחים",
+      "gloss": "⟨с⟩ яблоками"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "חולת",
+      "gloss": "больна"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "от любви"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    }
+  ],
+  "timestamp": "2026-08-03T10:54:50.784304430Z",
+  "model": "glm-4.5"
+}

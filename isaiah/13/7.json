@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "Поэтому ослабнут все руки и растает всякое сердце человека",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "поэтому"
+    },
+    {
+      "surface": "כן",
+      "gloss": "поэтому"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "руки"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "ослабнут"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "сердце"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "человека"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "растает"
+    }
+  ],
+  "timestamp": "2026-08-03T01:56:45.110892377Z",
+  "model": "glm-4.5"
+}

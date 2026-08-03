@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Путь повелений Твоих пробегу, ибо расширил Ты ⟨сердце⟩ моё",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "Путь"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "повелений Твоих"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "пробегу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "расширил Ты"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "⟨сердце⟩ моё"
+    }
+  ],
+  "timestamp": "2026-08-03T08:49:50.560476760Z",
+  "model": "glm-4.5"
+}

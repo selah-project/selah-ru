@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "2-samuel 3:37",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И узнал весь народ и весь Израиль в тот день, что ⟨не было⟩ от царя ⟨убить⟩ ⟨את⟩ Авнера сына Нера.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "и узнал"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и весь"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в день"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тот"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "была"
+    },
+    {
+      "surface": "מהמלך",
+      "gloss": "от царя"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "убить"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авнера сына Нера"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнера"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Нера"
+    }
+  ],
+  "timestamp": "2026-08-02T23:51:11.824895037Z",
+  "model": "glm-4.5"
+}

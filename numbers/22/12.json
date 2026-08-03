@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И сказал Элохим Биламу: не ходи с ними, не проклинай ⟨את⟩ народ, ибо благословен ⟨он⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Биламу"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ходи"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "с ними"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "проклинай"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "благословен"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T21:35:06.884338923Z",
+  "model": "glm-4.5"
+}

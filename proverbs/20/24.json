@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "proverbs 20:24",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "От ЯХВЕ шаги мужа, и человек — как поймёт он свой путь?",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "От ЯХВЕ"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "шаги"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "мужа"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "и человек"
+    },
+    {
+      "surface": "מה",
+      "gloss": "как"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "поймёт"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "свой путь"
+    }
+  ],
+  "timestamp": "2026-08-03T09:47:31.178792912Z",
+  "model": "glm-4.5"
+}

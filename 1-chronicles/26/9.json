@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "1-chronicles 26:9",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "И Мешелемьяу — сыновья и братья, сыновья силы, ⟨их⟩ восемнадцать",
+  "tokens": [
+    {
+      "surface": "ולמשלמיהו",
+      "gloss": "И Мешелемьяу"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "ואחים",
+      "gloss": "и братья"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "силы"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "восемь"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "десять"
+    }
+  ],
+  "timestamp": "2026-08-03T13:14:19.625140162Z",
+  "model": "glm-4.5"
+}

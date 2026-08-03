@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И сказал царь: отойди и стой здесь. И он отошёл и стал.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "סב",
+      "gloss": "отойди"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "и стой"
+    },
+    {
+      "surface": "כה",
+      "gloss": "здесь"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "И он отошёл"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "и стал"
+    }
+  ],
+  "timestamp": "2026-08-03T00:06:52.401223167Z",
+  "model": "glm-4.5"
+}

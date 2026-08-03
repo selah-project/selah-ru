@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 60,
+  "ref": "numbers 7:60",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "В девятый день ⟨это⟩ Авидан, сын Гидони, правитель сынов Вениамина,",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "В день"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "девятый"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "правитель"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Вениамина"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "Авидан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "Гидони"
+    }
+  ],
+  "timestamp": "2026-08-02T21:19:08.159340211Z",
+  "model": "glm-4.5"
+}

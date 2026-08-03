@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Есть зло — болезнь, ⟨я⟩ видел под солнцем: богатство сохранено для господина его к ущербу его.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Есть"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "— болезнь"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "⟨я⟩ видел"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "солнцем"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "богатство"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "сохранено"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "для господина его"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "к ущербу его"
+    }
+  ],
+  "timestamp": "2026-08-03T18:27:19.927442376Z",
+  "model": "glm-4.5"
+}

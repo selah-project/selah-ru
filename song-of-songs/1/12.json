@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Пока царь ⟨находился⟩ ⟨за⟩ своим столом, нард мой дал ⟨свой⟩ аромат",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Пока"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "⟨за⟩ своим столом"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "нард мой"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дал"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "⟨свой⟩ аромат"
+    }
+  ],
+  "timestamp": "2026-08-03T10:54:05.915378823Z",
+  "model": "glm-4.5"
+}

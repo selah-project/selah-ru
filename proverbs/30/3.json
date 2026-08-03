@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "и не научился я хохме, и познание святых не знаю.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "научился я"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "хохме"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "и познание"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "святых"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "не знаю"
+    }
+  ],
+  "timestamp": "2026-08-03T10:06:52.535460911Z",
+  "model": "glm-4.5"
+}

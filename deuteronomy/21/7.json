@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "и ⟨они⟩ ответят и скажут: ‘Руки наши не пролили ⟨את⟩ эту кровь, и глаза наши не видели’",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "и ⟨они⟩ ответят"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "и скажут"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "руки наши"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "пролили"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эту кровь"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "кровь"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "эту"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "и глаза наши"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "видели"
+    }
+  ],
+  "timestamp": "2026-08-02T22:11:13.394193139Z",
+  "model": "glm-4.5"
+}

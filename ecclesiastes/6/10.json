@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "ecclesiastes 6:10",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Что ⟨было⟩, уже названо его имя, и известно, что ⟨это⟩ человек: и не сможет он судиться с тем, кто сильнее его.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "было"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "уже"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "названо"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "его имя"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "и известно"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨это⟩"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человек"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "сможет"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "судиться"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "שהתקיף",
+      "gloss": "кто сильнее"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "его"
+    }
+  ],
+  "timestamp": "2026-08-03T11:21:10.708072062Z",
+  "model": "glm-4.5"
+}

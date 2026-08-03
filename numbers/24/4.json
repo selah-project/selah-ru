@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "numbers 24:4",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Оракул ⟨того⟩, кто слышит слова Эла, кто видит видение Шаддая, падает ⟨с⟩ открытыми очами",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "Оракул"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "кто слышит"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эла"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кто"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "видение"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шаддая"
+    },
+    {
+      "surface": "יחזה",
+      "gloss": "видит"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "падает"
+    },
+    {
+      "surface": "וגלוי",
+      "gloss": "открытыми"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "очами"
+    }
+  ],
+  "timestamp": "2026-08-02T21:37:00.518857525Z",
+  "model": "glm-4.5"
+}

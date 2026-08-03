@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 148,
+  "translation": "Хвалите Ях, хвалите ⟨את⟩ ЯХВЕ с небес, хвалите Его на высотах.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "хвалите"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "хвалите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "с"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "хвалите Его"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "на высотах"
+    }
+  ],
+  "timestamp": "2026-08-03T09:18:01.846683445Z",
+  "model": "glm-4.5"
+}

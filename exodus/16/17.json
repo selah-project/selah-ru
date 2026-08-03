@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "exodus 16:17",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "И сделали так сыны Израиля, и собрали ⟨את⟩ многий и ⟨את⟩ малый",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "и сделали"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "וילקטו",
+      "gloss": "и собрали"
+    },
+    {
+      "surface": "המרבה",
+      "gloss": "⟨את⟩",
+      "marks": "многий"
+    },
+    {
+      "surface": "והממעיט",
+      "gloss": "⟨את⟩",
+      "marks": "малый"
+    }
+  ],
+  "timestamp": "2026-08-02T20:10:20.995135885Z",
+  "model": "glm-4.5"
+}

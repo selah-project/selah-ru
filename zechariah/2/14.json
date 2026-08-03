@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "zechariah 2:14",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "«Ликуй и веселись, дочь Циона, ибо вот, ⟨Я⟩ прихожу и ⟨Я⟩ обитаю среди тебя, — слово ЯХВЕ».",
+  "tokens": [
+    {
+      "surface": "רני",
+      "gloss": "ликуй"
+    },
+    {
+      "surface": "ושמחי",
+      "gloss": "и веселись"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочь"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Циона"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "вот"
+    },
+    {
+      "surface": "בא",
+      "gloss": "прихожу"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "и обитаю"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "среди тебя"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T06:10:00.364135720Z",
+  "model": "glm-4.5"
+}

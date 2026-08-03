@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Я возненавидел сборище злодеев и ⟨с⟩ нечестивыми не сяду",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Я возненавидел"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "сборище"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "злодеев"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "и ⟨с⟩",
+      "marks": "нечестивыми"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивыми"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "сяду"
+    }
+  ],
+  "timestamp": "2026-08-03T07:02:50.329055117Z",
+  "model": "glm-4.5"
+}

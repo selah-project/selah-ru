@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "И взошёл Моше на гору, и закрыло облако ⟨את⟩ гору",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "и взошёл"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "и закрыло"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "облако"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гору"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "гору"
+    }
+  ],
+  "timestamp": "2026-08-02T20:18:15.818310787Z",
+  "model": "glm-4.5"
+}

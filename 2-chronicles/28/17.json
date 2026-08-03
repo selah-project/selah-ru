@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "2-chronicles 28:17",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "И ещё Эдомиты пришли и поразили ⟨в⟩ Иудее и увели плен.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "И ещё"
+    },
+    {
+      "surface": "אדומים",
+      "gloss": "Эдомиты"
+    },
+    {
+      "surface": "באו",
+      "gloss": "пришли"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "и поразили"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "⟨в⟩ Иудее"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "и увели"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "плен"
+    }
+  ],
+  "timestamp": "2026-08-03T14:02:54.107313270Z",
+  "model": "glm-4.5"
+}

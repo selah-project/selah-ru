@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-chronicles 3:10",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И сын Шеломо: Рехавам, его сын Авигия, его сын Аса, его сын Йегошафат, его сын",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "И сын"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Рехавам"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Авигия"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "его сын"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Аса"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "его сын"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Йегошафат"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "его сын"
+    }
+  ],
+  "timestamp": "2026-08-03T12:39:10.041989191Z",
+  "model": "glm-4.5"
+}

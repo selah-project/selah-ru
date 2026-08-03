@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И увидел Элохим ⟨את⟩ сынов Израиля, и узнал Элохим",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "и увидел"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сынов Израиля"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "и узнал"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-08-02T19:56:33.216353321Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "job 42:13",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 42,
+  "translation": "И было у него ⟨את⟩ семь сыновей и три дочери",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "לו",
+      "gloss": "у него"
+    },
+    {
+      "surface": "שבענה",
+      "gloss": "⟨את⟩ семь",
+      "marks": "сыновей"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "и три"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "дочери"
+    }
+  ],
+  "timestamp": "2026-08-03T10:53:18.257720954Z",
+  "model": "glm-4.5"
+}

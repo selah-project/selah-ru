@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И послал Давид к Йоаву: пришли ко мне ⟨את⟩ Урию Хеттеянина; и послал Йоав ⟨את⟩ Урию к Давиду",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "И послал"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоаву"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "пришли"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ко мне"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Урию"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Урию"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Хеттеянина"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "и послал"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Урию"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Урию"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давиду"
+    }
+  ],
+  "timestamp": "2026-08-02T23:57:36.183292532Z",
+  "model": "glm-4.5"
+}

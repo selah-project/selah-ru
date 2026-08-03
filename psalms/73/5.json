@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 73,
+  "translation": "⟨Они⟩ не в беде, как смертный, и с Адамом не поражаются ⟨они⟩.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "в беде"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "смертный"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "⟨они⟩ не"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "и с"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Адамом"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "поражаются"
+    }
+  ],
+  "timestamp": "2026-08-03T07:53:39.037120647Z",
+  "model": "glm-4.5"
+}

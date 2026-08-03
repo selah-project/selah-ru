@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Доколе, ленивец, ⟨будешь⟩ лежать? Когда ⟨ты⟩ встанешь от ⟨своего⟩ сна?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Доколе"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ленивец"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "⟨будешь⟩ лежать"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "Когда"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "⟨ты⟩ встанешь"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "от"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "⟨своего⟩ сна"
+    }
+  ],
+  "timestamp": "2026-08-03T09:27:04.525518874Z",
+  "model": "glm-4.5"
+}

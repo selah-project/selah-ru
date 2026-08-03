@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "jeremiah 4:25",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Я увидел: вот, нет человека, и все ⟨птицы⟩ небес разлетелись",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "я увидел"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и все"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "⟨птицы⟩"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "разлетелись"
+    }
+  ],
+  "timestamp": "2026-08-03T03:02:30.656048423Z",
+  "model": "glm-4.5"
+}

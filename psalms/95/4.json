@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 95,
+  "translation": "У Него в руке ⟨את⟩ глубины земли и вершины гор — Ему",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "У которого"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "в руке"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "глубины"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земли"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "и вершины"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "гор"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ему"
+    }
+  ],
+  "timestamp": "2026-08-03T08:23:40.386443232Z",
+  "model": "glm-4.5"
+}

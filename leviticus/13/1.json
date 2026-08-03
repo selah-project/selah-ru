@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "leviticus 13:1",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И говорил ЯХВЕ ⟨את⟩ Моше и ⟨את⟩ Аарону, говоря:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и ⟨את⟩",
+      "marks": "Аароном"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аароном"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря:"
+    }
+  ],
+  "timestamp": "2026-08-02T20:51:42.875181818Z",
+  "model": "glm-4.5"
+}

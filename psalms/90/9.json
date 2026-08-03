@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 90,
+  "translation": "Ибо все дни наши прошли в ярости Твоей, мы завершили годы наши как вздох.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "дни наши"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "прошли"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "в ярости Твоей"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "мы завершили"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "годы наши"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "как"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "вздох"
+    }
+  ],
+  "timestamp": "2026-08-03T08:18:51.756463064Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "Посему так говорит ЯХВЕ Цеваот: ⟨так⟩ как вы не слушали ⟨את⟩ слов Моих",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "посему"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "говорит"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "יען",
+      "gloss": "⟨так⟩ как"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "слушали"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слов Моих"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слов Моих"
+    }
+  ],
+  "timestamp": "2026-08-03T03:30:55.562024519Z",
+  "model": "glm-4.5"
+}

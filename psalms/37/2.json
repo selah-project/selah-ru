@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "Ибо они скоро скошены, как трава, и увядают, как зелень ⟨растений⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "как траву"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "скоро"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "скошены"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "и как"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "зелень"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "увядают"
+    }
+  ],
+  "timestamp": "2026-08-03T07:15:07.214479786Z",
+  "model": "glm-4.5"
+}

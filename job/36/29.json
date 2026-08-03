@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "job 36:29",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "Даже ⟨не⟩ понять ⟨кому⟩ разодрания облака, грохот шатра Его.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Даже"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "понять"
+    },
+    {
+      "surface": "מפרשי",
+      "gloss": "разодрания"
+    },
+    {
+      "surface": "עב",
+      "gloss": "облака"
+    },
+    {
+      "surface": "תשאות",
+      "gloss": "грохот"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "шатра Его"
+    }
+  ],
+  "timestamp": "2026-08-03T10:47:13.484361995Z",
+  "model": "glm-4.5"
+}

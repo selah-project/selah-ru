@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И стало это дело ⟨в⟩ грех, и пошёл народ пред ⟨тем⟩ единственным, до Дана.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И стало"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "это дело"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨в⟩"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "грех"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "и пошёл"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨тем⟩ единственным"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дана"
+    }
+  ],
+  "timestamp": "2026-08-03T00:43:02.865126288Z",
+  "model": "glm-4.5"
+}

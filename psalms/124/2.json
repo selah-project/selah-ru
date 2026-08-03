@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 124,
+  "translation": "Если бы не ЯХВЕ, ⟨который был⟩ для нас, когда восстали на нас люди,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "Если бы не"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "⟨который был⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "для нас"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "когда восстали"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "на нас"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "люди"
+    }
+  ],
+  "timestamp": "2026-08-03T08:58:36.549747607Z",
+  "model": "glm-4.5"
+}

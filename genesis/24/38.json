@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "genesis 24:38",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "если не ⟨то⟩ в дом отца моего пойдёшь и к родне моей, и возьмёшь жену ⟨את⟩ сыну моему",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отца моего"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "пойдёшь"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и к"
+    },
+    {
+      "surface": "משפחתי",
+      "gloss": "родне моей"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "и возьмёшь"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жену",
+      "marks": "сыну моему"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "сыну моему"
+    }
+  ],
+  "timestamp": "2026-08-02T19:22:11.220814135Z",
+  "model": "glm-4.5"
+}

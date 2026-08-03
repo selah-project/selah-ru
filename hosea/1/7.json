@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "А ⟨את⟩ дом ⟨⟨of⟩⟩ Иуды помилую и спасу их ⟨by⟩ ЯХВЕ Элохим их, и не спасу их ⟨by⟩ лук и ⟨by⟩ меч и ⟨by⟩ война, ⟨by⟩ кони и ⟨by⟩ всадники",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "А ⟨את⟩",
+      "marks": "дом Иуды"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иуды"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "помилую"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "и спасу их"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "⟨by⟩ ЯХВЕ"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Элохим их"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "спасу их"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "⟨by⟩ лук"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "и ⟨by⟩ меч"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "и ⟨by⟩ война"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "⟨by⟩ кони"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "и ⟨by⟩ всадники"
+    }
+  ],
+  "timestamp": "2026-08-03T05:20:25.525967103Z",
+  "model": "glm-4.5"
+}

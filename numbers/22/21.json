@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И поднялся Билам утром, и оседлал ⟨את⟩ свою ослицу, и пошёл с князьями Моава",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "и поднялся"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билам"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "утром"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "и оседлал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "свою ослицу"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "свою ослицу"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и пошёл"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "князьями"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    }
+  ],
+  "timestamp": "2026-08-02T21:35:22.735015452Z",
+  "model": "glm-4.5"
+}

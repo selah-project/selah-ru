@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Потому что ищущий крови ⟨их⟩ вспомнил; не забыл вопль страдающих",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "потому что"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ищущий"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "крови"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨их⟩",
+      "marks": "запомнил"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "вспомнил"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "забыл"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "вопль"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "страдающих"
+    }
+  ],
+  "timestamp": "2026-08-03T06:39:02.503946936Z",
+  "model": "glm-4.5"
+}

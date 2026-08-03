@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "Мягкий ответ отвращает ярость, ⟨но⟩ слово огорчающее поднимает гнев.",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "ответ"
+    },
+    {
+      "surface": "רך",
+      "gloss": "мягкий"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "отвращает"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ярость"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "⟨но⟩ слово"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "огорчающее"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "поднимает"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гнев"
+    }
+  ],
+  "timestamp": "2026-08-03T09:39:30.305498951Z",
+  "model": "glm-4.5"
+}

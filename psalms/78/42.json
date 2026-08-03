@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 78,
+  "translation": "Не помнили ⟨את⟩ руку Свою, ⟨the⟩ день, когда Он выкупил их от притеснителя,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "помнили"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "руку Свою"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "руку Свою"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "когда"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "Он выкупил их"
+    },
+    {
+      "surface": "מני",
+      "gloss": "от"
+    },
+    {
+      "surface": "צר",
+      "gloss": "притеснителя"
+    }
+  ],
+  "timestamp": "2026-08-03T08:04:14.246906417Z",
+  "model": "glm-4.5"
+}

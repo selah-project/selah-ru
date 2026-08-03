@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Я возрадуюсь и возвеселюсь в Тебе; воспою имя Твоё, Всевышний",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "возрадуюсь"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "и возвеселюсь"
+    },
+    {
+      "surface": "בך",
+      "gloss": "в Тебе"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "воспою"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "имя Твоё"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Всевышний"
+    }
+  ],
+  "timestamp": "2026-08-03T06:38:41.273247857Z",
+  "model": "glm-4.5"
+}

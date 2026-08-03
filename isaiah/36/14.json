@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "isaiah 36:14",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "Так говорит царь: пусть Хизки́йу не обманывает вас, ⟨ибо⟩ не ⟨он⟩ сможет ⟨את⟩ вас спасти",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "говорит"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "пусть обманывает"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вас"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизки́йу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "сможет"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "спасти"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    }
+  ],
+  "timestamp": "2026-08-03T02:21:16.333473583Z",
+  "model": "glm-4.5"
+}

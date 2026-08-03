@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "proverbs 31:26",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "Рот ⟨её⟩ она открывает с хохмой, а Тора хеседа на языке ⟨её⟩",
+  "tokens": [
+    {
+      "surface": "פיה",
+      "gloss": "Рот ⟨её⟩"
+    },
+    {
+      "surface": "פתחה",
+      "gloss": "она открывает"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "с хохмой"
+    },
+    {
+      "surface": "ותורת",
+      "gloss": "а Тора"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хеседа"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "לשונה",
+      "gloss": "языке ⟨её⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T10:08:36.002994904Z",
+  "model": "glm-4.5"
+}

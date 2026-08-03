@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "song-of-songs 8:9",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Если ⟨она⟩ стена, мы выстроим ⟨на⟩ ней серебряную башню; а если ⟨она⟩ дверь, мы обнесём ⟨её⟩ кедровой панелью",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "стена"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨она⟩"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "выстроим"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "⟨на⟩ ней"
+    },
+    {
+      "surface": "טירת",
+      "gloss": "башню"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "серебряную"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "а если"
+    },
+    {
+      "surface": "דלת",
+      "gloss": "дверь"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨она⟩"
+    },
+    {
+      "surface": "נצור",
+      "gloss": "обнесём"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "⟨её⟩"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "панелью"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "кедровой"
+    }
+  ],
+  "timestamp": "2026-08-03T10:59:26.833700583Z",
+  "model": "glm-4.5"
+}

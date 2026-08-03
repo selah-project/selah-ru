@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "nehemiah 10:20",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Хариф, Анафот, Новаи",
+  "tokens": [
+    {
+      "surface": "חריף",
+      "gloss": "Хариф"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Анафот"
+    },
+    {
+      "surface": "נובי",
+      "gloss": "Новаи"
+    }
+  ],
+  "timestamp": "2026-08-03T12:28:04.362968799Z",
+  "model": "glm-4.5"
+}

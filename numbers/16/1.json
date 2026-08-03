@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "numbers 16:1",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "И взял Корах, сын Ицхара, сын Кехата, сын Леви, и Датан и Авирам, сыновья Элиава, и Он, сын Палета, сыновья Реувена:",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "И взял"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Ицхара"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кехата"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леви"
+    },
+    {
+      "surface": "ודתן",
+      "gloss": "и Датан"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "и Авирам"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Элиава"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "и Он"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "פלת",
+      "gloss": "Палета"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реувена"
+    }
+  ],
+  "timestamp": "2026-08-02T21:28:55.423197417Z",
+  "model": "glm-4.5"
+}

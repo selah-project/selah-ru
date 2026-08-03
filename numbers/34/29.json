@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "numbers 34:29",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "Вот те, ⟨которых⟩ ЯХВЕ повелел наделить ⟨את⟩ сынов Израиля на земле Кнаан.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Вот те"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨которых⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "повелел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "наделить"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сынов Израиля"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на земле"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кнаан"
+    }
+  ],
+  "timestamp": "2026-08-02T21:48:53.270103801Z",
+  "model": "glm-4.5"
+}

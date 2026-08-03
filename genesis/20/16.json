@@ -1,0 +1,86 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "genesis 20:16",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И Саре сказал: вот, я дал тысячу серебра брату твоему; вот, это ⟨את⟩ покрывательство глаз пред всеми, которые ⟨с тобой⟩, и ⟨пред⟩ всем ты vindicated.",
+  "tokens": [
+    {
+      "surface": "ולשרה",
+      "gloss": "И Саре"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "дал"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тысячу"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "серебра"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "брату твоему"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "это"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "покрывательство"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "глаз"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "пред всеми"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "с тобой"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "всё"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всём"
+    },
+    {
+      "surface": "ונכחת",
+      "gloss": "ты vindicated"
+    }
+  ],
+  "timestamp": "2026-08-02T19:17:41.676554501Z",
+  "model": "glm-4.5"
+}

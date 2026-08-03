@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "joshua 6:14",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И обошли они ⟨את⟩ город во второй день один раз, и возвратился ⟨את⟩ стан: так делали шесть дней.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "и обошли"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "город"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "город"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во день"
+    },
+    {
+      "surface": "השני",
+      "gloss": "второй"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "раз"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "один"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "и возвратился"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "стан"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "делали"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "шесть"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дней"
+    }
+  ],
+  "timestamp": "2026-08-02T22:29:04.350943818Z",
+  "model": "glm-4.5"
+}

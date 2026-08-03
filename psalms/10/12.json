@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 10:12",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Восстань, ЯХВЕ, ⟨Бог⟩, поднимай руку Твою, не забывай бедных",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Восстань"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨Бог⟩"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "поднимай"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "руку Твою"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "забывай"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "бедных"
+    }
+  ],
+  "timestamp": "2026-08-03T06:40:12.278737891Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "judges 13:4",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И теперь, прошу, соблюдай ⟨сторожу⟩, и не пей вина и сикеры, и не ешь ничего нечистого",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "И теперь"
+    },
+    {
+      "surface": "השמרי",
+      "gloss": "соблюдай ⟨сторожу⟩"
+    },
+    {
+      "surface": "נא",
+      "gloss": "прошу"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשתי",
+      "gloss": "пей"
+    },
+    {
+      "surface": "יין",
+      "gloss": "вина"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "и сикеры"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תאכלי",
+      "gloss": "ешь"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ничего"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечистого"
+    }
+  ],
+  "timestamp": "2026-08-02T23:03:52.079125090Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 105,
+  "translation": "Семя Авраама, раба ⟨Его⟩, сыны Яакова, ⟨Его⟩ избранные.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "Семя"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраама"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "раба ⟨Его⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "⟨Его⟩ избранные"
+    }
+  ],
+  "timestamp": "2026-08-03T08:34:20.546912117Z",
+  "model": "glm-4.5"
+}

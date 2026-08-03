@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 134,
+  "translation": "Поднимите ваши руки к святилищу, и благословите ⟨את⟩ ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Поднимите"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "ваши руки"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "к святилищу"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "и благословите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T09:04:50.278289958Z",
+  "model": "glm-4.5"
+}

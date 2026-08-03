@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И послали к Изевели, говоря: Навот побит камнями и умер",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "и послали"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Изевель"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "побит камнями"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Навот"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умер"
+    }
+  ],
+  "timestamp": "2026-08-03T00:58:37.362625417Z",
+  "model": "glm-4.5"
+}

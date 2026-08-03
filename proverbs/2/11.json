@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Сохранит тебя хитрость, ⟨и⟩ хохма оградит тебя",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "хитрость"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "сохранит"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "тебя"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "хохма"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "оградит"
+    }
+  ],
+  "timestamp": "2026-08-03T09:22:12.685585264Z",
+  "model": "glm-4.5"
+}

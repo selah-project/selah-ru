@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "jeremiah 6:8",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "⟨Будучи⟩ поучаема, Иерусалим, lest отойду ⟨את⟩ нефеш моя от тебя, lest сделаю тебя пустынею, ⟨землёй⟩ не ⟨населяемою⟩.",
+  "tokens": [
+    {
+      "surface": "הוסרי",
+      "gloss": "поучаема"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Иерусалим"
+    },
+    {
+      "surface": "פן",
+      "gloss": "lest"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "отойду"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨את⟩ нефеш моя",
+      "marks": "отойду"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "от тебя"
+    },
+    {
+      "surface": "פן",
+      "gloss": "lest"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "сделаю тебя"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "пустынею"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨землёй⟩"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נושבה",
+      "gloss": "⟨населяемою⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T18:36:26.670412661Z",
+  "model": "glm-4.5"
+}

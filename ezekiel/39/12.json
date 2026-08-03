@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 39,
+  "translation": "И семь месяцев Дом Израиля будет хоронить их, чтобы очистить ⟨את⟩ землю",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "и будут хоронить их"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Дом"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "למען",
+      "gloss": "чтобы"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "очистить"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "семь"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "месяцев"
+    }
+  ],
+  "timestamp": "2026-08-03T05:05:21.180242759Z",
+  "model": "glm-4.5"
+}

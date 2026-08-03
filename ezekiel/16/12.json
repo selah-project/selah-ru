@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "ezekiel 16:12",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "и Я дал ⟨את⟩ кольцо в нос твой, и серьги в уши твои, и венец красоты на голову твою",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "и Я дал"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "кольцо"
+    },
+    {
+      "surface": "על",
+      "gloss": "в"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "нос твой"
+    },
+    {
+      "surface": "ועגילים",
+      "gloss": "и серьги"
+    },
+    {
+      "surface": "על",
+      "gloss": "в"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "уши твои"
+    },
+    {
+      "surface": "ועטרת",
+      "gloss": "и венец"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "красоты"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "на голову твою"
+    }
+  ],
+  "timestamp": "2026-08-03T04:34:05.504959280Z",
+  "model": "glm-4.5"
+}

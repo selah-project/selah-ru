@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "deuteronomy 32:32",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "Ибо из лозы Содома — их лоза, и из полей Аморы; грозди их — грозди яда, кисти их — горькие для них.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "из лозы"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Содома"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "их лоза"
+    },
+    {
+      "surface": "ומשדמת",
+      "gloss": "и из полей"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Аморы"
+    },
+    {
+      "surface": "ענבמו",
+      "gloss": "грозди их"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "грозди"
+    },
+    {
+      "surface": "רוש",
+      "gloss": "яда"
+    },
+    {
+      "surface": "אשכלת",
+      "gloss": "кисти"
+    },
+    {
+      "surface": "מררת",
+      "gloss": "горькие"
+    },
+    {
+      "surface": "למו",
+      "gloss": "для них"
+    }
+  ],
+  "timestamp": "2026-08-02T22:22:24.745706877Z",
+  "model": "glm-4.5"
+}

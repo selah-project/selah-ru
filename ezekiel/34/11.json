@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "ezekiel 34:11",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "Ибо так сказал Адонай ЯХВЕ: вот, я сам — и я осмотрю ⟨את⟩ моё стадо и разыщу его",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "вот"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "ודרשתי",
+      "gloss": "и осмотрю"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "моё стадо"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "моё стадо"
+    },
+    {
+      "surface": "ובקרתים",
+      "gloss": "и разыщу его"
+    }
+  ],
+  "timestamp": "2026-08-03T04:58:23.381133811Z",
+  "model": "glm-4.5"
+}

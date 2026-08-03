@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Только ⟨את⟩ колено Леви не считай и ⟨את⟩ голову их не поднимай посреди сынов Израиля.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "только"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "колено Леви"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "колено"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леви"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "считай"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "голову их"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "голову их"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "поднимай"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "посреди"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-02T21:10:38.900406024Z",
+  "model": "glm-4.5"
+}

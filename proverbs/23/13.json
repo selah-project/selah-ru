@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Не удерживай от отрока ⟨му́сар⟩: ибо, ударив его ⟨שֵׁבֶט⟩, не умрёт.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "удерживай"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "от отрока"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "⟨му́сар⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "ударив его"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "⟨שֵׁבֶט⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "умрёт"
+    }
+  ],
+  "timestamp": "2026-08-03T18:27:20.878608360Z",
+  "model": "glm-4.5"
+}

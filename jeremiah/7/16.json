@@ -1,0 +1,86 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "jeremiah 7:16",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "А ты не молись за этот народ и не возноси за них вопля и молитвы и не вступайся со Мною, ибо Я не услышу ⟨את⟩ тебя",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "А ты"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "молись"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "за"
+    },
+    {
+      "surface": "העם",
+      "gloss": "этот народ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "этот"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "возноси"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "за них"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "вопля"
+    },
+    {
+      "surface": "ותפלה",
+      "gloss": "и молитвы"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "вступайся"
+    },
+    {
+      "surface": "בי",
+      "gloss": "со Мною"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "Я не"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "услышу"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "тебя"
+    }
+  ],
+  "timestamp": "2026-08-03T03:07:22.000121050Z",
+  "model": "glm-4.5"
+}

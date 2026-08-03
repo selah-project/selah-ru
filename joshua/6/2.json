@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И сказал ЯХВЕ Иегошуа: смотри, ⟨Я⟩ отдал в твою руку ⟨את⟩ Иерихон и ⟨את⟩ царя его, mighty ones of valour",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Иегошуа"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "смотри"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "⟨Я⟩ отдал"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "в твою руку"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Иерихон"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Иерихон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "царя его"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "царя его"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "mighty ones"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "of valour"
+    }
+  ],
+  "timestamp": "2026-08-02T22:29:06.015627065Z",
+  "model": "glm-4.5"
+}

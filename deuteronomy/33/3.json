@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "deuteronomy 33:3",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "Действительно, Он любит народы; все His святые в руке Твоей, и они, сидящие у ног Твоих, несут слова Твои",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Действительно"
+    },
+    {
+      "surface": "חבב",
+      "gloss": "любит"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народы"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "His святые"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "в руке Твоей"
+    },
+    {
+      "surface": "והם",
+      "gloss": "и они"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "сидящие"
+    },
+    {
+      "surface": "לרגלך",
+      "gloss": "у ног Твоих"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "несут"
+    },
+    {
+      "surface": "מדברתיך",
+      "gloss": "слова Твои"
+    }
+  ],
+  "timestamp": "2026-08-02T22:23:42.900490375Z",
+  "model": "glm-4.5"
+}

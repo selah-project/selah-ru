@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 75,
+  "translation": "Ибо Элохим — судья: ⟨этого⟩ Он унизит, а ⟨этого⟩ возвысит.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "— судья"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨этого⟩"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "Он унизит"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "а ⟨этого⟩"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "возвысит"
+    }
+  ],
+  "timestamp": "2026-08-03T07:56:04.876544904Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "numbers 2:1",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И говорил ЯХВЕ Моше и Аарону, говоря:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": ""
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и Аарону"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": ""
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ", говоря"
+    }
+  ],
+  "timestamp": "2026-08-02T21:10:59.945652656Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "ecclesiastes 2:22",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Ибо что ⟨это⟩ для человека во всём его труде и в раздумье сердца его, чем он трудился под солнцем?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "⟨это⟩"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "для человека"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "во всём"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "его труде"
+    },
+    {
+      "surface": "וברעיון",
+      "gloss": "и в раздумье"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "сердца его"
+    },
+    {
+      "surface": "שהוא",
+      "gloss": "чем"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "трудился"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "солнцем"
+    }
+  ],
+  "timestamp": "2026-08-03T11:16:23.780640302Z",
+  "model": "glm-4.5"
+}

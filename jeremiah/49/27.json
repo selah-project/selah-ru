@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "jeremiah 49:27",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 49,
+  "translation": "И я зажгу ⟨את⟩ огонь в стене Дамаска, и он пожрёт дворцы Бен-Хадада.",
+  "tokens": [
+    {
+      "surface": "והצתי",
+      "gloss": "и я зажгу"
+    },
+    {
+      "surface": "אש",
+      "gloss": "⟨את⟩ огонь",
+      "marks": "огонь"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "в стене"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Дамаска"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "и он пожрёт"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "дворцы"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Бен-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Хадада"
+    }
+  ],
+  "timestamp": "2026-08-03T04:09:29.020546616Z",
+  "model": "glm-4.5"
+}

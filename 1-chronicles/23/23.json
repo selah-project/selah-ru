@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Сыновья Муши: Махли и Эдер и Иримоф — трое.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "Муши"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Махли"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "и Эдер"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "и Иримоф"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "трое"
+    }
+  ],
+  "timestamp": "2026-08-03T13:09:51.685466444Z",
+  "model": "glm-4.5"
+}

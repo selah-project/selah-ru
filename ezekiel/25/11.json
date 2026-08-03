@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "ezekiel 25:11",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "И в Моаве Я произведу ⟨את⟩ суды, и узнают, что Я — ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "ובמואב",
+      "gloss": "И в Моаве"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "Я произведу"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "⟨את⟩ суды",
+      "marks": "суды"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "и узнают"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T04:47:55.160880769Z",
+  "model": "glm-4.5"
+}

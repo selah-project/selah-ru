@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "jeremiah 25:37",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "И пастбища ⟨эти⟩ ⟨стали⟩ безмолвны от ⟨пыла⟩ гнева ⟨лица⟩ ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ונדמו",
+      "gloss": "и ⟨стали⟩ безмолвны"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "пастбища ⟨эти⟩"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "⟨мирные⟩"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "от"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "⟨пыла⟩"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гнева ⟨лица⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T03:32:46.672403172Z",
+  "model": "glm-4.5"
+}

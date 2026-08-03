@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И хранить вы будете ⟨את⟩ уставы Мои, и делать ⟨את⟩ их: Я — ЯХВЕ, освящающий вас.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "и хранить вы будете"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "уставы Мои"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "уставы Мои"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "и делать"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "их"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "освящающий вас"
+    }
+  ],
+  "timestamp": "2026-08-02T21:00:23.263831706Z",
+  "model": "glm-4.5"
+}

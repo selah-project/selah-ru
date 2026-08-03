@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 138,
+  "translation": "И ⟨они⟩ воспоют на путях ЯХВЕ, ибо велик ⟨כבוד⟩ ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "и ⟨они⟩ воспоют"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "на путях"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "⟨כבוד⟩",
+      "marks": "слава"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T09:08:57.332805719Z",
+  "model": "glm-4.5"
+}

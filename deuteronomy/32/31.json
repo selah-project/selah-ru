@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "deuteronomy 32:31",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "Ибо не как скала наша — скала их, ⟨и⟩ враги наши — судьи",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כצורנו",
+      "gloss": "как скала наша"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "скала их"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "⟨и⟩ враги наши"
+    },
+    {
+      "surface": "פלילים",
+      "gloss": "судьи"
+    }
+  ],
+  "timestamp": "2026-08-02T22:22:19.567412167Z",
+  "model": "glm-4.5"
+}

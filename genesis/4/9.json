@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И сказал ЯХВЕ Каину: где ⟨את⟩ Хевель брат твой? И сказал: не знаю; хранитель брат ⟨мой⟩ я?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Каину"
+    },
+    {
+      "surface": "אי",
+      "gloss": "где"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "⟨את⟩",
+      "marks": "Хевель"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "брат твой"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знаю"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "хранитель"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брат ⟨мой⟩"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    }
+  ],
+  "timestamp": "2026-08-02T17:47:42.319906300Z",
+  "model": "glm-4.5"
+}

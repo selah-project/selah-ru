@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 46,
+  "ref": "psalms 89:46",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 89,
+  "translation": "Ты сократил дни юности ⟨его⟩, покрыл ⟨его⟩ стыдом. Села.",
+  "tokens": [
+    {
+      "surface": "הקצרת",
+      "gloss": "сократил"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дни"
+    },
+    {
+      "surface": "עלומיו",
+      "gloss": "юности ⟨его⟩"
+    },
+    {
+      "surface": "העטית",
+      "gloss": "покрыл"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨его⟩"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "стыдом"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-08-03T08:17:25.844063878Z",
+  "model": "glm-4.5"
+}

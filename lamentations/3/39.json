@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "О чём ⟨стенает⟩ ⟨живой⟩ человек, ⟨муж⟩ ⟨из-за⟩ греха ⟨своего⟩?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "О чём"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "⟨стенает⟩"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨живой⟩"
+    },
+    {
+      "surface": "חי",
+      "gloss": "человек"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "⟨муж⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨из-за⟩"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "греха ⟨своего⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:56.739611505Z",
+  "model": "glm-4.5"
+}

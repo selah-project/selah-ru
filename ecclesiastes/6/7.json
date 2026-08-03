@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Весь ⟨את⟩ труд человека для ⟨את⟩ рта его, и также ⟨את⟩ душа не ⟨будет⟩ наполнена",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Весь"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "⟨את⟩ труд"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨את⟩ человека"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "для ⟨את⟩ рта его"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и также"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "⟨את⟩ душа"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "⟨будет⟩ наполнена"
+    }
+  ],
+  "timestamp": "2026-08-03T11:21:13.700545581Z",
+  "model": "glm-4.5"
+}

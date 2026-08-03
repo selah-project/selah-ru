@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "1-samuel 17:29",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И сказал Давид: что я ⟨сделал⟩ теперь? неужели ⟨это⟩ слово?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "я ⟨сделал⟩"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "теперь"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "неужели"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨это⟩ слово"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨это⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T23:32:03.008800262Z",
+  "model": "glm-4.5"
+}

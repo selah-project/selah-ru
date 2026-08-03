@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 140:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 140,
+  "translation": "которые замышляют зло в сердце, каждый день они собираются для войн",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "замышляют"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "зло"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "в сердце"
+    },
+    {
+      "surface": "כל",
+      "gloss": "каждый"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "собираются"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "для войн"
+    }
+  ],
+  "timestamp": "2026-08-03T09:10:44.659277916Z",
+  "model": "glm-4.5"
+}

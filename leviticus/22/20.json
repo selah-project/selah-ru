@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Всё ⟨что⟩ в нём порок, не приносите; ибо не к благоволению ⟨это⟩ будет для вас",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨что⟩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в нём"
+    },
+    {
+      "surface": "מום",
+      "gloss": "порок"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "приносите"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "к благоволению"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨это⟩ будет"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "для вас"
+    }
+  ],
+  "timestamp": "2026-08-02T21:02:18.844331496Z",
+  "model": "glm-4.5"
+}

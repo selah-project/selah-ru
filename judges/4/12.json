@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "judges 4:12",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И сообщили Сисере, что ⟨Барак⟩, ⟨сын⟩ Авиноама, взошёл ⟨на⟩ гору Тавор.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "И сообщили"
+    },
+    {
+      "surface": "לסיסרא",
+      "gloss": "Сисере"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "взошёл"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "⟨Барак⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨сын⟩"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "Авиноама"
+    },
+    {
+      "surface": "הר",
+      "gloss": "⟨на⟩ гору"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Тавор"
+    }
+  ],
+  "timestamp": "2026-08-02T22:52:43.913526404Z",
+  "model": "glm-4.5"
+}

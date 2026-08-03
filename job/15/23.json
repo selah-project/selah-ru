@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "job 15:23",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "Скитается он за хлебом: где ⟨он⟩? знает он, что готов у него день тьмы.",
+  "tokens": [
+    {
+      "surface": "נדד",
+      "gloss": "скитается"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "за хлебом"
+    },
+    {
+      "surface": "איה",
+      "gloss": "где"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знает"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "готов"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "у него"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "тьмы"
+    }
+  ],
+  "timestamp": "2026-08-03T10:23:03.954757168Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "zechariah 4:14",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И сказал: эти ⟨суть⟩ два сына ⟨маcла⟩, стоящие возле ⟨А́донай⟩ всей ⟨земли⟩",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "эти"
+    },
+    {
+      "surface": "שני",
+      "gloss": "два"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сына"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "⟨маcла⟩"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "стоящие"
+    },
+    {
+      "surface": "על",
+      "gloss": "возле"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "⟨А́донай⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всей"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨земли⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T06:11:41.015963229Z",
+  "model": "glm-4.5"
+}

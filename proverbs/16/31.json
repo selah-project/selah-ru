@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "proverbs 16:31",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Седина — венец славы, в пути праведности она ⟨будет⟩ найдена",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "венец"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "славы"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "седина"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "в пути"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "праведности"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "она ⟨будет⟩ найдена"
+    }
+  ],
+  "timestamp": "2026-08-03T09:41:24.642060156Z",
+  "model": "glm-4.5"
+}

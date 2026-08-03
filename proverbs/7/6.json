@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "proverbs 7:6",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Ибо через окно ⟨моего⟩ дома ⟨сквозь⟩ решётку ⟨мою⟩ я ⟨взглянул⟩:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "через окно"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "⟨моего⟩ дома"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "⟨сквозь⟩"
+    },
+    {
+      "surface": "אשנבי",
+      "gloss": "решётку ⟨мою⟩"
+    },
+    {
+      "surface": "נשקפתי",
+      "gloss": "я ⟨взглянул⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T09:28:28.812372985Z",
+  "model": "glm-4.5"
+}

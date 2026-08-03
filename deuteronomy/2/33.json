@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И отдал ЯХВЕ, Элохим наш, его пред нами, и мы поразили его, и ⟨את⟩ сына его, и ⟨את⟩ весь ⟨את⟩ народ его",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "И отдал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элохим наш"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "пред нами"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "и мы поразили"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "его"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "сына его"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "сына"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "весь народ его"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "народ"
+    }
+  ],
+  "timestamp": "2026-08-02T21:53:01.284386893Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "разлом за разлом, глаз за глаз, зуб за зуб; как ⟨он⟩ даст увечье ⟨в⟩ человеке, так будет ⟨ему⟩ дано.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "разлом"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "разлом"
+    },
+    {
+      "surface": "עין",
+      "gloss": "глаз"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "עין",
+      "gloss": "глаз"
+    },
+    {
+      "surface": "שן",
+      "gloss": "зуб"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "שן",
+      "gloss": "зуб"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "даст"
+    },
+    {
+      "surface": "מום",
+      "gloss": "увечье"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "в человеке"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "будет дано"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ему"
+    }
+  ],
+  "timestamp": "2026-08-02T21:04:33.750238539Z",
+  "model": "glm-4.5"
+}

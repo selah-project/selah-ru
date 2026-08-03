@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Вверь ⟨свои⟩ дела ЯХВЕ, и установятся намерения ⟨твои⟩",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "вверь"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "—"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "⟨свои⟩ дела"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "и установятся"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "намерения ⟨твои⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T09:40:56.139804898Z",
+  "model": "glm-4.5"
+}

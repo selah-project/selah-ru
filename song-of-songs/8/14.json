@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "song-of-songs 8:14",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Беги, возлюбленный мой, и уподобься тебе газели или молодому оленю на горах бальзамов.",
+  "tokens": [
+    {
+      "surface": "ברח",
+      "gloss": "Беги"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "возлюбленный мой"
+    },
+    {
+      "surface": "ודמה",
+      "gloss": "и уподобься"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "газели"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "молодому оленю"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "⟨на⟩ горах"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "горах"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "бальзамов"
+    }
+  ],
+  "timestamp": "2026-08-03T10:59:32.573383385Z",
+  "model": "glm-4.5"
+}

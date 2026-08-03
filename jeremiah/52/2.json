@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "jeremiah 52:2",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 52,
+  "translation": "И он сделал зло в глазах ЯХВЕ, по всему, что сделал Йегояким",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И он сделал"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в глазах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "по всему"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Йегояким"
+    }
+  ],
+  "timestamp": "2026-08-03T04:14:48.871234853Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "ибо ⟨нет⟩ в смерти памяти о Тебе; в Шеоле кто ⟨даст⟩ Тебе ⟨хвалу⟩?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨нет⟩"
+    },
+    {
+      "surface": "במות",
+      "gloss": "в смерти"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "памяти о Тебе"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "в Шеоле"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "⟨даст⟩ Тебе ⟨хвалу⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Тебе"
+    }
+  ],
+  "timestamp": "2026-08-03T06:36:41.861589569Z",
+  "model": "glm-4.5"
+}

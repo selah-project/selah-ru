@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И послал царь Шломо и взял ⟨את⟩ Хирама из Цора",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "И послал"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "и взял"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хирама"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Хирама"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "из Цора"
+    }
+  ],
+  "timestamp": "2026-08-03T00:28:48.398999678Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "ЯХВЕ, наш Элохим, говорил с нами в Хореве, говоря: Достаточно вам сидеть на этой горе",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "наш Элохим"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорил"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "с нами"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "в Хореве"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Достаточно"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "сидеть"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "на ⟨этой⟩ горе",
+      "marks": "на этой горе"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨этой⟩",
+      "marks": "этой"
+    }
+  ],
+  "timestamp": "2026-08-02T21:50:54.977323210Z",
+  "model": "glm-4.5"
+}

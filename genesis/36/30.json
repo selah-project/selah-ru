@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "genesis 36:30",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "вождь Дишон, вождь Эцер, вождь Дишан: вот вожди Хорри, по их во́йскам в земле Сеир.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "вождь"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "Дишон"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "вождь"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "Эцер"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "вождь"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "Дишан"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "вожди"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "Хорри"
+    },
+    {
+      "surface": "לאלפיהם",
+      "gloss": "по их во́йскам"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земле"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    }
+  ],
+  "timestamp": "2026-08-02T19:38:40.522280305Z",
+  "model": "glm-4.5"
+}

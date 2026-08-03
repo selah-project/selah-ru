@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "1-kings 17:3",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "«Уйди отсюда и обратись на восток и скройся у потока Керит, что ⟨на⟩ лице Иордана»",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Уйди"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "отсюда"
+    },
+    {
+      "surface": "ופנית",
+      "gloss": "и обратись"
+    },
+    {
+      "surface": "לך",
+      "gloss": "на"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "восток"
+    },
+    {
+      "surface": "ונסתרת",
+      "gloss": "и скройся"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "у"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "потока Керит"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лице"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Иордана"
+    }
+  ],
+  "timestamp": "2026-08-03T00:52:37.333419109Z",
+  "model": "glm-4.5"
+}

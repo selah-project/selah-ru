@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "jeremiah 23:11",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Ибо и пророк и священник осквернились, да и в доме Моем нашел ⟨я⟩ ⟨את⟩ зло их, — речение ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "пророк"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "священник"
+    },
+    {
+      "surface": "חנפו",
+      "gloss": "осквернились"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да и"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "в доме Моем"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "нашел ⟨я⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "зло их"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "зло их"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "речение"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T03:28:03.719746007Z",
+  "model": "glm-4.5"
+}

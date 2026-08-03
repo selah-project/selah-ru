@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Баана, сын Хушаи — в Ашере и в Баалоте",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "Баана"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Хушаи"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "в Ашере"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "и в Баалоте"
+    }
+  ],
+  "timestamp": "2026-08-03T00:24:06.261000959Z",
+  "model": "glm-4.5"
+}

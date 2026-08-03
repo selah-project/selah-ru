@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Почему, ЯХВЕ, стоишь ⟨ты⟩ вдали? ⟨Ты⟩ скрываешься во времена беды",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "почему"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "стоишь"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "вдали"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "скрываешься"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "во времена"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "беды"
+    }
+  ],
+  "timestamp": "2026-08-03T06:39:47.346298502Z",
+  "model": "glm-4.5"
+}

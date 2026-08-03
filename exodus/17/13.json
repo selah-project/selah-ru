@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И Иехошуа ослабил ⟨את⟩ Амалика и ⟨את⟩ народ его устами меча",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "и ослабил"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Иехошуа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Амалика"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Амалика"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "народ его"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "народ его"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "устами"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меча"
+    }
+  ],
+  "timestamp": "2026-08-02T20:11:46.797809029Z",
+  "model": "glm-4.5"
+}

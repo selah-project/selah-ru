@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Начальнику ⟨над⟩ наследиями, псалом Давида.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Начальнику"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨над⟩",
+      "marks": "наследиями"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "наследиями"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "псалом"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давида"
+    }
+  ],
+  "timestamp": "2026-08-03T06:35:35.347270586Z",
+  "model": "glm-4.5"
+}

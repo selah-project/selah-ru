@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 127,
+  "translation": "Как стрелы ⟨в⟩ руке сильного, так ⟨сыновья⟩ юности.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "Как стрелы"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨в⟩ руке"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "сильного"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨сыновья⟩"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "юности"
+    }
+  ],
+  "timestamp": "2026-08-03T09:00:08.051165767Z",
+  "model": "glm-4.5"
+}

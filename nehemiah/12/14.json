@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "nehemiah 12:14",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "למלכי: Йонатан; לшванийа: Йосеф;",
+  "tokens": [
+    {
+      "surface": "למלוכי",
+      "gloss": "лмлухи"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Йонатан"
+    },
+    {
+      "surface": "לשבניה",
+      "gloss": "лшванийа"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    }
+  ],
+  "timestamp": "2026-08-03T12:31:02.988552874Z",
+  "model": "glm-4.5"
+}

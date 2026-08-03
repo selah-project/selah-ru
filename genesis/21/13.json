@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "А также ⟨את⟩ сына рабыни в народ Я сделаю его, ибо ⟨он⟩ ⟨есть⟩ семя твоё",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "А также"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сына рабыни"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "рабыни"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "в народ"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "Я сделаю его"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "семя твоё"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T19:18:25.180943113Z",
+  "model": "glm-4.5"
+}

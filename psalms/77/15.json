@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 77,
+  "translation": "Ты — Эль, творящий чудо; ⟨Ты⟩ объявил ⟨Твою⟩ силу среди народов",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Эль"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "творящий"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "чудо"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "объявил"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "среди народов"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "⟨Твою⟩ силу",
+      "marks": "силу"
+    }
+  ],
+  "timestamp": "2026-08-03T08:00:09.230059740Z",
+  "model": "glm-4.5"
+}

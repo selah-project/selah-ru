@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И взошёл Аврам из Египта, ⟨он⟩ и жена его, и всё, что у него, и Лот с ним — ⟨в⟩ Негев.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "И взошёл"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "из Египта"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "и жена его"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "לו",
+      "gloss": "у него"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "и Лот"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с ним"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "⟨в⟩ Негев"
+    }
+  ],
+  "timestamp": "2026-08-02T19:10:09.169683189Z",
+  "model": "glm-4.5"
+}

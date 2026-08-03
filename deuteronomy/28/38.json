@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "deuteronomy 28:38",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Семя множество ⟨ты⟩ вынесешь ⟨в⟩ поле, а мало соберёшь, ибо сжирает его саранча.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "семя"
+    },
+    {
+      "surface": "רב",
+      "gloss": "множество"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "⟨ты⟩ вынесешь"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "⟨в⟩ поле"
+    },
+    {
+      "surface": "ומעט",
+      "gloss": "а мало"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "соберёшь"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "יחסלנו",
+      "gloss": "сжирает его"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "саранча"
+    }
+  ],
+  "timestamp": "2026-08-02T22:18:02.456163812Z",
+  "model": "glm-4.5"
+}

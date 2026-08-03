@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "и ⟨את⟩ кожу быка и ⟨את⟩ всю плоть его, на голове его и на ногах его, и внутренности его, и помёт его",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "кожу"
+    },
+    {
+      "surface": "עור",
+      "gloss": "кожу"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "быка"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "всю"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всю"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "плоть его"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "голове его"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "ногах его"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "внутренности его"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "помёт его"
+    }
+  ],
+  "timestamp": "2026-08-02T20:42:07.787469192Z",
+  "model": "glm-4.5"
+}

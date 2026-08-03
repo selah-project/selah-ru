@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "job 8:13",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Так ⟨пути⟩ всех забывающих Эла, и надежда лицемера погибнет",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Так"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "⟨пути⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "забывающих"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эла"
+    },
+    {
+      "surface": "ותקות",
+      "gloss": "и надежда"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "лицемера"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "погибнет"
+    }
+  ],
+  "timestamp": "2026-08-03T10:16:23.463846676Z",
+  "model": "glm-4.5"
+}

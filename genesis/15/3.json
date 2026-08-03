@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "genesis 15:3",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "И сказал Аврам: вот, Ты не дал ⟨את⟩ мне семя, и вот, сын дома моего ⟨את⟩ меня наследует.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "הן",
+      "gloss": "вот"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "дал"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "семя"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "дома моего"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "наследует"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "меня"
+    }
+  ],
+  "timestamp": "2026-08-02T19:12:24.102772657Z",
+  "model": "glm-4.5"
+}

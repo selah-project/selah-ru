@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 45,
+  "translation": "Истинно, Ты — Эль скрывающийся, Элохем Исраэля, Спаситель",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Истинно"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эль"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "скрывающийся"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохем"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраэля"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "Спаситель"
+    }
+  ],
+  "timestamp": "2026-08-03T02:33:07.981353977Z",
+  "model": "glm-4.5"
+}

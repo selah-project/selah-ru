@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "proverbs 31:21",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "Она не страшится снега для своего дома, ибо весь ⟨её⟩ дом одет в багряное",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "страшится"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "для своего дома"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "снега"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "её дом"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "одет"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "в багряное"
+    }
+  ],
+  "timestamp": "2026-08-03T10:08:53.348437697Z",
+  "model": "glm-4.5"
+}

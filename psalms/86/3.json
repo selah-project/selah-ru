@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 86,
+  "translation": "Пожалей меня, Адонай, ибо к Тебе я взываю ⟨в⟩ ⟨течение⟩ всего дня.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Пожалей меня"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "к Тебе"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "я взываю"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всего"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дня"
+    }
+  ],
+  "timestamp": "2026-08-03T08:12:00.295885127Z",
+  "model": "glm-4.5"
+}

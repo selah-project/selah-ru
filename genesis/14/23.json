@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "genesis 14:23",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "если ⟨от⟩ нити и до шнурка обуви, и если я возьму изо всего, что у тебя, и не скажешь: я обогатил ⟨את⟩ Аврама",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "מחוט",
+      "gloss": "⟨от⟩ нити"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "שרוך",
+      "gloss": "шнурка"
+    },
+    {
+      "surface": "נעל",
+      "gloss": "обуви"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "и если"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "я возьму"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "изо всего"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "לך",
+      "gloss": "у тебя"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "скажешь"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "העשרתי",
+      "gloss": "обогатил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аврама"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврама"
+    }
+  ],
+  "timestamp": "2026-08-02T19:11:06.767449896Z",
+  "model": "glm-4.5"
+}

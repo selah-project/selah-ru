@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 60,
+  "translation": "Не Ты ли, Элохим, отверг нас, и не выходил, Элохим, ⟨в⟩ войсках наших?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "отверг нас"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "выходил"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "в войсках наших"
+    }
+  ],
+  "timestamp": "2026-08-03T07:38:26.862637676Z",
+  "model": "glm-4.5"
+}

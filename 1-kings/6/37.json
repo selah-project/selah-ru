@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "1-kings 6:37",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "В четвёртом году ⟨был⟩ заложен дом ЯХВЕ, в месяце Зив:",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "В году"
+    },
+    {
+      "surface": "הרביעית",
+      "gloss": "в четвёртом"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "⟨был⟩ заложен"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "в месяце"
+    },
+    {
+      "surface": "זו",
+      "gloss": "Зив"
+    }
+  ],
+  "timestamp": "2026-08-03T00:27:39.912111164Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "ezekiel 35:14",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "Так сказал Адонай ЯХВЕ: как веселятся ⟨со всей⟩ земли, devastation сделаю для тебя",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כשמח",
+      "gloss": "как"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨со всей⟩",
+      "marks": "земли"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земли"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "devastation"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "сделаю"
+    },
+    {
+      "surface": "לך",
+      "gloss": "для тебя"
+    }
+  ],
+  "timestamp": "2026-08-03T05:00:09.309621656Z",
+  "model": "glm-4.5"
+}

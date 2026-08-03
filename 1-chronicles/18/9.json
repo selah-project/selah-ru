@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И услышал То́у, царь Хамата, что ⟨и⟩ поразил Давид ⟨את⟩ всё войско Ададэ́зера, царя Цобы",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "И услышал"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "То́у"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамата"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "поразил"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всё войско"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "войско"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Ададэ́зера"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Цобы"
+    }
+  ],
+  "timestamp": "2026-08-03T13:03:22.011412593Z",
+  "model": "glm-4.5"
+}

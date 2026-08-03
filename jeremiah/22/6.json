@@ -1,0 +1,93 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "jeremiah 22:6",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Ибо так сказал ЯХВЕ о доме царя Иуды: Галаад ты для Ме, глава Ливана, ⟨если⟩ ⟨не⟩ поставлю ⟨тебя⟩ пустыней, ⟨города⟩ не населённою",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "о"
+    },
+    {
+      "surface": "בית",
+      "gloss": "доме"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иуды"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Галаад"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    },
+    {
+      "surface": "לי",
+      "gloss": "для Ме"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "глава"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Ливана"
+    },
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אשיתך",
+      "gloss": "поставлю тебя"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "пустыней"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "города"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נושבה",
+      "gloss": "населённою"
+    }
+  ],
+  "timestamp": "2026-08-03T03:26:40.507311347Z",
+  "model": "glm-4.5"
+}

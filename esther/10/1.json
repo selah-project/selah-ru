@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И положил царь Ахашверош ⟨налог⟩ на ⟨землю⟩ и ⟨острова⟩ ⟨моря⟩",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "И положил"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Ахашверош"
+    },
+    {
+      "surface": "מס",
+      "gloss": "⟨налог⟩",
+      "marks": "на землю и острова"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨землю⟩"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "⟨острова⟩"
+    },
+    {
+      "surface": "הים",
+      "gloss": "⟨моря⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T11:37:19.227050290Z",
+  "model": "glm-4.5"
+}

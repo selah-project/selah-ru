@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "и ⟨את⟩ голень правую дайте возношение коэну от жертв мирных ваших",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "голень правую"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "голень"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "правую"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "дайте"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "возношение"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "коэну"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "от жертв"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "мирных ваших"
+    }
+  ],
+  "timestamp": "2026-08-02T20:46:44.195654274Z",
+  "model": "glm-4.5"
+}

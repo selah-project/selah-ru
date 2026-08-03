@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "proverbs 28:15",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Рыкающий лев и ⟨ходящий⟩ медведь — ⟨таков⟩ нечестивый правитель над бедным народом",
+  "tokens": [
+    {
+      "surface": "ארי",
+      "gloss": "лев"
+    },
+    {
+      "surface": "נהם",
+      "gloss": "рыкающий"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "и"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "ходящий"
+    },
+    {
+      "surface": "משל",
+      "gloss": "правитель"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "нечестивый"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "бедный"
+    }
+  ],
+  "timestamp": "2026-08-03T10:05:03.368958719Z",
+  "model": "glm-4.5"
+}

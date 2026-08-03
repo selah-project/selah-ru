@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "exodus 15:23",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "И пришли они в Мару, и не могли пить воды ⟨из⟩ Мары, ибо они горьки; поэтому ⟨он⟩ назвал имя её Мара.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "И пришли"
+    },
+    {
+      "surface": "מרתה",
+      "gloss": "в Мару"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "могли"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "пить"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воды"
+    },
+    {
+      "surface": "ממרה",
+      "gloss": "⟨из⟩ Мары",
+      "marks": "Мары"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "они горьки"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨они⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "поэтому"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨так⟩"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "назвал"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "имя её"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "Мара"
+    }
+  ],
+  "timestamp": "2026-08-02T20:10:00.811180033Z",
+  "model": "glm-4.5"
+}

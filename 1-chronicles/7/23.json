@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "1-chronicles 7:23",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И пришёл он к жене своей, и зачала, и родила сына, и призвал ⟨את⟩ имя его Бери́а, ибо беда ⟨была⟩ в доме его",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и пришёл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "жене своей"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "и зачала"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и родила"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и призвал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "имя его"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "имя его"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "Бери́а"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "беда"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "была"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "в доме его"
+    }
+  ],
+  "timestamp": "2026-08-03T12:46:30.561405642Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "1-kings 5:16",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И послал Шеломо ⟨к⟩ Хираму, говоря:",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "и послал"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Хираму"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-03T00:25:13.458718767Z",
+  "model": "glm-4.5"
+}

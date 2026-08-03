@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "2-chronicles 21:6",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И пошёл он путём царей Израиля, как ⟨делал⟩ дом Ахава, ибо дочь Ахава была ⟨ему⟩ женою, и сделал ⟨он⟩ зло в глазах ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "И пошёл"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "путём"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "царей"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "⟨делал⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахава"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочь"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахава"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "была"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ему⟩"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "женою"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "и сделал"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "⟨он⟩ зло"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в глазах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T13:53:19.208508111Z",
+  "model": "glm-4.5"
+}

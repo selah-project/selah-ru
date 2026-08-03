@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "И закончил Моше говорить ⟨את⟩ все эти слова ко всему Израилю",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "и закончил"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "говорить"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "все эти слова"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "эти слова"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "эти"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ко"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всему"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израилю"
+    }
+  ],
+  "timestamp": "2026-08-02T22:23:05.733182884Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Кто так мудр, и кто знает толк дела? Мудрость человека осветит лицо ⟨его⟩, и твёрдость лица ⟨его⟩ изменится.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кто"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "так мудр"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и кто"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "знает"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "толк"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "дела"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "Мудрость"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "осветит"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лицо ⟨его⟩"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "и твёрдость"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лица ⟨его⟩"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "изменится"
+    }
+  ],
+  "timestamp": "2026-08-03T11:22:47.873234019Z",
+  "model": "glm-4.5"
+}

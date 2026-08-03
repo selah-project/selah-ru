@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "deuteronomy 27:23",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "Проклят лежащий ⟨с⟩ тёщей ⟨его⟩, и скажет ⟨весь⟩ народ: амен.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "проклят"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "лежащий"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "חתנתו",
+      "gloss": "тёщей ⟨его⟩"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и скажет"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨весь⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "амен"
+    }
+  ],
+  "timestamp": "2026-08-02T22:16:39.405866238Z",
+  "model": "glm-4.5"
+}

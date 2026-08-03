@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "job 36:27",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "Ибо ⟨он⟩ уменьшает капли воды; ⟨они⟩ destill rain according to its vapour",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "уменьшает"
+    },
+    {
+      "surface": "נטפי",
+      "gloss": "капли"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воды"
+    },
+    {
+      "surface": "יזקו",
+      "gloss": "destill"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "rain"
+    },
+    {
+      "surface": "לאדו",
+      "gloss": "according to its vapour"
+    }
+  ],
+  "timestamp": "2026-08-03T18:30:00.400320690Z",
+  "model": "glm-4.5"
+}

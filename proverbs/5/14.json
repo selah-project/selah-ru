@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "proverbs 5:14",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Почти ⟨я⟩ был во всяком зле, среди קהל и עדה.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "почти"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "⟨я⟩ был"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "во всяком"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зле"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "среди"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "קהל"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "и עדה"
+    }
+  ],
+  "timestamp": "2026-08-03T09:25:53.845763409Z",
+  "model": "glm-4.5"
+}

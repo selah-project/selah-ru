@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "job 28:20",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "А ⟨откуда⟩ приходит Хохма и ⟨где⟩ ⟨это⟩ место Бины?",
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "а Хохма"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "откуда"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "приходит"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "и ⟨где⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨это⟩"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "Бины"
+    }
+  ],
+  "timestamp": "2026-08-03T10:33:35.738873080Z",
+  "model": "glm-4.5"
+}

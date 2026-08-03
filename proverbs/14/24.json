@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "proverbs 14:24",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Венец мудрых — ⟨их⟩ богатство; а ⟨с⟩ глупцов — глупость",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "Венец"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудрых"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "— ⟨их⟩ богатство"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "глупость"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "глупцов"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "глупость"
+    }
+  ],
+  "timestamp": "2026-08-03T09:38:32.375275807Z",
+  "model": "glm-4.5"
+}

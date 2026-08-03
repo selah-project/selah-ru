@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "nehemiah 7:29",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "мужи Кириаф-Иарима, Кефиры и Беерота: семьсот сорок три",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "мужи"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Кириаф-"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Иарима"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "Кефиры"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "и Беерота"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семьсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "⟨сот⟩"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "сорок"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "три"
+    }
+  ],
+  "timestamp": "2026-08-03T12:21:41.528946259Z",
+  "model": "glm-4.5"
+}

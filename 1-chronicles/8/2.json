@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "1-chronicles 8:2",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Ноах четвёртый, и Рефа пятый",
+  "tokens": [
+    {
+      "surface": "נוחה",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "четвёртый"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "и Рефа"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "пятый"
+    }
+  ],
+  "timestamp": "2026-08-03T12:48:48.324169636Z",
+  "model": "glm-4.5"
+}

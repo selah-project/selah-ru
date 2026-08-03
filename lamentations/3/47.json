@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Страх и западня ⟨есть⟩ у нас, опустошение и ⟨разрушение⟩.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "страх"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "и западня"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨есть⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "у нас"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "опустошение"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "и ⟨разрушение⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T11:12:48.409027311Z",
+  "model": "glm-4.5"
+}

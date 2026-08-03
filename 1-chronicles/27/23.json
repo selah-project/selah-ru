@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "1-chronicles 27:23",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "Но Давид не счёл их от двадцати лет и ниже, ибо сказал ЯХВЕ умножить ⟨את⟩ Израиля, как звёзды небес",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Но"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "не счёл"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "их"
+    },
+    {
+      "surface": "למבן",
+      "gloss": "от"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцати"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "ולמטה",
+      "gloss": "и ниже"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "умножить"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Израиля"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "как звёзды"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небес"
+    }
+  ],
+  "timestamp": "2026-08-03T13:15:40.064452202Z",
+  "model": "glm-4.5"
+}

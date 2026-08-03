@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 73,
+  "translation": "И я — невежда и не знаю, как скот я был с Тобой",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "И я"
+    },
+    {
+      "surface": "בער",
+      "gloss": "невежда"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "знаю"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "как ⟨скот⟩"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "я был"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "с Тобой"
+    }
+  ],
+  "timestamp": "2026-08-03T07:54:05.556184082Z",
+  "model": "glm-4.5"
+}

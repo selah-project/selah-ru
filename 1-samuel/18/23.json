@@ -1,0 +1,86 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "1-samuel 18:23",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И говорили слуги Шаула в ушах Давида ⟨את⟩ эти слова. И сказал Давид: lightly esteemed thing в глазах ваших стать зятем царю, когда я человек бедный и lightly esteemed?",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "И говорили"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слуги"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаула"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "в ушах"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эти слова"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "эти слова"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "эти"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "הנקלה",
+      "gloss": "lightly esteemed thing"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "в глазах ваших"
+    },
+    {
+      "surface": "התחתן",
+      "gloss": "стать зятем"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "когда я"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человек"
+    },
+    {
+      "surface": "רש",
+      "gloss": "бедный"
+    },
+    {
+      "surface": "ונקלה",
+      "gloss": "и lightly esteemed"
+    }
+  ],
+  "timestamp": "2026-08-02T23:33:59.183376596Z",
+  "model": "glm-4.5"
+}

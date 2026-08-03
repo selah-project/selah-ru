@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "psalms 78:29",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 78,
+  "translation": "И ели, и насытились весьма, и желание их привёл им ⟨Он⟩",
+  "tokens": [
+    {
+      "surface": "ויאכלו",
+      "gloss": "И ели"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "и насытились"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "весьма"
+    },
+    {
+      "surface": "ותאותם",
+      "gloss": "и желание их"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "привёл"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    }
+  ],
+  "timestamp": "2026-08-03T08:03:22.545302962Z",
+  "model": "glm-4.5"
+}

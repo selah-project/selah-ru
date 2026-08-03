@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "1-chronicles 4:26",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Сыновья Мишмы: Хаммуэл, сын его; Заккур, сын его; Шимей, сын его.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "Мишмы"
+    },
+    {
+      "surface": "חמואל",
+      "gloss": "Хаммуэл"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "сын его"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Заккур"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "сын его"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шимей"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "сын его"
+    }
+  ],
+  "timestamp": "2026-08-03T12:40:35.525504862Z",
+  "model": "glm-4.5"
+}

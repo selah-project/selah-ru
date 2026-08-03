@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И ⟨את⟩ сыновей её не буду миловать, ибо сыновья прелюбодеяний они",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "И ⟨את⟩",
+      "marks": "сыновей её"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "сыновей её"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "буду миловать"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "прелюбодеяний"
+    },
+    {
+      "surface": "המה",
+      "gloss": "они"
+    }
+  ],
+  "timestamp": "2026-08-03T05:20:52.167424625Z",
+  "model": "glm-4.5"
+}

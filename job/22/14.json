@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "job 22:14",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Тучи — покров Ему, и ⟨Он⟩ не видит, и ⟨по⟩ кругу небес ходит ⟨Он⟩",
+  "tokens": [
+    {
+      "surface": "עבים",
+      "gloss": "Тучи"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "покров"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ему"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "не видит"
+    },
+    {
+      "surface": "וחוג",
+      "gloss": "и ⟨по⟩ кругу"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "ходит ⟨Он⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T10:29:33.258260023Z",
+  "model": "glm-4.5"
+}

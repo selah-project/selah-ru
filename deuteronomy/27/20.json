@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "Проклят ⟨тот⟩, кто спит ⟨с⟩ женой отца своего, ибо открыл край одежды отца своего; и скажет весь народ: аминь.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "проклят"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "кто спит"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "женой"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "отца своего"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "открыл"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "край одежды"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "отца своего"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и скажет"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "аминь"
+    }
+  ],
+  "timestamp": "2026-08-02T22:16:47.608342715Z",
+  "model": "glm-4.5"
+}

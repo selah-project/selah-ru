@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Я поведаю ⟨о⟩ постановлении: ЯХВЕ сказал мне: «Ты — Сын Мой; сегодня Я породил тебя».",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Я поведаю"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨о⟩",
+      "marks": "постановлении"
+    },
+    {
+      "surface": "חק",
+      "gloss": "постановлении"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Сын"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "היום",
+      "gloss": "сегодня"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "породил тебя"
+    }
+  ],
+  "timestamp": "2026-08-03T18:37:05.351888806Z",
+  "model": "glm-4.5"
+}

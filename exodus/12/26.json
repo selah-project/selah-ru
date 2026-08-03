@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И будет, когда скажут вам сыновья ваши: «Что ⟨есть⟩ эта служба для вас»?",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И будет"
+    },
+    {
+      "surface": "כי",
+      "gloss": "когда"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "скажут"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "сыновья ваши"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Что"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "эта служба"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "⟨есть⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "для вас"
+    }
+  ],
+  "timestamp": "2026-08-02T20:06:19.056041391Z",
+  "model": "glm-4.5"
+}

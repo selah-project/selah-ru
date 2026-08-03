@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "proverbs 3:31",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Не завидуй человеку насилия и не выбирай ⟨ни одного⟩ из путей его",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "завидуй"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "человеку"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насилия"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "выбирай"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "⟨ни одного⟩",
+      "marks": "путей"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "путей его"
+    }
+  ],
+  "timestamp": "2026-08-03T09:24:02.801328477Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "lamentations 3:36",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Извратить ⟨дело⟩ человека в его споре — ⟨э⟩ Адонай ⟨не⟩ видит.",
+  "tokens": [
+    {
+      "surface": "לעות",
+      "gloss": "извратить"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "в его споре"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩",
+      "marks": "видит"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "видит"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:52.909668762Z",
+  "model": "glm-4.5"
+}

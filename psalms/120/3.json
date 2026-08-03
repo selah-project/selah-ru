@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 120,
+  "translation": "Что ⟨будет⟩ дано тебе и что ⟨будет⟩ добавлено тебе, ⟨о⟩ язык коварный?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "⟨будет⟩ дано"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и что"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "⟨будет⟩ добавлено"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "язык"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "коварный"
+    }
+  ],
+  "timestamp": "2026-08-03T08:56:13.070803548Z",
+  "model": "glm-4.5"
+}

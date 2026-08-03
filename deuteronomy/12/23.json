@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Только крепись, чтобы не есть ⟨את⟩ ⟨кровь⟩, ведь ⟨кровь⟩ — это ⟨нефеш⟩, и не ешь ⟨нефеш⟩ с ⟨мясом⟩",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Только"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "крепись"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "чтобы не"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "есть"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "⟨את⟩",
+      "marks": "⟨кровь⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ведь"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "⟨кровь⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "—"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "это"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "⟨нефеш⟩"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "и"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "не"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ешь"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "⟨нефеш⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T22:03:39.052519279Z",
+  "model": "glm-4.5"
+}

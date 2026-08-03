@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Вот ⟨эти⟩ животные, которые вы будете есть: вол, ⟨и⟩ овца, и ⟨козёл⟩ из козлов, и ⟨козёл⟩ из козлов, и козёл",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "вот"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "животные"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "будете есть"
+    },
+    {
+      "surface": "שור",
+      "gloss": "вол"
+    },
+    {
+      "surface": "שה",
+      "gloss": "⟨את⟩",
+      "marks": "овца"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "из ягнят"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "и ⟨את⟩",
+      "marks": "козёл"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "из козлов"
+    }
+  ],
+  "timestamp": "2026-08-02T22:05:58.396541050Z",
+  "model": "glm-4.5"
+}

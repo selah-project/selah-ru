@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "joshua 13:20",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "и Бейт-Пеор, и склоны Писги, и Бейт-Йешимот",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "и Байт-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Пеор"
+    },
+    {
+      "surface": "ואשדות",
+      "gloss": "и склоны"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "Писги"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "и Байт-"
+    },
+    {
+      "surface": "הישמות",
+      "gloss": "Йешимот"
+    }
+  ],
+  "timestamp": "2026-08-02T22:37:09.831750535Z",
+  "model": "glm-4.5"
+}

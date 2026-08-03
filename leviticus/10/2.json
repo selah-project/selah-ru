@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И вышёл огонь от лица ЯХВЕ и поглотил ⟨את⟩, и умерли они от лица ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "И вышёл"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огонь"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "от лица"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "и поглотил"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "их — подразумевает: и они умерли"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "и умерли"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "от лица"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T20:49:07.735506542Z",
+  "model": "glm-4.5"
+}

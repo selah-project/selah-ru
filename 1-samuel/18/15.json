@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И увидел Шаул, что ⟨он⟩ ⟨очень⟩ благоразумен, и убоялся его",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "И увидел"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "благоразумен"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨очень⟩"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "и убоялся"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "его"
+    }
+  ],
+  "timestamp": "2026-08-02T23:33:50.480973253Z",
+  "model": "glm-4.5"
+}

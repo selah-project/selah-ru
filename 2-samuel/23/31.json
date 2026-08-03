@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "2-samuel 23:31",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Аві-Албон ⟨ה⟩Арбатіт, Азмавет ⟨ה⟩Бархуміт,",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Аві-Албон"
+    },
+    {
+      "surface": "עלבון",
+      "gloss": "Аві-Албон"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "⟨ה⟩Арбатіт"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Азмавет"
+    },
+    {
+      "surface": "הברחמי",
+      "gloss": "⟨ה⟩Бархуміт"
+    }
+  ],
+  "timestamp": "2026-08-03T00:13:21.528856155Z",
+  "model": "glm-4.5"
+}

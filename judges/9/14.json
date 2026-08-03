@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "judges 9:14",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И сказали все деревья атаду: иди, ты, царствуй над нами",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "И сказали"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "деревья"
+    },
+    {
+      "surface": "אל",
+      "gloss": "атаду"
+    },
+    {
+      "surface": "האטד",
+      "gloss": ""
+    },
+    {
+      "surface": "לך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царствуй"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "над нами"
+    }
+  ],
+  "timestamp": "2026-08-02T22:58:47.449245137Z",
+  "model": "glm-4.5"
+}

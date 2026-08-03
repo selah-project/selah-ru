@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "numbers 34:24",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "и для колена сынов Эфраима — князь Кемуэль, сын Шифтана.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "и для колена"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраима"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "князь"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Кемуэль"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "שפטן",
+      "gloss": "Шифтана"
+    }
+  ],
+  "timestamp": "2026-08-02T21:48:43.135445605Z",
+  "model": "glm-4.5"
+}

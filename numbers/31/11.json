@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "и взяли ⟨את⟩ всю добычу и ⟨את⟩ всю захваченное, среди людей и скота",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "и взяли"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всю добычу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всю"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "добычу"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "всю захваченное"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всю"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "захваченное"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "среди людей"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "и скота"
+    }
+  ],
+  "timestamp": "2026-08-02T21:43:57.726964452Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "genesis 16:9",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "И сказал ей вестник ЯХВЕ: вернись ⟨к⟩ госпоже своей и смирись под рукою её",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ей"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "вестник"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "вернись"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "גברתך",
+      "gloss": "госпоже своей"
+    },
+    {
+      "surface": "והתעני",
+      "gloss": "и смирись"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "рукою её"
+    }
+  ],
+  "timestamp": "2026-08-02T19:13:04.167279392Z",
+  "model": "glm-4.5"
+}

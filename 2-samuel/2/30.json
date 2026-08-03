@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "2-samuel 2:30",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И вернулся Иоав от pursuing Авнера и собрал ⟨את⟩ весь народ и не хватило из служителей Давида девятнадцать человек и Асаэл",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "И вернулся Иоав"
+    },
+    {
+      "surface": "שב",
+      "gloss": "вернулся"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "от pursuing"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнера"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "и собрал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "весь народ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "и не хватило"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "из служителей"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "девятнадцать"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "איש",
+      "gloss": "человек"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "и Асаэл"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-02T23:49:44.351384010Z",
+  "model": "glm-4.5"
+}

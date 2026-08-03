@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "job 8:12",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Пока он ещё в своей свежести, ⟨и⟩ не срезан, он сохнет прежде любой травы.",
+  "tokens": [
+    {
+      "surface": "עדנו",
+      "gloss": "пока"
+    },
+    {
+      "surface": "באבו",
+      "gloss": "в"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "יקטף",
+      "gloss": "срезан"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "и"
+    },
+    {
+      "surface": "כל",
+      "gloss": "любой"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "травы"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "сохнет"
+    }
+  ],
+  "timestamp": "2026-08-03T10:16:41.829419347Z",
+  "model": "glm-4.5"
+}

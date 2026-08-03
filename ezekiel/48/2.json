@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 48,
+  "translation": "и по ⟨границе⟩ Дана, от ⟨стороны⟩ востока до ⟨стороны⟩ моря, Ашер ⟨один⟩",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и по"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "⟨границе⟩"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дана"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "от ⟨стороны⟩"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "востока"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "⟨стороны⟩"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "моря"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашер"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨один⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T05:18:42.861365386Z",
+  "model": "glm-4.5"
+}

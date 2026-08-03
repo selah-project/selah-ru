@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 66,
+  "translation": "Начальнику. Песнь. Псалом. Возгласите Элохим, вся земля:",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Начальнику"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Песнь"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Псалом"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Возгласите"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "כל",
+      "gloss": "вся"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    }
+  ],
+  "timestamp": "2026-08-03T07:45:41.098162556Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Дом Иакова, идите, и ⟨давай⟩ пойдем в свете ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Дом"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Иакова"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "идите"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "и ⟨давай⟩ пойдем"
+    },
+    {
+      "surface": "באור",
+      "gloss": "в свете"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T01:42:37.098850784Z",
+  "model": "glm-4.5"
+}

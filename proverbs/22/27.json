@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "proverbs 22:27",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Если ⟨у тебя⟩ нет ⟨чем⟩ платить, зачем он возьмет твою постель из-под тебя",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Если"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "לך",
+      "gloss": "у тебя"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "чем платить"
+    },
+    {
+      "surface": "למה",
+      "gloss": "зачем"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "он возьмет"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "твою постель"
+    },
+    {
+      "surface": "מתחתיך",
+      "gloss": "из-под тебя"
+    }
+  ],
+  "timestamp": "2026-08-03T09:49:27.373309212Z",
+  "model": "glm-4.5"
+}

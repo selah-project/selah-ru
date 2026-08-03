@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "jeremiah 31:26",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "На это ⟨я⟩ пробудился и ⟨я⟩ увидел, и сон мой был сладок мне",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "На"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "это"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "⟨я⟩ пробудился"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "и ⟨я⟩ увидел"
+    },
+    {
+      "surface": "ושנתי",
+      "gloss": "и сон мой"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "был сладок"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    }
+  ],
+  "timestamp": "2026-08-03T03:42:06.982158983Z",
+  "model": "glm-4.5"
+}

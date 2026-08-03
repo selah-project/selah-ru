@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 106,
+  "translation": "И поверили они словам Его, воспели хвалу Ему",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "и поверили"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "словам Его"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "воспели"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "хвалу Ему"
+    }
+  ],
+  "timestamp": "2026-08-03T08:37:14.857456958Z",
+  "model": "glm-4.5"
+}

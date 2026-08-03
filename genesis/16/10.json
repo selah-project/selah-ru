@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "И сказал ей вестник ЯХВЕ: весьма умножу ⟨את⟩ семя твоё, и не сочтётся от множества",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ей"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "вестник"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "весьма"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "умножу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "семя твоё"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "семя твоё"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "сочтётся"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "от множества"
+    }
+  ],
+  "timestamp": "2026-08-02T19:13:04.259165846Z",
+  "model": "glm-4.5"
+}

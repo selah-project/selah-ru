@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И жил Пелег тридцать лет и родил ⟨את⟩ Реу",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "И жил"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Пелег"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "тридцать"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и родил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Реу"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Реу"
+    }
+  ],
+  "timestamp": "2026-08-02T19:08:27.402974563Z",
+  "model": "glm-4.5"
+}

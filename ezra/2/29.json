@@ -1,0 +1,30 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "ezra 2:29",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "сыновья Нево, пятьдесят ⟨и⟩ два",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Нево"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "пятьдесят"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "⟨и⟩ два",
+      "marks": "число: 52"
+    }
+  ],
+  "timestamp": "2026-08-03T11:58:18.681070889Z",
+  "model": "glm-4.5"
+}

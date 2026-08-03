@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "numbers 14:32",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "А ⟨ваш⟩ труп упадёт в этой пустыне",
+  "tokens": [
+    {
+      "surface": "ופגריכם",
+      "gloss": "а ⟨ваш⟩ труп"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨вы⟩"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "упадёт"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "в пустыне"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "этой"
+    }
+  ],
+  "timestamp": "2026-08-02T21:26:09.260273515Z",
+  "model": "glm-4.5"
+}

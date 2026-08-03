@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 39,
+  "ref": "jeremiah 48:39",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 48,
+  "translation": "Как разрушено! ⟨они⟩ воют: как обратил Moab выю со стыдом! И будет Moab ⟨в⟩ посмешище и ⟨в⟩ ужас для всех вокруг ⟨него⟩.",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Как"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "разрушено"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "⟨они⟩ воют"
+    },
+    {
+      "surface": "איך",
+      "gloss": "как"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "обратил"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "выю"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בוש",
+      "gloss": "со стыдом"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и будет"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "לשחק",
+      "gloss": "⟨в⟩ посмешище"
+    },
+    {
+      "surface": "ולמחתה",
+      "gloss": "и ⟨в⟩ ужас"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "для всех"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "вокруг ⟨него⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T04:08:26.487717323Z",
+  "model": "glm-4.5"
+}

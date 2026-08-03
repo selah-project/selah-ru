@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "2-kings 21:20",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И сделал он злое в глазах ЯХВЕ, как сделал Менаше, отец его.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И сделал"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "злое"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в глазах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "отец его"
+    }
+  ],
+  "timestamp": "2026-08-03T01:32:06.087719931Z",
+  "model": "glm-4.5"
+}

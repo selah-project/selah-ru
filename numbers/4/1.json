@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "numbers 4:1",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И говорил ЯХВЕ ⟨с⟩ Моше и ⟨с⟩ Агароном, говоря:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨с⟩",
+      "marks": "Моше и ⟨с⟩ Агароном"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и ⟨с⟩",
+      "marks": "Агароном"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Агароном"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-02T21:13:38.677366309Z",
+  "model": "glm-4.5"
+}

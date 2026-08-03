@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "Ибо ⟨это⟩ мерзость ЯХВЕ Элохэха — всякий делающий ⟨это⟩, всякий делающий ⟨неизвестно⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "⟨это⟩ мерзость"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохэха"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всякий"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "делающий"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "⟨это⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всякий"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "делающий"
+    },
+    {
+      "surface": "עול",
+      "gloss": "⟨неизвестно⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T22:15:09.551479721Z",
+  "model": "glm-4.5"
+}

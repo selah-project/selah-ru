@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "jeremiah 48:23",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 48,
+  "translation": "и на Кириафаим, и на Бет-Гамул, и на Бет-Меон,",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Кириафаим"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет-"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "Гамул"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет-"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Меон"
+    }
+  ],
+  "timestamp": "2026-08-03T04:07:05.849213911Z",
+  "model": "glm-4.5"
+}

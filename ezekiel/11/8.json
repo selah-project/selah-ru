@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "ezekiel 11:8",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Меч вы боялись, и меч наведу на вас, — речение Адонай ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "меч"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "вы боялись"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "и меч"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "наведу"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "на вас"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "речение"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T04:26:33.973324940Z",
+  "model": "glm-4.5"
+}

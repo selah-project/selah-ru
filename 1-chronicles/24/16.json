@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "девятнадцатый Петахье, двадцатый Йехезкэлю,",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "Петахье"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "девятнадцатый"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "–"
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "Йехезкэлю"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "двадцатый"
+    }
+  ],
+  "timestamp": "2026-08-03T13:11:04.788075192Z",
+  "model": "glm-4.5"
+}

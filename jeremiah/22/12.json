@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Ибо в месте, ⟨куда⟩ изгнали его ⟨את⟩, там он умрёт, и эту землю ⟨את⟩ не увидит ⟨больше⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "в месте"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "куда"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "изгнали"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "его"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "он умрёт"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "эту землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "эту"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "увидит"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "больше"
+    }
+  ],
+  "timestamp": "2026-08-03T03:26:46.289629917Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "genesis 4:19",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И взял себе Лемех двух жён: имя одной Ада, и имя второй Цилла.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "И взял"
+    },
+    {
+      "surface": "לו",
+      "gloss": "себе"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Лемех"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "двух"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "жён"
+    },
+    {
+      "surface": "שם",
+      "gloss": "имя"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "одной"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ада"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "и имя"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "второй"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "Цилла"
+    }
+  ],
+  "timestamp": "2026-08-02T17:47:53.820984635Z",
+  "model": "glm-4.5"
+}

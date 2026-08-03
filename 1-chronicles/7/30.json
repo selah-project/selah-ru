@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "1-chronicles 7:30",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Сыновья Ашера: Йимна, и Ишва, и Ишви, и Бери́а, и Серах их сестра.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашера"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "Йимна"
+    },
+    {
+      "surface": "וישוה",
+      "gloss": "и Ишва"
+    },
+    {
+      "surface": "וישוי",
+      "gloss": "и Ишви"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "и Бери́а"
+    },
+    {
+      "surface": "ושרח",
+      "gloss": "и Серах"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "их сестра"
+    }
+  ],
+  "timestamp": "2026-08-03T12:46:38.206774780Z",
+  "model": "glm-4.5"
+}

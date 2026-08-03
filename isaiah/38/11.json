@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "isaiah 38:11",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 38,
+  "translation": "Я сказал: не увижу ЯХВЕ, ⟨даже⟩ ЯХВЕ в земле живущих, не взгляну ⟨на⟩ человека более с жителями ⟨мира⟩",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Я сказал"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "увиду"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земле"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "живущих"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אביט",
+      "gloss": "взгляну"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "более"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "жителями"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "мира"
+    }
+  ],
+  "timestamp": "2026-08-03T02:24:37.822741234Z",
+  "model": "glm-4.5"
+}

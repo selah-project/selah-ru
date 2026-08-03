@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 50,
+  "translation": "И возвестили небеса правду Его, ибо Элохим — судия Он, сэла",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "и возвестили"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "правду Его"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "судия"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Он"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "сэла"
+    }
+  ],
+  "timestamp": "2026-08-03T07:28:13.345592427Z",
+  "model": "glm-4.5"
+}

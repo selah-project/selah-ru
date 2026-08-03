@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "proverbs 11:27",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Ищущий ⟨добро⟩ ищет благоволение, а ищущий зло — ⟨оно⟩ придёт к нему.",
+  "tokens": [
+    {
+      "surface": "שחר",
+      "gloss": "Ищущий"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ищет"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "благоволение"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "а ищущий"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "תבואנו",
+      "gloss": "оно придёт к нему"
+    }
+  ],
+  "timestamp": "2026-08-03T09:34:07.060642600Z",
+  "model": "glm-4.5"
+}

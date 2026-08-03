@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "1-samuel 20:26",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И не сказал Шаул ⟨ничего⟩ в день тот, ибо он сказал: ⟨по⟩ случаю ⟨это⟩ — ⟨он⟩ не чист, ⟨ведь⟩ не чист",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "⟨ничего⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в день"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тот"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "⟨по⟩ случаю"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨это⟩"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "⟨он⟩ не"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чист"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ведь⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ведь⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чист"
+    }
+  ],
+  "timestamp": "2026-08-02T23:35:54.303679741Z",
+  "model": "glm-4.5"
+}

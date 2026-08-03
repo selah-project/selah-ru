@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И поразил ⟨את⟩ Моав, и стали моавитяне слугами Давида, приносящими дань.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "И поразил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моав"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "и стали"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "моавитяне"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "слугами"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Давиду"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "приносящими"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "дань"
+    }
+  ],
+  "timestamp": "2026-08-03T13:03:19.240199904Z",
+  "model": "glm-4.5"
+}

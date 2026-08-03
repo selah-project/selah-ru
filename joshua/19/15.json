@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "joshua 19:15",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "и Кеттаф, и Наалал, и Шимрон, и Идаала, и Бейт-Лехем: ⟨двенадцать⟩ городов и их settlements.",
+  "tokens": [
+    {
+      "surface": "וקטת",
+      "gloss": "и Кеттаф"
+    },
+    {
+      "surface": "ונהלל",
+      "gloss": "и Наалал"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "и Шимрон"
+    },
+    {
+      "surface": "וידאלה",
+      "gloss": "и Идаала"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "и Бейт"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лехем"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "городов"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "две"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десять"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "и их settlements"
+    }
+  ],
+  "timestamp": "2026-08-02T22:42:19.053290473Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Но если не послушаетесь Меня и не сделаете ⟨את⟩ все эти заповеди",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "но если"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "послушаетесь"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Меня"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "сделаете"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "все эти заповеди"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "эти заповеди"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "эти"
+    }
+  ],
+  "timestamp": "2026-08-02T21:07:33.952200540Z",
+  "model": "glm-4.5"
+}

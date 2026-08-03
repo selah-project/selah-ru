@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Крепись и мужайся, ибо ты приведёшь ⟨את⟩ народ сей ⟨את⟩ землю эту, которую Я клялся отцам их дать им.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "крепись"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "и мужайся"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "приведёшь"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ сей"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "сей"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "землю эту"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "эту"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которую"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "Я клялся"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "отцам их"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "дать"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    }
+  ],
+  "timestamp": "2026-08-02T22:25:28.002046712Z",
+  "model": "glm-4.5"
+}

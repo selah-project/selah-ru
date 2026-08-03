@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "genesis 7:22",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Всё, в чьих ноздрях было дыхание духа жизни, из всего, что ⟨было⟩ на суше, умерло.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "в чьих"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "дыхание"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "духа"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "жизни"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "в ноздрях"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "из всего"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "на суше"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "умерло"
+    }
+  ],
+  "timestamp": "2026-08-02T17:50:45.104344683Z",
+  "model": "glm-4.5"
+}

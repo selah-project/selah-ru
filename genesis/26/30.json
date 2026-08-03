@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "И он сделал ⟨им⟩ пир, и они ели и пили",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И он сделал"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨им⟩"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "пир"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "и они ели"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "и пили"
+    }
+  ],
+  "timestamp": "2026-08-02T19:25:25.985716299Z",
+  "model": "glm-4.5"
+}

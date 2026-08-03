@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "И услышал Давид в пустыне, что Навал стрижёт ⟨את⟩ овец свои",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "и услышал"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "в пустыне"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "стрижёт"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Навал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "овец свои"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "овец свои"
+    }
+  ],
+  "timestamp": "2026-08-02T23:41:31.299504893Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "и ⟨את⟩ стол, и ⟨את⟩ его утварь, и ⟨את⟩ светильник чистый, и ⟨את⟩ всю его утварь, и ⟨את⟩ altar курения",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "стол"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "стол"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "его утварь"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "его утварь"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "светильник"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "светильник"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "чистый"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "всю"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всю"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "утварь"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "altar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "курения"
+    }
+  ],
+  "timestamp": "2026-08-02T20:28:23.196075830Z",
+  "model": "glm-4.5"
+}

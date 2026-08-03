@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "amos 7:6",
+  "book": "amos",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Передумал ЯХВЕ насчёт ⟨этого⟩: также ⟨этого⟩ не будет, сказал Адонай ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "Передумал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "насчёт"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨этого⟩"
+    },
+    {
+      "surface": "גם",
+      "gloss": "также"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨этого⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "будет"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T05:40:54.579806321Z",
+  "model": "glm-4.5"
+}

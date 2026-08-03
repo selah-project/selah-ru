@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "1-kings 1:18",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "А вот, теперь Адония царствует, и теперь, мой господин царь, ты ⟨не⟩ знаешь:",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "а вот"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Адония"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царствует"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "мой господин"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаешь"
+    }
+  ],
+  "timestamp": "2026-08-03T00:16:16.828637718Z",
+  "model": "glm-4.5"
+}

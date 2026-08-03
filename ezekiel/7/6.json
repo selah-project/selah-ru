@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Конец ⟨⟩ пришёл, пришёл конец, ⟨он⟩ пробудился ⟨к⟩ тебе: вот, пришла!",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "конец"
+    },
+    {
+      "surface": "בא",
+      "gloss": "пришёл"
+    },
+    {
+      "surface": "בא",
+      "gloss": "пришёл"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "конец"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "пробудился"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "к тебе"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "באה",
+      "gloss": "пришла"
+    }
+  ],
+  "timestamp": "2026-08-03T04:22:15.917295841Z",
+  "model": "glm-4.5"
+}

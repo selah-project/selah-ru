@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 17:4",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "Делающий зло ⟨внимает⟩ губам ⟨ нечестия⟩, ⟨ложь⟩ ⟨слушает⟩ ⟨к⟩ языку ⟨пагубы⟩.",
+  "tokens": [
+    {
+      "surface": "מרע",
+      "gloss": "Делающий зло"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "⟨внимает⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "губам"
+    },
+    {
+      "surface": "און",
+      "gloss": "⟨ нечестия⟩"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "⟨ложь⟩"
+    },
+    {
+      "surface": "מזין",
+      "gloss": "⟨слушает⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "языку"
+    },
+    {
+      "surface": "הות",
+      "gloss": "⟨пагубы⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T09:43:19.481710189Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "2-samuel 17:26",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И Израиль ⟨и⟩ Авессалом разбили стан в земле Галаад.",
+  "tokens": [
+    {
+      "surface": "ויחן",
+      "gloss": "разбили стан"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "⟨и⟩ Авессалом"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земле"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Галаад"
+    }
+  ],
+  "timestamp": "2026-08-03T00:05:42.537324671Z",
+  "model": "glm-4.5"
+}

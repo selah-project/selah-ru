@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "2-samuel 22:30",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Ибо в ⟨Тебе⟩ я пробегу отряд, и в Элохим моём я перепрыгну ⟨стену⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "в ⟨Тебе⟩"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "пробегу"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "отряд"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "в Элохим моём"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "перепрыгну"
+    },
+    {
+      "surface": "שור",
+      "gloss": "⟨стену⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T00:12:25.787094010Z",
+  "model": "glm-4.5"
+}

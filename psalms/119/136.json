@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Ручьи вод стекли по глазам моим, за то, что не хранили они Тору Твою.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "ручьи"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вод"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "стекли"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "по глазам моим"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "לא",
+      "gloss": "то, что не"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "хранили они"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Тору Твою"
+    }
+  ],
+  "timestamp": "2026-08-03T08:54:33.869904798Z",
+  "model": "glm-4.5"
+}

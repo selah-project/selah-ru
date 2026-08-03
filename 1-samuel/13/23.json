@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "1-samuel 13:23",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И выступил отряд ⟨Плиштим⟩ к переправе ⟨Михмаш⟩",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "И выступил"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "отряд"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "⟨Плиштим⟩",
+      "marks": "Плиштим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "переправе"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Михмаш"
+    }
+  ],
+  "timestamp": "2026-08-02T23:24:07.297287423Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Глупость человека извращает ⟨его⟩ путь, и ⟨его⟩ сердце негодует на ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "Глупость"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "извращает"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "⟨его⟩ путь"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "יזעף",
+      "gloss": "негодует"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "⟨его⟩ сердце"
+    }
+  ],
+  "timestamp": "2026-08-03T09:46:02.977135988Z",
+  "model": "glm-4.5"
+}

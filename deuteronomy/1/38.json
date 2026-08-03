@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "deuteronomy 1:38",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Иегошуа, сын Нуна, стоящий пред тобою, он войдёт туда; его укрепи, ибо он наследует ⟨את⟩ Израиль.",
+  "tokens": [
+    {
+      "surface": "יהושע",
+      "gloss": "Иегошуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Нуна"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "стоящий"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "пред тобою"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "войдёт"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "туда"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "его"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "укрепи"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "ינחלנה",
+      "gloss": "наследует"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Израиль"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    }
+  ],
+  "timestamp": "2026-08-02T21:51:34.521320848Z",
+  "model": "glm-4.5"
+}

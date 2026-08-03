@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 94,
+  "translation": "Ибо суд вернётся к праведности, ⟨и⟩ за ним последуют все прямые сердцем",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "עד",
+      "gloss": "к"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "праведности"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "вернётся"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "суд"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "⟨и⟩ за ним"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "прямые"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сердцем"
+    }
+  ],
+  "timestamp": "2026-08-03T08:23:01.351968026Z",
+  "model": "glm-4.5"
+}

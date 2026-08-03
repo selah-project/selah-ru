@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "И он расположил ⟨на⟩ нём ряд хлеба пред лицем ЯХВЕ, ⟨как⟩ повелел ЯХВЕ ⟨את⟩ Моше.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "и он расположил"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨на⟩ нём"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "ряд"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеба"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред лицем"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "⟨как⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "повелел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-08-02T20:38:52.583897105Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "job 8:19",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Вот, это — радость пути его, и из праха другие взрастут.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "вот"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "это"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "радость"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "пути его"
+    },
+    {
+      "surface": "ומעפר",
+      "gloss": "и из праха"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "другие"
+    },
+    {
+      "surface": "יצמחו",
+      "gloss": "взрастут"
+    }
+  ],
+  "timestamp": "2026-08-03T10:16:28.850446710Z",
+  "model": "glm-4.5"
+}

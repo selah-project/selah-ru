@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 50,
+  "translation": "Адонай ЯХВЕ открыл мне ухо, и я не был непокорен, не отступил назад",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "открыл"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ухо"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "и я"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "был непокорен"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "назад"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "отступил"
+    }
+  ],
+  "timestamp": "2026-08-03T02:38:36.925209719Z",
+  "model": "glm-4.5"
+}

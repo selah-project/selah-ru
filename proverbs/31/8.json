@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "proverbs 31:8",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "Открой уста твои ⟨за⟩ немых, ⟨по⟩ праву всех сынов гибнущих",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Открой"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "уста твои"
+    },
+    {
+      "surface": "לאלם",
+      "gloss": "⟨за⟩ немых",
+      "marks": "немых"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨по⟩ праву"
+    },
+    {
+      "surface": "דין",
+      "gloss": "праву"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "חלוף",
+      "gloss": "гибнущих"
+    }
+  ],
+  "timestamp": "2026-08-03T10:08:24.503948700Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 42,
+  "translation": "И сказали они ему: нет, господин мой, рабы твои пришли покупать ⟨את⟩ еду",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "и сказали"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нет"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "господин мой"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "рабы твои"
+    },
+    {
+      "surface": "באו",
+      "gloss": "пришли"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "покупать"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "⟨את⟩",
+      "marks": "еду"
+    }
+  ],
+  "timestamp": "2026-08-02T19:45:59.733365977Z",
+  "model": "glm-4.5"
+}

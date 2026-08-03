@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Однако сыновья Кораха не умерли",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Однако сыновья"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Кораха"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "умерли"
+    }
+  ],
+  "timestamp": "2026-08-02T21:38:40.109635767Z",
+  "model": "glm-4.5"
+}

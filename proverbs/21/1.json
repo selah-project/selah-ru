@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 21:1",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Как каналы вод — сердце царя в руке ЯХВЕ; куда ⟨Его⟩ угодно, ⟨Он⟩ наклонит ⟨его⟩.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "как каналы"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вод"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сердце"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "в руке"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "куда"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "угодно"
+    },
+    {
+      "surface": "יטנו",
+      "gloss": "наклонит ⟨его⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T09:48:14.248677127Z",
+  "model": "glm-4.5"
+}

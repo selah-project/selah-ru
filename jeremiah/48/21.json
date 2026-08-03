@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "jeremiah 48:21",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 48,
+  "translation": "И суд пришёл в ⟨землю⟩ равнины, на Холон, и на Я́хац, и на Мофаа́ф",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "И суд"
+    },
+    {
+      "surface": "בא",
+      "gloss": "пришёл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨землю⟩"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "равнины"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "Холон"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Я́хац"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "מופעת",
+      "gloss": "Мофаа́ф"
+    }
+  ],
+  "timestamp": "2026-08-03T04:07:02.074014534Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "psalms 118:29",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 118,
+  "translation": "Благодарите ЯХВЕ, ибо Он благ, ибо вовек хесед Его!",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Благодарите"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Он благ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "вовек"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хесед Его"
+    }
+  ],
+  "timestamp": "2026-08-03T08:48:22.017745861Z",
+  "model": "glm-4.5"
+}

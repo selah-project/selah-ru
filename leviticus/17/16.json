@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "Но если ⟨он⟩ не вымоет ⟨одежду⟩, и плоть его не омоет, и понесёт беззаконие своё",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Но если"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "вымоет"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "и плоть его"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "омоет"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "и понесёт"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "беззаконие своё"
+    }
+  ],
+  "timestamp": "2026-08-03T17:59:13.268607285Z",
+  "model": "glm-4.5"
+}

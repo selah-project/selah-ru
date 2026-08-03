@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "judges 13:21",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И ⟨малах⟩ ЯХВЕ не продолжил ⟨להראה⟩ ⟨את⟩ Маноха и ⟨את⟩ жену его, тогда Манох узнал, что ⟨малах⟩ ЯХВЕ ⟨הוא⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "продолжил"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨ещё⟩"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "⟨малах⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "להראה",
+      "gloss": "⟨להראה⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Маноху"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и к"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "жене его"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тогда"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "узнал"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Манох"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "⟨малах⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T23:04:23.205441181Z",
+  "model": "glm-4.5"
+}

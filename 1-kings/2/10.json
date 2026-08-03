@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И почил Давид с отцами своими, и погребён в городе Давида.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "и почил"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "отцами своими"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "и погребён"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "в городе"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давида"
+    }
+  ],
+  "timestamp": "2026-08-03T00:20:45.649872750Z",
+  "model": "glm-4.5"
+}

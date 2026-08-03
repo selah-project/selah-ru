@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "ezekiel 11:14",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И было слово ЯХВЕ ⟨ко⟩ мне, ⟨чтобы⟩ сказать:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨ко⟩ мне"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨чтобы⟩ сказать"
+    }
+  ],
+  "timestamp": "2026-08-03T04:26:37.351230937Z",
+  "model": "glm-4.5"
+}

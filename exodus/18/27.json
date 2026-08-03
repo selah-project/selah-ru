@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И послал Моше ⟨את⟩ своего тестя, и он пошёл себе в свою землю",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "И послал"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "своего тестя"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "своего тестя"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и он пошёл"
+    },
+    {
+      "surface": "לו",
+      "gloss": "себе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "свою землю"
+    }
+  ],
+  "timestamp": "2026-08-02T20:12:26.987298539Z",
+  "model": "glm-4.5"
+}

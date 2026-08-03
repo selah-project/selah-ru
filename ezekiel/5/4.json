@@ -1,0 +1,87 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "ezekiel 5:4",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И из них ещё возьми, и брось ⟨את⟩ их в середину огня, и сожги ⟨את⟩ их в огне; из него выйдет огонь на весь дом Израиля.",
+  "tokens": [
+    {
+      "surface": "ומהם",
+      "gloss": "И из них"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ещё"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "возьми"
+    },
+    {
+      "surface": "והשלכת",
+      "gloss": "и брось"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "их"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "середину"
+    },
+    {
+      "surface": "האש",
+      "gloss": "огня"
+    },
+    {
+      "surface": "ושרפת",
+      "gloss": "и сожги"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "их"
+    },
+    {
+      "surface": "באש",
+      "gloss": "в огне"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "из него"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "выйдет"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огонь"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-03T04:20:21.456261174Z",
+  "model": "glm-4.5"
+}

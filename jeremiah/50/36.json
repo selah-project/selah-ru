@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "jeremiah 50:36",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 50,
+  "translation": "Меч на гадателей, и они обезумеют; меч на её сильных, и они ужаснутся",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "Меч"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "гадателей"
+    },
+    {
+      "surface": "ונאלו",
+      "gloss": "и они обезумеют"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меч"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "גבוריה",
+      "gloss": "её сильных"
+    },
+    {
+      "surface": "וחתו",
+      "gloss": "и они ужаснутся"
+    }
+  ],
+  "timestamp": "2026-08-03T04:11:33.028443102Z",
+  "model": "glm-4.5"
+}

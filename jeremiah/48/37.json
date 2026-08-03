@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "jeremiah 48:37",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 48,
+  "translation": "Ибо ⟨каждая⟩ голова — плешь, и ⟨каждая⟩ борода — обрита; на ⟨всех⟩ руках — надрезы, и на чреслах — мешковина.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "каждая"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "голова"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "плешь"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и ⟨каждая⟩"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "борода"
+    },
+    {
+      "surface": "גרעה",
+      "gloss": "обрита"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨всех⟩"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "руках"
+    },
+    {
+      "surface": "גדדת",
+      "gloss": "надрезы"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "чреслах"
+    },
+    {
+      "surface": "שק",
+      "gloss": "мешковина"
+    }
+  ],
+  "timestamp": "2026-08-03T04:08:17.411131955Z",
+  "model": "glm-4.5"
+}

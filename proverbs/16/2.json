@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 16:2",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Все ⟨пути⟩ человека чисты в глазах его, а ⟨ЯХВЕ⟩ взвешивает ⟨духи⟩",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Все"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "⟨пути⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человека"
+    },
+    {
+      "surface": "זך",
+      "gloss": "чисты"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "в глазах его"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "а ⟨ЯХВЕ⟩ взвешивает"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "⟨духи⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨ЯХВЕ⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T09:41:46.250089587Z",
+  "model": "glm-4.5"
+}

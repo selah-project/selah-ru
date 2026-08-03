@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "А ЯХВЕ открыл ⟨את⟩ ухо Шемуэля за день до прихода Шауля, говоря:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "А ЯХВЕ"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "открыл"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ухо"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ухо"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэля"
+    },
+    {
+      "surface": "יום",
+      "gloss": "за день"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "до"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "прихода"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шауля"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря:"
+    }
+  ],
+  "timestamp": "2026-08-02T23:20:38.922505341Z",
+  "model": "glm-4.5"
+}

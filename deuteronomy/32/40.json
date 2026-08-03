@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "Ибо подниму я руку к ⟨небесам⟩ и скажу: жив ⟨я⟩ навсегда.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "подниму"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небесам"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "руку"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "и скажу"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жив"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "навсегда"
+    }
+  ],
+  "timestamp": "2026-08-02T22:23:26.562673450Z",
+  "model": "glm-4.5"
+}

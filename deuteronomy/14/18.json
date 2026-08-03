@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "deuteronomy 14:18",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "и аист, и цапля по роду её, и удод, и летучая мышь",
+  "tokens": [
+    {
+      "surface": "והחסידה",
+      "gloss": "и аист"
+    },
+    {
+      "surface": "והאנפה",
+      "gloss": "и цапля"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "по роду её"
+    },
+    {
+      "surface": "והדוכיפת",
+      "gloss": "и удод"
+    },
+    {
+      "surface": "והעטלף",
+      "gloss": "и летучая мышь"
+    }
+  ],
+  "timestamp": "2026-08-02T22:05:32.093891166Z",
+  "model": "glm-4.5"
+}

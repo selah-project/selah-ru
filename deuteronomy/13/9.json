@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "deuteronomy 13:9",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "не пожелай ⟨ему⟩ и не послушай ⟨его⟩, и не пожалей ⟨твой⟩ глаз ⟨на⟩ него, и не пощадишь, и не укроешь ⟨его⟩",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "пожелаешь"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "послушаешь"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "его"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "пожалеешь"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "твой глаз"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на него"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "пощадишь"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "укроешь"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "его"
+    }
+  ],
+  "timestamp": "2026-08-02T22:04:39.930896116Z",
+  "model": "glm-4.5"
+}

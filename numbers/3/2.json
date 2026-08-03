@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "А вот имена сыновей Аарона: первенец Надав, и Авиу, Элеазар и Итамар.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "А вот"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "имена"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарона"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "первенец"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Надав"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "и Авиу"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Элеазар"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "и Итамар"
+    }
+  ],
+  "timestamp": "2026-08-02T21:12:11.715088346Z",
+  "model": "glm-4.5"
+}

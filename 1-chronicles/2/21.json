@@ -1,0 +1,86 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "1-chronicles 2:21",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "А после Хецрон вошёл к дочери Махира, отца Гилеада, и он взял её, когда ему ⟨было⟩ шестьдесят лет, и она родила ему ⟨את⟩ Сегува.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "А после"
+    },
+    {
+      "surface": "בא",
+      "gloss": "вошёл"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Хецрон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочери"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Махира"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отца"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилеада"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "и он"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "взял её"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "и ему"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сыну"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "шестьдесят"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и она родила"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Сегува"
+    },
+    {
+      "surface": "שגוב",
+      "gloss": "Сегува"
+    }
+  ],
+  "timestamp": "2026-08-03T12:37:17.410167556Z",
+  "model": "glm-4.5"
+}

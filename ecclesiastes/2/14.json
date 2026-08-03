@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "ecclesiastes 2:14",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Глаза мудреца — в голове его, а глупец ходит во тьме; и я знал, что одно событие ⟨את⟩ случится с ними всеми.",
+  "tokens": [
+    {
+      "surface": "החכם",
+      "gloss": "мудрец"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "глаза"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "в голове"
+    },
+    {
+      "surface": "ו",
+      "gloss": "а"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "глупец"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "во тьме"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ходит"
+    },
+    {
+      "surface": "וידעתי",
+      "gloss": "и я знал"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "שמקרה",
+      "gloss": "что"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одно событие"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "случится"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "с ними всеми"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "с ними всеми"
+    }
+  ],
+  "timestamp": "2026-08-03T11:17:09.308970916Z",
+  "model": "glm-4.5"
+}

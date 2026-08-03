@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Сыновья, которые родятся у них — поколение третье, войдут к ним в собрание ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "родятся"
+    },
+    {
+      "surface": "להם",
+      "gloss": "у них"
+    },
+    {
+      "surface": "דור",
+      "gloss": "поколение"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "третье"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "войдут"
+    },
+    {
+      "surface": "להם",
+      "gloss": "к ним"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "в собрание"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T22:13:14.629824956Z",
+  "model": "glm-4.5"
+}

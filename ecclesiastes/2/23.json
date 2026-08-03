@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "ибо все дни его — боли и гнев, ⟨его⟩ занятие; также ночью не покоится сердце его; также это — הֶבֶל, он.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "дни его"
+    },
+    {
+      "surface": "מכאבים",
+      "gloss": "боли"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "и гнев"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "занятие"
+    },
+    {
+      "surface": "גם",
+      "gloss": "также"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ночью"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "покоится"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "сердце его"
+    },
+    {
+      "surface": "גם",
+      "gloss": "также"
+    },
+    {
+      "surface": "זה",
+      "gloss": "это"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "הֶבֶл"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-08-03T11:16:57.752102718Z",
+  "model": "glm-4.5"
+}

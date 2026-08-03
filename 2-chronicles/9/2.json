@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "2-chronicles 9:2",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "и Шеломо поведал ей ⟨את⟩ все ⟨дела⟩ её, и не было скрыто ⟨слово⟩ от Шеломо, ⟨что⟩ он не поведал ей",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "поведал"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ей"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "все дела её"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "дела её"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "было скрыто"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "משלמה",
+      "gloss": "от Шеломо"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨что⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "поведал"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ей"
+    }
+  ],
+  "timestamp": "2026-08-03T13:33:15.219269020Z",
+  "model": "glm-4.5"
+}

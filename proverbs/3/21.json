@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "proverbs 3:21",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Сын мой! ⟨они⟩ да не отступят от глаз твоих; храни трезвую мудрость и замысел",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сын мой"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "ילזו",
+      "gloss": "отступят"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "от глаз твоих"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "храни"
+    },
+    {
+      "surface": "תשיה",
+      "gloss": "трезвую мудрость"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "и замысел"
+    }
+  ],
+  "timestamp": "2026-08-03T09:23:52.991146259Z",
+  "model": "glm-4.5"
+}

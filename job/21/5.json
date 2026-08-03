@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "job 21:5",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Обратитесь ⟨ко⟩ мне и ужаснитесь, и положите руку ⟨на⟩ рот.",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "обратитесь"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ко мне"
+    },
+    {
+      "surface": "והשמו",
+      "gloss": "и ужаснитесь"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "и положите"
+    },
+    {
+      "surface": "יד",
+      "gloss": "руку"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פה",
+      "gloss": "рот"
+    }
+  ],
+  "timestamp": "2026-08-03T10:28:26.114374969Z",
+  "model": "glm-4.5"
+}

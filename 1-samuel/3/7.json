@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И Шемуэл ⟨ещё⟩ не знал ⟨את⟩ ЯХВЕ, и ⟨ещё⟩ не был открыт ему дар ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "И Шемуэл"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "⟨ещё⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "и ⟨ещё⟩"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "не был открыт"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "дар"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T23:16:11.300331023Z",
+  "model": "glm-4.5"
+}

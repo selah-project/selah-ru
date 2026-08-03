@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "numbers 13:5",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "от колена Шимʹона, Шафа́т сын Ху́ри",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "от колена"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимʹона"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Шафа́т"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "Ху́ри"
+    }
+  ],
+  "timestamp": "2026-08-02T21:24:44.666482662Z",
+  "model": "glm-4.5"
+}

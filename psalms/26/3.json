@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Ибо хесед Твой перед глазами моими, и я ходил в истине Твоей",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хесед Твой"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "перед"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "глазами моими"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "и я ходил"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "в истине Твоей"
+    }
+  ],
+  "timestamp": "2026-08-03T07:02:34.981295142Z",
+  "model": "glm-4.5"
+}

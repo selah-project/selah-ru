@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 38,
+  "translation": "Поспеши ⟨на⟩ помощь мою, Адонай, ⟨моё⟩ спасение",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "поспеши"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "⟨на⟩ помощь мою"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "⟨моё⟩ спасение"
+    }
+  ],
+  "timestamp": "2026-08-03T07:16:54.748187777Z",
+  "model": "glm-4.5"
+}

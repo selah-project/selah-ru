@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 39,
+  "ref": "numbers 22:39",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И пошёл Билам с Балаком, и пришли в Кирьят-Хуцот",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "и пошёл"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билам"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балаком"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "и пришли"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "в Кирьят"
+    },
+    {
+      "surface": "חצות",
+      "gloss": "-Хуцот"
+    }
+  ],
+  "timestamp": "2026-08-02T21:35:27.203096138Z",
+  "model": "glm-4.5"
+}

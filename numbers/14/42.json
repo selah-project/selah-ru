@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Не восходите, ибо ЯХВЕ ⟨не⟩ среди вас, и не будете поражены пред врагами вашими",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "восходите"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "среди вас"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "будете поражены"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "врагами вашими"
+    }
+  ],
+  "timestamp": "2026-08-02T21:26:50.361059739Z",
+  "model": "glm-4.5"
+}

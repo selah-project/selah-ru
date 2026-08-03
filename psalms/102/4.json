@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 102,
+  "translation": "Ибо дни мои исчезли как дым, и кости мои — как головня, обуглились",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "исчезли"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "как ⟨дым⟩"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дни ⟨мои⟩"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "и кости ⟨мои⟩"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "как"
+    },
+    {
+      "surface": "קד",
+      "gloss": "головня"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "обуглились"
+    }
+  ],
+  "timestamp": "2026-08-03T08:30:47.721184406Z",
+  "model": "glm-4.5"
+}

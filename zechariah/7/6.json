@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И когда ⟨вы⟩ ели, и когда ⟨вы⟩ пили, не ⟨это ли⟩ вы, ⟨едящие⟩, и вы, ⟨пьющие⟩ ⟨для самих себя⟩?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "и когда"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ели"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "и когда"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "пили"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "не ⟨это ли⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вы"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "⟨едящие⟩"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "и вы"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "⟨пьющие⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T06:13:43.708151495Z",
+  "model": "glm-4.5"
+}

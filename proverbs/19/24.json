@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Ленивец прячет свою руку в блюдо, ⟨даже⟩ ко рту своему не поднесёт ⟨её⟩.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "прячет"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ленивец"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "свою руку"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "в блюдо"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨даже⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ко"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "рту своему"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "поднесёт ⟨её⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T09:46:15.772732175Z",
+  "model": "glm-4.5"
+}

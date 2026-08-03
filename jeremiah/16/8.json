@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "И в дом пиршества не входи, чтобы сидеть с ⟨ними⟩, чтобы есть и пить",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "И в дом"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "пиршества"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "входи"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "чтобы сидеть"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "с ⟨ними⟩",
+      "marks": "с ⟨ними⟩"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "чтобы есть"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "и пить"
+    }
+  ],
+  "timestamp": "2026-08-03T03:17:43.851949502Z",
+  "model": "glm-4.5"
+}

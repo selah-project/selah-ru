@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "habakkuk 3:7",
+  "book": "habakkuk",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Бедствием увидел я шатры Кушана, дрожат завесы земли Мадиамской",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "бедствием"
+    },
+    {
+      "surface": "און",
+      "gloss": "бедствием"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "увидел я"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "шатры"
+    },
+    {
+      "surface": "כושן",
+      "gloss": "Кушана"
+    },
+    {
+      "surface": "ירגזון",
+      "gloss": "дрожат"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "завесы"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земли"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мадиамской"
+    }
+  ],
+  "timestamp": "2026-08-03T05:59:41.347806368Z",
+  "model": "glm-4.5"
+}

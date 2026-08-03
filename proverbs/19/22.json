@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Желание человека — его хесед, и ⟨то, что⟩ бедняк, лучше лжеца",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Желание"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "его хесед"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "и ⟨то, что⟩"
+    },
+    {
+      "surface": "רש",
+      "gloss": "бедняк"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "⟨лучше чем⟩ человек"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "лжец"
+    }
+  ],
+  "timestamp": "2026-08-03T09:46:33.288067301Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "numbers 6:27",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "и возложат ⟨את⟩ имя Моё на сынов Израиля, и Я благословлю ⟨их⟩",
+  "tokens": [
+    {
+      "surface": "ושמו",
+      "gloss": "и возложат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "имя Моё"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "имя Моё"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "и Я"
+    },
+    {
+      "surface": "אברכם",
+      "gloss": "благословлю ⟨их⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T21:17:30.278845402Z",
+  "model": "glm-4.5"
+}

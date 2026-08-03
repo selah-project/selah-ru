@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "job 21:25",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "А вот ⟨этот⟩ умрёт в горькой душе, ⟨и⟩ не вкусит блага",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "а вот ⟨этот⟩"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "умрёт"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "в душе"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "горькой"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "⟨и⟩ не"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "вкусит"
+    },
+    {
+      "surface": "בטובה",
+      "gloss": "блага"
+    }
+  ],
+  "timestamp": "2026-08-03T10:28:20.479865669Z",
+  "model": "glm-4.5"
+}

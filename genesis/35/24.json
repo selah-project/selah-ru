@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "Сыновья Рахели: Иосиф и Вениамин.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахели"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Иосиф"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "и Вениамин"
+    }
+  ],
+  "timestamp": "2026-08-02T19:37:15.143424647Z",
+  "model": "glm-4.5"
+}

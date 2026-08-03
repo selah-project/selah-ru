@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "isaiah 47:4",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 47,
+  "translation": "Искупитель наш — ЯХВЕ Цеваот, имя Ему — Святой Израиля.",
+  "tokens": [
+    {
+      "surface": "גאלנו",
+      "gloss": "Искупитель наш"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "имя Ему"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Святой"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-03T02:34:43.978339192Z",
+  "model": "glm-4.5"
+}

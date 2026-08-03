@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "1-chronicles 23:9",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Сыновья Шимьи: Шеломоф, Хазиил и Аран — трое. Это главы отцов Лаадана.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шимьи"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "Шеломоф"
+    },
+    {
+      "surface": "וחזיאל",
+      "gloss": "Хазиил"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "Аран"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "трое"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Это"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "главы"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "отцов"
+    },
+    {
+      "surface": "ללעדן",
+      "gloss": "Лаадана"
+    }
+  ],
+  "timestamp": "2026-08-03T13:09:41.439812873Z",
+  "model": "glm-4.5"
+}

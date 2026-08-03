@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "jeremiah 36:8",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "И сделал Барух бен Нерия всё, что повелел ему Ирмеяу пророк, читать в книге слова ЯХВЕ в доме ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И сделал"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Барух"
+    },
+    {
+      "surface": "בן",
+      "gloss": "бен"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "Нерия"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "повелел ему"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмеяу"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророк"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "читать"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "в книге"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "в доме"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T03:51:09.185598352Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "Вот, я поднимаю на них ⟨את⟩ Мидий, которые не ценят серебро и ⟨не⟩ желают золота",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "вот, я"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "поднимаю"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "на них"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мидий"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Мидий"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "серебро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "ценят"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "и золото"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "желают"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в нём"
+    }
+  ],
+  "timestamp": "2026-08-03T01:57:27.917416895Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Ибо для всякого желания ⟨есть⟩ время и суд; ибо зло человека велико на нём",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "для всякого"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "желания"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨есть⟩"
+    },
+    {
+      "surface": "עת",
+      "gloss": "время"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "и суд"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "зло"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "велико"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на нём"
+    }
+  ],
+  "timestamp": "2026-08-03T11:22:44.194325950Z",
+  "model": "glm-4.5"
+}

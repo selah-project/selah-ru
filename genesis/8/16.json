@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Выйди из ковчега ты, и жена твоя, и сыновья твои, и жёны сыновей твоих ⟨с⟩ тобою",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "выйди"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ковчега"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "и жена твоя"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "и сыновья твои"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "и жёны"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "сыновей твоих"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨с⟩ тобою"
+    }
+  ],
+  "timestamp": "2026-08-02T17:51:32.788606605Z",
+  "model": "glm-4.5"
+}

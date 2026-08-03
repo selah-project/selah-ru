@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "proverbs 1:6",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "постичь притчу и ⟨её⟩ толкование, слова мудрецов и ⟨их⟩ загадки",
+  "tokens": [
+    {
+      "surface": "להבין",
+      "gloss": "постичь"
+    },
+    {
+      "surface": "משל",
+      "gloss": "притчу"
+    },
+    {
+      "surface": "ומליצה",
+      "gloss": "и ⟨её⟩ толкование"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудрецов"
+    },
+    {
+      "surface": "וחידתם",
+      "gloss": "и ⟨их⟩ загадки"
+    }
+  ],
+  "timestamp": "2026-08-03T09:20:43.616524366Z",
+  "model": "glm-4.5"
+}

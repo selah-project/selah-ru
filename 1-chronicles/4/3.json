@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И вот сыновья отца Этама: Изреэль, Ишма и Идбаш; а имя их сестры — Целефони.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "И вот"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отца"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Этама"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Изреэль"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "Ишма"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "Идбаш"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "а имя"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "их сестры"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "Целефони"
+    }
+  ],
+  "timestamp": "2026-08-03T12:40:09.493293998Z",
+  "model": "glm-4.5"
+}

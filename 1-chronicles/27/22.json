@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "1-chronicles 27:22",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "для Дана — Азраэль, сын Иерохама; ⟨это⟩ главы колен Израиля.",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "для Дана"
+    },
+    {
+      "surface": "עזראל",
+      "gloss": "Азраэль"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Иерохама"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "⟨это⟩"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "главы"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "колен"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-03T13:15:14.686313100Z",
+  "model": "glm-4.5"
+}

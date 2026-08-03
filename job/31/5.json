@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "job 31:5",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "Если я ходил с суетою и стопа моя спешила ⟨к⟩ обману",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Если"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "я ходил"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "суетою"
+    },
+    {
+      "surface": "ותחש",
+      "gloss": "и спешила"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨к⟩",
+      "marks": "обману"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "обману"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "стопа моя"
+    }
+  ],
+  "timestamp": "2026-08-03T18:30:29.086115546Z",
+  "model": "glm-4.5"
+}

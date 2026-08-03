@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И было ⟨что⟩ вся земля — ⟨один⟩ уст ⟨и⟩ слова ⟨одни⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "כל",
+      "gloss": "вся"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "уст"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "⟨один⟩"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "⟨и⟩ слова"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "⟨одни⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T19:08:21.554326167Z",
+  "model": "glm-4.5"
+}

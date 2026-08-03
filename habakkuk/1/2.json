@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Доколе, ЯХВЕ, взывал я, и Ты ⟨не⟩ слышишь? взываю к Тебе: «Насилие!» — и ⟨не⟩ спасаешь",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Доколе"
+    },
+    {
+      "surface": "אנה",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "взывал я"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и ⟨не⟩"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "слышишь"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "взываю"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "к Тебе"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "Насилие"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "— и ⟨не⟩"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "спасаешь"
+    }
+  ],
+  "timestamp": "2026-08-03T05:56:57.511460028Z",
+  "model": "glm-4.5"
+}

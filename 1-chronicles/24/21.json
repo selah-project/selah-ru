@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "1-chronicles 24:21",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Рехавьйаху: сыновьям Рехавьйаху, ⟨the⟩ главный Ишшийаху",
+  "tokens": [
+    {
+      "surface": "לרחביהו",
+      "gloss": "Рехавьйаху"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "сыновьям"
+    },
+    {
+      "surface": "רחביהו",
+      "gloss": "Рехавьйаху"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "⟨the⟩ главный"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Ишшийаху"
+    }
+  ],
+  "timestamp": "2026-08-03T13:11:06.883966209Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 41,
+  "translation": "Благословен ЯХВЕ, Элохи Исраэля, от мира ⟨и⟩ до мира, аминь и аминь.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Благословен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохи"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраэля"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "от мира"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "⟨и⟩ до"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "мира"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "аминь"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "и аминь"
+    }
+  ],
+  "timestamp": "2026-08-03T07:20:01.679112837Z",
+  "model": "glm-4.5"
+}

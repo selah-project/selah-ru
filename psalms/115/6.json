@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 115,
+  "translation": "Уши у них, и не слышат; ноздри у них, и не обоняют",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "уши"
+    },
+    {
+      "surface": "להם",
+      "gloss": "у них"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "слышат"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ноздри"
+    },
+    {
+      "surface": "להם",
+      "gloss": "у них"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "обоняют"
+    }
+  ],
+  "timestamp": "2026-08-03T08:45:23.151857316Z",
+  "model": "glm-4.5"
+}

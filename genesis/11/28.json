@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "genesis 11:28",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И умер Аран при Фамех, отце его, ⟨в⟩ земле рождения его, в Уре Касдимском.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "И умер"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Аран"
+    },
+    {
+      "surface": "על",
+      "gloss": "при"
+    },
+    {
+      "surface": "פני",
+      "gloss": "Фамех"
+    },
+    {
+      "surface": "תרח",
+      "gloss": ""
+    },
+    {
+      "surface": "אביו",
+      "gloss": "отце его"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨в⟩ земле"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "рождения его"
+    },
+    {
+      "surface": "באור",
+      "gloss": "⟨в⟩ Уре"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Касдимском"
+    }
+  ],
+  "timestamp": "2026-08-02T19:08:34.679143213Z",
+  "model": "glm-4.5"
+}

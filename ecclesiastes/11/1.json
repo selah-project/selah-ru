@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Пошли хлеб свой ⟨на⟩ поверхность вод, ибо во множестве дней найдёшь ⟨его⟩",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "пошли"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "хлеб свой"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "поверхность"
+    },
+    {
+      "surface": "המים",
+      "gloss": "вод"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "во множестве"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дней"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "найдёшь ⟨его⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T11:26:42.861319888Z",
+  "model": "glm-4.5"
+}

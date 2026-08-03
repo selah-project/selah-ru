@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И пошёл Авимелех в Тевец, и разбил лагерь в Тевце, и взял его.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "и пошёл"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авимелех"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "Тевец"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "и разбил лагерь"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "в Тевце"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "и взял его"
+    }
+  ],
+  "timestamp": "2026-08-02T23:00:00.611065263Z",
+  "model": "glm-4.5"
+}

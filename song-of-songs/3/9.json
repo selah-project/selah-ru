@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Аппирион сделал царь Шеломо себе из деревьев Ливана",
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "Аппирион"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "себе"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "из деревьев"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Ливана"
+    }
+  ],
+  "timestamp": "2026-08-03T10:55:36.131528664Z",
+  "model": "glm-4.5"
+}

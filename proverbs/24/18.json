@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "proverbs 24:18",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "п lest ЯХВЕ увидит, и ⟨это будет⟩ зло в очах Его, и отвратит Он гнев Свой ⟨от него⟩",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "п lest"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "увидит"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "и ⟨это будет⟩ зло"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "в очах Его"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "и отвратит"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "гнев Свой ⟨от него⟩"
+    },
+    {
+      "surface": "אפו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T09:55:13.510125208Z",
+  "model": "glm-4.5"
+}

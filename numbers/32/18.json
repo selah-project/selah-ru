@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "numbers 32:18",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "Не вернёмся в ⟨наши⟩ дома, пока сыны Израиля ⟨не⟩ наследуют, каждый свою долю,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "вернёмся"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "⟨наши⟩ дома"
+    },
+    {
+      "surface": "עד",
+      "gloss": "пока"
+    },
+    {
+      "surface": "התנחל",
+      "gloss": "⟨не⟩ наследуют"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "איש",
+      "gloss": "каждый"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "свою долю"
+    }
+  ],
+  "timestamp": "2026-08-02T21:45:48.759754233Z",
+  "model": "glm-4.5"
+}

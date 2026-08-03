@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 102,
+  "translation": "⟨Он⟩ ослабил ⟨свою⟩ силу на пути, ⟨Он⟩ сократил мои дни",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "ослабил"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "на пути"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "⟨свою⟩ силу"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "сократил"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "мои дни"
+    }
+  ],
+  "timestamp": "2026-08-03T08:30:33.730139160Z",
+  "model": "glm-4.5"
+}

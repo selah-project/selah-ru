@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Не завидуй сердцем ⟨твоим⟩ грешникам, но ⟨будь⟩ в страхе ⟨перед⟩ ЯХВЕ весь день",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "завидуй"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "сердцем ⟨твоим⟩"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "грешникам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "но"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨будь⟩"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "в страхе ⟨перед⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "היום",
+      "gloss": "день"
+    }
+  ],
+  "timestamp": "2026-08-03T18:26:50.116895898Z",
+  "model": "glm-4.5"
+}

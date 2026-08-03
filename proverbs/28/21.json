@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Смотреть ⟨на⟩ лица — ⟨это⟩ не хорошо, ведь за кусок хлеба человек ⟨преступит⟩ ⟨закон⟩.",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "Смотреть"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "⟨на⟩ лица"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "хорошо"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ведь за"
+    },
+    {
+      "surface": "פת",
+      "gloss": "кусок"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеба"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "⟨преступит⟩"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "человек"
+    }
+  ],
+  "timestamp": "2026-08-03T10:04:28.223840696Z",
+  "model": "glm-4.5"
+}

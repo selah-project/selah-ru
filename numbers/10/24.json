@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "numbers 10:24",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "и над ⟨воинством⟩ колена сынов Биньямина — Авидан, сын Гидони",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и над"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "⟨воинством⟩",
+      "marks": "воинством"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "колена"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Биньямина"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "Авидан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "גדעוני",
+      "gloss": "Гидони"
+    }
+  ],
+  "timestamp": "2026-08-02T21:22:05.510846072Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "ezekiel 9:10",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И также Я, ⟨моего⟩ глаза ⟨не⟩ пощадят и ⟨Я⟩ ⟨не⟩ пощажу, путь их на голову их Я возложил",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "и также"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "пощадят"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "⟨моего⟩ глаза"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и ⟨не⟩"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "пощажу"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "путь их"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "на голову их"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Я возложил"
+    }
+  ],
+  "timestamp": "2026-08-03T04:24:55.466488208Z",
+  "model": "glm-4.5"
+}

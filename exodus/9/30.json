@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Но ты и рабы твои — я знаю, ⟨что⟩ вы ещё не боитесь ⟨от лица⟩ ЯХВЕ Элохим.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "но ты"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "и рабы твои"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "я знаю"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨что⟩"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ещё не"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "боитесь"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "⟨от лица⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-08-02T20:03:59.893311667Z",
+  "model": "glm-4.5"
+}

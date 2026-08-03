@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 50,
+  "translation": "Я знаю ⟨всех⟩ птиц гор и ⟨зверей⟩ поля со ⟨мной⟩",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Я знаю"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "птиц"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "гор"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "и зверей"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "поля"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "со мной"
+    }
+  ],
+  "timestamp": "2026-08-03T07:28:14.424478928Z",
+  "model": "glm-4.5"
+}

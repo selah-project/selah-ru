@@ -1,0 +1,40 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "и ⟨את⟩ Порта, и ⟨את⟩ Адалия, и ⟨את⟩ Аридата",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Порта"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "Порта"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Адалия"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "Адалия"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Аридата"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "Аридата"
+    }
+  ],
+  "timestamp": "2026-08-03T11:35:48.716937791Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "proverbs 8:11",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Ибо Хохма лучше, чем ⟨⟩жемчуг, и все ⟨⟩желанные вещи не сравнятся с ⟨⟩нею",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "лучше"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Хохма"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "⟨⟩жемчуг"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и все"
+    },
+    {
+      "surface": "חפצים",
+      "gloss": "⟨⟩желанные вещи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישוו",
+      "gloss": "сравнятся"
+    },
+    {
+      "surface": "בה",
+      "gloss": "с ⟨⟩нею"
+    }
+  ],
+  "timestamp": "2026-08-03T09:29:47.571282311Z",
+  "model": "glm-4.5"
+}

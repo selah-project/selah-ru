@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "олень, и газель, и лань, и дикая коза, и пигарг, и буйвол, и серна",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "олень"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "и газель"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "и лань"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "и дикая коза"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "и пигарг"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "и буйвол"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "и серна"
+    }
+  ],
+  "timestamp": "2026-08-02T22:05:26.300358159Z",
+  "model": "glm-4.5"
+}

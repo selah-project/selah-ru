@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "daniel 10:2",
+  "book": "daniel",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "В те дни я, Даниил, был в трауре три недели дней.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "В те дни"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "те"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Даниил"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "был"
+    },
+    {
+      "surface": "מתאבל",
+      "gloss": "в трауре"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "недели"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дней"
+    }
+  ],
+  "timestamp": "2026-08-03T11:52:29.662729883Z",
+  "model": "glm-4.5"
+}

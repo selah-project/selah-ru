@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И было ему так, и притоптали ⟨את⟩ его народ в воротах, и он умер",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "и притоптали"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "его"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "в воротах"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и он умер"
+    }
+  ],
+  "timestamp": "2026-08-03T01:12:26.159612318Z",
+  "model": "glm-4.5"
+}

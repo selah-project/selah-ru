@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И взяли ⟨את⟩ Лота и ⟨את⟩ имущество его, сына брата Аврама, и ушли, а он жил в Содоме",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "и взяли"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Лота"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Лота"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "имущество его"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "имущество его"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брата"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврама"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "и ушли"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а он"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "жил"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "в Содоме"
+    }
+  ],
+  "timestamp": "2026-08-02T19:11:09.302389103Z",
+  "model": "glm-4.5"
+}

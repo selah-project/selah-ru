@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-chronicles 6:15",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Шима́, его сын, Хагги́я, его сын, Аса́йя, его сын.",
+  "tokens": [
+    {
+      "surface": "שמעא",
+      "gloss": "Шима́"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "его сын"
+    },
+    {
+      "surface": "חגיה",
+      "gloss": "Хагги́я"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "его сын"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Аса́йя"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "его сын"
+    }
+  ],
+  "timestamp": "2026-08-03T12:44:15.166372343Z",
+  "model": "glm-4.5"
+}

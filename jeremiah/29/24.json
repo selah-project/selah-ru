@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "jeremiah 29:24",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "И к Шемайѓу ⟨ha⟩-Нехелами ты скажешь, говоря:",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "И к"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "Шемайѓу"
+    },
+    {
+      "surface": "הנחלמי",
+      "gloss": "⟨ha⟩-Нехелами"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ты скажешь"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-03T03:39:53.070977512Z",
+  "model": "glm-4.5"
+}

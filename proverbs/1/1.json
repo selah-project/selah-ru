@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 1:1",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Притчи Шеломо, сына Давида, царя Исраэля,",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "Притчи"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраэля"
+    }
+  ],
+  "timestamp": "2026-08-03T09:20:32.783492596Z",
+  "model": "glm-4.5"
+}

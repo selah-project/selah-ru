@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "exodus 31:12",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "И сказал ЯХВЕ Моше, говоря:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": ""
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ", говоря"
+    }
+  ],
+  "timestamp": "2026-08-02T20:28:28.059366216Z",
+  "model": "glm-4.5"
+}

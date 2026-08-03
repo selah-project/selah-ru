@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 7:2",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Храни мои заповеди и живи, и мою Тору, как ⟨зеницу⟩ ока твоего",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "храни"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "мои заповеди"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "и живи"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "и мою Тору"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "как ⟨зеницу⟩"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ока твоего"
+    }
+  ],
+  "timestamp": "2026-08-03T09:28:36.529292425Z",
+  "model": "glm-4.5"
+}

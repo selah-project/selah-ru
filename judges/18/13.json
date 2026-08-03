@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "judges 18:13",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И прошли они оттуда ⟨в⟩ гору Эфраима, и пришли до дома Михы.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "И прошли они"
+    },
+    {
+      "surface": "משם",
+      "gloss": "оттуда"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраима"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "и пришли"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Михы"
+    }
+  ],
+  "timestamp": "2026-08-02T23:08:14.421904298Z",
+  "model": "glm-4.5"
+}

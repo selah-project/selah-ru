@@ -1,0 +1,93 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "ezra 7:22",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "до ста талантов серебра, и до ста коров пшеницы, и до ста бат вина, и до ста бат елея, и соли без ⟨того, что⟩ написано.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "серебра"
+    },
+    {
+      "surface": "ככרין",
+      "gloss": "талантов"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ста"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "חנטין",
+      "gloss": "коров"
+    },
+    {
+      "surface": "כרין",
+      "gloss": "пшеницы"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ста"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "бат"
+    },
+    {
+      "surface": "בתין",
+      "gloss": "вина"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ста"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "בתין",
+      "gloss": "бат"
+    },
+    {
+      "surface": "משח",
+      "gloss": "елея"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ста"
+    },
+    {
+      "surface": "ומלח",
+      "gloss": "и соли"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨того, что⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "без"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "написано"
+    }
+  ],
+  "timestamp": "2026-08-03T12:05:55.762079122Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "genesis 47:2",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 47,
+  "translation": "И от братьев своих взял ⟨он⟩ пять человек и представил их перед Паро",
+  "tokens": [
+    {
+      "surface": "ומקצה",
+      "gloss": "И от"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "братьев своих"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "взял ⟨он⟩"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пять"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "человек"
+    },
+    {
+      "surface": "ויצגם",
+      "gloss": "и представил их"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    }
+  ],
+  "timestamp": "2026-08-02T19:51:24.469666269Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "и заколол, и окропил Моше ⟨את⟩ кровь вокруг ⟨на⟩ жертвеннике.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "и заколол"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "и окропил"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кровь"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "кровь"
+    },
+    {
+      "surface": "על",
+      "gloss": "вокруг"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "⟨на⟩ жертвеннике"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "вокруг"
+    }
+  ],
+  "timestamp": "2026-08-02T20:47:33.391392053Z",
+  "model": "glm-4.5"
+}

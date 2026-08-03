@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "2-chronicles 32:6",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "И поставил ⟨он⟩ военачальников над народом, и собрал ⟨их⟩ к себе на площадь ⟨у⟩ городских ворот, и spoke по сердцу их, говоря:",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "и поставил"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "военачальников"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "войны"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народом"
+    },
+    {
+      "surface": "ויקבצם",
+      "gloss": "и собрал ⟨их⟩"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "к себе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "площадь"
+    },
+    {
+      "surface": "שער",
+      "gloss": "⟨у⟩ ворот"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "городских"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "и spoke"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "сердцу их"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-03T14:08:51.936935627Z",
+  "model": "glm-4.5"
+}

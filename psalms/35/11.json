@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "Восстали свидетели насилия, ⟨что⟩ я не знал, спрашивают меня",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "Восстали"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "свидетели"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насилия"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨что⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знал"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "спрашивают меня"
+    }
+  ],
+  "timestamp": "2026-08-03T07:10:49.184200634Z",
+  "model": "glm-4.5"
+}

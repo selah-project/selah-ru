@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Эль — мститель мне, и покоряет народы подо мной",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Эль"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "мститель"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "месть"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "и покоряет"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народы"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "подо мной"
+    }
+  ],
+  "timestamp": "2026-08-03T06:52:09.868285140Z",
+  "model": "glm-4.5"
+}

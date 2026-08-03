@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "isaiah 2:16",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "и ⟨на⟩ всех кораблях Таршиш и ⟨на⟩ всех драгоценных изваяниях",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и ⟨на⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "кораблях"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Таршиш"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и ⟨на⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "שכיות",
+      "gloss": "изваяниях"
+    },
+    {
+      "surface": "החמדה",
+      "gloss": "драгоценных"
+    }
+  ],
+  "timestamp": "2026-08-03T01:42:15.917386404Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 113,
+  "translation": "Галлюйа! Восхваляйте, рабы ЯХВЕ, восхваляйте ⟨את⟩ имя ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Восхваляйте"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ЯХ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Восхваляйте"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "рабы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "восхваляйте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "имя"
+    },
+    {
+      "surface": "שם",
+      "gloss": "имя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T08:44:29.682430941Z",
+  "model": "glm-4.5"
+}

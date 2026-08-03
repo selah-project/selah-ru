@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "И ⟨после этого⟩ родила ⟨она⟩ дочь, и назвала ⟨она⟩ ⟨את⟩ имя её Дина",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "и ⟨после этого⟩"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "родила ⟨она⟩"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочь"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "и назвала ⟨она⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "имя её"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "имя её"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Дина"
+    }
+  ],
+  "timestamp": "2026-08-02T19:31:10.135581559Z",
+  "model": "glm-4.5"
+}

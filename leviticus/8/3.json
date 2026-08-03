@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "и ⟨את⟩ всё ⟨את⟩ собрание созови ко входу Шатра Собрания",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "всё собрание"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "собрание"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "созови"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ко"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "входу"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Шатра"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Собрания"
+    }
+  ],
+  "timestamp": "2026-08-02T20:47:20.693844809Z",
+  "model": "glm-4.5"
+}

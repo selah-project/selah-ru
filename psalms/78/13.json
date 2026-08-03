@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 78,
+  "translation": "Он рассёк ⟨את⟩ море и провёл ⟨את⟩ их, и поставил воды как mound",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "рассёк"
+    },
+    {
+      "surface": "ים",
+      "gloss": "море"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "и провёл ⟨את⟩ их"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "и поставил"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воды"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "как"
+    },
+    {
+      "surface": "נד",
+      "gloss": "mound"
+    }
+  ],
+  "timestamp": "2026-08-03T08:00:52.968888279Z",
+  "model": "glm-4.5"
+}

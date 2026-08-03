@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "proverbs 22:12",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Глаза ЯХВЕ охраняют знание, а ⟨Он⟩ обращает слова предателя",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Глаза"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "נצרו",
+      "gloss": "охраняют"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знание"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "и ⟨Он⟩ обращает"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "предателя"
+    }
+  ],
+  "timestamp": "2026-08-03T09:50:00.656768217Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "deuteronomy 23:3",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Не войдёт mamzér в kehál ЯХВЕ; даже десятое поколение его не войдёт к нему в kehál ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "войдёт"
+    },
+    {
+      "surface": "ממזר",
+      "gloss": "mamzér"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "в kehál"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "даже"
+    },
+    {
+      "surface": "דור",
+      "gloss": "десятое поколение"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "его"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "войдёт"
+    },
+    {
+      "surface": "לו",
+      "gloss": "к нему"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "в kehál"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T22:13:14.751749460Z",
+  "model": "glm-4.5"
+}

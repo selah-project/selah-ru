@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "job 23:1",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "И отвечал Ийов и ⟨он⟩ сказал:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И отвечал"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ийов"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    }
+  ],
+  "timestamp": "2026-08-03T10:30:17.967790630Z",
+  "model": "glm-4.5"
+}

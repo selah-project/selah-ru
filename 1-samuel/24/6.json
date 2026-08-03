@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "И было после этого, и поразило сердце Давида ⟨сам⟩, что он срезал ⟨את⟩ кромку, что Шау́лу",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и было"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "после"
+    },
+    {
+      "surface": "כן",
+      "gloss": "этого"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "и поразило"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сердце"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨сам⟩",
+      "marks": "על"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "он срезал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кромку"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "кромку"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Шау́лу"
+    }
+  ],
+  "timestamp": "2026-08-02T23:40:16.611757272Z",
+  "model": "glm-4.5"
+}

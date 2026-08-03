@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "1-chronicles 24:9",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "пятый Малхия, шестой Миямин",
+  "tokens": [
+    {
+      "surface": "למלכיה",
+      "gloss": "Малхия"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "пятый"
+    },
+    {
+      "surface": "למימן",
+      "gloss": "Миямин"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "шестой"
+    }
+  ],
+  "timestamp": "2026-08-03T13:11:16.683003499Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 45,
+  "ref": "exodus 29:45",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "И ⟨я⟩ буду обитать среди сынов Израиля, и буду им Элохим",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "и ⟨я⟩ буду обитать"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "среди"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "и буду"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-08-02T20:26:27.460473551Z",
+  "model": "glm-4.5"
+}

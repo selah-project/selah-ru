@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "И Ирмияху входил и выходил среди ⟨ народа⟩, ибо не ⟨את⟩ дали его в ⟨дом⟩ заточения",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "И Ирмияху"
+    },
+    {
+      "surface": "בא",
+      "gloss": "входил"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "и выходил"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "среди"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨ народа⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ибо не"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "⟨את⟩ дали"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "его"
+    },
+    {
+      "surface": "בית",
+      "gloss": "в ⟨дом⟩"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "заточения"
+    }
+  ],
+  "timestamp": "2026-08-03T03:51:52.434865498Z",
+  "model": "glm-4.5"
+}

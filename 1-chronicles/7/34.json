@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "1-chronicles 7:34",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "А сыновья Шемера: Ахи, Рогаха, Йехубба и Арам.",
+  "tokens": [
+    {
+      "surface": "וּבְנֵי",
+      "gloss": "А сыновья"
+    },
+    {
+      "surface": "שָׁמֶר",
+      "gloss": "Шемера"
+    },
+    {
+      "surface": "אֲחִי",
+      "gloss": "Ахи"
+    },
+    {
+      "surface": "ורוהגה",
+      "gloss": "Рогаха"
+    },
+    {
+      "surface": "יחבה",
+      "gloss": "Йехубба"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "и Арам"
+    }
+  ],
+  "timestamp": "2026-08-03T12:47:49.490319584Z",
+  "model": "glm-4.5"
+}

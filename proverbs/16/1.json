@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Человеку — приготовления ⟨сердца⟩, а от ЯХВЕ — ответ ⟨языка⟩",
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "Человеку"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "приготовления"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сердца"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "а от ЯХВЕ"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "ответ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "языка"
+    }
+  ],
+  "timestamp": "2026-08-03T09:40:53.536706711Z",
+  "model": "glm-4.5"
+}

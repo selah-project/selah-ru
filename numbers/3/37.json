@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "numbers 3:37",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "и столбы двора кругом, и их подножия, и их колья, и их верёвки",
+  "tokens": [
+    {
+      "surface": "ועמדי",
+      "gloss": "и столбы"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "двора"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "кругом"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "и их подножия"
+    },
+    {
+      "surface": "ויתדתם",
+      "gloss": "и их колья"
+    },
+    {
+      "surface": "ומיתריהם",
+      "gloss": "и их верёвки"
+    }
+  ],
+  "timestamp": "2026-08-02T21:12:51.350081503Z",
+  "model": "glm-4.5"
+}

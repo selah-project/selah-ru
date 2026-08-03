@@ -1,0 +1,56 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "и ⟨את⟩ Йеуц, и ⟨את⟩ Шахия, и ⟨את⟩ Мирма; эти — его сыновья, главы родов.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Йеуц"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Йеуц"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Шахия"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Шахия"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Мирма"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Мирма"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "эти"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "его сыновья"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "главы"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "родов"
+    }
+  ],
+  "timestamp": "2026-08-03T12:48:55.714372592Z",
+  "model": "glm-4.5"
+}

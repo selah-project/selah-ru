@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И явилось херувимам подобие ⟨руки⟩ человека ⟨под⟩ крыльями их",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "и явилось"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "херувимам"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "подобие"
+    },
+    {
+      "surface": "יד",
+      "gloss": "⟨руки⟩"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨под⟩"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "крыльями их"
+    }
+  ],
+  "timestamp": "2026-08-03T04:25:32.154876082Z",
+  "model": "glm-4.5"
+}

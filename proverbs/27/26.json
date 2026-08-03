@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "proverbs 27:26",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "бараны — для твоей одежды, а козлы — цена ⟨за⟩ поле",
+  "tokens": [
+    {
+      "surface": "כבשים",
+      "gloss": "бараны"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "для твоей одежды"
+    },
+    {
+      "surface": "ומחיר",
+      "gloss": "а козлы — цена"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "⟨за⟩ поле"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "козлы"
+    }
+  ],
+  "timestamp": "2026-08-03T10:03:13.093329262Z",
+  "model": "glm-4.5"
+}

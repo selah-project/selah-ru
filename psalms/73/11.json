@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 73,
+  "translation": "И говорят они: „как может знать Эль? И ⟨есть⟩ ли знание ⟨у⟩ Эльона?“",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "И говорят они"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "как"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "может знать"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эль"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "и ⟨есть⟩ ли"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "знание"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "⟨у⟩ Эльона"
+    }
+  ],
+  "timestamp": "2026-08-03T07:53:24.989542808Z",
+  "model": "glm-4.5"
+}

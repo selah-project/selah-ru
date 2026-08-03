@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Всё, ⟨что⟩ не имеет ⟨את⟩ плавников и чешуи в водах, — скверна ⟨это⟩ для вас.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨что⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "не имеет"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨у-него⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "плавников и чешуи"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "плавников"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "и чешуи"
+    },
+    {
+      "surface": "במים",
+      "gloss": "в водах"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "скверна"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨это⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "для вас"
+    }
+  ],
+  "timestamp": "2026-08-02T20:50:34.790444944Z",
+  "model": "glm-4.5"
+}

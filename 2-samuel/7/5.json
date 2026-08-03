@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "2-samuel 7:5",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Иди и скажи рабу Моему Давиду: так говорит ЯХВЕ: не ⟨ты⟩ ли построишь Мне дом для обитания Моего?",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "и скажи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "рабу Моему"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давиду"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "говорит"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "не ⟨ты⟩ ли"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "построишь"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мне"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "לשבתי",
+      "gloss": "для обитания Моего"
+    }
+  ],
+  "timestamp": "2026-08-02T23:54:11.928017213Z",
+  "model": "glm-4.5"
+}

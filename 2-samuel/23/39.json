@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 39,
+  "ref": "2-samuel 23:39",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Урия Хеттеянин, тридцать ⟨и⟩ семь ⟨всего⟩",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "Урия"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Хеттеянин"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всего"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "тридцать"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "⟨и⟩ семь"
+    }
+  ],
+  "timestamp": "2026-08-03T00:14:07.539642307Z",
+  "model": "glm-4.5"
+}

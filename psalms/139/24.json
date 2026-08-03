@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 139,
+  "translation": "и посмотри, если ⟨есть⟩ в мне путь скорби, и направь меня ⟨в⟩ путь вечный",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "и посмотри"
+    },
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "путь"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "скорби"
+    },
+    {
+      "surface": "בי",
+      "gloss": "в мне"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "и направь меня"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "⟨в⟩ путь"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечный"
+    }
+  ],
+  "timestamp": "2026-08-03T09:09:45.081657090Z",
+  "model": "glm-4.5"
+}

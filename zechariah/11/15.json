@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "zechariah 11:15",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И сказал ЯХВЕ мне: ещё возьми себе ⟨инструмент⟩ пастыря глупого",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ещё"
+    },
+    {
+      "surface": "קח",
+      "gloss": "возьми"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себе"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "⟨инструмент⟩"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "пастыря"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "глупого"
+    }
+  ],
+  "timestamp": "2026-08-03T06:18:32.094734477Z",
+  "model": "glm-4.5"
+}

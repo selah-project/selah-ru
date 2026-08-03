@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "isaiah 7:9",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "и глава Эфраима — Самария, и глава Самарии — сын Ремалии, если не уверуете, то ⟨не⟩ устоите",
+  "tokens": [
+    {
+      "surface": "וראש",
+      "gloss": "и глава"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраима"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Самария"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "и глава"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Самарии"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Ремалии"
+    },
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "уверуете"
+    },
+    {
+      "surface": "כי",
+      "gloss": "то"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "תאמנו",
+      "gloss": "устоите"
+    }
+  ],
+  "timestamp": "2026-08-03T01:50:48.223054008Z",
+  "model": "glm-4.5"
+}

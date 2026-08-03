@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 87,
+  "translation": "Я упомяну Рахав и Вавилон тем, кто знают Меня: вот Филистия и Тир с Кушем — ⟨он⟩ родился там.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "Я упомяну"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Рахав"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "и Вавилон"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "тем, кто знают"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Филистия"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "и Тир"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Кушем"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "родился"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    }
+  ],
+  "timestamp": "2026-08-03T08:12:38.472184973Z",
+  "model": "glm-4.5"
+}

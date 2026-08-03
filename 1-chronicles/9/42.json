@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И Ахаз породил ⟨את⟩ Яару, а Яара породила ⟨את⟩ Алемет, и ⟨את⟩ Азмавет, и ⟨את⟩ Зимри; а Зимри породил ⟨את⟩ Моцу.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "И Ахаз"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яару"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "Яару"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "а Яара"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породила"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Алемет"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Алемет"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Азмавет"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Азмавет"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Зимри"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Зимри"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "а Зимри"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моцу"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Моцу"
+    }
+  ],
+  "timestamp": "2026-08-03T12:51:35.724585Z",
+  "model": "glm-4.5"
+}

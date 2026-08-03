@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "proverbs 29:11",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "Глупец изливает ⟨всю⟩ свою руах, но мудрец ⟨возвращает⟩ её назад.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "всю"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "свою руах"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "изливает"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупец"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "но мудрец"
+    },
+    {
+      "surface": "באחור",
+      "gloss": "⟨возвращает⟩ назад"
+    },
+    {
+      "surface": "ישבחנה",
+      "gloss": "⟨её⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T10:05:50.585399605Z",
+  "model": "glm-4.5"
+}

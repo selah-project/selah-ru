@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "ezekiel 30:3",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "ибо близок ⟨the⟩ день и близок ⟨the⟩ день к ЯХВЕ, день облака, время ⟨of⟩ народов ⟨будет⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "близок"
+    },
+    {
+      "surface": "יום",
+      "gloss": "⟨the⟩ день"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "и близок"
+    },
+    {
+      "surface": "יום",
+      "gloss": "⟨the⟩ день"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "к ЯХВЕ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "облака"
+    },
+    {
+      "surface": "עת",
+      "gloss": "время"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "⟨of⟩ народов"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨будет⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T04:53:37.603791571Z",
+  "model": "glm-4.5"
+}

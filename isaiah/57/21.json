@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 57,
+  "translation": "Нет мира, сказал Элоhay, ⟨для⟩ нечестивых.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Нет"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мира"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоhay"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "⟨для⟩ нечестивых"
+    }
+  ],
+  "timestamp": "2026-08-03T02:47:08.445574412Z",
+  "model": "glm-4.5"
+}

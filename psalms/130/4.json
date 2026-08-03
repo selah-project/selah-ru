@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 130,
+  "translation": "Ибо с Тобою ⟨есть⟩ прощение, чтобы ⟨Тебя⟩ боялись",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "с Тобою"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "прощение"
+    },
+    {
+      "surface": "למען",
+      "gloss": "чтобы"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "боялись"
+    }
+  ],
+  "timestamp": "2026-08-03T09:02:00.971330482Z",
+  "model": "glm-4.5"
+}

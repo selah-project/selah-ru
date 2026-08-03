@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Ибо ноги их бегут ко злу и торопятся пролить ⟨את⟩ кровь",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ноги их"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ко злу"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "бегут"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "и торопятся"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "пролить"
+    },
+    {
+      "surface": "דם",
+      "gloss": "⟨את⟩",
+      "marks": "кровь"
+    }
+  ],
+  "timestamp": "2026-08-03T09:20:46.296706653Z",
+  "model": "glm-4.5"
+}

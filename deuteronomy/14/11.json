@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Вся ⟨чистую⟩ птицу ешьте",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Вся"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "птицу"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "⟨чистую⟩"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ешьте"
+    }
+  ],
+  "timestamp": "2026-08-03T18:13:17.609793583Z",
+  "model": "glm-4.5"
+}

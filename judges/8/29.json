@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "judges 8:29",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И пошёл Иеруббаал, сын Йоаша, и жил в своём доме",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "И пошёл"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Иеруббаал"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Йоаша"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и жил"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "в своём доме"
+    }
+  ],
+  "timestamp": "2026-08-02T22:57:25.925870620Z",
+  "model": "glm-4.5"
+}

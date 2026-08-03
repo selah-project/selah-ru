@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "genesis 49:22",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 49,
+  "translation": "Йосеф ⟨есть⟩ сын плодоносный, сын плодоносный ⟨у⟩ источника; дочери шагают ⟨по⟩ стене.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "плодоносный"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "плодоносный"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨у⟩"
+    },
+    {
+      "surface": "עין",
+      "gloss": "источника"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "дочери"
+    },
+    {
+      "surface": "צעדה",
+      "gloss": "шагают"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨по⟩"
+    },
+    {
+      "surface": "שור",
+      "gloss": "стене"
+    }
+  ],
+  "timestamp": "2026-08-02T19:53:31.701401256Z",
+  "model": "glm-4.5"
+}

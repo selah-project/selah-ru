@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Разломи ⟨את⟩ куски и влей масло на ⟨неё⟩: minhah ⟨она⟩.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "разломи"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "куски"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "куски"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "и влей"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "на ⟨неё⟩"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "масло"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minhah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨она⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T20:40:47.119074401Z",
+  "model": "glm-4.5"
+}

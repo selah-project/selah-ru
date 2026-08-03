@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "jeremiah 6:30",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Серебро отверженное назовут ⟨их⟩, ибо отверг ЯХВЕ ⟨их⟩.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "серебро"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "отверженное"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "назовут"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨их⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "отверг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "⟨их⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T03:06:01.410799946Z",
+  "model": "glm-4.5"
+}

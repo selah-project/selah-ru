@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "proverbs 29:8",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "Мен пустословные поджигают город, но мудрые отвращают ⟨את⟩ гнев.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "לצון",
+      "gloss": "пустословные"
+    },
+    {
+      "surface": "יפיחו",
+      "gloss": "поджигают"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "город"
+    },
+    {
+      "surface": "וחכמים",
+      "gloss": "но мудрые"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "отвращают"
+    },
+    {
+      "surface": "אף",
+      "gloss": "⟨את⟩",
+      "marks": "гнев"
+    }
+  ],
+  "timestamp": "2026-08-03T10:06:13.554820782Z",
+  "model": "glm-4.5"
+}

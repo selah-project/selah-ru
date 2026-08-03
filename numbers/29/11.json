@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "numbers 29:11",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "козёл козлов один [за] грех, кроме [жертвы] за грех очищения, и ола́ постоянная, и её minhah, и их nesekhim",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "козёл"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "козлов"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "[за] грех"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "кроме"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "[жертвы] за грех"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "очищения"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "и ола́"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "постоянная"
+    },
+    {
+      "surface": "ומנחתה",
+      "gloss": "и её minhah"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "и их nesekhim"
+    }
+  ],
+  "timestamp": "2026-08-02T21:42:02.575850448Z",
+  "model": "glm-4.5"
+}

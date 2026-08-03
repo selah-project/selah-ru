@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 131,
+  "translation": "Пусть Израиль ⟨надеется⟩ на ЯХВЕ — отныне и до вечности.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Пусть ⟨надеется⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "отныне"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и ⟨до⟩"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечности"
+    }
+  ],
+  "timestamp": "2026-08-03T09:02:41.565974612Z",
+  "model": "glm-4.5"
+}

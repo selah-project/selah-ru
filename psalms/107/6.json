@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 107,
+  "translation": "И возопили они к ЯХВЕ в беде ⟨их⟩, от теснот ⟨их⟩ избавит ⟨их⟩",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "И возопили они"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "в беде"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨их⟩"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "от теснот ⟨их⟩"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "избавит ⟨их⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T08:38:32.403814466Z",
+  "model": "glm-4.5"
+}

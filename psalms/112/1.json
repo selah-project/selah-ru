@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 112,
+  "translation": "Хвалите Ях! Счастлив муж, боящийся ⟨את⟩ ЯХВЕ, в заповедях Его — большое желание",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Хвалите"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Счастлив"
+    },
+    {
+      "surface": "איש",
+      "gloss": "муж"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "боящийся"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "в заповедях Его"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "желание"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "большое"
+    }
+  ],
+  "timestamp": "2026-08-03T08:43:54.059872359Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И сказал ЯХВЕ Сатане: вот, он в руке твоей, только ⟨את⟩ душу его сбереги.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Сатане"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "вот"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "в руке твоей"
+    },
+    {
+      "surface": "אך",
+      "gloss": "только"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "душу его"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "душу его"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "сбереги"
+    }
+  ],
+  "timestamp": "2026-08-03T10:11:05.774782283Z",
+  "model": "glm-4.5"
+}

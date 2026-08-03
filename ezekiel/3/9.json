@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "ezekiel 3:9",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Как адамант тверже кремния Я сделал ⟨את⟩ твой лоб; не бойся их и не ужасайся от лица их, ибо они мятежный дом.",
+  "tokens": [
+    {
+      "surface": "כשמיר",
+      "gloss": "Как адамант"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "тверже"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "кремния"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Я сделал"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "твой лоб"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "бойся"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "их"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ужасайся"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "от лица их"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "мятежный"
+    },
+    {
+      "surface": "המה",
+      "gloss": "они"
+    }
+  ],
+  "timestamp": "2026-08-03T04:18:54.024604729Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 41,
+  "translation": "А Ты, ЯХВЕ, помилуй меня и восставь меня, и я воздам ⟨את⟩ им.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "А Ты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "помилуй меня"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "и восставь меня"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "и я воздам"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨את⟩",
+      "marks": "им"
+    }
+  ],
+  "timestamp": "2026-08-03T07:19:45.588678997Z",
+  "model": "glm-4.5"
+}

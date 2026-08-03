@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "ибо ⟨Он⟩ сказал, и стало; ⟨Он⟩ повелел, и стояло",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Он⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и стало"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Он⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "повелел"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "и стояло"
+    }
+  ],
+  "timestamp": "2026-08-03T07:09:07.678194148Z",
+  "model": "glm-4.5"
+}

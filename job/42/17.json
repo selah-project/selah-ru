@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 42,
+  "translation": "И умер Иов, старый и сытый ⟨по⟩ дням.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "И умер"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Иов"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "старый"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "и сытый"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дням"
+    }
+  ],
+  "timestamp": "2026-08-03T10:53:09.418987147Z",
+  "model": "glm-4.5"
+}

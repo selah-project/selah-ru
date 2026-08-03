@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 108,
+  "translation": "Песнь, псалом — Давиду.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Песнь"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "псалом"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиду"
+    }
+  ],
+  "timestamp": "2026-08-03T08:40:14.055853234Z",
+  "model": "glm-4.5"
+}

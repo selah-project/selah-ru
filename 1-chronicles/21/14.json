@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "1-chronicles 21:14",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И дал ЯХВЕ ⟨мор⟩ в Израиле, и пало ⟨из⟩ Израиля семьдесят тысяч человек.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "И дал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨мор⟩"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "в Израиле"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "и пало"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "⟨из⟩ Израиля"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "семьдесят"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тысяч"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человек"
+    }
+  ],
+  "timestamp": "2026-08-03T13:06:17.818888265Z",
+  "model": "glm-4.5"
+}

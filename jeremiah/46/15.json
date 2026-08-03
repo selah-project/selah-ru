@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "jeremiah 46:15",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 46,
+  "translation": "Почему ⟨свои⟩ богатыри снесены? Они не устояли, ибо ЯХВЕ поверг их.",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Почему"
+    },
+    {
+      "surface": "נסחף",
+      "gloss": "снесены"
+    },
+    {
+      "surface": "אביריך",
+      "gloss": "⟨свои⟩ богатыри"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "устояли"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "הדפו",
+      "gloss": "поверг их"
+    }
+  ],
+  "timestamp": "2026-08-03T04:05:10.189441077Z",
+  "model": "glm-4.5"
+}

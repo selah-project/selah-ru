@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "ezekiel 37:5",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "Так сказал Адонай ЯХВЕ ⟨этим⟩ костям: вот, Я введу в вас дух, и ⟨вы⟩ оживёте",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לעצמות",
+      "gloss": "костям"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "⟨этим⟩"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "введу"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "в вас"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дух"
+    },
+    {
+      "surface": "וחייתם",
+      "gloss": "и ⟨вы⟩ оживёте"
+    }
+  ],
+  "timestamp": "2026-08-03T05:02:32.748563068Z",
+  "model": "glm-4.5"
+}

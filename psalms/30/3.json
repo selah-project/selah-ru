@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "ЯХВЕ Элохи мой, взывал я к Тебе, и Ты исцелил меня",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохи"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "взывал я"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "к Тебе"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "и Ты исцелил меня"
+    }
+  ],
+  "timestamp": "2026-08-03T07:06:00.856416270Z",
+  "model": "glm-4.5"
+}

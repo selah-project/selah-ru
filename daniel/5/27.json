@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "daniel 5:27",
+  "book": "daniel",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "ТЕКЕЛЬ: ⟨ты⟩ взвешен на весах и найден недостаточен.",
+  "tokens": [
+    {
+      "surface": "תקל",
+      "gloss": "ТЕКЕЛЬ"
+    },
+    {
+      "surface": "תקילתה",
+      "gloss": "⟨ты⟩ взвешен"
+    },
+    {
+      "surface": "במאזניא",
+      "gloss": "на весах"
+    },
+    {
+      "surface": "והשתכחת",
+      "gloss": "и найден"
+    },
+    {
+      "surface": "חסיר",
+      "gloss": "недостаточен"
+    }
+  ],
+  "timestamp": "2026-08-03T11:46:18.999996933Z",
+  "model": "glm-4.5"
+}

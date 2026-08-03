@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 60,
+  "translation": "Встань, светись, ибо свет твой пришёл, и слава ЯХВЕ над тобою воссияла",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "встань"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "светись"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "בא",
+      "gloss": "пришёл"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "свет твой"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "и слава"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "над тобою"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "воссияла"
+    }
+  ],
+  "timestamp": "2026-08-03T02:50:44.885133223Z",
+  "model": "glm-4.5"
+}

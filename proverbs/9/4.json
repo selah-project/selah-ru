@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 9:4",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Кто прост, пусть повернёт сюда; лишённому сердца она сказала ему:",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кто"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "прост"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "пусть повернёт"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "сюда"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "лишённому"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сердца"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "она сказала"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    }
+  ],
+  "timestamp": "2026-08-03T09:31:30.458477302Z",
+  "model": "glm-4.5"
+}

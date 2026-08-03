@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "judges 4:23",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И смирил Элохим в тот день ⟨את⟩ Явина, царя Кнаана, пред сыновьями Исраэля",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "И смирил"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в день"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тот"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Явина"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "Явина"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кнаана"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновьями"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраэля"
+    }
+  ],
+  "timestamp": "2026-08-02T22:52:48.049122446Z",
+  "model": "glm-4.5"
+}

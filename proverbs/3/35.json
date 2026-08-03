@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "proverbs 3:35",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Мудрые наследуют славу, а глупцы поднимают ⟨себя⟩ к позору.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "славу"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "Мудрые"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "наследуют"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "а глупцы"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "поднимают"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "к позору"
+    }
+  ],
+  "timestamp": "2026-08-03T09:24:10.564548335Z",
+  "model": "glm-4.5"
+}

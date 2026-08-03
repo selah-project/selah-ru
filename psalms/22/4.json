@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Но Ты — Святой, восседающий [над] хвалами Израиля",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Но Ты"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Святой"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "восседающий"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "хвалами"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-03T06:55:01.871850393Z",
+  "model": "glm-4.5"
+}

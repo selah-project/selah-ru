@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "proverbs 10:23",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Как забава глупцу делать злодейство, ⟨а⟩ мудрость — человеку раз.",
+  "tokens": [
+    {
+      "surface": "כשחוק",
+      "gloss": "как забава"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "глупцу"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "делать"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "злодейство"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "⟨а⟩ мудрость"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "человеку"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "раз"
+    }
+  ],
+  "timestamp": "2026-08-03T09:32:51.807657320Z",
+  "model": "glm-4.5"
+}

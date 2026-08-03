@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "leviticus 8:36",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И сделал Аарон и сыновья его ⟨את⟩ все ⟨слова⟩, которые заповедал ЯХВЕ рукой Мошея",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "и сделал"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "и сыновья его"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "все слова"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "слова"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповедал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "рукой"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошея"
+    }
+  ],
+  "timestamp": "2026-08-02T20:47:55.876397852Z",
+  "model": "glm-4.5"
+}

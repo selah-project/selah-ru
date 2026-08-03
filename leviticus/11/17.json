@@ -1,0 +1,40 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "и ⟨את⟩ кукушка, и ⟨את⟩ зимородок, и ⟨את⟩ филин",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "кукушка"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "кукушка"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "зимородок"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "зимородок"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "филин"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "филин"
+    }
+  ],
+  "timestamp": "2026-08-02T20:50:32.615529741Z",
+  "model": "glm-4.5"
+}

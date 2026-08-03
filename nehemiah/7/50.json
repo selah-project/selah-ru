@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 50,
+  "ref": "nehemiah 7:50",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "сыновья Реаи, сыновья Рецина, сыновья Некоды",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "Реаи"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Рецина"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "Некоды"
+    }
+  ],
+  "timestamp": "2026-08-03T12:23:08.106880738Z",
+  "model": "glm-4.5"
+}

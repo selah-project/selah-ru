@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "song-of-songs 2:12",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Цветы appeared on ⟨the⟩ earth, time ⟨of⟩ ⟨the⟩ singing has come, and voice ⟨of⟩ ⟨the⟩ turtle-dove heard in our land",
+  "tokens": [
+    {
+      "surface": "הנצנים",
+      "gloss": "Цветы"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "appeared"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "on ⟨the⟩ earth"
+    },
+    {
+      "surface": "עת",
+      "gloss": "time"
+    },
+    {
+      "surface": "הזמיר",
+      "gloss": "⟨of⟩ ⟨the⟩ singing"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "has come"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "and voice"
+    },
+    {
+      "surface": "התור",
+      "gloss": "⟨of⟩ ⟨the⟩ turtle-dove"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "heard"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "in our land"
+    }
+  ],
+  "timestamp": "2026-08-03T10:55:02.731085301Z",
+  "model": "glm-4.5"
+}

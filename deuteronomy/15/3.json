@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "⟨את⟩ чужеземца ты будешь взыскивать, а ⟨את⟩ брата твоего отпустит рука твоя",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "чужеземца"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "чужеземца"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "ты будешь взыскивать"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "а"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "[что] будет"
+    },
+    {
+      "surface": "לך",
+      "gloss": "у тебя"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "брата твоего"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "брата твоего"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "отпустит"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "рука твоя"
+    }
+  ],
+  "timestamp": "2026-08-02T22:06:26.250193629Z",
+  "model": "glm-4.5"
+}

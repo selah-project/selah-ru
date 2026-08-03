@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "И Элиу ждал ⟨את⟩ Иова словами, потому что они старше него по дням.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "И Элиу"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "ждал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Иова"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Иова"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "словами"
+    },
+    {
+      "surface": "כי",
+      "gloss": "потому что"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "старше"
+    },
+    {
+      "surface": "המה",
+      "gloss": "они"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "него"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "по дням"
+    }
+  ],
+  "timestamp": "2026-08-03T10:37:37.681203474Z",
+  "model": "glm-4.5"
+}

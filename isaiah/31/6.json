@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "isaiah 31:6",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "Вернитесь к Тому, от Кого глубоко отступили сыны Израиля",
+  "tokens": [
+    {
+      "surface": "שובו",
+      "gloss": "Вернитесь"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "к Тому"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "глубоко"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "отступили"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-03T02:16:04.700680198Z",
+  "model": "glm-4.5"
+}

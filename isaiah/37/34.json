@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "isaiah 37:34",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "По пути, которым пришёл, ⟨он⟩ возвратится им, и в этот город не войдёт, — слово ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "по пути"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которым"
+    },
+    {
+      "surface": "בא",
+      "gloss": "пришёл"
+    },
+    {
+      "surface": "בה",
+      "gloss": "им"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "возвратится"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и в"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "город"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "этот"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "войдёт"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T02:23:58.522505906Z",
+  "model": "glm-4.5"
+}

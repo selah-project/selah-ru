@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "Он любит праведность и суд: земля полна хеседа ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "любит"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "праведность"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "и суд"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хеседа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "полна"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    }
+  ],
+  "timestamp": "2026-08-03T07:08:49.105134160Z",
+  "model": "glm-4.5"
+}

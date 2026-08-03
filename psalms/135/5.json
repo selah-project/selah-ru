@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 135,
+  "translation": "Ибо я знаю, что велик ЯХВЕ, ⟨и⟩ Господь наш ⟨над⟩ всеми ⟨богами⟩",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знаю"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "⟨и⟩ Господь наш"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "⟨над⟩ всеми"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "⟨богами⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T09:05:31.714785195Z",
+  "model": "glm-4.5"
+}

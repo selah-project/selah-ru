@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И я спустился в дом Гончара, и вот, он ⟨делал⟩ работу ⟨на⟩ камнях",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "и я спустился"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "Гончара"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "и вот, он"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨делал⟩"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "работу"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "камнях"
+    }
+  ],
+  "timestamp": "2026-08-03T03:21:09.208342027Z",
+  "model": "glm-4.5"
+}

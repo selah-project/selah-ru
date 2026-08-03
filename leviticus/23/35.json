@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "В первый день ⟨это⟩ священное собрание; никакой работы службы не делайте.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "В день"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "первый"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "собрание"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "священное"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всякий"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "работа"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "службы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "делайте"
+    }
+  ],
+  "timestamp": "2026-08-02T21:04:00.534459281Z",
+  "model": "glm-4.5"
+}

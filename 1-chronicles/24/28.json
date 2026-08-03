@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "От Махли: Элазар, у ⟨его⟩ не было сыновей,",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "От Махли"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Элазар"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "было"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨его⟩"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сыновей"
+    }
+  ],
+  "timestamp": "2026-08-03T13:11:03.428646649Z",
+  "model": "glm-4.5"
+}

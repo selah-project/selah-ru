@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 124,
+  "translation": "Тогда ⟨бы⟩ переплыли ⟨наше⟩ дыхание воды гордые,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "Тогда"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "⟨бы⟩ переплыли"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨наше⟩"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "дыхание"
+    },
+    {
+      "surface": "המים",
+      "gloss": "воды"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "гордые"
+    }
+  ],
+  "timestamp": "2026-08-03T08:58:37.391806761Z",
+  "model": "glm-4.5"
+}

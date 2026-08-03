@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "А если ⟨она⟩ не заключит ⟨мир⟩ с тобою и ⟨будет⟩ вести с тобою войну, то ты осадишь ⟨её⟩",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А если"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "заключит"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "с тобою"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "и ⟨будет⟩ вести"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "с тобою"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "войну"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "то ты осадишь"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "⟨её⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T22:10:46.184166368Z",
+  "model": "glm-4.5"
+}

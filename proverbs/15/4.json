@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "Исцеляющий язык — дерево жизни, а извращение в нём — сокрушение духа.",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "Исцеляющий"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "язык"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дерево"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "жизни"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "а извращение"
+    },
+    {
+      "surface": "בה",
+      "gloss": "в нём"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "сокрушение"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "духа"
+    }
+  ],
+  "timestamp": "2026-08-03T09:39:35.160864183Z",
+  "model": "glm-4.5"
+}

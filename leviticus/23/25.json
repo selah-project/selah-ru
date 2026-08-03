@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "всякую работу ⟨не⟩ делайте и принесите огненное приношение ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "всякую"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "работу"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "⟨сerving⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "делайте"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "и принесите"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "огненное приношение"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T21:03:44.363241300Z",
+  "model": "glm-4.5"
+}

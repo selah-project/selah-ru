@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "isaiah 48:15",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 48,
+  "translation": "Я, Я говорил, да, призвал его, ⟨Я⟩ привёл его, и успешен ⟨будет⟩ путь его",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "говорил"
+    },
+    {
+      "surface": "אף",
+      "gloss": "да"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "призвал его"
+    },
+    {
+      "surface": "הביאתיו",
+      "gloss": "⟨Я⟩ привёл его"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "и успешен"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "путь его"
+    }
+  ],
+  "timestamp": "2026-08-03T02:36:13.704590135Z",
+  "model": "glm-4.5"
+}

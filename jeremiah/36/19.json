@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "jeremiah 36:19",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "И сказали князья Баруху: иди, скройся ты и Ирмеяу, и человек пусть не узнает, где ⟨вы⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "и сказали"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "князья"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Баруху"
+    },
+    {
+      "surface": "לך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "скройся"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    },
+    {
+      "surface": "וירמיהו",
+      "gloss": "и Ирмеяу"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "и человек"
+    },
+    {
+      "surface": "אל",
+      "gloss": "пусть не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "узнает"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "где"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨вы⟩",
+      "marks": "ты и Ирмеяу"
+    }
+  ],
+  "timestamp": "2026-08-03T03:50:48.812768066Z",
+  "model": "glm-4.5"
+}

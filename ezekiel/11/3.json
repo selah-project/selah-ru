@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Говорящие: «не ⟨близко⟩ строить ⟨את⟩ дома; этот город — котёл, а мы — мясо».",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "Говорящие"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "⟨близко⟩"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "строить"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "⟨את⟩",
+      "marks": "дома"
+    },
+    {
+      "surface": "היא",
+      "gloss": "—"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "котёл"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "а мы"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "мясо"
+    }
+  ],
+  "timestamp": "2026-08-03T04:26:34.353864043Z",
+  "model": "glm-4.5"
+}

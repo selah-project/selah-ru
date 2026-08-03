@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "judges 11:16",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "когда они взошли из Египта, и шёл Израиль по пустыне до Яма Суф, и пришёл в Кадеш",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "когда"
+    },
+    {
+      "surface": "בעלותם",
+      "gloss": "они взошли"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "из Египта"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и шёл"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "по пустыне"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Ям"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Суф"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и пришёл"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "в Кадеш"
+    }
+  ],
+  "timestamp": "2026-08-02T23:01:29.876954838Z",
+  "model": "glm-4.5"
+}

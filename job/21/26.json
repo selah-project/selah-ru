@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "job 21:26",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Вместе на пыли они лягут, и червь покроет их",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "Вместе"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "пыли"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "они лягут"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "и червь"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "покроет"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "их"
+    }
+  ],
+  "timestamp": "2026-08-03T10:28:16.479050396Z",
+  "model": "glm-4.5"
+}

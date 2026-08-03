@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И вынесет ⟨את⟩ тельца за стан, и сожжёт ⟨את⟩ его, как сжёг ⟨את⟩ тельца ⟨את⟩ первого; это хатат общины — ⟨он⟩.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "И вынесет"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тельца"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "тельца"
+    },
+    {
+      "surface": "אל",
+      "gloss": "за"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "предел"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "стан"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "и сожжёт"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "сжёг"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тельца"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "тельца"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "первого"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "хатат"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "общины"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T20:42:44.115579744Z",
+  "model": "glm-4.5"
+}

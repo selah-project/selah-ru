@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 96,
+  "translation": "Воздайте ЯХВЕ, роды народов, воздайте ЯХВЕ славу и мощь",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "воздайте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "роды"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народов"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "воздайте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славу"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "и мощь"
+    }
+  ],
+  "timestamp": "2026-08-03T08:24:42.268884530Z",
+  "model": "glm-4.5"
+}

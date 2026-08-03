@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Ибо вот, прошла ⟨зима⟩, прошёл ⟨дождь⟩, и ушёл ⟨он⟩;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "прошла"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "⟨зима⟩"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "⟨дождь⟩"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "прошёл"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ушёл"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨он⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T10:54:50.226992168Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Желание праведников — только благо, ожидание нечестивых — ⟨ярость⟩.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Желание"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведников"
+    },
+    {
+      "surface": "אך",
+      "gloss": "только"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "благо"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "ожидание"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивых"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "⟨ярость⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T09:33:55.774559266Z",
+  "model": "glm-4.5"
+}

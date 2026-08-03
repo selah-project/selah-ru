@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "Не царям, Лемуэль, не царям пить вино, и князьям — ⟨искать⟩ опьянения;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "царям"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Лемуэль"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "царям"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "пить"
+    },
+    {
+      "surface": "יין",
+      "gloss": "вино"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "и князьям"
+    },
+    {
+      "surface": "או",
+      "gloss": "⟨искать⟩"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "опьянения"
+    }
+  ],
+  "timestamp": "2026-08-03T10:08:53.928622760Z",
+  "model": "glm-4.5"
+}

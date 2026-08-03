@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "После этого открыл Ийов ⟨את⟩ свой рот и проклял ⟨את⟩ день свой",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "После этого"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "פתח",
+      "gloss": "открыл"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ийов"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "свой рот"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "свой рот"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "и проклял"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "день свой"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "день свой"
+    }
+  ],
+  "timestamp": "2026-08-03T10:11:50.901653101Z",
+  "model": "glm-4.5"
+}

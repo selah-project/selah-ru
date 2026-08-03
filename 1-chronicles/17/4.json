@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-chronicles 17:4",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "Иди и скажи Давиду, рабу Моему: так говорит ЯХВЕ: не ты построишь Мне дом для обитания",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "и скажи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давиду"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "рабу Моему"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "говорит"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "построишь"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мне"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "для обитания"
+    }
+  ],
+  "timestamp": "2026-08-03T13:01:35.254732368Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 105,
+  "translation": "изранили ⟨его⟩ ноги оковами, железо вошло в ⟨его⟩ нефеш,",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "изранили"
+    },
+    {
+      "surface": "בכבל",
+      "gloss": "оковами"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ноги"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "железо"
+    },
+    {
+      "surface": "באה",
+      "gloss": "вошло"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "нефеш"
+    }
+  ],
+  "timestamp": "2026-08-03T08:35:09.107444105Z",
+  "model": "glm-4.5"
+}

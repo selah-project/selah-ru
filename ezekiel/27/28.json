@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "ezekiel 27:28",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "От крика ⟨к⟩ твоих кормчих сотрясутся ⟨сё⟩ пригорода",
+  "tokens": [
+    {
+      "surface": "לקול",
+      "gloss": "от крика"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "חבליך",
+      "gloss": "твоих кормчих"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "сотрясутся"
+    },
+    {
+      "surface": "מגרשות",
+      "gloss": "⟨сё⟩ пригорода"
+    }
+  ],
+  "timestamp": "2026-08-03T04:50:17.853889093Z",
+  "model": "glm-4.5"
+}

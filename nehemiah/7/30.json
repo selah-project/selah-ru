@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "люди ⟨из⟩ Рамы и Гивы, шестьсот двадцать ⟨и⟩ один;",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "люди"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "⟨из⟩ Рамы"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "и Гивы"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шестьсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "⟨—⟩"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцать"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "⟨и⟩ один"
+    }
+  ],
+  "timestamp": "2026-08-03T12:21:32.207448487Z",
+  "model": "glm-4.5"
+}

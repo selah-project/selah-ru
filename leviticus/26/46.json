@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 46,
+  "ref": "leviticus 26:46",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Элэ ⟨это⟩ хуким умишпатим вэ-торот, ашер натан ЯХВЕ бейно увэйн бней Исраэль бэ-гар Синай бэ-яд Моше",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Элэ"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "хуким"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "умишпатим"
+    },
+    {
+      "surface": "והתורת",
+      "gloss": "вэ-торот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "asher"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "натан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "бейно"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "увэйн"
+    },
+    {
+      "surface": "בני",
+      "gloss": "бней"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраэль"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "бэ-гар"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синай"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "бэ-яд"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-08-02T21:08:11.184640334Z",
+  "model": "glm-4.5"
+}

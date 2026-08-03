@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 38,
+  "translation": "Персия, Куш и Пут с ними; все ⟨они⟩ со щитом и шлемом:",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "Персия"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "и Пут"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "с ними"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "все ⟨они⟩"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "со щитом"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "и шлемом"
+    }
+  ],
+  "timestamp": "2026-08-03T05:03:45.907137898Z",
+  "model": "glm-4.5"
+}

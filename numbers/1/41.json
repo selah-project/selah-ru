@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 41,
+  "ref": "numbers 1:41",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "их пересчёт ⟨по⟩ колену Ашера: сорок одна тысяча и пятьсот",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "их пересчёт"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "⟨по⟩ колену"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашера"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одна"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "и сорок"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тысяча"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "и пять"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотен"
+    }
+  ],
+  "timestamp": "2026-08-02T21:10:27.079041892Z",
+  "model": "glm-4.5"
+}

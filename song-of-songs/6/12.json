@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Не знала душа моя — поставила меня ⟨среди⟩ колесниц народа моего, знатного.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знала"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душа моя"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "поставила меня"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "колесниц"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народа моего"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "знатного"
+    }
+  ],
+  "timestamp": "2026-08-03T10:58:09.023553056Z",
+  "model": "glm-4.5"
+}

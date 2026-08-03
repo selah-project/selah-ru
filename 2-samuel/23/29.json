@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "2-samuel 23:29",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Хелев сын Бааны Нетофафянин, Иттай сын Рибая из Гивы сыновей Биньямина,",
+  "tokens": [
+    {
+      "surface": "חלב",
+      "gloss": "Хелев"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "Бааны"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "Нетофафянин"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Иттай"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "Рибая"
+    },
+    {
+      "surface": "מגבעת",
+      "gloss": "из Гивы"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Биньямина"
+    }
+  ],
+  "timestamp": "2026-08-03T00:13:23.390751527Z",
+  "model": "glm-4.5"
+}

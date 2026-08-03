@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "job 33:29",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "Вот, всё это делает Эль, дважды и трижды с человеком,",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "вот"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "это"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "делает"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эль"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "раз"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "трижды"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "человеком"
+    }
+  ],
+  "timestamp": "2026-08-03T10:41:09.621386564Z",
+  "model": "glm-4.5"
+}

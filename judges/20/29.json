@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "judges 20:29",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И поставил Израиль засаду ⟨около⟩ Гивы, ⟨вокруг⟩",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "И поставил"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    },
+    {
+      "surface": "ארבים",
+      "gloss": "засаду"
+    },
+    {
+      "surface": "אל",
+      "gloss": "около"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Гивы"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "вокруг"
+    }
+  ],
+  "timestamp": "2026-08-02T23:10:50.349809803Z",
+  "model": "glm-4.5"
+}

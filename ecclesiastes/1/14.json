@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Я увидел ⟨את⟩ все дела, которые сделаны под солнцем, и вот, всё — суета и томление духа.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "увидел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "все дела"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "дела"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "которые сделаны"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "солнцем"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "суета"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "и томление"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "духа"
+    }
+  ],
+  "timestamp": "2026-08-03T11:15:38.399945903Z",
+  "model": "glm-4.5"
+}

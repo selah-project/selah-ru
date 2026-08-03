@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 39,
+  "translation": "Я был нем, не открою ⟨свои⟩ уста, потому что Ты ⟨это⟩ сделал.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Я был нем"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "открою"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уста"
+    },
+    {
+      "surface": "כי",
+      "gloss": "потому что"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "сделал"
+    }
+  ],
+  "timestamp": "2026-08-03T07:17:42.098209424Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Притчи Шеломо. Мудрый сын радует отца, а сын глупца — тоска его матери.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "Притчи"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудрый"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "радует"
+    },
+    {
+      "surface": "אב",
+      "gloss": "отца"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "а сын"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупца"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "тоска"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "его матери"
+    }
+  ],
+  "timestamp": "2026-08-03T09:32:18.810489996Z",
+  "model": "glm-4.5"
+}

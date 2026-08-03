@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "ибо ⟨он⟩ говорит снегу: будь на земле; и ⟨дождь⟩ — ливень, и ливни силы Его",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "снегу"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "говорит"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земле"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "и дождь"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ливень"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "и"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "ливи"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "силы Его"
+    }
+  ],
+  "timestamp": "2026-08-03T10:47:54.941435029Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 49,
+  "translation": "и сказал мне: ⟨ты⟩ слуга Мой, Израиль, в котором Я прославлюсь.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слуга Мой"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ты⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "в котором"
+    },
+    {
+      "surface": "בך",
+      "gloss": "в ⟨тебе⟩"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "Я прославлюсь"
+    }
+  ],
+  "timestamp": "2026-08-03T02:36:57.584255542Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 116,
+  "translation": "Обеты мои ⟨и⟩ ЯХВЕ ⟨исполню⟩, ⟨прошу⟩, пред всем народом Его.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "Обеты мои"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨и⟩ ЯХВЕ"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "⟨исполню⟩"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "пред"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨прошу⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "всем"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "народом Его"
+    }
+  ],
+  "timestamp": "2026-08-03T08:46:21.464469044Z",
+  "model": "glm-4.5"
+}

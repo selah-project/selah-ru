@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "новы каждое утро, велика верность Твоя",
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "новы"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "каждое утро"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "велика"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "верность Твоя"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:35.510046927Z",
+  "model": "glm-4.5"
+}

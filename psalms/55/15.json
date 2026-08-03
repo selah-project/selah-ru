@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 55,
+  "translation": "Которые вместе услаждали ⟨своим⟩ советом в доме Элохima ходили в толпе",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Которые"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "вместе"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "услаждали"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "⟨своим⟩ советом"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "в доме"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Эlohima"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "ходили"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "в толпе"
+    }
+  ],
+  "timestamp": "2026-08-03T07:32:23.170667067Z",
+  "model": "glm-4.5"
+}

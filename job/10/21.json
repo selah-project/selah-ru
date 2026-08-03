@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "job 10:21",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Прежде чем ⟨я⟩ пойду и не вернусь, в землю тьмы и тени смертной,",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Прежде чем"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "пойду"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "вернусь"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "тьмы"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "и тени смертной"
+    }
+  ],
+  "timestamp": "2026-08-03T10:18:46.828658547Z",
+  "model": "glm-4.5"
+}

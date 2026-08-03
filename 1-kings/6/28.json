@@ -1,0 +1,30 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И он покрыл ⟨את⟩ херувимов золотом.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "И он покрыл"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "херувимов"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "херувимов"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золотом"
+    }
+  ],
+  "timestamp": "2026-08-03T00:27:17.241317381Z",
+  "model": "glm-4.5"
+}

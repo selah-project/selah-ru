@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "ибо ⟨ты⟩ увидишь ⟨את⟩ землю оттуда, но не войдёшь туда, в землю, которую Я даю сынам Израиля",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "оттуда"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "увидишь"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "но"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "войдёшь"
+    },
+    {
+      "surface": "אל",
+      "gloss": "туда"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которую"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даю"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "сынам"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-02T22:23:22.092089574Z",
+  "model": "glm-4.5"
+}

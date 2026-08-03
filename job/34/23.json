@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "job 34:23",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "Ибо Он не установит ⟨ещё⟩ для человека идти к Эль на суд",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человека"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "установит"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨ещё⟩"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "идти"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эль"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "на суд"
+    }
+  ],
+  "timestamp": "2026-08-03T18:29:58.246435704Z",
+  "model": "glm-4.5"
+}

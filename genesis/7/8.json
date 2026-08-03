@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "из чистого скота и из ⟨не⟩чистого скота, и из птицы, и из всего, что ползёт по земле",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "скота"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "чистого"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и из"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "скота"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "чист"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и из"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "птицы"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и всего"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ползёт"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "земле"
+    }
+  ],
+  "timestamp": "2026-08-02T17:50:36.317845921Z",
+  "model": "glm-4.5"
+}

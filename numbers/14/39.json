@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 39,
+  "ref": "numbers 14:39",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И spoke Мошеh ⟨Алеф-Тав⟩ слова эти ко всем сыновьям Исраэля, и скорбел народ весьма",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говорил"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨Алеф-Тав⟩",
+      "marks": "слова эти"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "слова"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "эти"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ко"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всем"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновьям"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраэля"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "и скорбели"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "весьма"
+    }
+  ],
+  "timestamp": "2026-08-02T21:26:59.083771958Z",
+  "model": "glm-4.5"
+}

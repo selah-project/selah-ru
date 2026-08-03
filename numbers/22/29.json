@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "numbers 22:29",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И сказал Bilam ослице: так как ты издевалась надо мною, если бы ⟨был⟩ меч в руке моей, то теперь я убил бы тебя",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "לאתון",
+      "gloss": "ослице"
+    },
+    {
+      "surface": "כי",
+      "gloss": "так как"
+    },
+    {
+      "surface": "התעללת",
+      "gloss": "издевалась"
+    },
+    {
+      "surface": "בי",
+      "gloss": "надо мною"
+    },
+    {
+      "surface": "לו",
+      "gloss": "если бы"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨был⟩"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меч"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "в руке моей"
+    },
+    {
+      "surface": "כי",
+      "gloss": "то"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "теперь"
+    },
+    {
+      "surface": "הרגתיך",
+      "gloss": "я убил бы тебя"
+    }
+  ],
+  "timestamp": "2026-08-02T21:35:15.120535868Z",
+  "model": "glm-4.5"
+}

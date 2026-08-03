@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "proverbs 6:28",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Разве человек ⟨может⟩ ходить ⟨по⟩ углям, и ноги его не ⟨будут⟩ опалены?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Разве"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ходить"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человек"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "הגחלים",
+      "gloss": "углям"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "и ноги его"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תכוינה",
+      "gloss": "⟨будут⟩ опалены"
+    }
+  ],
+  "timestamp": "2026-08-03T09:27:02.945023235Z",
+  "model": "glm-4.5"
+}

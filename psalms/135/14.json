@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 135,
+  "translation": "Ибо будет судить ЯХВЕ ⟨Свой⟩ народ и сжалится над рабами Своими",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "будет судить"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨Свой⟩ народ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и над"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "рабами Своими"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "сжалится"
+    }
+  ],
+  "timestamp": "2026-08-03T09:05:54.892996152Z",
+  "model": "glm-4.5"
+}

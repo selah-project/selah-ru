@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Ветер полный ⟨от⟩ сих придёт ⟨ко⟩ мне, теперь ⟨и⟩ я буду говорить суды ⟨с ними⟩.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ветер"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "полный"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "⟨от⟩ сих"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "придёт"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨ко⟩ мне"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "теперь"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨и⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "буду говорить"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "суды"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨с ними⟩",
+      "marks": "суды"
+    }
+  ],
+  "timestamp": "2026-08-03T03:02:29.135840564Z",
+  "model": "glm-4.5"
+}

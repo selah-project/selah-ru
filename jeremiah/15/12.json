@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "jeremiah 15:12",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "Разорвёт ⟨ли⟩ железо железо ⟨с⟩ севера и медь?",
+  "tokens": [
+    {
+      "surface": "הירע",
+      "gloss": "разорвёт ⟨ли⟩"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "железо"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "железо"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "⟨с⟩ севера"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "и медь"
+    }
+  ],
+  "timestamp": "2026-08-03T03:17:07.002950928Z",
+  "model": "glm-4.5"
+}

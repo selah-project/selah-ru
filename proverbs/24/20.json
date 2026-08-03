@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Ибо нет будущего ⟨у⟩ злого, светильник нечестивых угаснет",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нет"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "будет"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "будущего"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "⟨у⟩ злого"
+    },
+    {
+      "surface": "נר",
+      "gloss": "светильник"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивых"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "угаснет"
+    }
+  ],
+  "timestamp": "2026-08-03T09:55:31.612157758Z",
+  "model": "glm-4.5"
+}

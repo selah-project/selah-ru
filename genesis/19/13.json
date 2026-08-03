@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "genesis 19:13",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "ибо мы ⟨исправим⟩ ⟨את⟩ место это, ибо велика ⟨את⟩ лицо ЯХВЕ, и послал нас ЯХВЕ ⟨для⟩ гибели её",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "משחתים",
+      "gloss": "⟨исправим⟩"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "мы"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "место это"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "это"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "велика"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лицо"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "וישלחנו",
+      "gloss": "и послал нас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לשחתה",
+      "gloss": "⟨для⟩ гибели её"
+    }
+  ],
+  "timestamp": "2026-08-02T19:16:46.739250892Z",
+  "model": "glm-4.5"
+}

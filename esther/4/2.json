@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "и пришёл ⟨до⟩ лица ворот царя, потому что ⟨нельзя⟩ входить ⟨в⟩ ворота царя в одежде вретища",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "и пришёл"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨до⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "лица"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ворот"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "כי",
+      "gloss": "потому что"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨нельзя⟩"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "входить"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨в⟩"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ворота"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "в одежде"
+    },
+    {
+      "surface": "שק",
+      "gloss": "вретища"
+    }
+  ],
+  "timestamp": "2026-08-03T11:31:20.781421913Z",
+  "model": "glm-4.5"
+}

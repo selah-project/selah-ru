@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "proverbs 4:26",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Выровняй ⟨стезю⟩ для ног твоих, и все пути твои да ⟨будут⟩ укреплены",
+  "tokens": [
+    {
+      "surface": "פלס",
+      "gloss": "Выровняй"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "⟨стезю⟩"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ног твоих"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и все"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "пути твои"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "да ⟨будут⟩ укреплены"
+    }
+  ],
+  "timestamp": "2026-08-03T09:25:30.638462396Z",
+  "model": "glm-4.5"
+}

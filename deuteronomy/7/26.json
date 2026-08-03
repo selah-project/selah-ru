@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "deuteronomy 7:26",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И не внеси ⟨את⟩ мерзость в дом твой, чтобы не стать ⟨ты⟩ заклятым, подобно ему; гнусен shalt thou loathe его, и мерзость shalt thou abhor ⟨его⟩, ибо заклятие — он.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И не"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "внеси"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "мерзость"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "дом твой"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "чтобы не стать"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "заклятым"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "подобно ему"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "гнусен shalt thou loathe"
+    },
+    {
+      "surface": "תשקצנו",
+      "gloss": "его"
+    },
+    {
+      "surface": "ותעב",
+      "gloss": "и мерзость shalt thou abhor"
+    },
+    {
+      "surface": "תתעבנו",
+      "gloss": "⟨את⟩",
+      "marks": "его"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "заклятие"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "— он"
+    }
+  ],
+  "timestamp": "2026-08-02T21:58:53.783861300Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "jeremiah 37:16",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "Когда вошёл Ирмия́ху в дом ямы и в камеры, и сидел там Ирмия́ху ⟨многие⟩ дни",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Когда"
+    },
+    {
+      "surface": "בא",
+      "gloss": "вошёл"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмия́ху"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "ямы"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и в"
+    },
+    {
+      "surface": "החניות",
+      "gloss": "камеры"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и сидел"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмия́ху"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "⟨многие⟩"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "дни"
+    }
+  ],
+  "timestamp": "2026-08-03T03:52:14.994202469Z",
+  "model": "glm-4.5"
+}

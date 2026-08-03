@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 49,
+  "ref": "numbers 26:49",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "для Ецера, семейство Ецери: для Шаллема, семейство Шаллеми",
+  "tokens": [
+    {
+      "surface": "ליצר",
+      "gloss": "для Ецера"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "семейство"
+    },
+    {
+      "surface": "היצרי",
+      "gloss": "Ецери"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "для Шаллема"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "семейство"
+    },
+    {
+      "surface": "השלמי",
+      "gloss": "Шаллеми"
+    }
+  ],
+  "timestamp": "2026-08-02T21:39:38.422240442Z",
+  "model": "glm-4.5"
+}

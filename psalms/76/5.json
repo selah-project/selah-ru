@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 76,
+  "translation": "Светёл Ты, величественнее гор добычи",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "Светёл"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "величественнее"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "гор"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "добычи"
+    }
+  ],
+  "timestamp": "2026-08-03T07:57:40.924095369Z",
+  "model": "glm-4.5"
+}

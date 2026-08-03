@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "job 9:20",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Если я ⟨буду⟩ прав, ⟨мой⟩ рот осудит меня; я непорочен, но он объявит меня crooked.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Если"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "⟨буду⟩ прав"
+    },
+    {
+      "surface": "פי",
+      "gloss": "⟨мой⟩ рот"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "осудит меня"
+    },
+    {
+      "surface": "תם",
+      "gloss": "непорочен"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "ויעקשני",
+      "gloss": "но он объявит меня crooked"
+    }
+  ],
+  "timestamp": "2026-08-03T10:17:37.834696889Z",
+  "model": "glm-4.5"
+}

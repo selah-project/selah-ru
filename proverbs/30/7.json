@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Две вещи ⟨я⟩ попросил у Тебя, не отказывай мне ⟨их⟩, прежде чем ⟨я⟩ умру:",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Две"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "⟨я⟩ попросил"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "у Тебя"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "отказывай мне ⟨их⟩"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "мне"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "прежде чем"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "⟨я⟩ умру"
+    }
+  ],
+  "timestamp": "2026-08-03T10:06:53.696194861Z",
+  "model": "glm-4.5"
+}

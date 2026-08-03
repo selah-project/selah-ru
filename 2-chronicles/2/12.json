@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "2-chronicles 2:12",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "А теперь я послал ⟨⟩мудрого человека, понимающего, ⟨⟩Хирама, отца моего.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "А теперь"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "я послал"
+    },
+    {
+      "surface": "איש",
+      "gloss": ""
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудрого"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "понимающего"
+    },
+    {
+      "surface": "בינה",
+      "gloss": ""
+    },
+    {
+      "surface": "לחורם",
+      "gloss": "⟨את⟩",
+      "marks": "Хираму"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отца моего"
+    }
+  ],
+  "timestamp": "2026-08-03T13:21:28.249867305Z",
+  "model": "glm-4.5"
+}

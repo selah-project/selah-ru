@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "judges 11:28",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И не послушался царь сынов Аммона ⟨the⟩ слов Ифтаховых, которые ⟨he⟩ послал к нему",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И не"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "послушался"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммона"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨the⟩"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слов"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Ифтаховых"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "⟨he⟩ послал"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "к нему"
+    }
+  ],
+  "timestamp": "2026-08-02T23:01:58.711316592Z",
+  "model": "glm-4.5"
+}

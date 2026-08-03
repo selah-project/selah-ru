@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "proverbs 2:20",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "чтобы ты шёл путём добрых и ⟨сторожил⟩ ⟨תשמר⟩ пути праведников",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "чтобы"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "шёл"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "путём"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "добрых"
+    },
+    {
+      "surface": "וארחות",
+      "gloss": "и ⟨пути⟩"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведников"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "⟨сторожил⟩",
+      "marks": "⟨תשמר⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T09:22:16.185276133Z",
+  "model": "glm-4.5"
+}

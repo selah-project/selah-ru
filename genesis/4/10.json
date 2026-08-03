@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И сказал: что ⟨ты⟩ сделал? голос крови брата твоего вопиет ко мне из земли",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "⟨ты⟩ сделал"
+    },
+    {
+      "surface": "קול",
+      "gloss": "голос"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "крови"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "брата твоего"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "вопиет"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ко мне"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "земли"
+    }
+  ],
+  "timestamp": "2026-08-02T17:47:36.228483108Z",
+  "model": "glm-4.5"
+}

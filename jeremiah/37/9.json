@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "jeremiah 37:9",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "Так сказал ЯХВЕ: не обманывайте ваши души, говоря: уйдут, уйдут от нас халдеи, ибо не уйдут",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "обманывайте"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "ваши души"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "уйдут"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "уйдут"
+    },
+    {
+      "surface": "מעלינו",
+      "gloss": "от нас"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "халдеи"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "уйдут"
+    }
+  ],
+  "timestamp": "2026-08-03T03:52:27.486553090Z",
+  "model": "glm-4.5"
+}

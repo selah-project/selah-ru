@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 49,
+  "ref": "deuteronomy 4:49",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "и ⟨всё⟩ ⟨Араву⟩ за Ярденом к востоку и до моря ⟨Аравы⟩, ⟨под⟩ склона ⟨Писги⟩",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "и ⟨всё⟩"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "⟨Араву⟩"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "за"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Ярденом"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "к востоку"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "ים",
+      "gloss": "моря"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "⟨Аравы⟩"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨под⟩"
+    },
+    {
+      "surface": "אשדת",
+      "gloss": "склона"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "⟨Писги⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T21:55:33.345734707Z",
+  "model": "glm-4.5"
+}

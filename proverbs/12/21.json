@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "proverbs 12:21",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Не ⟨будет⟩ встречено ⟨с⟩ праведником ⟨никакого⟩ зла, а wicked полны зла",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יאנה",
+      "gloss": "будет встречено"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "с праведником"
+    },
+    {
+      "surface": "כל",
+      "gloss": "никакого"
+    },
+    {
+      "surface": "און",
+      "gloss": "зла"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "а wicked"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "полны"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зла"
+    }
+  ],
+  "timestamp": "2026-08-03T09:35:31.971825039Z",
+  "model": "glm-4.5"
+}

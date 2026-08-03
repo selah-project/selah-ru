@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Ибо так сказал ЯХВЕ: голос трепета мы слышали, страх, ⟨и нет⟩ мира.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "голос"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "трепета"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "мы слышали"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "страх"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "⟨и нет⟩"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мира"
+    }
+  ],
+  "timestamp": "2026-08-03T03:40:53.500837256Z",
+  "model": "glm-4.5"
+}

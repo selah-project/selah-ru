@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "И повелел Моше ⟨את⟩ народ в ⟨тот⟩ день, говоря:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "И повелел"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в ⟨день⟩"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨тот⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-03T18:15:33.308824215Z",
+  "model": "glm-4.5"
+}

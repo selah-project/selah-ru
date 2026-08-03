@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Ибо едят они хлеб ⟨презренных⟩, и пьют вино ⟨насилия⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "едят они"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "презренных"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "и пьют вино"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "насилия"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T09:25:20.693598897Z",
+  "model": "glm-4.5"
+}

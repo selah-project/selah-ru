@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "2-chronicles 18:25",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И сказал царь Израиля: возьмите ⟨את⟩ Михея и отведите его к Амону, правителю города, и к Иоашу, сыну царя.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "возьмите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Михея"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Михея"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "и отведите его"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Амону"
+    },
+    {
+      "surface": "שר",
+      "gloss": "правителю"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "города"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и к"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Иоашу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сыну"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    }
+  ],
+  "timestamp": "2026-08-03T13:49:15.131049315Z",
+  "model": "glm-4.5"
+}

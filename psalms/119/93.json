@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Навеки не забуду повелений Твоих, ибо ими Ты оживил меня",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "навеки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "забуду"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "повелений Твоих"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ими"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "оживил меня"
+    }
+  ],
+  "timestamp": "2026-08-03T08:52:38.595768286Z",
+  "model": "glm-4.5"
+}

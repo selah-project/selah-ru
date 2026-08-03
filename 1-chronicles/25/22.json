@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "1-chronicles 25:22",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "Пятнадцатый — Иремофу, его сыновьям и братьям его — двенадцать:",
+  "tokens": [
+    {
+      "surface": "לחמשה",
+      "gloss": "пятнадцатый"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לירמות",
+      "gloss": "Иремофу"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "его сыновьям"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "и братьям его"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "двенадцать"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T13:12:07.542906210Z",
+  "model": "glm-4.5"
+}

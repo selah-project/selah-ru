@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И он сказал: не бойся, ибо те, кто с нами, многочисленнее тех, кто ⟨את⟩ ними.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И он сказал"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "бойся"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многочисленнее"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кто"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "с нами"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "чем"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ними"
+    }
+  ],
+  "timestamp": "2026-08-03T01:11:27.455547610Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "hosea 13:7",
+  "book": "hosea",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И буду Я для них как лев; как леопард ⟨на⟩ дороге ⟨я⟩ буду подстерегать:",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "И буду Я"
+    },
+    {
+      "surface": "להם",
+      "gloss": "для них"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "как"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "лев"
+    },
+    {
+      "surface": "כנמר",
+      "gloss": "леопард"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "дороге"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "⟨я⟩ буду подстерегать"
+    }
+  ],
+  "timestamp": "2026-08-03T05:29:16.219241280Z",
+  "model": "glm-4.5"
+}

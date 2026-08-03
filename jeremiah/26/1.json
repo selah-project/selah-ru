@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "jeremiah 26:1",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "В начале царствования Иегоякима, сына Иосии, царя Иуды, было это слово от ЯХВЕ, говоря:",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "В начале"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "царствования"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Иегоякима"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Иосии"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иуды"
+    },
+    {
+      "surface": "היה",
+      "gloss": "было"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "это слово"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "это"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "от",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-03T18:35:17.456592341Z",
+  "model": "glm-4.5"
+}

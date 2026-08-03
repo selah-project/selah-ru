@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "exodus 40:35",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "И не мог Моисей войти в шатёр собрания, ибо облако обитало над ним, и слава ЯХВЕ наполнила ⟨את⟩ мишкан",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "мог"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моисей"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "войти"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатёр"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "собрания"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "обитало"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "над ним"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "облако"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "и слава"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "наполнила"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мишкан"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "мишкан"
+    }
+  ],
+  "timestamp": "2026-08-02T20:39:42.543732204Z",
+  "model": "glm-4.5"
+}

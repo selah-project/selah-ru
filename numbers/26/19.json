@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "numbers 26:19",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Сыновья Иегуды: ⟨это⟩ Эр и Онан; и умер Эр и Онан в земле Кнаана.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иегуды"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Эр"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "и Онан"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умер"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Эр"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "и Онан"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земле"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кнаана"
+    }
+  ],
+  "timestamp": "2026-08-02T21:39:05.566152918Z",
+  "model": "glm-4.5"
+}

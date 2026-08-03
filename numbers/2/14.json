@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "numbers 2:14",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "и колено Гада, и князь сынов Гада — Эльясаф, сын Рагуила:",
+  "tokens": [
+    {
+      "surface": "ומטה",
+      "gloss": "и колено"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гада"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "и князь"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гада"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Эльясаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Рагуила"
+    }
+  ],
+  "timestamp": "2026-08-02T21:11:02.662082808Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "proverbs 4:14",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "На ⟨путь⟩ нечестивых не вступай и ⟨на⟩ ⟨стезе⟩ злых не веселись",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "на путь"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивых"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "вступай"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и ⟨на⟩ не"
+    },
+    {
+      "surface": "תאשר",
+      "gloss": "веселись"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "стезе"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "злых"
+    }
+  ],
+  "timestamp": "2026-08-03T09:24:50.494986993Z",
+  "model": "glm-4.5"
+}

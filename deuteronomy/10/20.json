@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "ЯХВЕ Элохима твоего бойся, ⟨Его⟩ служи и к ⟨Нему⟩ прилепись, и именем Его клянись.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Эlohима твоего"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "бойся"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨Его⟩",
+      "marks": "служи"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "служи"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "и к ⟨Нему⟩"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "прилепись"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "и именем Его"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "клянись"
+    }
+  ],
+  "timestamp": "2026-08-02T22:01:38.082843938Z",
+  "model": "glm-4.5"
+}

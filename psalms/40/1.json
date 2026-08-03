@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "Начальнику [музыкантов]. Псалом Давида.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Начальнику [музыкантов]"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "псалом"
+    }
+  ],
+  "timestamp": "2026-08-03T07:18:39.846914493Z",
+  "model": "glm-4.5"
+}

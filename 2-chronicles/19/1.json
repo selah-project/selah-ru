@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "2-chronicles 19:1",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "И вернулся Иегошафат, царь Иехуды, в ⟨свой⟩ дом ⟨в⟩ шалом в Иерушалаим",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "И вернулся"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Иегошафат"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иехуды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "⟨свой⟩ дом"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "⟨в⟩ шалом"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "в Иерушалаим"
+    }
+  ],
+  "timestamp": "2026-08-03T13:50:31.133917869Z",
+  "model": "glm-4.5"
+}

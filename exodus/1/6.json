@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И умер Йосеф, и ⟨все⟩ братья его, и ⟨весь⟩ тот род",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "и умер"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и ⟨все⟩"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "братья его"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и ⟨весь⟩"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "род"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тот"
+    }
+  ],
+  "timestamp": "2026-08-02T19:55:33.007982637Z",
+  "model": "glm-4.5"
+}

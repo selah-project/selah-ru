@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Иди, ешь хлеб ⟨твой⟩ с радостью и пей вино ⟨твоё⟩ с сердцем добрым, ибо уже благоволил Элохим ⟨את⟩ дела ⟨твои⟩",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ешь"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "с радостью"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "хлеб ⟨твой⟩"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "и пей"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "с сердцем"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добрым"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "вино ⟨твоё⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "уже"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "благоволил"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дела ⟨твои⟩"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "дела ⟨твои⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T11:23:30.510045572Z",
+  "model": "glm-4.5"
+}

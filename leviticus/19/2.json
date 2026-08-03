@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "leviticus 19:2",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Говори ко ⟨всему⟩ собранию сынов Израиля и скажи им: святыми будьте, ибо свят Я — ЯХВЕ, Элохим ваш",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨всему⟩"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "собранию"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "и скажи"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "святыми"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "будете"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "свят"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элохим ваш"
+    }
+  ],
+  "timestamp": "2026-08-02T20:59:13.662488754Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 72,
+  "translation": "Боятся Тебя ⟨с⟩ солнцем, и ⟨перед⟩ луной, поколение, поколения",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "Боятся Тебя"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "солнцем"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "и ⟨перед⟩"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "луной"
+    },
+    {
+      "surface": "דור",
+      "gloss": "поколение"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "поколения"
+    }
+  ],
+  "timestamp": "2026-08-03T07:52:40.509830244Z",
+  "model": "glm-4.5"
+}

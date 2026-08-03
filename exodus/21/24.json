@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "глаз за ⟨⟩ глаз, зуб за ⟨⟩ зуб, руку за ⟨⟩ руку, ногу за ⟨⟩ ногу",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "глаз"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "עין",
+      "gloss": "глаз"
+    },
+    {
+      "surface": "שן",
+      "gloss": "зуб"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "שן",
+      "gloss": "зуб"
+    },
+    {
+      "surface": "יד",
+      "gloss": "руку"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "יד",
+      "gloss": "руку"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ногу"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ногу"
+    }
+  ],
+  "timestamp": "2026-08-02T20:14:58.541266891Z",
+  "model": "glm-4.5"
+}

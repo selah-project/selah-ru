@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И Арпахшад породил ⟨את⟩ Шелаха, и Шелах породил ⟨את⟩ Эвера",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "И Арпахшад"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шелаха"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Шелаха"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "и Шелах"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эвера"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Эвера"
+    }
+  ],
+  "timestamp": "2026-08-02T17:53:39.654540417Z",
+  "model": "glm-4.5"
+}

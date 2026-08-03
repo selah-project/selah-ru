@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "genesis 20:18",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "ибо ⟨ЯХВЕ⟩ запер ⟨стал⟩ ⟨каждое⟩ чрево ⟨в⟩ доме Авимелеха ⟨из-за⟩ дела Сары, жены Авраама",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "запер ⟨стал⟩"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "⟨стал⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨ЯХВЕ⟩"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "⟨в⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "каждое"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "чрево"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "доме"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авимелеха"
+    },
+    {
+      "surface": "על",
+      "gloss": "из-за"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "дела"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сары"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жены"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраама"
+    }
+  ],
+  "timestamp": "2026-08-02T19:17:47.677451810Z",
+  "model": "glm-4.5"
+}

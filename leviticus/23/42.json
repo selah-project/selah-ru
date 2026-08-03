@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "leviticus 23:42",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "В сукках живите семь дней; ⟨весь⟩ уроженец в Израиле жить будет в сукках:",
+  "tokens": [
+    {
+      "surface": "בסכת",
+      "gloss": "В сукках"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "живите"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "семь"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дней"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨весь⟩"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "уроженец"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "в Израиле"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "жить будет"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "в сукках"
+    }
+  ],
+  "timestamp": "2026-08-02T21:04:01.622134719Z",
+  "model": "glm-4.5"
+}

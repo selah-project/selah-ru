@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Посему все повеления Твои считаю ⟨правыми⟩; ⟨всякий⟩ путь лжи ненавижу.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Посему"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "повеления"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨все⟩"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "⟨я считаю⟩ правыми"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨всякий⟩"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "путь"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лжи"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ненавижу"
+    }
+  ],
+  "timestamp": "2026-08-03T08:54:02.284668495Z",
+  "model": "glm-4.5"
+}

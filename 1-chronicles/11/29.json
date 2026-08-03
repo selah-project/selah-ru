@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "1-chronicles 11:29",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Сиббай Хушатит, Илай Ахохит",
+  "tokens": [
+    {
+      "surface": "סבכי",
+      "gloss": "Сиббай"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "Хушатит"
+    },
+    {
+      "surface": "עילי",
+      "gloss": "Илай"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "Ахохит"
+    }
+  ],
+  "timestamp": "2026-08-03T12:53:54.408866047Z",
+  "model": "glm-4.5"
+}

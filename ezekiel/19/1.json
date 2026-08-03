@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "ezekiel 19:1",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "А ты, подними ⟨וְאַתָּה֙⟩ ⟨את⟩ песнопение плача к князьям Израиля",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "А ты"
+    },
+    {
+      "surface": "שא",
+      "gloss": "подними"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "песнопение плача"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "князьям"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-03T04:38:39.466240971Z",
+  "model": "glm-4.5"
+}

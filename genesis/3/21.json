@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И сделал ЯХВЕ Элохим для Адама и для жены его одежды из кожи и одел ⟨их⟩",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И сделал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "для Адама"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "и для жены его"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "одежды"
+    },
+    {
+      "surface": "עור",
+      "gloss": "из кожи"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "и одел ⟨их⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T17:47:11.780426944Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "ezekiel 11:4",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Поэтому пророчествуй против ⟨них⟩, пророчествуй, сын человека.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "поэтому"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "пророчествуй"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "против ⟨них⟩",
+      "marks": "них"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "пророчествуй"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человека"
+    }
+  ],
+  "timestamp": "2026-08-03T04:26:32.846173131Z",
+  "model": "glm-4.5"
+}

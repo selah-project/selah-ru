@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И подошли они, и понесли их в ⟨их⟩ túниках к ⟨наружи⟩ стану, как говорил Моше.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "и подошли они"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "и понесли их"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "в ⟨их⟩ túниках"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "⟨наружи⟩"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "стану"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорил"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-08-02T20:49:11.988212201Z",
+  "model": "glm-4.5"
+}

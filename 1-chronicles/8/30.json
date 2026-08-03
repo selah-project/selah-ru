@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "и его сын, первенец, Авдон, и Цур, и Киш, и Баал, и Надав",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "и его сын"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "первенец"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Авдон"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "и Цур"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "и Киш"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "и Баал"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "и Надав"
+    }
+  ],
+  "timestamp": "2026-08-03T12:49:08.414609283Z",
+  "model": "glm-4.5"
+}

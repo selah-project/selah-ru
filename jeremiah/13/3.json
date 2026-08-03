@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "jeremiah 13:3",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И было слово ЯХВЕ ко мне ⟨во⟩ второй раз, ⟨говоря⟩",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ко мне"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "⟨во⟩ второй раз"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨говоря⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T03:14:14.334158653Z",
+  "model": "glm-4.5"
+}

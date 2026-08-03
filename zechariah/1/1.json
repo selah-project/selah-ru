@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "zechariah 1:1",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "В восьмом месяце, во второй год Дария, было слово ЯХВЕ к Зехарье, сыну Берахьи, сына Идо, пророка, говоря:",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "В месяце"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "восьмом"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "в году"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "два"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "Дария"
+    },
+    {
+      "surface": "היה",
+      "gloss": "было"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Зехарье"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сыну"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "Берахьи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "עדו",
+      "gloss": "Идо"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророка"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-03T06:08:53.939853841Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "leviticus 24:12",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "и поместили его ⟨под⟩ стражу, чтобы объяснить им ⟨по⟩ устам ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ויניחהו",
+      "gloss": "и поместили его"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "⟨под⟩ стражу"
+    },
+    {
+      "surface": "לפרש",
+      "gloss": "чтобы объяснить"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨по⟩"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устам"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T21:04:32.396682337Z",
+  "model": "glm-4.5"
+}

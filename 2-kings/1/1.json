@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И восстал Моав против Израиля после смерти Ахава",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "И восстал"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "против Израиля"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "после"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смерти"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахава"
+    }
+  ],
+  "timestamp": "2026-08-03T01:03:09.924583055Z",
+  "model": "glm-4.5"
+}

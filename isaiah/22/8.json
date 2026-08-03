@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Он снял ⟨את⟩ покров Иуды, и ты посмотришь в тот день на вооружение дома леса.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Он снял"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "покров"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "покров"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иуды"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "и ты посмотришь"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в тот день"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨тот⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "вооружение"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "היער",
+      "gloss": "леса"
+    }
+  ],
+  "timestamp": "2026-08-03T02:05:12.313793870Z",
+  "model": "glm-4.5"
+}

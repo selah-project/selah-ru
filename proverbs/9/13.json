@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "proverbs 9:13",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Женщина Глупость ⟨есть⟩ шумлива, ⟨она⟩ проста и не знает ⟨ничего⟩.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "Женщина"
+    },
+    {
+      "surface": "כסילות",
+      "gloss": "Глупость"
+    },
+    {
+      "surface": "המיה",
+      "gloss": "шумлива"
+    },
+    {
+      "surface": "פתיות",
+      "gloss": "проста"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "знает"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ничего"
+    }
+  ],
+  "timestamp": "2026-08-03T09:31:55.002713200Z",
+  "model": "glm-4.5"
+}

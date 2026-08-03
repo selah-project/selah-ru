@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "К Тебе взывали и спаслись; на Тебя уповали и не постыдились.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "К Тебе"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "взывали"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "и спаслись"
+    },
+    {
+      "surface": "בך",
+      "gloss": "на Тебя"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "уповали"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "постыдились"
+    }
+  ],
+  "timestamp": "2026-08-03T06:55:19.168641587Z",
+  "model": "glm-4.5"
+}

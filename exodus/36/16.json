@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "и соединил ⟨את⟩ пять пологов особо и ⟨את⟩ шесть пологов особо",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "и соединил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пять пологов"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пять"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "пологов"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "особо"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "шесть пологов"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шесть"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "пологов"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "особо"
+    }
+  ],
+  "timestamp": "2026-08-02T20:34:47.374569739Z",
+  "model": "glm-4.5"
+}

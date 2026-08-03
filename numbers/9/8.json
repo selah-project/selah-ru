@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "numbers 9:8",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И сказал Моше им: ⟨вы⟩ стойте, и ⟨я⟩ услышу, что ⟨есть⟩ повеление ЯХВЕ вам",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "⟨вы⟩ стойте"
+    },
+    {
+      "surface": "ואשמעה",
+      "gloss": "и ⟨я⟩ услышу"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "⟨есть⟩ повеление"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    }
+  ],
+  "timestamp": "2026-08-02T21:21:00.408793176Z",
+  "model": "glm-4.5"
+}

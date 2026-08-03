@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "haggai 2:11",
+  "book": "haggai",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Так сказал ЯХВЕ Цеваот: «Спроси, прошу, ⟨את⟩ священников закон, говоря»",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Спроси"
+    },
+    {
+      "surface": "נא",
+      "gloss": "прошу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "священников"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "священников"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "закон"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-03T06:07:27.067450038Z",
+  "model": "glm-4.5"
+}

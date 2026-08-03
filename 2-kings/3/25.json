@@ -1,0 +1,113 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "2-kings 3:25",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И города разрушили они, и ⟨на⟩ every good piece of land cast every man his stone, and filled it, and ⟨the⟩ every fountain of water stopped they, and ⟨the⟩ every good tree felled they — until left they stones thereof in Kir-Hareseth; ⟨и⟩ went about the slingers, and smote it.",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "И города"
+    },
+    {
+      "surface": "יהרסו",
+      "gloss": "разрушили они"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и"
+    },
+    {
+      "surface": "חלקה",
+      "gloss": "⟨на⟩ every good piece of land cast every man his stone, and filled it, and ⟨the⟩ every fountain of water stopped they, and ⟨the⟩ every good tree felled they — until left they stones thereof in Kir-Hareseth; ⟨и⟩ went about the slingers, and smote it."
+    },
+    {
+      "surface": "טובה",
+      "gloss": ""
+    },
+    {
+      "surface": "ישליכו",
+      "gloss": ""
+    },
+    {
+      "surface": "איש",
+      "gloss": ""
+    },
+    {
+      "surface": "אבנו",
+      "gloss": ""
+    },
+    {
+      "surface": "ומלאוה",
+      "gloss": ""
+    },
+    {
+      "surface": "וכל",
+      "gloss": ""
+    },
+    {
+      "surface": "מעין",
+      "gloss": ""
+    },
+    {
+      "surface": "מים",
+      "gloss": ""
+    },
+    {
+      "surface": "יסתמו",
+      "gloss": ""
+    },
+    {
+      "surface": "וכל",
+      "gloss": ""
+    },
+    {
+      "surface": "עץ",
+      "gloss": ""
+    },
+    {
+      "surface": "טוב",
+      "gloss": ""
+    },
+    {
+      "surface": "יפילו",
+      "gloss": ""
+    },
+    {
+      "surface": "עד",
+      "gloss": ""
+    },
+    {
+      "surface": "השאיר",
+      "gloss": ""
+    },
+    {
+      "surface": "אבניה",
+      "gloss": ""
+    },
+    {
+      "surface": "בקיר",
+      "gloss": ""
+    },
+    {
+      "surface": "חרשת",
+      "gloss": ""
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": ""
+    },
+    {
+      "surface": "הקלעים",
+      "gloss": ""
+    },
+    {
+      "surface": "וכוה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T01:06:00.550490064Z",
+  "model": "glm-4.5"
+}

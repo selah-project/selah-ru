@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "joshua 12:11",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "царь Ярмута, один; царь Лахиша, один;",
+  "tokens": [
+    {
+      "surface": "מֶ֤לֶךְ",
+      "gloss": "царь"
+    },
+    {
+      "surface": "יַרְמוּת֙",
+      "gloss": "Ярмута"
+    },
+    {
+      "surface": "אֶחָ֔ד",
+      "gloss": "один"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "царь"
+    },
+    {
+      "surface": "לָכִ֖ישׁ",
+      "gloss": "Лахиша"
+    },
+    {
+      "surface": "אֶחָֽד",
+      "gloss": "один"
+    }
+  ],
+  "timestamp": "2026-08-02T22:36:11.058995536Z",
+  "model": "glm-4.5"
+}

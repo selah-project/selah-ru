@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "joshua 18:25",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Гивеон и Рама и Беэрот",
+  "tokens": [
+    {
+      "surface": "גבעון",
+      "gloss": "Гивеон"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "и Рама"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "и Беэрот"
+    }
+  ],
+  "timestamp": "2026-08-02T22:41:30.057887928Z",
+  "model": "glm-4.5"
+}

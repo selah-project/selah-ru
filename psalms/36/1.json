@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "Начальнику. Слуге ЯХВЕ. Давиду.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Начальнику"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "Слуге"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиду"
+    }
+  ],
+  "timestamp": "2026-08-03T07:14:27.090038693Z",
+  "model": "glm-4.5"
+}

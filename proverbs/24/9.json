@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 24:9",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Замысел глупости ⟨есть⟩ грех, и насмешник — мерзость людям.",
+  "tokens": [
+    {
+      "surface": "זמת",
+      "gloss": "Замысел"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "глупости"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "грех"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "и мерзость"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "людям"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "насмешник"
+    }
+  ],
+  "timestamp": "2026-08-03T18:28:19.893055664Z",
+  "model": "glm-4.5"
+}

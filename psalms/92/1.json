@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 92,
+  "translation": "Псалом. Песен ⟨для⟩ дня шаббата.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Псалом"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Песен"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "⟨для⟩ дня"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "шаббата"
+    }
+  ],
+  "timestamp": "2026-08-03T08:21:21.406484748Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "День ко дню изливает ⟨эту⟩ речь, и ночь ко ночи объявляет знание",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "День"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ко дню"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "изливает"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "⟨эту⟩ речь"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "и ночь"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "ко ночи"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "объявляет"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знание"
+    }
+  ],
+  "timestamp": "2026-08-03T06:53:05.062506048Z",
+  "model": "glm-4.5"
+}

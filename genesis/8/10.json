@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И подождал он ещё семь дней и ⟨вновь⟩ послал ⟨את⟩ голубицу из ковчега",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "И подождал"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ещё"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "семь"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дней"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": ""
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "и ⟨вновь⟩"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "послал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "голубицу"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "голубицу"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ковчега"
+    }
+  ],
+  "timestamp": "2026-08-02T17:51:33.564373073Z",
+  "model": "glm-4.5"
+}

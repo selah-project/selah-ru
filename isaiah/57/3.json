@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "isaiah 57:3",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 57,
+  "translation": "Но подойдите сюда, сыновья колдуньи, семя прелюбодея и блудницы",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Но вы"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "подойдите"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "сюда"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "עננה",
+      "gloss": "колдуньи"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "семя"
+    },
+    {
+      "surface": "מנאף",
+      "gloss": "прелюбодея"
+    },
+    {
+      "surface": "ותזנה",
+      "gloss": "и блудницы"
+    }
+  ],
+  "timestamp": "2026-08-03T02:46:57.214308168Z",
+  "model": "glm-4.5"
+}

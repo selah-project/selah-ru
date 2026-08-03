@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "1-chronicles 3:3",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "пятый Шефатия от Авиталь; шестый Итреам от Эглы, жены его:",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "пятый"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Шефатия"
+    },
+    {
+      "surface": "לאביטל",
+      "gloss": "от Авиталь"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "шестый"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "Итреам"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "от Эглы"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "жены его"
+    }
+  ],
+  "timestamp": "2026-08-03T12:39:17.387063538Z",
+  "model": "glm-4.5"
+}

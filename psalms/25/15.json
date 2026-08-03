@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "Мои глаза ⟨всегда⟩ к ЯХВЕ, ибо Он выведет ⟨их⟩ из сети ног моих.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Мои глаза"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "⟨всегда⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Он"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "выведет"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "из сети"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ног моих"
+    }
+  ],
+  "timestamp": "2026-08-03T07:00:58.288066145Z",
+  "model": "glm-4.5"
+}

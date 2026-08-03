@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 19:5",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Лжесвидетель не ⟨будет⟩ оправдан, и ⟨тот, кто⟩ изрыгает ложь, не спасётся",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Лжесвидетель"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "лжи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "⟨будет⟩ оправдан"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "и ⟨тот, кто⟩ изрыгает"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ложь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "спасётся"
+    }
+  ],
+  "timestamp": "2026-08-03T09:46:15.843354949Z",
+  "model": "glm-4.5"
+}

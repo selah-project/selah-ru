@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Отойдите от меня, ⟨все⟩ делатели ⟨не⟩-добра, ибо услышал ЯХВЕ голос плача моего",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Отойдите"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "от меня"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨все⟩"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "делатели"
+    },
+    {
+      "surface": "און",
+      "gloss": "⟨не⟩-добра"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "услышал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "голос"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "плача моего"
+    }
+  ],
+  "timestamp": "2026-08-03T06:36:21.140173497Z",
+  "model": "glm-4.5"
+}

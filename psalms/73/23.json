@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 73,
+  "translation": "А я — всегда с Тобой, Ты держал ⟨меня⟩ за правую руку мою",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "А я"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "всегда"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "с Тобой"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "Ты держал"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "за руку"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "мою правую"
+    }
+  ],
+  "timestamp": "2026-08-03T07:53:20.186023783Z",
+  "model": "glm-4.5"
+}

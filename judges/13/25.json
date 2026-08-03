@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "judges 13:25",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И начала Руах ЯХВЕ толкать его в стане Дана между Цорой и Эштаолом",
+  "tokens": [
+    {
+      "surface": "ותחל",
+      "gloss": "и начала"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Руах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לפעמו",
+      "gloss": "толкать его"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "в стане"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дана"
+    },
+    {
+      "surface": "בין",
+      "gloss": "между"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Цорой"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и между"
+    },
+    {
+      "surface": "אשתאל",
+      "gloss": "Эштаолом"
+    }
+  ],
+  "timestamp": "2026-08-02T23:04:15.356039721Z",
+  "model": "glm-4.5"
+}

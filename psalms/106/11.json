@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 106,
+  "translation": "И воды покрыли их врагов, ни одного из них не осталось.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "И покрыли"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воды"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "их врагов"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ни одного"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "из них"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "осталось"
+    }
+  ],
+  "timestamp": "2026-08-03T08:36:16.972021626Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "proverbs 12:22",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Мерзость пред ЯХВЕ — уста лжи, а делающие верность — Его благоугождение",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "Мерзость"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "уста"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лжи"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "а делающие"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "верность"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "Его благоугождение"
+    }
+  ],
+  "timestamp": "2026-08-03T09:36:03.120276786Z",
+  "model": "glm-4.5"
+}

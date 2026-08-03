@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 124,
+  "translation": "Тогда воды потопили бы нас, поток прошёл бы над нашей душой:",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "Тогда"
+    },
+    {
+      "surface": "המים",
+      "gloss": "воды"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "потопили бы нас"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "поток"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "прошёл бы"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "нашей душой"
+    }
+  ],
+  "timestamp": "2026-08-03T08:58:29.432798085Z",
+  "model": "glm-4.5"
+}

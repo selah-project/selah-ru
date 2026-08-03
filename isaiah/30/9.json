@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "isaiah 30:9",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Ибо это ⟨есть⟩ народ мятежный, сыновья лживые, сыновья, ⟨которые⟩ не хотели слушать Тору ЯХВЕ:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "мятежный"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "это"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "כחשים",
+      "gloss": "лживые"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "хотели"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "слушать"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Тору"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T02:14:16.692824768Z",
+  "model": "glm-4.5"
+}

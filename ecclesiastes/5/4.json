@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "хорошо, что ты не обещаешь, чем когда обещаешь и не платишь",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "хорошо"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "обещаешь"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "чем когда обещаешь"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "платишь"
+    }
+  ],
+  "timestamp": "2026-08-03T11:19:35.227444352Z",
+  "model": "glm-4.5"
+}

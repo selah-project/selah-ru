@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "Она воздаст ему благо, а не зло, во все дни жизни её",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "воздаст ему"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "благо"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "כל",
+      "gloss": "во все"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дни"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "жизни её"
+    }
+  ],
+  "timestamp": "2026-08-03T10:09:01.690598681Z",
+  "model": "glm-4.5"
+}

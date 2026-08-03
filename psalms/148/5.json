@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 148,
+  "translation": "Восхвалите ⟨את⟩ Имя ЯХВЕ, ибо Он повелел, и они сотворены.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Восхвалите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Имя"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Имя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Он"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "повелел"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "и они сотворены"
+    }
+  ],
+  "timestamp": "2026-08-03T09:17:54.768521505Z",
+  "model": "glm-4.5"
+}

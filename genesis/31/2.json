@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "И увидел Яаков ⟨את⟩ лицо Лавана, и вот, оно не ⟨с ним⟩ как вчера и третьего дня",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "И увидел"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лицо Лавана"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицо"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лавана"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "оно"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨с ним⟩"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "как вчера"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "и третьего дня"
+    }
+  ],
+  "timestamp": "2026-08-02T19:32:12.004192549Z",
+  "model": "glm-4.5"
+}

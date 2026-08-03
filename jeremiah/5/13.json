@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "jeremiah 5:13",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И пророки станут ⟨как⟩ ветер, и нет в них слова, так ⟨пусть будет сделано⟩ с ними",
+  "tokens": [
+    {
+      "surface": "והנביאים",
+      "gloss": "И пророки"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "станут"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "⟨как⟩ ветер"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "и слово"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "в них"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "⟨пусть будет сделано⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "с ними"
+    }
+  ],
+  "timestamp": "2026-08-03T03:04:25.798271284Z",
+  "model": "glm-4.5"
+}

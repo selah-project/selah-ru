@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "И война была между Асой и между Башей, царём ЯХВЕ, во все дни их",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "И война"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "была"
+    },
+    {
+      "surface": "בין",
+      "gloss": "между"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Асой"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и между"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Башей"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царём"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "во все"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "дни их"
+    }
+  ],
+  "timestamp": "2026-08-03T00:47:27.531813567Z",
+  "model": "glm-4.5"
+}

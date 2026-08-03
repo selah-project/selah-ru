@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "joshua 2:8",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "А ⟨они⟩ ещё не легли, ⟨и⟩ она взошла к ним ⟨на⟩ крышу",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "А ⟨они⟩"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ещё не"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "легли"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "⟨и⟩ она"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "взошла"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "к ним"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "крышу"
+    }
+  ],
+  "timestamp": "2026-08-02T22:26:03.252709661Z",
+  "model": "glm-4.5"
+}

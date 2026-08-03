@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Слова ⟨из⟩ уст мудрого — милость, а губы ⟨не»reasonable⟩ поглотят его",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Слова"
+    },
+    {
+      "surface": "פי",
+      "gloss": "⟨из⟩ уст"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудрого"
+    },
+    {
+      "surface": "חן",
+      "gloss": "милость"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "а губы"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "⟨не»reasonable⟩"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "поглотят его"
+    }
+  ],
+  "timestamp": "2026-08-03T11:24:38.523421969Z",
+  "model": "glm-4.5"
+}

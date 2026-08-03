@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "genesis 49:14",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 49,
+  "translation": "Иссахар — ⟨и⟩ крепкий ⟨осёл⟩, лежащий ⟨между⟩ ⟨овечьими⟩ загонами",
+  "tokens": [
+    {
+      "surface": "יששכר",
+      "gloss": "Иссахар"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "осёл"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "⟨и⟩"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "лежащий"
+    },
+    {
+      "surface": "בין",
+      "gloss": "⟨между⟩"
+    },
+    {
+      "surface": "המשפתים",
+      "gloss": "⟨овечьими⟩ загонами"
+    }
+  ],
+  "timestamp": "2026-08-02T19:54:10.392641059Z",
+  "model": "glm-4.5"
+}

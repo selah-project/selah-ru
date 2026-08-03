@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И служили сыны Израиля ⟨את⟩ Эглону, царю Моава, восемнадцать лет",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "И служили"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эглону"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Эглону"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "восемнадцать"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-02T22:51:53.782313381Z",
+  "model": "glm-4.5"
+}

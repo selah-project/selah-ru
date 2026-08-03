@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "Величайте ЯХВЕ со мной, и вознесём ⟨את⟩ имя Его вместе.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "Величайте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "со мной"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "и вознесём"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "имя Его",
+      "marks": "имя Его"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "вместе"
+    }
+  ],
+  "timestamp": "2026-08-03T07:09:44.939864147Z",
+  "model": "glm-4.5"
+}

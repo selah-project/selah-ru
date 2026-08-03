@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Ира Итри, Гареб Итри",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "Ира"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "Итри"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "Гареб"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "Итри"
+    }
+  ],
+  "timestamp": "2026-08-03T00:14:05.002297629Z",
+  "model": "glm-4.5"
+}

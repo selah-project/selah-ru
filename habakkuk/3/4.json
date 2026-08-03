@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "habakkuk 3:4",
+  "book": "habakkuk",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И сияние Его ⟨будет⟩ как свет, ⟨את⟩ лучи в руке Его, и там сокрытие силы Его.",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "И сияние"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "как свет"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨будет⟩"
+    },
+    {
+      "surface": "קרנים",
+      "gloss": "⟨את⟩ лучи",
+      "marks": "лучи"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "в руке Его"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Его"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "и там"
+    },
+    {
+      "surface": "חביון",
+      "gloss": "сокрытие"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "силы Его"
+    }
+  ],
+  "timestamp": "2026-08-03T05:59:43.873990173Z",
+  "model": "glm-4.5"
+}

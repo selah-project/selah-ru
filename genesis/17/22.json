@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И когда祂 закончил говорить с ним, то Элохим взошёл от Авраама.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "и когдаОн закончил"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "говорить"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "с ним"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "и взошёл"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "от"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраама"
+    }
+  ],
+  "timestamp": "2026-08-02T19:13:55.320809574Z",
+  "model": "glm-4.5"
+}

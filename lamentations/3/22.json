@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Хеседы ЯХВЕ — ⟨это то, что⟩ мы не истреблены, ибо не прекратились милосердия Его",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "Хеседы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "— ⟨это то, что⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "истреблены"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "прекратились"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "милосердия Его"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:53.091025907Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,48 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "nehemiah 3:28",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "От ворот коней ⟨החזיקו⟩ священники, ⟨איש⟩ לнегед ⟨ביתו⟩.",
+  "tokens": [
+    {
+      "surface": "מעל",
+      "gloss": "От"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ворот"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "коней"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "⟨החזיקו⟩",
+      "marks": "священники"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "священники"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨איש⟩",
+      "marks": "каждый"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "лнегед"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "⟨ביתו⟩",
+      "marks": "своего дома"
+    }
+  ],
+  "timestamp": "2026-08-03T12:16:41.431781627Z",
+  "model": "glm-4.5"
+}

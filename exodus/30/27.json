@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "и ⟨את⟩ стол и ⟨את⟩ все ⟨את⟩ utensils его, и ⟨את⟩ menorah и ⟨את⟩ utensils её, и ⟨את⟩ altar ⟨את⟩ курения",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "стол"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "стол"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "все"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "utensils его"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "menorah"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menorah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "utensils её"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "utensils её"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "altar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "курения"
+    }
+  ],
+  "timestamp": "2026-08-02T20:27:40.133486372Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Гой, Цион, спасайся, живущая ⟨с⟩ дочерью Вавилона.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Гой"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "спасайся"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "живущая"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочерью"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилона"
+    }
+  ],
+  "timestamp": "2026-08-03T06:09:45.352209319Z",
+  "model": "glm-4.5"
+}

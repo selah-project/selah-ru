@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И Авишуа родил ⟨את⟩ Букки, и Букки родил ⟨את⟩ Уззи",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "И Авишуа"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "родил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Букки"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Букки"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "и Букки"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "родил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Уззи"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Уззи"
+    }
+  ],
+  "timestamp": "2026-08-03T12:42:52.400575793Z",
+  "model": "glm-4.5"
+}

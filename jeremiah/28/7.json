@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "jeremiah 28:7",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Только послушай теперь это слово, которое я говорю в твои уши и в уши всего ⟨этого⟩ народа",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Только"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "послушай"
+    },
+    {
+      "surface": "נא",
+      "gloss": "теперь"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "это слово"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "которое"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорю"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "в твои уши"
+    },
+    {
+      "surface": "ובאזני",
+      "gloss": "и в уши"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всего"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨этого⟩ народа"
+    }
+  ],
+  "timestamp": "2026-08-03T03:38:49.114352141Z",
+  "model": "glm-4.5"
+}

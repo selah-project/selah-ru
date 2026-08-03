@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "1-chronicles 15:23",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "и Беркейя и Элкана ⟨были⟩ привратниками ⟨у⟩ Ковчега",
+  "tokens": [
+    {
+      "surface": "וברכיה",
+      "gloss": "и Беркейя"
+    },
+    {
+      "surface": "ואלקנה",
+      "gloss": "и Элкана"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "привратниками"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "⟨у⟩ Ковчега"
+    }
+  ],
+  "timestamp": "2026-08-03T12:58:50.788766810Z",
+  "model": "glm-4.5"
+}

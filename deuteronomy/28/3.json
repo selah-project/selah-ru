@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Благословен ⟨ты⟩ в городе и благословен ⟨ты⟩ в поле",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "благословен"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ты⟩"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "в городе"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "и благословен"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ты⟩"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "в поле"
+    }
+  ],
+  "timestamp": "2026-08-02T22:17:05.417388642Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Дан ⟨сей⟩ глупец на высоких местах многих, а богатые — на низком, сидят",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "⟨сей⟩ глупец"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "на высоких местах"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многих"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "а богатые"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "на низком"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "сидят"
+    }
+  ],
+  "timestamp": "2026-08-03T11:24:18.779719359Z",
+  "model": "glm-4.5"
+}

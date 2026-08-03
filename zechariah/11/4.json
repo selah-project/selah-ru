@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Так сказал ЯХВЕ, мой Элохим: паси ⟨את⟩ стадо убиваемое,",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "мой Элохим"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "паси"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "стадо убиваемое"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "стадо"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "убиваемое"
+    }
+  ],
+  "timestamp": "2026-08-03T06:18:08.570433339Z",
+  "model": "glm-4.5"
+}

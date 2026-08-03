@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Где слово царя ⟨есть⟩ власть, и кто скажет ему: что ты делаешь?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "где"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "власть"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и кто"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "скажет"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ты делаешь"
+    }
+  ],
+  "timestamp": "2026-08-03T11:22:36.720762661Z",
+  "model": "glm-4.5"
+}

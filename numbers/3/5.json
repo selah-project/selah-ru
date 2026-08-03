@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "numbers 3:5",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И говорил ЯХВЕ ⟨с⟩ Моше, ⟨чтобы⟩ сказать:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨чтобы⟩ сказать"
+    }
+  ],
+  "timestamp": "2026-08-02T21:11:57.518993258Z",
+  "model": "glm-4.5"
+}

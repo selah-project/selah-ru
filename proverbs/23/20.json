@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Не будь ⟨среди⟩ пьющих вино, ⟨среди⟩ объедающихся мясом:",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "будь"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "⟨среди⟩"
+    },
+    {
+      "surface": "יין",
+      "gloss": "пьющих вино"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "⟨среди⟩"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "объедающихся мясом"
+    },
+    {
+      "surface": "למו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T18:27:37.399023532Z",
+  "model": "glm-4.5"
+}

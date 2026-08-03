@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "царь Тирцы, один; все цари, тридцать и один",
+  "tokens": [
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "царь"
+    },
+    {
+      "surface": "תִּרְצָ֖ה",
+      "gloss": "Тирцы"
+    },
+    {
+      "surface": "אֶחָ֑ד",
+      "gloss": "один"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "все"
+    },
+    {
+      "surface": "מְלָכִ֖ים",
+      "gloss": "цари"
+    },
+    {
+      "surface": "שְׁלֹשִׁ֥ים",
+      "gloss": "тридцать"
+    },
+    {
+      "surface": "וְאֶחָֽד",
+      "gloss": "и один"
+    }
+  ],
+  "timestamp": "2026-08-02T22:36:42.054782835Z",
+  "model": "glm-4.5"
+}

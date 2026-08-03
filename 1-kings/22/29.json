@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "1-kings 22:29",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И восшёл царь Исраэля и Иегошафат, царь Йеуды, в Рамот-Гилъад",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "И восшёл"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраэля"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "и Иегошафат"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеуды"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "в Рамот"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "-Гилъад"
+    }
+  ],
+  "timestamp": "2026-08-03T01:00:46.459796388Z",
+  "model": "glm-4.5"
+}

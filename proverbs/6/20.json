@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Сын мой, храни заповедь отца твоего, и не оставляй Тору матери твоей",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "храни"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Сын мой"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "заповедь"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "отца твоего"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "оставляй"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Тору"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "матери твоей"
+    }
+  ],
+  "timestamp": "2026-08-03T09:27:27.158067356Z",
+  "model": "glm-4.5"
+}

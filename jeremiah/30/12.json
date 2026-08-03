@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "jeremiah 30:12",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Ибо так сказал ЯХВЕ: твой перелом ⟨есть⟩ неизлечим, твоя рана тяжка",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "неизлечим"
+    },
+    {
+      "surface": "לשברך",
+      "gloss": "твой перелом"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "тяжка"
+    },
+    {
+      "surface": "מכתך",
+      "gloss": "твоя рана"
+    }
+  ],
+  "timestamp": "2026-08-03T03:40:55.861437035Z",
+  "model": "glm-4.5"
+}

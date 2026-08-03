@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "ezekiel 2:9",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И я увидел, и вот, рука послана мне, и вот, в ней ⟨свиток⟩ книги",
+  "tokens": [
+    {
+      "surface": "ואראה",
+      "gloss": "И я увидел"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "יד",
+      "gloss": "рука"
+    },
+    {
+      "surface": "שלוחה",
+      "gloss": "послана"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в ней"
+    },
+    {
+      "surface": "מגלת",
+      "gloss": "⟨свиток⟩"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "книги"
+    }
+  ],
+  "timestamp": "2026-08-03T04:17:46.995248184Z",
+  "model": "glm-4.5"
+}

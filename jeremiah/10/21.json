@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "jeremiah 10:21",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Ибо пастыри оглупели и ⟨את⟩ ЯХВЕ не взыскали, поэтому они не prospered, и всё стадо их рассеяно.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "נבערו",
+      "gloss": "оглупели"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "пастыри"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "взыскали"
+    },
+    {
+      "surface": "על",
+      "gloss": "поэтому"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "prospered"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и всё"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "стадо их"
+    },
+    {
+      "surface": "נפוצה",
+      "gloss": "рассеяно"
+    }
+  ],
+  "timestamp": "2026-08-03T03:11:12.270802573Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "exodus 30:24",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "и кассии ⟨את⟩ пятьсacket ⟨сиклей⟩ по сиклю ⟨святилища⟩, и масла ⟨оливкового⟩ ⟨את⟩ гин",
+  "tokens": [
+    {
+      "surface": "וקדה",
+      "gloss": "и кассии"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пятьсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "сиклей"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "по сиклю святилища"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "и масла оливкового"
+    },
+    {
+      "surface": "זית",
+      "gloss": ""
+    },
+    {
+      "surface": "הין",
+      "gloss": "гин"
+    }
+  ],
+  "timestamp": "2026-08-02T20:27:38.305355006Z",
+  "model": "glm-4.5"
+}

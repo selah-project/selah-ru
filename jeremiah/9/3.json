@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "jeremiah 9:3",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "О каждом ближнем своем ⟨будьте⟩ настороже, и ни в каком брате не надейтесь, ибо всякий брат — ⟨acted⟩ подвластно ⟨supplants⟩, и всякий ближний — ⟨goes⟩ со клеветой",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "каждый"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "ближнем своем"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "⟨будьте⟩ настороже"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ни в каком"
+    },
+    {
+      "surface": "אח",
+      "gloss": "брате"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "надейтесь"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всякий"
+    },
+    {
+      "surface": "אח",
+      "gloss": "брат"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "⟨acted⟩ подвластно"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "⟨supplants⟩"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и всякий"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ближний"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "со клеветой"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "⟨goes⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T03:09:38.699671536Z",
+  "model": "glm-4.5"
+}

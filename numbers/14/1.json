@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И подняла вся община ⟨את⟩ голос свой, и заплакал народ в ту ночь",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "и подняла"
+    },
+    {
+      "surface": "כל",
+      "gloss": "вся"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "община"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "и издала"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "голос свой"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "голос свой"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "и заплакал"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "в ту ночь"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ту"
+    }
+  ],
+  "timestamp": "2026-08-02T21:25:44.821602220Z",
+  "model": "glm-4.5"
+}

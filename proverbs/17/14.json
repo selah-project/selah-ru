@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "proverbs 17:14",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "Начало раздора — releasing ⟨the⟩ water; оставь ссору, прежде чем она вспыхнет.",
+  "tokens": [
+    {
+      "surface": "פוטר",
+      "gloss": "выпускающий"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воду"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "начало"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "раздора"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "и прежде чем"
+    },
+    {
+      "surface": "התגלע",
+      "gloss": "вспыхнет"
+    },
+    {
+      "surface": "הריב",
+      "gloss": "ссора"
+    },
+    {
+      "surface": "נטוש",
+      "gloss": "оставь"
+    }
+  ],
+  "timestamp": "2026-08-03T09:43:19.344235570Z",
+  "model": "glm-4.5"
+}

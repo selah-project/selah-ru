@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "psalms 107:29",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 107,
+  "translation": "Он повелел буре ⟨стать⟩ тишиной, и угасли волны их.",
+  "tokens": [
+    {
+      "surface": "יקם",
+      "gloss": "Он повелел"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "буре"
+    },
+    {
+      "surface": "לדממה",
+      "gloss": "⟨стать⟩ тишиной"
+    },
+    {
+      "surface": "ויחשו",
+      "gloss": "и угасли"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "волны их"
+    }
+  ],
+  "timestamp": "2026-08-03T08:39:17.687746424Z",
+  "model": "glm-4.5"
+}

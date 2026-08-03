@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Ибо ⟨для⟩ каждого, кто ⟨приобщён⟩ ко всем живым, ⟨есть⟩ надежда; ибо живому псу ⟨он⟩ лучше, чем мёртвому льву.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "приобщён"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всем"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "живым"
+    },
+    {
+      "surface": "יש",
+      "gloss": "есть"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "надежда"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "псу"
+    },
+    {
+      "surface": "חי",
+      "gloss": "живому"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "лучше"
+    },
+    {
+      "surface": "מן",
+      "gloss": "чем"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "льву"
+    },
+    {
+      "surface": "המת",
+      "gloss": "мёртвому"
+    }
+  ],
+  "timestamp": "2026-08-03T11:23:37.226288157Z",
+  "model": "glm-4.5"
+}

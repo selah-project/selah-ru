@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "И поднял Яаков ноги свои, и пошёл в землю сынов востока.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "И поднял"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ноги свои"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и пошёл"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "в землю"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "востока"
+    }
+  ],
+  "timestamp": "2026-08-02T19:29:07.447496843Z",
+  "model": "glm-4.5"
+}

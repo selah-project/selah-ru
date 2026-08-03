@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 95,
+  "translation": "Кому принадлежит море — Его оно, и Он создал ⟨его⟩, и сушу formed ⟨руки⟩ Его.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Кому"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Его"
+    },
+    {
+      "surface": "הים",
+      "gloss": "море"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "создал ⟨его⟩",
+      "marks": "море"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "и сушу"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "руки Его"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "formed"
+    }
+  ],
+  "timestamp": "2026-08-03T08:23:50.244832100Z",
+  "model": "glm-4.5"
+}

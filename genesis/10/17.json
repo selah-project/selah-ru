@@ -1,0 +1,40 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "и ⟨את⟩ Хиви, и ⟨את⟩ Арки, и ⟨את⟩ Сини",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Хиви"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Хиви"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Арки"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Арки"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Сини"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Сини"
+    }
+  ],
+  "timestamp": "2026-08-02T17:53:31.938144608Z",
+  "model": "glm-4.5"
+}

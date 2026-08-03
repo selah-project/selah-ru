@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "и напишишь ⟨их⟩ на мезузах дома твоего и на воротах твоих",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "и напишишь"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "мезузах"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "дома твоего"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "и на воротах твоих"
+    }
+  ],
+  "timestamp": "2026-08-02T22:02:19.670203228Z",
+  "model": "glm-4.5"
+}

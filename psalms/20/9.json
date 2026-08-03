@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "Они — они склонились и пали, а мы поднялись и стоим прямо.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Они — они"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "склонились"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "и пали"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "а мы"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "поднялись"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "и стоим прямо"
+    }
+  ],
+  "timestamp": "2026-08-03T06:53:48.442751654Z",
+  "model": "glm-4.5"
+}

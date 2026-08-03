@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "genesis 41:26",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 41,
+  "translation": "Семь хороших коров — ⟨это⟩ семь лет, и семь хороших колосьев — ⟨это⟩ семь лет: сон — один ⟨он⟩",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "семь"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "коров"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "хороших"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семь"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "лет"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "—"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "и семь"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "колосьев"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "хороших"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семь"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "лет"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "—"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "сон"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-08-02T19:44:38.129076879Z",
+  "model": "glm-4.5"
+}

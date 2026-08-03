@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 107,
+  "translation": "Славьте ЯХВЕ, ибо ⟨Он⟩ благ, ибо навек хесед Его.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "Славьте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "благ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навек"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хесед Его"
+    }
+  ],
+  "timestamp": "2026-08-03T08:38:51.845109600Z",
+  "model": "glm-4.5"
+}

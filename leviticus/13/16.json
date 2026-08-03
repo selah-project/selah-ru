@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "Или если ⟨את⟩ живая плоть вернётся и изменится на белую, и придёт к ⟨это⟩ коэну,",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Или"
+    },
+    {
+      "surface": "כי",
+      "gloss": "если"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "вернётся"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "⟨את⟩ живая плоть",
+      "marks": "живую плоть"
+    },
+    {
+      "surface": "החי",
+      "gloss": ""
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "и изменится"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "на белую"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "и придёт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨это⟩ коэну",
+      "marks": "коэну"
+    }
+  ],
+  "timestamp": "2026-08-02T20:52:19.011870249Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "genesis 29:8",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "И сказали они: не можем, пока соберутся все стада, и сверкат ⟨את⟩ камень с устья колодца, и напоим овец",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "и сказали"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "можем"
+    },
+    {
+      "surface": "עד",
+      "gloss": "пока"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "יאספו",
+      "gloss": "соберутся"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "стада"
+    },
+    {
+      "surface": "וגללו",
+      "gloss": "и сверкат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "камень"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "камень"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "с"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устья"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "колодца"
+    },
+    {
+      "surface": "והשקינו",
+      "gloss": "и напоим"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "овец"
+    }
+  ],
+  "timestamp": "2026-08-02T19:29:14.161154781Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "и берегите делать, как ⟨עשה⟩ повелел ЯХВЕ, Элохим ваш, ⟨את⟩ вас: не сворачивайте направо и налево",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "и берегите"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "делать"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "повелел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элохим ваш"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "сворачивайте"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "направо"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "и налево"
+    }
+  ],
+  "timestamp": "2026-08-02T21:56:36.827368155Z",
+  "model": "glm-4.5"
+}

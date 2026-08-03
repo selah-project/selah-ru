@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 46,
+  "ref": "judges 9:46",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И услышали ⟨все⟩ владельцы башни Шхема и вошли в цитадель дома ⟨Бога⟩ Брита",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "и услышали"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨все⟩"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "владельцы"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "башни"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Шхема"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "и вошли"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "צריח",
+      "gloss": "цитадель"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨Бога⟩"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Брита"
+    }
+  ],
+  "timestamp": "2026-08-02T22:59:57.840979553Z",
+  "model": "glm-4.5"
+}

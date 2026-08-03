@@ -1,0 +1,90 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "deuteronomy 2:5",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Не враждуйте ⟨с ними⟩, ибо не дам вам ⟨от⟩ земли их, даже до ⟨ступени⟩ ноги, ибо ⟨в удел⟩ Эсаву Я дал ⟨את⟩ гору Сеир",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תתגרו",
+      "gloss": "враждуйте"
+    },
+    {
+      "surface": "בם",
+      "gloss": "⟨с ними⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "дам"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "מארצם",
+      "gloss": "⟨от⟩ земли их"
+    },
+    {
+      "surface": "עד",
+      "gloss": "даже до"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "⟨ступени⟩"
+    },
+    {
+      "surface": "כף",
+      "gloss": "⟨ступени⟩"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "⟨ступени⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "⟨в удел⟩"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Эсаву"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Я дал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гору"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    }
+  ],
+  "timestamp": "2026-08-02T21:52:12.310983536Z",
+  "model": "glm-4.5"
+}

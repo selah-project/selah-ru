@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "proverbs 16:18",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Перед разрушением — гордость, и перед падением — ⟨эlevated⟩ дух.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Перед"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "разрушением"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "гордость"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "и перед"
+    },
+    {
+      "surface": "כשלון",
+      "gloss": "падением"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "⟨эlevated⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дух"
+    }
+  ],
+  "timestamp": "2026-08-03T09:41:10.992577919Z",
+  "model": "glm-4.5"
+}

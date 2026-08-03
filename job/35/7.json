@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "job 35:7",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "Если ты праведен, что ⟨ты⟩ дашь Ему? или что Он получит от руки твоей?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Если"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "ты праведен"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "⟨ты⟩ дашь"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ему"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "от руки твоей"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "Он получит"
+    }
+  ],
+  "timestamp": "2026-08-03T18:28:54.710802860Z",
+  "model": "glm-4.5"
+}

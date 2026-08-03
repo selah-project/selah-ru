@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 115,
+  "translation": "Зачем говорят народы: «Где ⟨и⟩ ⟨теперь⟩ Элохим их?»",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Зачем"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "говорят"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народы"
+    },
+    {
+      "surface": "איה",
+      "gloss": "«Где"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨и⟩"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Элохим их?»"
+    }
+  ],
+  "timestamp": "2026-08-03T08:45:15.471096872Z",
+  "model": "glm-4.5"
+}

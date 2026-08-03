@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 41,
+  "ref": "ezra 2:41",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Певцы, сыновья Асафа, сто двадцать и восемь.",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "Певцы"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асаф"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцать"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "и восемь"
+    }
+  ],
+  "timestamp": "2026-08-03T11:59:26.087763524Z",
+  "model": "glm-4.5"
+}

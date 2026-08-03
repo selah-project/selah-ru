@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 42,
+  "translation": "И сказал он им: нет, ведь ⟨вы⟩ пришли увидеть наготу земли.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нет"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ведь"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "наготу"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земли"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "пришли"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "увидеть"
+    }
+  ],
+  "timestamp": "2026-08-02T19:46:04.459192253Z",
+  "model": "glm-4.5"
+}

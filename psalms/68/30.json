@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 68,
+  "translation": "Из ⟨чего⟩ Твоего над Иерусалимом тебе принесут цари дары",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "Из ⟨чего⟩ Твоего"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Иерусалимом"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "принесут"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "цари"
+    },
+    {
+      "surface": "שי",
+      "gloss": "дары"
+    }
+  ],
+  "timestamp": "2026-08-03T07:47:54.583977222Z",
+  "model": "glm-4.5"
+}

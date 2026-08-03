@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "1-chronicles 24:24",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Сыновья Узииэля: Мика; сыновья Мики: Шамур.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Узииэля"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Мика"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Мики"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "Шамур"
+    }
+  ],
+  "timestamp": "2026-08-03T13:11:14.827667410Z",
+  "model": "glm-4.5"
+}

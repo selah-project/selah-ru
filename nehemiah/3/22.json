@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "nehemiah 3:22",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "А после него укрепили священнослужители, люди ⟨равнины⟩.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "А после него"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "укрепили"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "священнослужители"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "люди"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "⟨равнины⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T12:16:13.590987411Z",
+  "model": "glm-4.5"
+}

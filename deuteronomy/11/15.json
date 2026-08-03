@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "и дам Я траву на поле твоем для скота твоего, и будешь есть, и насытишься",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "и дам Я"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "траву"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "на поле твоем"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "для скота твоего"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "и будешь есть"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "и насытишься"
+    }
+  ],
+  "timestamp": "2026-08-02T22:02:36.627975526Z",
+  "model": "glm-4.5"
+}

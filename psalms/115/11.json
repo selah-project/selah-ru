@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 115,
+  "translation": "Боящиеся ЯХВЕ, доверяйтесь ЯХВЕ, — Он ⟨их⟩ помощь и ⟨их⟩ защита.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Боящиеся"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "доверяйтесь"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "помощь"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "защита"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Он"
+    }
+  ],
+  "timestamp": "2026-08-03T08:45:19.207899674Z",
+  "model": "glm-4.5"
+}

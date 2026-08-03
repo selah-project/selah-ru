@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "numbers 26:1",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "И сказал ЯХВЕ ⟨את⟩ Моше и ⟨את⟩ Эльэзару сыну Аарона священнику, говоря",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨את⟩",
+      "marks": "Моше и ⟨את⟩ Эльэзару"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и ⟨את⟩",
+      "marks": "Эльэзару"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Эльэзару"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сыну"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарона"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "священнику"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-02T21:38:46.721813695Z",
+  "model": "glm-4.5"
+}

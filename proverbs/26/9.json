@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Как терн входит в руку пьяницы, так притча — в рот глупцов.",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "терн"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "входит"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "в руку"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "пьяницы"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "так притча"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "в рот"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "глупцов"
+    }
+  ],
+  "timestamp": "2026-08-03T10:01:49.303282454Z",
+  "model": "glm-4.5"
+}

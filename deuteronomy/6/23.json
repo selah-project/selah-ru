@@ -1,0 +1,68 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "и ⟨את⟩ нас вывел оттуда, чтобы ⟨את⟩ нас ввести, дать нам ⟨את⟩ землю, которую поклялся отцам нашим",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "и ⟨את⟩ нас",
+      "marks": "вывел"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "вывел"
+    },
+    {
+      "surface": "משם",
+      "gloss": "оттуда"
+    },
+    {
+      "surface": "למען",
+      "gloss": "чтобы"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "⟨ввести⟩"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ нас",
+      "marks": "дать"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "дать"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которую"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "поклялся"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "отцам нашам"
+    }
+  ],
+  "timestamp": "2026-08-02T21:57:40.304598480Z",
+  "model": "glm-4.5"
+}

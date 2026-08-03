@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Ибо праведен ЯХВЕ, праведность возлюбил, ⟨Он⟩ прямых узрит лицом Своим",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "праведность"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "возлюбил"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "прямых"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "узрит"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "лицом Своим"
+    }
+  ],
+  "timestamp": "2026-08-03T06:40:43.803030732Z",
+  "model": "glm-4.5"
+}

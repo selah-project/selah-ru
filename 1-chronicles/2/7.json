@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "1-chronicles 2:7",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "А сыны Карми: Ахар — ⟨тот⟩, кто ⟨напал⟩ беду на Израиль, ⟨нарушив⟩ хéрем.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А сыны"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "Карми"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "Ахар"
+    },
+    {
+      "surface": "עוכר",
+      "gloss": "— ⟨тот⟩, кто ⟨напал⟩ беду"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израиль"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кто"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "⟨нарушив⟩"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "хéрем"
+    }
+  ],
+  "timestamp": "2026-08-03T12:37:19.235598603Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "ezekiel 17:2",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "Сын человеческий, загадай загадку и произнеси притчу к дому Израиля.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человеческий"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "загадай"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "загадку"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "и произнеси"
+    },
+    {
+      "surface": "משל",
+      "gloss": "притчу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-03T04:36:06.780138675Z",
+  "model": "glm-4.5"
+}

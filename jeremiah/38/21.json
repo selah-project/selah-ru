@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "jeremiah 38:21",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 38,
+  "translation": "А если ты отказываешься выйти, ⟨это⟩ слово, которое ЯХВЕ показал мне:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А если"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "отказываешься"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "выйти"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨это⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "показал мне"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T03:53:41.254866612Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "И не клянитесь именем Моим во лжи, и не бесчестьте ⟨את⟩ имя Элогим твоего; Я — ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И не"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "клянитесь"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "именем Моим"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "во лжи"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "и не бесчестьте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "имя Элогим твоего"
+    },
+    {
+      "surface": "שם",
+      "gloss": "имя"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элогим твоего"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T20:59:30.747999438Z",
+  "model": "glm-4.5"
+}

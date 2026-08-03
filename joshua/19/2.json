@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "И было ⟨им⟩ в ⟨их⟩ наследии: Беер-Шева и Шева и Молада",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨им⟩",
+      "marks": "им"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "в ⟨их⟩ наследии",
+      "marks": "их наследие"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беер"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "и Шева"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "и Молада"
+    }
+  ],
+  "timestamp": "2026-08-02T22:42:15.062852622Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "И взошёл Элохим ⟨от него⟩ ⟨в⟩ месте, ⟨котором⟩ говорил ⟨с ним⟩",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "И взошёл"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "⟨от него⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "⟨в⟩ месте"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨котором⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорил"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨с ним⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T19:37:41.153476564Z",
+  "model": "glm-4.5"
+}

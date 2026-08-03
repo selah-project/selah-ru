@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "2-samuel 23:28",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Цалмон ⟨и⟩ Ахохи, ⟨и⟩ Маграй ⟨из⟩ Нетофата:",
+  "tokens": [
+    {
+      "surface": "צלמון",
+      "gloss": "Цалмон"
+    },
+    {
+      "surface": "האחחי",
+      "gloss": "Ахохи"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "Маграй"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "Нетофати"
+    }
+  ],
+  "timestamp": "2026-08-03T00:13:17.393581904Z",
+  "model": "glm-4.5"
+}

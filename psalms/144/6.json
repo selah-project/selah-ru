@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 144,
+  "translation": "Пошли молнию и рассей их, пусти ⟨свои⟩ стрелы и порази их",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "пошли"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "молнию"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "и рассей их"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "пусти"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "⟨свои⟩ стрелы",
+      "marks": "стрелы"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "и порази их"
+    }
+  ],
+  "timestamp": "2026-08-03T09:13:53.977880459Z",
+  "model": "glm-4.5"
+}

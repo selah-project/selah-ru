@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "nehemiah 7:27",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Мужи Анафофа: сто двадцать и восемь",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Мужи"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Анафофа"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцать"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "и восемь"
+    }
+  ],
+  "timestamp": "2026-08-03T12:21:35.280108149Z",
+  "model": "glm-4.5"
+}

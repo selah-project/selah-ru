@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "jeremiah 25:7",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "Но вы не послушали Меня, — слово ЯХВЕ, — чтобы прогневить ⟨Меня⟩ делами рук ваших во зло вам.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Но вы не"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "послушали"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Меня"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "чтобы"
+    },
+    {
+      "surface": "הכעסוני",
+      "gloss": "прогневить"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "делами"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "рук ваших"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "во зло"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    }
+  ],
+  "timestamp": "2026-08-03T03:31:02.781086211Z",
+  "model": "glm-4.5"
+}

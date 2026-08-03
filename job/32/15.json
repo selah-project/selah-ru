@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "job 32:15",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "Они поражены, не ответили ⟨ещё⟩, удалили от себя слова.",
+  "tokens": [
+    {
+      "surface": "חתו",
+      "gloss": "поражены"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ответили"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨ещё⟩"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "удалили"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "от себя"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "слова"
+    }
+  ],
+  "timestamp": "2026-08-03T10:37:52.671657541Z",
+  "model": "glm-4.5"
+}

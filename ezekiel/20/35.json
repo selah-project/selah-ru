@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "ezekiel 20:35",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "и введу вас ⟨את⟩ в пустыню народов и рассужу с вами ⟨את⟩ там лицом к лицу",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "и введу"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас ⟨את⟩ в пустыню"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "пустыню"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "народов"
+    },
+    {
+      "surface": "ונשפטתי",
+      "gloss": "и рассужу"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "с вами ⟨את⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лицом"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лицу"
+    }
+  ],
+  "timestamp": "2026-08-03T04:41:27.106699654Z",
+  "model": "glm-4.5"
+}

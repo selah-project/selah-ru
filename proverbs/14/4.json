@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Где нет волов, ясли ⟨были бы⟩ чисты; но множество прибылей ⟨идёт⟩ от силы ⟨вола⟩.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "Где нет"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "волов"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "ясли"
+    },
+    {
+      "surface": "בר",
+      "gloss": "чисты"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "но множество"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "прибылей"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "от силы"
+    },
+    {
+      "surface": "שור",
+      "gloss": "вола"
+    }
+  ],
+  "timestamp": "2026-08-03T09:38:01.624898390Z",
+  "model": "glm-4.5"
+}

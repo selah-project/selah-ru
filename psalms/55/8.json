@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 55,
+  "translation": "Вот, я бы далеко удалился, <⟨и⟩> остался бы в пустыне. Села.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Вот"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "я бы далеко удалился"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "странствовал"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "остался бы"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "в пустыне"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-08-03T07:33:07.160812603Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 78,
+  "translation": "Человек ел хлеб сильных; ⟨Он⟩ послал им пищу до сытости.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "сильных"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ел"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человек"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "пищу"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "послал"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "до сытости"
+    }
+  ],
+  "timestamp": "2026-08-03T08:03:09.958102554Z",
+  "model": "glm-4.5"
+}

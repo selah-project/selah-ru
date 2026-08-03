@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 45,
+  "translation": "Дабы знали от восхода солнца и от запада, что нет ⟨⟩ помимо Меня. Я — ЯХВЕ, и нет ⟨⟩ иного.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "дабы"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знали"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "от восхода"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "солнца"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "и от запада"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "нет ⟨⟩"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "помимо"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Меня"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нет ⟨⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "иного"
+    }
+  ],
+  "timestamp": "2026-08-03T02:32:58.199598855Z",
+  "model": "glm-4.5"
+}

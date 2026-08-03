@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "song-of-songs 7:12",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Пойдём, возлюбленный мой, выйдем в поле, ночуем в деревнях.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "пойдём"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "возлюбленный мой"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "выйдем"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "⟨в⟩ поле"
+    },
+    {
+      "surface": "נלינה",
+      "gloss": "ночуем"
+    },
+    {
+      "surface": "בכפרים",
+      "gloss": "⟨в⟩ деревнях"
+    }
+  ],
+  "timestamp": "2026-08-03T10:58:34.395767652Z",
+  "model": "glm-4.5"
+}

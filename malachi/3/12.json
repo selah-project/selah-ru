@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "malachi 3:12",
+  "book": "malachi",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И призовут вас ⟨את⟩ все народы благословенными, ибо вы будете землёй желания, — сказал ЯХВЕ Цеваот.",
+  "tokens": [
+    {
+      "surface": "ואשרו",
+      "gloss": "И призовут"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "вас",
+      "marks": "⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народы"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "вы будете"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨вы⟩",
+      "marks": "⟨you⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землёй"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "желания"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    }
+  ],
+  "timestamp": "2026-08-03T06:24:50.631887427Z",
+  "model": "glm-4.5"
+}

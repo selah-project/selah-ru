@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Не дружи с ⟨את⟩ хозяином носа и ⟨את⟩ человеком ярости, не приходи",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "дружи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "с хозяином носа"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "хозяином"
+    },
+    {
+      "surface": "אף",
+      "gloss": "носа"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "с человеком ярости"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человеком"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "ярости"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "приходи"
+    }
+  ],
+  "timestamp": "2026-08-03T09:49:50.397682957Z",
+  "model": "glm-4.5"
+}

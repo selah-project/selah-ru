@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "deuteronomy 24:11",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "снаружи стой ⟨ты⟩, и человек, которому ⟨ты⟩ даёшь взаймы, вынесет ⟨к тебе⟩ ⟨את⟩ залог наружу",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "снаружи"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "стой"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "и человек"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которому"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ты⟩"
+    },
+    {
+      "surface": "נשה",
+      "gloss": "даёшь взаймы"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨в нём⟩"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "вынесет"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨к тебе⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "залог"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "залог"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "наружу"
+    }
+  ],
+  "timestamp": "2026-08-02T22:14:02.977884045Z",
+  "model": "glm-4.5"
+}

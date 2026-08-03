@@ -1,0 +1,96 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "judges 1:31",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Ашер не изгнал ⟨живущих⟩ в Акко и ⟨живущих⟩ в Цидоне, и ⟨Ахлав⟩, и ⟨Акзив⟩, и ⟨Хелву⟩, и ⟨Афек⟩, и ⟨Рехов⟩",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ашер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "изгнал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "живущих"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "живущих"
+    },
+    {
+      "surface": "עכו",
+      "gloss": "в Акко"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "живущих"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "живущих"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "в Цидоне"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ахлав"
+    },
+    {
+      "surface": "אחלב",
+      "gloss": "Ахлав"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Акзив"
+    },
+    {
+      "surface": "אכזיב",
+      "gloss": "Акзив"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Хелву"
+    },
+    {
+      "surface": "חלבה",
+      "gloss": "Хелву"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Афек"
+    },
+    {
+      "surface": "אפיק",
+      "gloss": "Афек"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Рехов"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Рехов"
+    }
+  ],
+  "timestamp": "2026-08-02T22:50:04.768055422Z",
+  "model": "glm-4.5"
+}

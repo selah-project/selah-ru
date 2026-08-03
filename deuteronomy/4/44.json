@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 44,
+  "ref": "deuteronomy 4:44",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И это Тора, которую поставил Моше перед ⟨сыновьями⟩ Израиля",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "И это"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которую"
+    },
+    {
+      "surface": "שם",
+      "gloss": "поставил"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновьями"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-02T21:55:14.497109202Z",
+  "model": "glm-4.5"
+}

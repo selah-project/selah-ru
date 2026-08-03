@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "ezekiel 35:4",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "Твои города сделаю опустошением, и ты ⟨будешь⟩ пустыней, и познаешь, что Я — ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "עריך",
+      "gloss": "Твои города"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "опустошением"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "сделаю"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "и ты"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "пустыней"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨будешь⟩"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "и познаешь"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T04:59:47.360932158Z",
+  "model": "glm-4.5"
+}

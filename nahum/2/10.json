@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "nahum 2:10",
+  "book": "nahum",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Грабят ⟨את⟩ серебро, грабят ⟨את⟩ золото, и нет конца запасу, glory из всякого драгоценного сосуда",
+  "tokens": [
+    {
+      "surface": "בזו",
+      "gloss": "Грабят"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "серебро"
+    },
+    {
+      "surface": "בזו",
+      "gloss": "грабят"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золото"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нет"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "конца"
+    },
+    {
+      "surface": "לתכונה",
+      "gloss": "запасу"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "glory"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "из всякого"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "сосуда"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "драгоценного"
+    }
+  ],
+  "timestamp": "2026-08-03T05:54:52.018597800Z",
+  "model": "glm-4.5"
+}

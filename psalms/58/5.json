@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 58,
+  "translation": "Ярость их — как яд змеи; как глухая кобра, ⟨она⟩ затыкает ⟨своё⟩ ухо",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "Ярость"
+    },
+    {
+      "surface": "למו",
+      "gloss": "их"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "как"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "яд"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "змеи"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "как"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "кобра"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "глухая"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "затыкает"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ухо"
+    }
+  ],
+  "timestamp": "2026-08-03T07:35:57.744468859Z",
+  "model": "glm-4.5"
+}

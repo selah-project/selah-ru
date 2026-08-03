@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "и если ⟨вот⟩ украдет украдет от него уплатит владельцу его",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "и если"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "украдет"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "украдет"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "от него"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "уплатит"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "владельцу его"
+    }
+  ],
+  "timestamp": "2026-08-02T20:15:40.610362526Z",
+  "model": "glm-4.5"
+}

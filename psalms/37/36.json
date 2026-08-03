@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "psalms 37:36",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "И прошёл ⟨он⟩, и вот, нет его, и искал ⟨я⟩ его, но не найден.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "И прошёл"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "нет его"
+    },
+    {
+      "surface": "ואבקשהו",
+      "gloss": "и искал ⟨я⟩ его"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "найден"
+    }
+  ],
+  "timestamp": "2026-08-03T07:16:21.461404479Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "job 33:2",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "Вот, прошу, открыл я ⟨את⟩ рот мой, говорила ⟨את⟩ язык мой в нёбе моём",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "נא",
+      "gloss": "прошу"
+    },
+    {
+      "surface": "פתחתי",
+      "gloss": "открыл я"
+    },
+    {
+      "surface": "פי",
+      "gloss": "⟨את⟩",
+      "marks": "рот"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "говорила"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "⟨את⟩",
+      "marks": "язык"
+    },
+    {
+      "surface": "בחכי",
+      "gloss": "в нёбе"
+    }
+  ],
+  "timestamp": "2026-08-03T18:29:09.922455740Z",
+  "model": "glm-4.5"
+}

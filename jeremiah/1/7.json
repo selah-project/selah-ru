@@ -1,0 +1,86 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "jeremiah 1:7",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И сказал ЯХВЕ мне: не говори: я юноша, ибо на всё, куда Я пошлю тебя, пойдёшь, и ⟨את⟩ всё, что Я заповедую тебе, будешь говорить",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "נער",
+      "gloss": "юноша"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "куда"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "Я пошлю тебя"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "пойдёшь"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "всё"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "Я заповедую тебе"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "будешь говорить"
+    }
+  ],
+  "timestamp": "2026-08-03T02:58:22.363755020Z",
+  "model": "glm-4.5"
+}

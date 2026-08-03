@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "ezekiel 39:22",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 39,
+  "translation": "И узнает дом Израиля, что Я — ЯХВЕ, их Элохим, ⟨с⟩ того дня и вперёд.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "И узнает"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "— ЯХВЕ"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "их Элохим"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "היום",
+      "gloss": "того дня"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": ""
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "и вперёд"
+    }
+  ],
+  "timestamp": "2026-08-03T05:05:42.731005368Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Наблюдающий ⟨за⟩ ветром ⟨не⟩ посеет, и смотрящий ⟨на⟩ облака ⟨не⟩ пожнёт",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Наблюдающий"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ветром"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "посеет"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "и смотрящий"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "⟨на⟩ облака"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "пожнёт"
+    }
+  ],
+  "timestamp": "2026-08-03T11:26:40.415079580Z",
+  "model": "glm-4.5"
+}

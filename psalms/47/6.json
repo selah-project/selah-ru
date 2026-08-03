@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 47,
+  "translation": "Взошёл Элохим с восклицанием, ЯХВЕ ⟨с⟩ звуком шофара",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "Взошёл"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "с восклицанием"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "⟨с⟩ звуком"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "шофара"
+    }
+  ],
+  "timestamp": "2026-08-03T07:25:40.818316228Z",
+  "model": "glm-4.5"
+}

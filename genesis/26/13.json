@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "genesis 26:13",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "И муж тот ⟨был⟩ велик, и шёл ⟨он⟩ ⟨идя⟩ и велик, пока не стал весьма велик",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "И муж тот ⟨был⟩ велик"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "муж тот"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и шёл ⟨он⟩"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "⟨идя⟩"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "и велик"
+    },
+    {
+      "surface": "עד",
+      "gloss": "пока"
+    },
+    {
+      "surface": "כי",
+      "gloss": "не"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "стал"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "весьма"
+    }
+  ],
+  "timestamp": "2026-08-02T19:25:55.452962736Z",
+  "model": "glm-4.5"
+}

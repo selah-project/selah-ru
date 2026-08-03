@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Сказал лентяй: лев на улице; ⟨я⟩ буду убит посреди площадей.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Сказал"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "лентяй"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "лев"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "на улице"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "посреди"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "площадей"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "буду убит"
+    }
+  ],
+  "timestamp": "2026-08-03T09:49:26.133286268Z",
+  "model": "glm-4.5"
+}

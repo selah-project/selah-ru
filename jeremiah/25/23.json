@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "и ⟨את⟩ Дедана, и ⟨את⟩ Фему, и ⟨את⟩ Буза, и ⟨את⟩ всех живущих ⟨в⟩ отрезанных ⟨краях⟩:",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Дедана"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Дедан"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Фему"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Фема"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Буза"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Буз"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "всех"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "живущих ⟨в⟩ отрезанных",
+      "marks": "краях"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "краях"
+    }
+  ],
+  "timestamp": "2026-08-03T03:31:31.497533667Z",
+  "model": "glm-4.5"
+}

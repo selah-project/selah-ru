@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И если скажут: жив ЯХВЕ — ⟨то⟩ ложно клянутся.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "И если"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "скажут"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "⟨то⟩"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "ложно"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "клянутся"
+    }
+  ],
+  "timestamp": "2026-08-03T03:04:03.748056254Z",
+  "model": "glm-4.5"
+}

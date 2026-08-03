@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 39,
+  "ref": "psalms 18:39",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Я поразил ⟨их⟩, и они не смогли встать; они пали под ноги мои.",
+  "tokens": [
+    {
+      "surface": "אמחצם",
+      "gloss": "Я поразил"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "смогли"
+    },
+    {
+      "surface": "קום",
+      "gloss": "встать"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "упали"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ноги мои"
+    }
+  ],
+  "timestamp": "2026-08-03T06:51:28.723360905Z",
+  "model": "glm-4.5"
+}

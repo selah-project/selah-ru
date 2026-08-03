@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И было слово ЯХВЕ к нему, чтобы сказать:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "к нему"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "чтобы сказать"
+    }
+  ],
+  "timestamp": "2026-08-03T00:52:02.423253517Z",
+  "model": "glm-4.5"
+}

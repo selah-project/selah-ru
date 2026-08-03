@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 71,
+  "translation": "Но я непрестанно буду уповать и всё прибавлять к хвале Твоей",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Но я"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "непрестанно"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "буду уповать"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "и прибавлять"
+    },
+    {
+      "surface": "על",
+      "gloss": "к"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "хвале Твоей"
+    }
+  ],
+  "timestamp": "2026-08-03T07:51:13.535986609Z",
+  "model": "glm-4.5"
+}

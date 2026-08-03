@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Приобрети Хохму, приобрети Бину; не забывай и не уклоняйся от речей уст ⟨моих⟩",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "приобрети"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Хохму"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "приобрети"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "Бину"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "забывай"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תט",
+      "gloss": "уклоняйся"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "от речей"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уст"
+    }
+  ],
+  "timestamp": "2026-08-03T09:24:56.526802220Z",
+  "model": "glm-4.5"
+}

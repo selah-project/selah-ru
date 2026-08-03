@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "1-chronicles 23:26",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "И левитам ⟨нет⟩ нести ⟨את⟩ Мишкан и ⟨את⟩ все сосуды его для ⟨служения⟩ его.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "и"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "левитам"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨нет⟩"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "нести"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мишкан"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Мишкан"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "все"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "сосуды его"
+    },
+    {
+      "surface": "לעבדתו",
+      "gloss": "для ⟨служения⟩ его"
+    }
+  ],
+  "timestamp": "2026-08-03T13:09:59.055957762Z",
+  "model": "glm-4.5"
+}

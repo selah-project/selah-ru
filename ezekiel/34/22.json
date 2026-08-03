@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "ezekiel 34:22",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "И спасу Я ⟨את⟩ flock Свою, и не будут они более ⟨в⟩ добычу, и рассужу Я между овцою и ⟨овцою⟩.",
+  "tokens": [
+    {
+      "surface": "והושעתי",
+      "gloss": "И спасу Я"
+    },
+    {
+      "surface": "לצאני",
+      "gloss": "⟨את⟩",
+      "marks": "flock Свою"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "будут они"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "более"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "⟨в⟩ добычу"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "и рассужу Я"
+    },
+    {
+      "surface": "בין",
+      "gloss": "между"
+    },
+    {
+      "surface": "שה",
+      "gloss": "овцою"
+    },
+    {
+      "surface": "לשה",
+      "gloss": "⟨овцою⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T04:58:58.003798421Z",
+  "model": "glm-4.5"
+}

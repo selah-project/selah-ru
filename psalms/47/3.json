@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 47,
+  "translation": "Ибо ЯХВЕ, Эльон, грозен, царь великий над всею ⟨землёй⟩",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Эльон"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "грозен"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "великий"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всею"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨землёй⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T07:25:22.624799137Z",
+  "model": "glm-4.5"
+}

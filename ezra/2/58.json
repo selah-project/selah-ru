@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 58,
+  "ref": "ezra 2:58",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Всех Нетиним и сыновей слуг Шеломо — триста девяносто два.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Всех"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "Нетиним"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и сыновей"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слуг"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотни"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "девяносто"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "и два"
+    }
+  ],
+  "timestamp": "2026-08-03T11:59:37.539706513Z",
+  "model": "glm-4.5"
+}

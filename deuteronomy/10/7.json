@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "deuteronomy 10:7",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Оттуда они отправились в Гудгоду, и из Гудгоды в Иотвафу, ⟨землю⟩ потоков воды.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "Оттуда"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "они отправились"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "в Гудгоду"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и из"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "Гудгоды"
+    },
+    {
+      "surface": "יטבתה",
+      "gloss": "в Иотвафу"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨землю⟩"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "потоков"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воды"
+    }
+  ],
+  "timestamp": "2026-08-02T22:01:32.455415489Z",
+  "model": "glm-4.5"
+}

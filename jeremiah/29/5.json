@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "Стройте дома и живите в них, и насаждайте сады, и ешьте ⟨את⟩ плод их",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "Стройте"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "дома"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "и живите в них"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "и насаждайте"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "сады"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "и ешьте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "плод их"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "плод их"
+    }
+  ],
+  "timestamp": "2026-08-03T03:39:21.919715342Z",
+  "model": "glm-4.5"
+}

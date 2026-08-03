@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "И возроптал народ на Моше, говоря: что ⟨мы⟩ будем пить?",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "И возроптал"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "будем ⟨мы⟩ пить"
+    }
+  ],
+  "timestamp": "2026-08-02T20:09:52.158402446Z",
+  "model": "glm-4.5"
+}

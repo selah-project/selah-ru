@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "genesis 13:13",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "А люди Содома злы и ⟨они⟩ грешники перед ЯХВЕ очень.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "А люди"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Содома"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "злы"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "и ⟨они⟩ грешники"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "перед ЯХВЕ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "очень"
+    }
+  ],
+  "timestamp": "2026-08-02T19:10:24.743732716Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "2-samuel 9:4",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И сказал царь ему: где он? И сказал Цива царю: вот, он в доме Махира, сына Аммиэля, в Ло-Деваре.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "где"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Цива"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "בית",
+      "gloss": "в доме"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Махира"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Аммиэля"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "в Ло-"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Деваре"
+    }
+  ],
+  "timestamp": "2026-08-02T23:56:08.011720136Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "habakkuk 3:5",
+  "book": "habakkuk",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Перед Лицем Его идёт ⟨эпидемия⟩, и выйдет ⟨пламя⟩ по стопам Его.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "перед Лицем Его"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "идёт"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨эпидемия⟩"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "и выйдет"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "⟨пламя⟩"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "по стопам Его"
+    }
+  ],
+  "timestamp": "2026-08-03T06:00:11.967058941Z",
+  "model": "glm-4.5"
+}

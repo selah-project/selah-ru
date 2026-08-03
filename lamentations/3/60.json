@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 60,
+  "ref": "lamentations 3:60",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Ты видела всю их месть, все ⟨их⟩ замыслы против меня",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Ты видела"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всю"
+    },
+    {
+      "surface": "נקמתם",
+      "gloss": "их месть"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "⟨их⟩ замыслы"
+    },
+    {
+      "surface": "לי",
+      "gloss": "против меня"
+    }
+  ],
+  "timestamp": "2026-08-03T11:11:36.126202100Z",
+  "model": "glm-4.5"
+}

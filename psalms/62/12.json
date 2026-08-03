@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 62,
+  "translation": "Одно слово ⟨сказал⟩ Элохим, два ⟨слышал⟩ я это: что сила ⟨принадлежит⟩ Элохим.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "одно"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "два"
+    },
+    {
+      "surface": "זו",
+      "gloss": "это"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "слышал"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "עז",
+      "gloss": "сила"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "⟨принадлежит⟩ Элохим"
+    }
+  ],
+  "timestamp": "2026-08-03T07:40:15.861891062Z",
+  "model": "glm-4.5"
+}

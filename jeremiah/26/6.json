@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "jeremiah 26:6",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "и сделаю ⟨את⟩ ⟨дом⟩ этот, как Шило, и ⟨את⟩ ⟨город⟩ этот отдам в проклятие всем народам земли",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "и сделаю"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дом этот"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "этот"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "как Шило"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "город этот"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "город"
+    },
+    {
+      "surface": "הזאתה",
+      "gloss": "этот"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "отдам"
+    },
+    {
+      "surface": "לקללה",
+      "gloss": "в проклятие"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "всем"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "народам"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земли"
+    }
+  ],
+  "timestamp": "2026-08-03T03:36:13.491977764Z",
+  "model": "glm-4.5"
+}

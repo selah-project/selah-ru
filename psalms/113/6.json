@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 113,
+  "translation": "Приникающий ⟨своим⟩ взором на небеса и на землю",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "Приникающий"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "⟨своим⟩ взором"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "на небеса"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "и на землю"
+    }
+  ],
+  "timestamp": "2026-08-03T08:44:24.709934096Z",
+  "model": "glm-4.5"
+}

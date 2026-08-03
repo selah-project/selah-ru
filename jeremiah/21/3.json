@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "jeremiah 21:3",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И сказал Ирмия́ху к ним: «Так ⟨вы⟩ скажете Цидки́яху:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмия́ху"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "к ним"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "⟨вы⟩ скажете"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Цидки́яху"
+    }
+  ],
+  "timestamp": "2026-08-03T03:25:26.276365908Z",
+  "model": "glm-4.5"
+}

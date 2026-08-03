@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 102,
+  "translation": "Дни мои — как тень, что простёрлась, и я — как трава, что засыхаю",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "Дни мои"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "как тень"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "что простёрлась"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "и я"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "как трава"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "что засыхаю"
+    }
+  ],
+  "timestamp": "2026-08-03T08:30:40.337684779Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 74,
+  "translation": "Ты расколол ⟨⟩источник и поток, ⟨⟩Ты иссушил ⟨⟩могучие ⟨⟩реки, ⟨⟩вечные.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "расколол"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "источник"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "и поток"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "иссушил"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "реки"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "могучие"
+    }
+  ],
+  "timestamp": "2026-08-03T07:55:08.655049152Z",
+  "model": "glm-4.5"
+}

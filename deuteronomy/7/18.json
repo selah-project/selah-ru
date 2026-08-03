@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "не бойся их: помни, ⟨что⟩ сделал ЯХВЕ, Элогим твой, ⟨с⟩ фараоном и ⟨со⟩ всем Египтом",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "бойся"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "их"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "помни"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "помни"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "что сделал"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨что⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элогим твой"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "⟨с⟩ фараоном"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "и ⟨со⟩ всем"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Египтом"
+    }
+  ],
+  "timestamp": "2026-08-02T21:58:36.474434961Z",
+  "model": "glm-4.5"
+}

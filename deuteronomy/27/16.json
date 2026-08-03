@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "Проклят ⟨тот⟩, кто делает лёгким своего отца или свою мать. И скажет весь народ: амен.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "проклят"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "делает лёгким"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "своего отца"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "или свою мать"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и скажет"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "амен"
+    }
+  ],
+  "timestamp": "2026-08-02T22:16:50.837434671Z",
+  "model": "glm-4.5"
+}

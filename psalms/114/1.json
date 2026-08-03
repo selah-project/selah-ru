@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 114,
+  "translation": "В исходе Исраэля из Мицраима дома Яакова от народа чужого ⟨языка⟩",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "В исходе"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраэля"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "из Мицраима"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "от"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "чужого ⟨языка⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T08:44:48.947200389Z",
+  "model": "glm-4.5"
+}

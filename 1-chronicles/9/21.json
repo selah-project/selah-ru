@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "1-chronicles 9:21",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Зехария, сын Мешелемиии, — страж у входа ⟨в⟩ шатёр собрания.",
+  "tokens": [
+    {
+      "surface": "זכריה",
+      "gloss": "Зехария"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "משלמיה",
+      "gloss": "Мешелемиии"
+    },
+    {
+      "surface": "שער",
+      "gloss": "страж"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "входа"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "⟨в⟩ шатёр"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "собрания"
+    }
+  ],
+  "timestamp": "2026-08-03T12:51:02.818010232Z",
+  "model": "glm-4.5"
+}

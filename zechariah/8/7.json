@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "zechariah 8:7",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Так говорит ЯХВЕ Цеваот: вот, Я спасу ⟨את⟩ народ Мой из земли востока и из земли захода ⟨солнца⟩",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "говорит"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "вот, Я"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "спасу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ Мой"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народ Мой"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "из земли"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "востока"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "и из земли"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "захода"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "⟨солнца⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T06:14:45.113792179Z",
+  "model": "glm-4.5"
+}

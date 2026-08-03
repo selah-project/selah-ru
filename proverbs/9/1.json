@@ -1,0 +1,39 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Хохма построила ⟨свой⟩ дом, высекла ⟨свои⟩ семь столбов:",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Хохма"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "построила"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "⟨свой⟩ дом",
+      "marks": "дом"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "высекла"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "⟨свои⟩ столбов",
+      "marks": "столбов"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "семь"
+    }
+  ],
+  "timestamp": "2026-08-03T09:31:47.281393434Z",
+  "model": "glm-4.5"
+}

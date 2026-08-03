@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 124,
+  "translation": "Тогда живыми ⟨были бы мы⟩ поглощены, в пламени ярости их на нас",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "Тогда"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живыми"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "поглощены"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "в пламени"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "ярости их"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "на нас"
+    }
+  ],
+  "timestamp": "2026-08-03T08:58:34.251349043Z",
+  "model": "glm-4.5"
+}

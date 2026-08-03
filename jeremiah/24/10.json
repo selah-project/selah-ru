@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "И пошлю Я ⟨את⟩ меч, ⟨את⟩ голод и ⟨את⟩ мор, пока не уничтожатся они с лица земли, которую Я дал им и отцам их",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "И пошлю Я"
+    },
+    {
+      "surface": "בם",
+      "gloss": "в ⟨них⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "меч"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "меч"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "голод"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "голод"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "мор"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "мор"
+    },
+    {
+      "surface": "עד",
+      "gloss": "пока"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "не уничтожатся"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "с"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "земли"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которую"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Я дал"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "и отцам их"
+    }
+  ],
+  "timestamp": "2026-08-03T03:29:53.350612064Z",
+  "model": "glm-4.5"
+}

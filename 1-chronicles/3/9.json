@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Все эти сыновья Давида, кроме сыновей наложниц, и Фамарь их сестра",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Все"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "кроме"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "наложниц"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "и Фамарь"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "их сестра"
+    }
+  ],
+  "timestamp": "2026-08-03T12:39:38.924217458Z",
+  "model": "glm-4.5"
+}

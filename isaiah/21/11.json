@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "isaiah 21:11",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Бремя Думы. Взывает ко мне из Сеира: Страж, что ⟨есть⟩ от ночи? Страж, что ⟨есть⟩ от ночи?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Бремя"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "Думы"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ко мне"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "взывает"
+    },
+    {
+      "surface": "משעיר",
+      "gloss": "из Сеира"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Страж"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "מלילה",
+      "gloss": "от ночи"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Страж"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "מליל",
+      "gloss": "от ночи"
+    }
+  ],
+  "timestamp": "2026-08-03T02:03:55.198978682Z",
+  "model": "glm-4.5"
+}

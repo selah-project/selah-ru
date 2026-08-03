@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "ezra 10:42",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Шаллум, Амарья, Иосеф.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "Шаллум"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Амарья"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Иосеф"
+    }
+  ],
+  "timestamp": "2026-08-03T12:12:13.835447754Z",
+  "model": "glm-4.5"
+}

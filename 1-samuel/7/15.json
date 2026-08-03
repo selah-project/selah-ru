@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И Шемуэль судил ⟨את⟩ Израиль во все дни жизни своей",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "И судил"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэль"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Израиль"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    },
+    {
+      "surface": "כל",
+      "gloss": "во все"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дни"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "жизни своей"
+    }
+  ],
+  "timestamp": "2026-08-02T23:19:08.167019124Z",
+  "model": "glm-4.5"
+}

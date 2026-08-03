@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Ибо притеснение доводит ⟨до⟩ безумия мудрого и ⟨את⟩ дар губит ⟨сердце⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "притеснение"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "доводит ⟨до⟩ безумия"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудрого"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "и губит"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сердце"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сердце"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "дар"
+    }
+  ],
+  "timestamp": "2026-08-03T11:21:39.962075700Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "leviticus 27:5",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "и если от пяти лет и до двадцати лет, и будет оценка твоя самца ⟨в⟩ двадцать шекелей, а самки — в десять шекелей",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "и если"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "от"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пяти"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "лет"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "בן",
+      "gloss": "двадцати"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "лет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и будет"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "оценка твоя"
+    },
+    {
+      "surface": "הזכר",
+      "gloss": "самца"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцать"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "шекелей"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "а самки"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "десять"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "шекелей"
+    }
+  ],
+  "timestamp": "2026-08-02T21:09:09.241310395Z",
+  "model": "glm-4.5"
+}

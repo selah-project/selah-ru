@@ -1,0 +1,68 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "deuteronomy 29:8",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "и храните ⟨את⟩ слова этого завета и делайте ⟨את⟩ их, чтобы разумели ⟨את⟩ всё, что вы делать будете",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "и храните"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слова"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "завета"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "этого"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "и делайте"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "их"
+    },
+    {
+      "surface": "למען",
+      "gloss": "чтобы"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "разумели"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всё"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "вы делать будете"
+    }
+  ],
+  "timestamp": "2026-08-02T22:19:23.140488754Z",
+  "model": "glm-4.5"
+}

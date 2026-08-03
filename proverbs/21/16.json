@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "proverbs 21:16",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Человек, сбившийся с пути хеседа, ⟨будет⟩ покоиться в собрании Рефаимов.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Человек"
+    },
+    {
+      "surface": "תועה",
+      "gloss": "сбившийся"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "с пути"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "хеседа"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "в собрании"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Рефаимов"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "покоиться"
+    }
+  ],
+  "timestamp": "2026-08-03T09:48:22.713322599Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И даже ⟨она⟩ верно сестра моя, дочь отца моего, но не дочь матери моей, и стала она мне ⟨в⟩ жену",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "И даже"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "верно"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "сестра моя"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочь"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отца моего"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨она⟩"
+    },
+    {
+      "surface": "אך",
+      "gloss": "но"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочь"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "матери моей"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "и стала она"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "⟨в⟩ жену"
+    }
+  ],
+  "timestamp": "2026-08-02T19:17:43.477833858Z",
+  "model": "glm-4.5"
+}

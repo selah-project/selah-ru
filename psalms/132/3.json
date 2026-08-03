@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 132,
+  "translation": "если я войду в шатёр моего дома, если взойду на ложę моей постели",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "войду"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "в шатёр"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "моего дома"
+    },
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "взойду"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "ложę"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "моей постели"
+    }
+  ],
+  "timestamp": "2026-08-03T09:03:23.548373332Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И привёл Он меня ⟨את⟩ к входу во двор, и я увидел, и вот, отверстие в стене.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И привёл"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "меня"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "входу"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "во двор"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "и я увидел"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "חר",
+      "gloss": "отверстие"
+    },
+    {
+      "surface": "אחד",
+      "gloss": ""
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "в стене"
+    }
+  ],
+  "timestamp": "2026-08-03T04:23:19.666716463Z",
+  "model": "glm-4.5"
+}

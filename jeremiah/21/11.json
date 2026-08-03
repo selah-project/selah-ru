@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "jeremiah 21:11",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "А к дому царя Иуды: слышите слово ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "А к дому"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иуды"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "слушайте"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T03:25:23.007039610Z",
+  "model": "glm-4.5"
+}

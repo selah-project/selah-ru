@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 47,
+  "ref": "jeremiah 48:47",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 48,
+  "translation": "И возвращу я пленение Моава в конце дней, — заявление ЯХВЕ, — ⟨до⟩ сих пор ⟨это⟩ суд Моава.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "И возвращу я"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "пленение"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "в конце"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дней"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "заявление"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨до⟩"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "сих пор"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "суд"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    }
+  ],
+  "timestamp": "2026-08-03T04:08:16.115300122Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "deuteronomy 24:22",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "и помни, что раб ⟨был⟩ ты в земле Египетской, поэтому Я повелеваю тебе делать ⟨את⟩ это дело",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "и помни"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "раб"
+    },
+    {
+      "surface": "היית",
+      "gloss": "⟨был⟩ ты"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земле"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Египетской"
+    },
+    {
+      "surface": "על",
+      "gloss": "поэтому"
+    },
+    {
+      "surface": "כן",
+      "gloss": "поэтому"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Я"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "повелеваю тебе"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "делать"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "это дело"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "это дело"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "это"
+    }
+  ],
+  "timestamp": "2026-08-02T22:14:20.103587168Z",
+  "model": "glm-4.5"
+}

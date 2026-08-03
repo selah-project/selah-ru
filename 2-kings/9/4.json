@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И пошёл юноша, ⟨тот⟩ юноша пророк, в Рамот-Гилад",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "и пошёл"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "юноша"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "⟨тот⟩ юноша"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророк"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Рамот-"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилад"
+    }
+  ],
+  "timestamp": "2026-08-03T01:14:28.255523987Z",
+  "model": "glm-4.5"
+}

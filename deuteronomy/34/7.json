@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "deuteronomy 34:7",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "Моше был сыном ста двадцати лет в смерти своей, не померк ⟨его⟩ глаз, и не бежала ⟨его⟩ свежесть",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בן",
+      "gloss": "был сыном"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ста"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "двадцати"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "במתו",
+      "gloss": "в смерти своей"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כהתה",
+      "gloss": "померк"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "⟨его⟩ глаз"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "נס",
+      "gloss": "бежала"
+    },
+    {
+      "surface": "לחה",
+      "gloss": "⟨его⟩ свежесть"
+    }
+  ],
+  "timestamp": "2026-08-02T22:24:44.575387622Z",
+  "model": "glm-4.5"
+}

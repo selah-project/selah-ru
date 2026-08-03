@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "jeremiah 8:18",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Мой ⟨есть⟩ стон ⟨на⟩ стон, моё сердце ⟨в⟩ мне ⟨болеет⟩.",
+  "tokens": [
+    {
+      "surface": "מבליגיתי",
+      "gloss": "Мой ⟨есть⟩ стон"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "стон"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "моё сердце"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "⟨в⟩ мне ⟨болеет⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T03:08:54.350120179Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "job 28:7",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Путь ⟨его⟩ не знает хищник, и не сканировала ⟨его⟩ глаз коршуна",
+  "tokens": [
+    {
+      "surface": "נתיב",
+      "gloss": "путь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знает"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "хищник"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "сканировала"
+    },
+    {
+      "surface": "עין",
+      "gloss": "глаз"
+    },
+    {
+      "surface": "איה",
+      "gloss": "коршуна"
+    }
+  ],
+  "timestamp": "2026-08-03T10:33:38.817660351Z",
+  "model": "glm-4.5"
+}

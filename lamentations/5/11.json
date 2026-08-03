@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "lamentations 5:11",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Женщин в Сионе ⟨они⟩ смирили, ⟨в⟩ девицах в городах Йехуды.",
+  "tokens": [
+    {
+      "surface": "נשים",
+      "gloss": "женщин"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "в Сионе"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "⟨они⟩ смирили"
+    },
+    {
+      "surface": "בתלת",
+      "gloss": "⟨в⟩ девицах"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "в городах"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуды"
+    }
+  ],
+  "timestamp": "2026-08-03T11:14:22.220953746Z",
+  "model": "glm-4.5"
+}

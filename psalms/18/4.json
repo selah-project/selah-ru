@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Восхваляемом, воззову к ЯХВЕ, и от врагов моих спасён",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "восхваляемом"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "воззову"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "к ЯХВЕ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и от"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "врагов моих"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "спасён"
+    }
+  ],
+  "timestamp": "2026-08-03T06:49:25.498398897Z",
+  "model": "glm-4.5"
+}

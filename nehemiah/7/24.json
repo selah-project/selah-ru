@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "nehemiah 7:24",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Сыновья Харифа: сто двенадцать.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "חריף",
+      "gloss": "Харифа"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "двенадцать"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T12:21:44.915620400Z",
+  "model": "glm-4.5"
+}

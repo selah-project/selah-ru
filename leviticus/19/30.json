@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Мои шаббаты ⟨будете⟩ хранить, и святилище Моё ⟨будете⟩ почитать; Я — ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мои шаббаты"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Мои шаббаты"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "хранить"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "и святилище Моё"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "почитать"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T20:59:44.351079250Z",
+  "model": "glm-4.5"
+}

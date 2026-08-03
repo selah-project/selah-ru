@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "leviticus 16:3",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "С этим ⟨придёт⟩ Аарон в Кодеш: ⟨с⟩ быком, сыном скота, для хатта́т и ⟨с⟩ бараном для о́лы",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "С этим"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "⟨придёт⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "Кодеш"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "⟨с⟩ быком"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сыном"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "скота"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "для хатта́т"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "и ⟨с⟩ бараном"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "для о́лы"
+    }
+  ],
+  "timestamp": "2026-08-02T20:56:25.001553481Z",
+  "model": "glm-4.5"
+}

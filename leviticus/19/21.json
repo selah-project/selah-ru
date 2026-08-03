@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "И он принесёт ⟨את⟩ вину свою к ЯХВЕ, ко входу в Шатёр собрания, — барана вины",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "и он принесёт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "вину его"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "вину его"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "к ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ко"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "входу"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "в Шатёр"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "собрания"
+    },
+    {
+      "surface": "איל",
+      "gloss": "барана"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "вины"
+    }
+  ],
+  "timestamp": "2026-08-02T20:59:29.736890558Z",
+  "model": "glm-4.5"
+}

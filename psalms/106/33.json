@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 106,
+  "translation": "ибо они восставили ⟨את⟩ дух его, и изрёк устами своими",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "восставили"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дух его"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "дух его"
+    },
+    {
+      "surface": "והבטא",
+      "gloss": "и изрёк"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "устами своими"
+    }
+  ],
+  "timestamp": "2026-08-03T08:37:37.124109474Z",
+  "model": "glm-4.5"
+}

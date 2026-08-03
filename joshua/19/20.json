@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "и Равви́т, и Кишйо́н, и Аве́ц,",
+  "tokens": [
+    {
+      "surface": "והרבית",
+      "gloss": "и Равви́т"
+    },
+    {
+      "surface": "וקשיון",
+      "gloss": "и Кишйо́н"
+    },
+    {
+      "surface": "ואבץ",
+      "gloss": "и Аве́ц"
+    }
+  ],
+  "timestamp": "2026-08-02T22:42:30.092206342Z",
+  "model": "glm-4.5"
+}

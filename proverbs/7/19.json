@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "ибо ⟨нет⟩ ⟨мужа⟩ в доме ⟨его⟩, он ушел в дорогу издалёка",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨нет⟩"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨мужа⟩"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "в доме ⟨его⟩"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "он ушел"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "в дорогу"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "издалёка"
+    }
+  ],
+  "timestamp": "2026-08-03T09:28:49.993888112Z",
+  "model": "glm-4.5"
+}

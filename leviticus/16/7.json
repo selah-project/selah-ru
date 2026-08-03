@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "и возьмёт ⟨את⟩ два ⟨козла⟩ и поставит ⟨их⟩ пред лицем ЯХВЕ у входа ⟨в⟩ шатёр собрания",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "и возьмёт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "два козла"
+    },
+    {
+      "surface": "שני",
+      "gloss": "два"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "козла"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "и поставит"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨их⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред лицем"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "у входа"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "в шатёр"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "собрания"
+    }
+  ],
+  "timestamp": "2026-08-02T20:56:38.118199261Z",
+  "model": "glm-4.5"
+}

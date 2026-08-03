@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "1-chronicles 1:7",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И сыны Явана: Элиша и Таршиша, Киттим и Роданим.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И сыны"
+    },
+    {
+      "surface": "יון",
+      "gloss": "Явана"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "Элиша"
+    },
+    {
+      "surface": "ותרשישה",
+      "gloss": "и Таршиша"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Киттим"
+    },
+    {
+      "surface": "ורודנים",
+      "gloss": "и Роданим"
+    }
+  ],
+  "timestamp": "2026-08-03T12:35:25.717121570Z",
+  "model": "glm-4.5"
+}

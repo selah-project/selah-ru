@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 73,
+  "translation": "пока не вошёл я в святилища Эла, ⟨тогда⟩ уразумел я ⟨каков⟩ их конец",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "пока"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "вошёл я"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "святилища"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эла"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "уразумел я"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "их конец"
+    }
+  ],
+  "timestamp": "2026-08-03T07:53:57.920956998Z",
+  "model": "glm-4.5"
+}

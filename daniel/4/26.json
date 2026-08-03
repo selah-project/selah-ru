@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "daniel 4:26",
+  "book": "daniel",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "По прошествии двенадцати месяцев он ходил по царскому дворцу Вавилона.",
+  "tokens": [
+    {
+      "surface": "לקצת",
+      "gloss": "по прошествии"
+    },
+    {
+      "surface": "ירחין",
+      "gloss": "месяцев"
+    },
+    {
+      "surface": "תרי",
+      "gloss": "двенадцати"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "дворцу"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "царскому"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨את⟩",
+      "marks": "Вавилона"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилона"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "ходил"
+    },
+    {
+      "surface": "הוה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T11:44:34.032123391Z",
+  "model": "glm-4.5"
+}

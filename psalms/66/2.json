@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 66,
+  "translation": "Воспойте славу имени Его; сделайте славной хвалу Его.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Воспойте"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славу"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "имени Его"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "сделайте"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славной"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "хвалу Его"
+    }
+  ],
+  "timestamp": "2026-08-03T07:45:36.094128790Z",
+  "model": "glm-4.5"
+}

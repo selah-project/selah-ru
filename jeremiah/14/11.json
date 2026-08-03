@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И сказал ЯХВЕ мне: не молись за ⟨этот⟩ народ ⟨на⟩ благо",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "молись"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "за"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨этот⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "⟨на⟩ благо"
+    }
+  ],
+  "timestamp": "2026-08-03T03:15:23.756124897Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "isaiah 34:8",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "ибо день мщения — для ЯХВЕ, год возмездия за тяжбу ⟨о⟩ Ционе",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "мщения"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "для ЯХВЕ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "год"
+    },
+    {
+      "surface": "שלומים",
+      "gloss": "возмездия"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "за тяжбу"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    }
+  ],
+  "timestamp": "2026-08-03T02:18:36.291137953Z",
+  "model": "glm-4.5"
+}

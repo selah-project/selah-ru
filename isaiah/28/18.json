@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "isaiah 28:18",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "И ⟨כפר⟩ будет ⟨את⟩ завет ваш со ⟨смертью⟩, и видение ваше с ⟨Шеолом⟩ не устоит; когда пройдёт бич overflowing, вы станете для него попранием.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "И ⟨כפר⟩"
+    },
+    {
+      "surface": "בריתכם",
+      "gloss": "завет ваш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "смертью"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смертью"
+    },
+    {
+      "surface": "וחזותכם",
+      "gloss": "и видение ваше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шеолом"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеолом"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "устоит"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "бич"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "overflowing"
+    },
+    {
+      "surface": "כי",
+      "gloss": "когда"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "пройдёт"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "вы станете"
+    },
+    {
+      "surface": "לו",
+      "gloss": "для него"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "попранием"
+    }
+  ],
+  "timestamp": "2026-08-03T02:12:22.592074745Z",
+  "model": "glm-4.5"
+}

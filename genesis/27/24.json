@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "И сказал: ⟨это⟩ ты, сын мой, Эсав? И сказал: я.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨это⟩ ты"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨это⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сын мой"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    }
+  ],
+  "timestamp": "2026-08-02T19:26:40.009157609Z",
+  "model": "glm-4.5"
+}

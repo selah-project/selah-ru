@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "numbers 25:10",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "И сказал ЯХВЕ ⟨эль⟩ Моше, ⟨чтобы⟩ сказать:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨эль⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨чтобы⟩ сказать"
+    }
+  ],
+  "timestamp": "2026-08-03T18:07:34.825707825Z",
+  "model": "glm-4.5"
+}

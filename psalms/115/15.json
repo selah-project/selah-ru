@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 115,
+  "translation": "Благословенны вы ЯХВЕ, сотворившему небо и землю",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "Благословенны"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вы"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сотворившему"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небо"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "и землю"
+    }
+  ],
+  "timestamp": "2026-08-03T08:45:37.851642889Z",
+  "model": "glm-4.5"
+}

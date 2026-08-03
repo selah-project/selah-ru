@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "proverbs 7:14",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Жертвы шла́мим ⟨со⟩ мной; сегодня ⟨я⟩ совершил ⟨мои⟩ обеты.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "Жертвы"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "шла́мим"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨со⟩ мной",
+      "marks": "со мной"
+    },
+    {
+      "surface": "היום",
+      "gloss": "сегодня"
+    },
+    {
+      "surface": "שלמתי",
+      "gloss": "⟨я⟩ совершил"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "⟨мои⟩ обеты"
+    }
+  ],
+  "timestamp": "2026-08-03T09:29:14.477514740Z",
+  "model": "glm-4.5"
+}

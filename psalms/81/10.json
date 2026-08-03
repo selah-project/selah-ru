@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 81,
+  "translation": "Не ⟨будет⟩ в тебе ⟨чужого⟩ Эля, и не поклонись ты ⟨чужому⟩ Элю",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨будет⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "в тебе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨чужого⟩ Эля"
+    },
+    {
+      "surface": "זר",
+      "gloss": ""
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "поклонись ты"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "⟨чужому⟩ Элю"
+    },
+    {
+      "surface": "נכר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T08:07:56.272344412Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И сыновья Йехонии: Асир, Шеалтиэль, сын его,",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И сыновья"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Йехонии"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "Асир"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "Шеалтиэль"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "сын его"
+    }
+  ],
+  "timestamp": "2026-08-03T12:39:32.400838128Z",
+  "model": "glm-4.5"
+}

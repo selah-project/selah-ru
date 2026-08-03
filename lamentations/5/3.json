@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Мы стали сиротами, ⟨нет⟩ отца; наши матери — как вдовы.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "сиротами"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "стали"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨нет⟩"
+    },
+    {
+      "surface": "אב",
+      "gloss": "отца"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "наши матери"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "как вдовы"
+    }
+  ],
+  "timestamp": "2026-08-03T11:14:30.001555991Z",
+  "model": "glm-4.5"
+}

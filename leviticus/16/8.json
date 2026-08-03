@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "И даст Аарон ⟨на⟩ двух ⟨козлов⟩ жребии, жребий один для ЯХВЕ, а жребий один для Азазэля",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "и даст"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "שני",
+      "gloss": "двух"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "⟨козлов⟩"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "жребии"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "жребий"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "для ЯХВЕ"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "а жребий"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "для Азазэля"
+    }
+  ],
+  "timestamp": "2026-08-02T20:56:27.457038877Z",
+  "model": "glm-4.5"
+}

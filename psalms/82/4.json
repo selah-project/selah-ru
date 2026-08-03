@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 82,
+  "translation": "Спасите слабого и needy; из руки нечестивых ⟨их⟩ избавьте.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "спасите"
+    },
+    {
+      "surface": "דל",
+      "gloss": "слабого"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "и needy"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "из руки"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивых"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "⟨их⟩ избавьте"
+    }
+  ],
+  "timestamp": "2026-08-03T08:08:17.054462574Z",
+  "model": "glm-4.5"
+}

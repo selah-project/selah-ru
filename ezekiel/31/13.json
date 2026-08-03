@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "ezekiel 31:13",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "На его падении обитают все птицы небес, и на ветвях его ⟨были⟩ все звери поля",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "На"
+    },
+    {
+      "surface": "מפלתו",
+      "gloss": "его падении"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "обитают"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "птицы"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "פארתיו",
+      "gloss": "ветвях его"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨были⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "חית",
+      "gloss": "звери"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "поля"
+    }
+  ],
+  "timestamp": "2026-08-03T04:54:51.879779243Z",
+  "model": "glm-4.5"
+}

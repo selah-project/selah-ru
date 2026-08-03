@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "А если нет ⟨את⟩ у него дочери, то ⟨вы⟩ дадите ⟨את⟩ наследие его братьям его.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А если"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "לו",
+      "gloss": "у него"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочери"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "то ⟨вы⟩ дадите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "наследие его"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "наследие его"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "братьям его"
+    }
+  ],
+  "timestamp": "2026-08-02T21:40:19.204562297Z",
+  "model": "glm-4.5"
+}

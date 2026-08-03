@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И в день появления ⟨в⟩ нём живой плоти он нечист",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "и в день"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "появления"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨в⟩ нём",
+      "marks": "в нём"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "плоти"
+    },
+    {
+      "surface": "חי",
+      "gloss": "живой"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "он нечист"
+    }
+  ],
+  "timestamp": "2026-08-02T20:52:15.617827250Z",
+  "model": "glm-4.5"
+}

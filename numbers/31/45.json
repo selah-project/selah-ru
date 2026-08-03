@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "и ⟨их⟩ ослов тридцать тысяч и ⟨их⟩ пять сотен",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "и ⟨их⟩ ослов"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "тридцать"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тысяч"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "и ⟨их⟩ пять"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотен"
+    }
+  ],
+  "timestamp": "2026-08-02T21:44:57.761337420Z",
+  "model": "glm-4.5"
+}

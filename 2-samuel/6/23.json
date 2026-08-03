@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "А Мхал, дочери Шаула, не было ⟨у⟩ неё ребёнка до дня её смерти",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "А Мхал"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочери"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаула"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "было"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨у⟩ неё"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ребёнка"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дня"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "её смерти"
+    }
+  ],
+  "timestamp": "2026-08-02T23:53:16.716435856Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "numbers 22:10",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И сказал Билам Элохим: Балак, сын Циппора, царь Моава, прислал ко мне, говоря:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": ""
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "Циппора"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "прислал"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ко мне"
+    }
+  ],
+  "timestamp": "2026-08-02T21:34:41.533275721Z",
+  "model": "glm-4.5"
+}

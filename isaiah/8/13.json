@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "⟨את⟩ ЯХВЕ Цеваот, Его освящайте, и Он — страх ваш, и Он — ужас ваш",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ Цеваот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "Его",
+      "marks": "освящайте"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "освящайте"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "и Он"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "страх ваш"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "и Он"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "ужас ваш"
+    }
+  ],
+  "timestamp": "2026-08-03T01:52:18.715948843Z",
+  "model": "glm-4.5"
+}

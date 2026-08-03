@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 39,
+  "ref": "1-chronicles 8:39",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И сыновья Эшека, брата его: Улам, первенец его, Иеуш второй и Элифлет третий.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И сыновья"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "Эшека"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "брата его"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "Улам"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "первенец его"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Иеуш"
+    },
+    {
+      "surface": "השני",
+      "gloss": "второй"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "и Элифлет"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "третий"
+    }
+  ],
+  "timestamp": "2026-08-03T12:49:36.483607591Z",
+  "model": "glm-4.5"
+}

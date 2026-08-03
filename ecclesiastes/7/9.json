@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Не спеши ⟨в⟩ духе твоём гневаться, ибо гнев ⟨в⟩ недре глупцов почиет",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "спеши"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "⟨в⟩ духе твоём"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "гневаться"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "гнев"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "⟨в⟩ недре"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "глупцов"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "почиет"
+    }
+  ],
+  "timestamp": "2026-08-03T11:21:42.450681078Z",
+  "model": "glm-4.5"
+}

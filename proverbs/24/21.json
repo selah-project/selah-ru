@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Сын мой, бойся ⟨את⟩ ЯХВЕ и царя, с переменчивыми не混杂айся",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "бойся"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сын мой"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "и царя"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "перемчивыми"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "混杂айся"
+    }
+  ],
+  "timestamp": "2026-08-03T09:55:20.364958587Z",
+  "model": "glm-4.5"
+}

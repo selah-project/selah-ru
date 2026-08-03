@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "2-samuel 19:2",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "и доложили Йоаву: вот, царь плачет ⟨и⟩ скорбит об Авшаломе",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "и доложили"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "Йоаву"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "плачет"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "⟨и⟩ скорбит"
+    },
+    {
+      "surface": "על",
+      "gloss": "об"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Авшаломе"
+    }
+  ],
+  "timestamp": "2026-08-03T00:07:20.799117571Z",
+  "model": "glm-4.5"
+}

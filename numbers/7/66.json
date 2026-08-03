@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 66,
+  "ref": "numbers 7:66",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "В десятый день ⟨был⟩ князь сынов Дана Ахиецер, сын Аммишаддая,",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "В день"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "десятый"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "князь"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дана"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "Ахиецер"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "Аммишаддая"
+    }
+  ],
+  "timestamp": "2026-08-02T21:19:15.792263062Z",
+  "model": "glm-4.5"
+}

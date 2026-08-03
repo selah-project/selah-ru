@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "jeremiah 20:13",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "Пойте ЯХВЕ, прославляйте ⟨את⟩ ЯХВЕ, ибо Он спас ⟨את⟩ нефеш бедного от руки злодеев",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Пойте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "прославляйте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "спас"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нефеш бедного"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нефеш"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "бедного"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "от руки"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "злодеев"
+    }
+  ],
+  "timestamp": "2026-08-03T03:23:48.146279283Z",
+  "model": "glm-4.5"
+}

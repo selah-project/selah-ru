@@ -1,0 +1,30 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "numbers 7:28",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "козёл ⟨от⟩ коз один для жертвы за грех:",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "козёл"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "⟨от⟩ коз",
+      "marks": "козёл"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "для жертвы за грех"
+    }
+  ],
+  "timestamp": "2026-08-02T21:18:14.355821640Z",
+  "model": "glm-4.5"
+}

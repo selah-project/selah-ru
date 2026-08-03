@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "и золото той земли ⟨есть⟩ хорошее: там ⟨есть⟩ бдолах и камень шохам",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "и золото"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "той земли"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "хорошее"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "бдолах"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "и камень"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "шохам"
+    }
+  ],
+  "timestamp": "2026-08-02T17:45:37.266550808Z",
+  "model": "glm-4.5"
+}

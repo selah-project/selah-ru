@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 105,
+  "translation": "Он послал ⟨את⟩ человека перед ними, в рабы продан ⟨был⟩ Йосеф:",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "послал"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "перед ними"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человека",
+      "marks": "человека"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "в рабы"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "продан"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    }
+  ],
+  "timestamp": "2026-08-03T08:35:15.969787846Z",
+  "model": "glm-4.5"
+}

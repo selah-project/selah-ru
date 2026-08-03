@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "numbers 13:9",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "от колена Биньямина, Палти, сын Рафу.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "от колена"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Биньямина"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "Палти"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "רפוא",
+      "gloss": "Рафу"
+    }
+  ],
+  "timestamp": "2026-08-02T21:24:37.408048129Z",
+  "model": "glm-4.5"
+}

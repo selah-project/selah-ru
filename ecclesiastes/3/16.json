@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И ещё я видел под ⟨the⟩ солнцем: ⟨the⟩ место ⟨the⟩ суда — там ⟨the⟩ нечестие, и ⟨the⟩ место ⟨the⟩ праведности — там ⟨the⟩ нечестие.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "И ещё"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "я видел"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "⟨the⟩ солнцем"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "⟨the⟩ место"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "⟨the⟩ суда"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "там"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "⟨the⟩ нечестие"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "и ⟨the⟩ место"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "⟨the⟩ праведности"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "там"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "⟨the⟩ нечестие"
+    }
+  ],
+  "timestamp": "2026-08-03T11:18:27.201157582Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 44,
+  "ref": "psalms 78:44",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 78,
+  "translation": "И обратил в кровь их реки и их потоки, и не могли ⟨они⟩ пить",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "и обратил"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "в кровь"
+    },
+    {
+      "surface": "יאריהם",
+      "gloss": "их реки"
+    },
+    {
+      "surface": "ונזליהם",
+      "gloss": "и их потоки"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישתיון",
+      "gloss": "могли ⟨они⟩ пить"
+    }
+  ],
+  "timestamp": "2026-08-03T08:03:48.324821128Z",
+  "model": "glm-4.5"
+}

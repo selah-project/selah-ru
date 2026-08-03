@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "jeremiah 51:40",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 51,
+  "translation": "Я низведу их, как агнцев ⟨на⟩ заклание, как баранов с козлами",
+  "tokens": [
+    {
+      "surface": "אורידם",
+      "gloss": "Я низведу их"
+    },
+    {
+      "surface": "ככרים",
+      "gloss": "как агнцев"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "⟨на⟩ заклание"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "как баранов"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "козлами"
+    }
+  ],
+  "timestamp": "2026-08-03T04:13:40.989775543Z",
+  "model": "glm-4.5"
+}

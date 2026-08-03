@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Отцы ваши, где ⟨они⟩? И пророки, ⟨ли⟩ ⟨навечно⟩ ⟨они⟩ ⟨будут⟩ жить?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "Отцы ваши"
+    },
+    {
+      "surface": "איה",
+      "gloss": "где"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨они⟩"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "и пророки"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "⟨ли⟩ ⟨навечно⟩"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "⟨они⟩ ⟨будут⟩ жить"
+    }
+  ],
+  "timestamp": "2026-08-03T06:09:09.028041181Z",
+  "model": "glm-4.5"
+}

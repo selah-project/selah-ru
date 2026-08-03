@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 51,
+  "ref": "numbers 26:51",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Вот исчисленные сынов Израиля: шестьсот тысяч и тысячу семьсот и тридцать",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "исчисленные"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шестьсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "тысяч"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "и тысячу"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": ""
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семьсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "и"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "тридцать"
+    }
+  ],
+  "timestamp": "2026-08-02T21:39:50.439055470Z",
+  "model": "glm-4.5"
+}

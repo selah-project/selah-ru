@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Время ЯХВЕ действовать — ⟨ибо⟩ нарушили ⟨את⟩ Тору Твою",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Время"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "действовать"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "нарушили"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Тору Твою"
+    }
+  ],
+  "timestamp": "2026-08-03T08:53:33.363950542Z",
+  "model": "glm-4.5"
+}

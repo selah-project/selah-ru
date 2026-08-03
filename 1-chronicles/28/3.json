@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Но Элохим сказал мне: «не строй Дом ⟨для⟩ Имени Моего, ибо ты человек войн и крови пролил».",
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "Но Элохим"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "строй"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Дом"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "⟨для⟩ Имени Моего",
+      "marks": "Имени Моего"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человек"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "войн"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "и крови"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "пролил"
+    }
+  ],
+  "timestamp": "2026-08-03T13:16:28.247570377Z",
+  "model": "glm-4.5"
+}

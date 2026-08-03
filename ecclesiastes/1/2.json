@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Дым дымов, сказал Коэлет: дым дымов — ⟨это⟩ всё дым.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "дым"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "дымов"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Коэлет"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "дым"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "дымов"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "⟨это⟩ всё"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "дым"
+    }
+  ],
+  "timestamp": "2026-08-03T11:15:17.981384242Z",
+  "model": "glm-4.5"
+}

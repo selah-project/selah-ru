@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "Тогда ⟨будут⟩ открыты глаза ⟨слепых⟩, и уши глухих ⟨будут⟩ открыты",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тогда"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "открыты"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "глаза"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "слепых"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "и уши"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "глухих"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "открыты"
+    }
+  ],
+  "timestamp": "2026-08-03T02:20:01.384642233Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "В ⟨тот⟩ день Я исполню над Эли ⟨את⟩ всё, ⟨что⟩ Я говорил ⟨о⟩ доме его, ⟨начиная⟩ и ⟨совершая⟩.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "В день"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨тот⟩"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "Я исполню"
+    },
+    {
+      "surface": "אל",
+      "gloss": "над"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Эли"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всё"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨что⟩"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "Я говорил"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨о⟩"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "доме его"
+    },
+    {
+      "surface": "החל",
+      "gloss": "⟨начиная⟩"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "и ⟨совершая⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T23:15:49.681387647Z",
+  "model": "glm-4.5"
+}

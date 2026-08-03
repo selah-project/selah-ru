@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "и опустошу ⟨я⟩ ⟨את⟩ землю, и ужаснутся ⟨её⟩ враги ваши, живущие в ней",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "и опустошу"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨я⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "и ужаснутся"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "⟨её⟩"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "враги ваши"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "живущие"
+    },
+    {
+      "surface": "בה",
+      "gloss": "в ней"
+    }
+  ],
+  "timestamp": "2026-08-02T21:07:22.344238393Z",
+  "model": "glm-4.5"
+}

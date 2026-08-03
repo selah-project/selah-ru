@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "jeremiah 28:2",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Так сказал ЯХВЕ Цеваот, Элохим Израиля, говоря: Я разбил ⟨את⟩ ярмо царя Вавилона.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "שברתי",
+      "gloss": "Я разбил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ярмо царя Вавилона"
+    },
+    {
+      "surface": "על",
+      "gloss": "ярмо"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилона"
+    }
+  ],
+  "timestamp": "2026-08-03T03:38:18.619233154Z",
+  "model": "glm-4.5"
+}

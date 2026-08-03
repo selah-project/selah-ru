@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "1-chronicles 26:3",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Эйлам — пятый, Иегоханан — шестой, Элиегоенай — седьмой",
+  "tokens": [
+    {
+      "surface": "עילם",
+      "gloss": "Эйлам"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "пятый"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "Иегоханан"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "шестой"
+    },
+    {
+      "surface": "אליהועיני",
+      "gloss": "Элиегоенай"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "седьмой"
+    }
+  ],
+  "timestamp": "2026-08-03T13:13:22.322640796Z",
+  "model": "glm-4.5"
+}

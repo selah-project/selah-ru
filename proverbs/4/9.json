@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 4:9",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Она даст твоей голове венец хеседа, корону величия ⟨и⟩ покроет тебя",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "даст"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "твоей голове"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "венец"
+    },
+    {
+      "surface": "חן",
+      "gloss": "хеседа"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "корону"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "величия"
+    },
+    {
+      "surface": "תמגנך",
+      "gloss": "⟨и⟩ покроет тебя"
+    }
+  ],
+  "timestamp": "2026-08-03T09:24:50.977956157Z",
+  "model": "glm-4.5"
+}

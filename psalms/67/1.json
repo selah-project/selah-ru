@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 67,
+  "translation": "Начальнику. На струнных. Псалом. Песнь.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Начальнику"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "На струнных"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Псалом"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Песнь"
+    }
+  ],
+  "timestamp": "2026-08-03T07:46:21.529307873Z",
+  "model": "glm-4.5"
+}

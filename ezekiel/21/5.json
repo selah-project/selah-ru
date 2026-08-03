@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "ezekiel 21:5",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И сказал я: ах, Адонай ЯХВЕ! они говорят обо мне: не ⟨это⟩ приточник притчей ⟨есть⟩?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "ах"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "они"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "говорят"
+    },
+    {
+      "surface": "לי",
+      "gloss": "обо мне"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "приточник"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "притч"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨есть⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T04:42:29.094384919Z",
+  "model": "glm-4.5"
+}

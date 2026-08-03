@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 105,
+  "translation": "Он обратил ⟨את⟩ воды их в кровь и умертвил ⟨את⟩ рыбу их",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "обратил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "воды их"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "воды их"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "в кровь"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умертвил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "рыбу их"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "рыбу их"
+    }
+  ],
+  "timestamp": "2026-08-03T08:35:10.055225205Z",
+  "model": "glm-4.5"
+}

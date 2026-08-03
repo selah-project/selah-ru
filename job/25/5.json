@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "job 25:5",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "Вот, даже до луны, ⟨и⟩ она не сияет, и звёзды не чисты в глазах Его",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "вот"
+    },
+    {
+      "surface": "עד",
+      "gloss": "даже до"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "луны"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "⟨и⟩"
+    },
+    {
+      "surface": "יאהיל",
+      "gloss": "она не сияет"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "и звёзды"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "זכו",
+      "gloss": "чисты"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "в глазах Его"
+    }
+  ],
+  "timestamp": "2026-08-03T10:31:53.611995611Z",
+  "model": "glm-4.5"
+}

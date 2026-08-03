@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "Ибо не навсегда богатство, и ⟨не⟩ пребудет венец из рода в род.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навсегда"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "богатство"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "и ⟨не⟩"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "пребудет венец"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "из рода"
+    },
+    {
+      "surface": "דור",
+      "gloss": "в род"
+    }
+  ],
+  "timestamp": "2026-08-03T10:03:47.870557845Z",
+  "model": "glm-4.5"
+}

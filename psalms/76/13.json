@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 76:13",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 76,
+  "translation": "Он соберёт руах правителей, ⟨Он⟩ страшен для царей земли.",
+  "tokens": [
+    {
+      "surface": "יבצר",
+      "gloss": "Он соберёт"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "правителей"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "страшен"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "для царей"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земли"
+    }
+  ],
+  "timestamp": "2026-08-03T07:58:04.241707279Z",
+  "model": "glm-4.5"
+}

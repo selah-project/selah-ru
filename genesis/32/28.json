@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "genesis 32:28",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "И сказал ему: как ⟨твоё⟩ имя? И сказал: Яаков.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "מה",
+      "gloss": "как"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "⟨твоё⟩ имя"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    }
+  ],
+  "timestamp": "2026-08-02T19:34:06.776473155Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Цадок, его сын, Ахимаац, его сын",
+  "tokens": [
+    {
+      "surface": "צדוק",
+      "gloss": "Цадок"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "его сын"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ахимаац"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "его сын"
+    }
+  ],
+  "timestamp": "2026-08-03T12:44:51.160532289Z",
+  "model": "glm-4.5"
+}

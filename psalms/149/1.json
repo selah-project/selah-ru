@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 149,
+  "translation": "Хвалите ⟨Ях⟩! Пойте ЯХВЕ песнь новую, хвала ⟨Его⟩ в собрании праведных",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Хвалите"
+    },
+    {
+      "surface": "יה",
+      "gloss": "⟨Ях⟩"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Пойте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "песнь"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "новую"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "хвала ⟨Его⟩",
+      "marks": "Его"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "в собрании"
+    },
+    {
+      "surface": "חסидים",
+      "gloss": "праведных"
+    }
+  ],
+  "timestamp": "2026-08-03T09:19:04.470519195Z",
+  "model": "glm-4.5"
+}

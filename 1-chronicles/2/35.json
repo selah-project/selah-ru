@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "1-chronicles 2:35",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И отдал Шешан ⟨את⟩ дочь свою Ярха, рабу своему, в жёны, и родила ему ⟨את⟩ Аттай",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "И отдал"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "Шешан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дочь свою"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "дочь свою"
+    },
+    {
+      "surface": "לירחע",
+      "gloss": "Ярха"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "рабу своему"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "в жёны"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и родила"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аттай"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "Аттай"
+    }
+  ],
+  "timestamp": "2026-08-03T12:38:08.980195400Z",
+  "model": "glm-4.5"
+}

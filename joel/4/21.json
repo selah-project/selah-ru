@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "joel 4:21",
+  "book": "joel",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Я ⟨их⟩ кровь не оправдаю и ⟨но⟩ ЯХВЕ обитает в Ционе",
+  "tokens": [
+    {
+      "surface": "ונקיתי",
+      "gloss": "Я оправдаю"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "их кровь",
+      "marks": "кровь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נקיתי",
+      "gloss": "оправдаю"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "и ЯХВЕ"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "обитает"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "в Ционе"
+    }
+  ],
+  "timestamp": "2026-08-03T05:33:49.669552065Z",
+  "model": "glm-4.5"
+}

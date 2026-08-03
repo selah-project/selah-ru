@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "2-chronicles 30:12",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Также в Иудее ⟨была⟩ рука Элохима, чтобы дать им одно сердце делать повеление царя и князей, по слову ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Также"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "в Иудее"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨была⟩"
+    },
+    {
+      "surface": "יד",
+      "gloss": "рука"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Эlohим"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "чтобы дать"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сердце"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одно"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "делать"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "повеление"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "и князей"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "по слову"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T14:06:32.104468384Z",
+  "model": "glm-4.5"
+}

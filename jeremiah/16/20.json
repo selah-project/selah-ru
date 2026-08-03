@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Неужели человек сделает ⟨себе⟩ Элохим, а они — не Элохим?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "Неужели сделает"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨себе⟩"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человек"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "а они"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-08-03T03:17:39.845409346Z",
+  "model": "glm-4.5"
+}

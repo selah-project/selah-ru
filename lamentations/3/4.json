@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "⟨Он⟩ истратил мою плоть и мою кожу; ⟨Он⟩ сокрушил кости мои.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "истрачил"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "мою плоть"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "и мою кожу"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "сокрушил"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "кости мои"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:19.460419879Z",
+  "model": "glm-4.5"
+}

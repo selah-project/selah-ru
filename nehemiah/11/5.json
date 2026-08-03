@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "nehemiah 11:5",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "и Маасея сын Баруха сын Кол-Хозэ сын Хазайи сын Адаии сын Йоярива сын Зехарьи сын Шелони",
+  "tokens": [
+    {
+      "surface": "ומעשיה",
+      "gloss": "и Маасея"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Баруха"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Кол-"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "Хозэ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "חזיה",
+      "gloss": "Хазайи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "Адаии"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "Йоярива"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Зехарьи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "Шелони"
+    }
+  ],
+  "timestamp": "2026-08-03T12:29:58.300365661Z",
+  "model": "glm-4.5"
+}

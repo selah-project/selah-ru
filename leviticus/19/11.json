@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Не крадите, и не отрицайте, и не лгите ⟨друг⟩ другу.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "крадите"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "отрицайте"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "лгите"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨друг⟩"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "другу"
+    }
+  ],
+  "timestamp": "2026-08-02T20:59:13.638851847Z",
+  "model": "glm-4.5"
+}

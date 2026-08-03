@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Пусть ⟨они⟩ будут тебе самим, и ⟨нет⟩ для чужих с тобой",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "пусть ⟨они⟩ будут"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "самим"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и ⟨нет⟩"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "для чужих"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "с тобой"
+    }
+  ],
+  "timestamp": "2026-08-03T09:26:32.128451849Z",
+  "model": "glm-4.5"
+}

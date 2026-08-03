@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "Отстранись от зла и делай добро, и обитай ⟨во⟩ веки",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Отстранись"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "от зла"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "и делай"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "и обитай"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "⟨во⟩ веки"
+    }
+  ],
+  "timestamp": "2026-08-03T07:15:42.647150665Z",
+  "model": "glm-4.5"
+}

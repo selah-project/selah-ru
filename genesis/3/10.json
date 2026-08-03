@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И сказал: голос Твой ⟨את⟩ я слышал в саду, и я испугался, ибо наг ⟨я⟩, и скрылся.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "голос Твой"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "голос Твой"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "я слышал"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "в саду"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "и я испугался"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "наг"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨я⟩"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "и скрылся"
+    }
+  ],
+  "timestamp": "2026-08-02T17:46:56.239170924Z",
+  "model": "glm-4.5"
+}

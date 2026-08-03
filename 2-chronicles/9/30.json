@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "2-chronicles 9:30",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И царствовал Шеломо в Иерусалиме над всем Израилем сорок лет",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "И царствовал"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "в Иерусалиме"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всем"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израилем"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "сорок"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    }
+  ],
+  "timestamp": "2026-08-03T13:33:59.008743403Z",
+  "model": "glm-4.5"
+}

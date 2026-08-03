@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "И отдал Авраам ⟨את⟩ всё, что ему, Ицхаку",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "И отдал"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всё, что ему"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Ицхаку"
+    }
+  ],
+  "timestamp": "2026-08-02T19:23:51.275265695Z",
+  "model": "glm-4.5"
+}

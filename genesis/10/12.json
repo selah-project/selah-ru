@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "и ⟨את⟩ Ресен между Ниневией и между Калах — она ⟨есть⟩ город ⟨этот⟩ великий.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Ресен"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Ресен"
+    },
+    {
+      "surface": "בין",
+      "gloss": "между"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ниневией"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и между"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Калах"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "она"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "город"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "великий"
+    }
+  ],
+  "timestamp": "2026-08-02T17:54:01.512979960Z",
+  "model": "glm-4.5"
+}

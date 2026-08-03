@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Также без знания ⟨существа⟩ не ⟨хорошо⟩, и торопящийся ⟨ногами⟩ ⟨грешит⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Также"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "без"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знания"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨существа⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨хорошо⟩"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "и торопящийся"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "⟨ногами⟩"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "⟨грешит⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T09:46:12.650047344Z",
+  "model": "glm-4.5"
+}

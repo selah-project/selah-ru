@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Мёртвое ⟨и⟩ растерзанное ⟨он⟩ не будет есть, чтобы оскверниться ⟨им⟩; Я — ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "Мёртвое"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "⟨и⟩ растерзанное"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "будет есть"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "чтобы оскверниться"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨им⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T21:02:07.243729275Z",
+  "model": "glm-4.5"
+}

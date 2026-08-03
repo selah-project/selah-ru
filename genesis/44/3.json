@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 44,
+  "translation": "Утро ⟨стало⟩ светлым, и ⟨эти⟩ люди отправлены, они и ⟨их⟩ ослы",
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "утро"
+    },
+    {
+      "surface": "אור",
+      "gloss": "⟨стало⟩ светлым"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "и ⟨эти⟩ люди"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "отправлены"
+    },
+    {
+      "surface": "המה",
+      "gloss": "они"
+    },
+    {
+      "surface": "וחמריהם",
+      "gloss": "и ⟨их⟩ ослы"
+    }
+  ],
+  "timestamp": "2026-08-02T19:48:23.497535100Z",
+  "model": "glm-4.5"
+}

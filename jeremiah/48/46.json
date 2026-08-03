@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 46,
+  "ref": "jeremiah 48:46",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 48,
+  "translation": "Горе тебе, Моав! Погиб народ Кемоша, ибо взяты сыновья твои в плен и дочери твои в плену",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "горе"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "погиб"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "כמוש",
+      "gloss": "Кемоша"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "взяты"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "сыновья твои"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "в плен"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "и дочери твои"
+    },
+    {
+      "surface": "בשביה",
+      "gloss": "в плену"
+    }
+  ],
+  "timestamp": "2026-08-03T04:08:17.463985886Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 57:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 57,
+  "translation": "Вознесись, Элохим, ⟨над⟩ небесами, ⟨над⟩ всею землёю — слава Твоя",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Вознесись"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨над⟩"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небесами"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨над⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всею"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землёю"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "слава Твоя"
+    }
+  ],
+  "timestamp": "2026-08-03T07:34:30.647889843Z",
+  "model": "glm-4.5"
+}

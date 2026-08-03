@@ -1,0 +1,68 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "а ⟨את⟩ мясо быка и ⟨את⟩ кожу его и ⟨את⟩ нечистоты его сжигай огнём вне стана: это ⟨за грех⟩",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и",
+      "marks": "мясо"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "мясо"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "быка"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и",
+      "marks": "кожу"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "кожу"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и",
+      "marks": "нечистоты"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "нечистоты"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "сжигай"
+    },
+    {
+      "surface": "באש",
+      "gloss": "огнём"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "вне"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "стана"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "за грех"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "это"
+    }
+  ],
+  "timestamp": "2026-08-02T20:25:40.284138638Z",
+  "model": "glm-4.5"
+}

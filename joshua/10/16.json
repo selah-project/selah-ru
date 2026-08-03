@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "joshua 10:16",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И эти пять царей бежали, и скрылись ⟨они⟩ в пещере в Македе",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "и бежали"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "пять"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "царей"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "эти"
+    },
+    {
+      "surface": "ויחבאו",
+      "gloss": "и скрылись"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "в пещере"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "в Македе"
+    }
+  ],
+  "timestamp": "2026-08-02T22:34:01.992746927Z",
+  "model": "glm-4.5"
+}

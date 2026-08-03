@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Лучше горсть покоя, ⟨чем⟩ две горсти труда и chasing after wind.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "лучше"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "горсть"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ладони"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "покоя"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "⟨чем⟩"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "две горсти"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "труда"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "и"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "chasing after wind"
+    }
+  ],
+  "timestamp": "2026-08-03T11:19:06.317421160Z",
+  "model": "glm-4.5"
+}

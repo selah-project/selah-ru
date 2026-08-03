@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "proverbs 19:21",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Много замыслов в сердце человека, но совет ЯХВЕ — ⟨он⟩ состоится.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "Много"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "замыслов"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "в сердце"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человека"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "но совет"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "состоится"
+    }
+  ],
+  "timestamp": "2026-08-03T09:45:56.849390672Z",
+  "model": "glm-4.5"
+}

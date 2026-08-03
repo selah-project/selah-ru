@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "proverbs 26:27",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Роющий яму упадёт в неё, и катящий камень откатится ⟨к⟩ нему.",
+  "tokens": [
+    {
+      "surface": "כרה",
+      "gloss": "роющий"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "яму"
+    },
+    {
+      "surface": "בה",
+      "gloss": "в неё"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "упадёт"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "и катящий"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "камень"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨к⟩ нему"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "откатится"
+    }
+  ],
+  "timestamp": "2026-08-03T10:02:05.796141917Z",
+  "model": "glm-4.5"
+}

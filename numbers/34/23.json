@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "numbers 34:23",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "для сыновей Йосефа, для колена сыновей Менашше, князь Ханниэль, сын Эфода",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "для сыновей"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефа"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "для колена"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менашше"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "князь"
+    },
+    {
+      "surface": "חניאל",
+      "gloss": "Ханниэль"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "Эфода"
+    }
+  ],
+  "timestamp": "2026-08-02T21:48:31.280270629Z",
+  "model": "glm-4.5"
+}

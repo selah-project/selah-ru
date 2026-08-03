@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 128,
+  "translation": "По труду рук твоих будешь есть, блажен ты, и хорошо ⟨тебе⟩",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "По труду"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "рук твоих"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ведь"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "будешь есть"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "блажен ты"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "и хорошо"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    }
+  ],
+  "timestamp": "2026-08-03T09:00:44.005568091Z",
+  "model": "glm-4.5"
+}

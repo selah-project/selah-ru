@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "И родил ⟨для⟩ Аарона ⟨את⟩ Надава и ⟨את⟩ Авиѓу, ⟨את⟩ Элазара и ⟨את⟩ Итамара",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "И родил"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "⟨для⟩ Аарона"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Надава"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Надава"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Авиѓу"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Авиѓу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элазара"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Элазара"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Итамара"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Итамара"
+    }
+  ],
+  "timestamp": "2026-08-02T21:39:54.110087635Z",
+  "model": "glm-4.5"
+}

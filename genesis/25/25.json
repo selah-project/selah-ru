@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "genesis 25:25",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "И вышел первый красный, весь как одежда волос, и назвали имя его Эсав",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "И вышел"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "первый"
+    },
+    {
+      "surface": "אדמוני",
+      "gloss": "красный"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "весь"
+    },
+    {
+      "surface": "כאדרת",
+      "gloss": "как одежда"
+    },
+    {
+      "surface": "שער",
+      "gloss": "волос"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "и назвали"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "имя его"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    }
+  ],
+  "timestamp": "2026-08-02T19:23:43.622276090Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "и возвратится прах на землю, как ⟨был⟩, и дух возвратится к Элохим, Который ⟨его⟩ дал",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "и возвратится"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "прах"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "как ⟨был⟩"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "и дух"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "возвратится"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Который"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "⟨его⟩ дал"
+    }
+  ],
+  "timestamp": "2026-08-03T11:27:19.960827186Z",
+  "model": "glm-4.5"
+}

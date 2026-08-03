@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 47,
+  "translation": "а ⟨את⟩ народ переселил ⟨את⟩ в города, от края границ Мицраима и до края ⟨её⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "а ⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "переселил"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "в города"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "в города"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "от края"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "границ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраима"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "края ⟨её⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T19:52:14.836864961Z",
+  "model": "glm-4.5"
+}

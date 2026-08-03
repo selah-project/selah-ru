@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "proverbs 3:19",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "ЯХВЕ хохмой основал землю, ⟨и⟩ утвердил ⟨в⟩ небесах ⟨в⟩ тевуне.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "хохмой"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "основал"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "утвердил"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨в⟩ небесах"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "⟨в⟩ тевуне"
+    }
+  ],
+  "timestamp": "2026-08-03T09:23:46.083213397Z",
+  "model": "glm-4.5"
+}

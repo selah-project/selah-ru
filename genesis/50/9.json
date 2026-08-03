@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 50,
+  "translation": "И поднялись с ним ⟨и⟩ колесницы ⟨и⟩ всадники, и стан был очень тяжёлый.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "И поднялись"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с ним"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨и⟩"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "колесницы"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨и⟩"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "всадники"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и был"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "стан"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "тяжёлый"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "очень"
+    }
+  ],
+  "timestamp": "2026-08-02T19:55:06.871353870Z",
+  "model": "glm-4.5"
+}

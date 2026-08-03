@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 140,
+  "translation": "Но праведники будут благодарить имя Твоё, прямые ⟨את⟩ будут dwelling ליכּ פָּנֶֽיךָ",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Но"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведники"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "будут благодарить"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "имя Твоё"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "прямые"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "⟨את⟩",
+      "marks": "будут dwelling ליכּ פָּנֶֽיךָ"
+    },
+    {
+      "surface": "את",
+      "gloss": "будут dwelling"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ליכּ פָּנֶֽיךָ"
+    }
+  ],
+  "timestamp": "2026-08-03T09:11:10.491984001Z",
+  "model": "glm-4.5"
+}

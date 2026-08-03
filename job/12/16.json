@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "job 12:16",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "С Ним сила иsound-мудрость; ⟨Он⟩ — ⟨для⟩ обманутого и обманщика.",
+  "tokens": [
+    {
+      "surface": "עמו",
+      "gloss": "С Ним"
+    },
+    {
+      "surface": "עז",
+      "gloss": "сила"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "и мудрость"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨Он⟩ — ⟨для⟩"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "обманутого"
+    },
+    {
+      "surface": "ומשגה",
+      "gloss": "и обманщика"
+    }
+  ],
+  "timestamp": "2026-08-03T10:19:59.949978211Z",
+  "model": "glm-4.5"
+}

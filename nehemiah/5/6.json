@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "nehemiah 5:6",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И весьма разгневался я, когда услышал ⟨את⟩ вопль их и ⟨את⟩ эти слова",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "и разгневался"
+    },
+    {
+      "surface": "לי",
+      "gloss": "я \/ мне"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "весьма"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "когда"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "услышал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "вопль их"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "вопль их"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "эти слова"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "слова"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "эти"
+    }
+  ],
+  "timestamp": "2026-08-03T12:19:10.053949235Z",
+  "model": "glm-4.5"
+}

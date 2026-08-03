@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "jeremiah 5:16",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Его колчан — как открытая могила; все они — могучие мужи.",
+  "tokens": [
+    {
+      "surface": "אשפתו",
+      "gloss": "Его колчан"
+    },
+    {
+      "surface": "כקבר",
+      "gloss": "как могилу"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "открытую"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "все они"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "могучие мужи"
+    }
+  ],
+  "timestamp": "2026-08-03T03:03:40.508727395Z",
+  "model": "glm-4.5"
+}

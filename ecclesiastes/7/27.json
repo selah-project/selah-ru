@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Смотри, это нашёл я, сказал Кохелет, ⟨добавляя⟩ одно к одному, чтобы найти расчёт:",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Смотри"
+    },
+    {
+      "surface": "זה",
+      "gloss": "это"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "нашёл я"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Кохелет"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "одно"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "к одному"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "чтобы найти"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "расчёт"
+    }
+  ],
+  "timestamp": "2026-08-03T11:22:12.829825992Z",
+  "model": "glm-4.5"
+}

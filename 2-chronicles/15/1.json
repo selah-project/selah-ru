@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "И ⟨была⟩ на ⟨нём⟩ Руах Элохим — на Азарьяу, сыне Одэда.",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "на Азарьяу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сыне"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "Одэда"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨была⟩"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на ⟨нём⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Руах"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-08-03T13:43:07.098911221Z",
+  "model": "glm-4.5"
+}

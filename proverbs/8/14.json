@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "proverbs 8:14",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Мой ⟨это⟩ совет и ⟨это⟩ выгода; я ⟨есть⟩ понимание; моя ⟨это⟩ мощь.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "Мой"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "совет"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "выгода"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "понимание"
+    },
+    {
+      "surface": "לי",
+      "gloss": "моя"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "мощь"
+    }
+  ],
+  "timestamp": "2026-08-03T18:28:06.226662329Z",
+  "model": "glm-4.5"
+}

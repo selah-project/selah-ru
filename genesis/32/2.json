@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "И пошёл Яаков своим путём, и встретили ⟨את⟩ него вестники Элохим",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "И пошёл Яаков"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "пошёл"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "своим путём"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "и встретили"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨את⟩",
+      "marks": "него"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "вестники"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-08-02T19:33:54.300369354Z",
+  "model": "glm-4.5"
+}

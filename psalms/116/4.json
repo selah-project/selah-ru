@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 116,
+  "translation": "И ⟨я⟩ призвал ⟨во⟩ имя ЯХВЕ: умоляю Тебя, ЯХВЕ, спаси мою нефеш.",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "и ⟨во⟩ имя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "⟨я⟩ призвал"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "умоляю Тебя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "спаси"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "мою нефеш"
+    }
+  ],
+  "timestamp": "2026-08-03T08:46:32.218618570Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И из масла выльет коэн на ладонь коэна левую",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "и из"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "масла"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "выльет"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коэн"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ладонь"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коэна"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "левую"
+    }
+  ],
+  "timestamp": "2026-08-02T20:54:02.211120518Z",
+  "model": "glm-4.5"
+}

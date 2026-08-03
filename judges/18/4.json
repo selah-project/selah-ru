@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "judges 18:4",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И сказал он им: «Так и так сделал мне Миха, и нанял меня, и я стал ему священником».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "так"
+    },
+    {
+      "surface": "וכזה",
+      "gloss": "и так"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Миха"
+    },
+    {
+      "surface": "וישכרני",
+      "gloss": "и нанял меня"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "и я стал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "священником"
+    }
+  ],
+  "timestamp": "2026-08-02T23:08:17.434665366Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И я купил ⟨את⟩ пояс, по слову ЯХВЕ, и возложил его на чресла мои",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "И я купил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пояс"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "пояс"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "по слову"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "и возложил его"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "чресла мои"
+    }
+  ],
+  "timestamp": "2026-08-03T03:14:15.115879960Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 89,
+  "translation": "Маски́ил Этана Эзрахи",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Маски́ил"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "Этана"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "Эзрахи"
+    }
+  ],
+  "timestamp": "2026-08-03T08:14:36.353111928Z",
+  "model": "glm-4.5"
+}

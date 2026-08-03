@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "и не вопрошил ЯХВЕ, и умертвил его, и обратил ⟨את⟩ царство к Давиду сыну Ишая",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "вопрошил"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "и умертвил его"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "и обратил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "царство"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "царство"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "к Давиду"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сыну"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Ишая"
+    }
+  ],
+  "timestamp": "2026-08-03T12:52:11.338348652Z",
+  "model": "glm-4.5"
+}

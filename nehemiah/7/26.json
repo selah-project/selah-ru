@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "люди Бейт-Лехема и Нетофы, сто восемьдесят восемь",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "люди"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-Лехема"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "и Нетофы"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "восемьдесят"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "восемь"
+    }
+  ],
+  "timestamp": "2026-08-03T12:21:46.790237669Z",
+  "model": "glm-4.5"
+}

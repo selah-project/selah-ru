@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "От лица wicked ⟨которые⟩ порабощают меня, от моих врагов, которые окружают меня в душе.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "От лица"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wicked"
+    },
+    {
+      "surface": "זו",
+      "gloss": "⟨которые⟩",
+      "marks": "порабощают меня"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "порабощают меня"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "от моих врагов"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "в душе"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "окружают меня"
+    },
+    {
+      "surface": "עלי",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T18:38:43.290574913Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 57,
+  "translation": "Воззову к Элохим Всевышнему, к Элю, завершающему ⟨для⟩ меня.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "воззову"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "к Элохим"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Всевышнему"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "к Элю"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "завершающему"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨для⟩ меня"
+    }
+  ],
+  "timestamp": "2026-08-03T07:34:50.602438272Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Любящий дисциплину любит знания, а ненавидящий порицание — ⟨это⟩ невежда.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Любящий"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "дисциплину"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "любит"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знания"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "а ненавидящий"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "порицание"
+    },
+    {
+      "surface": "בער",
+      "gloss": "невежда"
+    }
+  ],
+  "timestamp": "2026-08-03T09:34:57.024995026Z",
+  "model": "glm-4.5"
+}

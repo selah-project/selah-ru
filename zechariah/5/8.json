@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И сказал: «Вот беззаконие». И бросил её внутрь ⟨את⟩ эфы, и бросил ⟨את⟩ камень свинца в гортань её.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "вот"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "беззаконие"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "и бросил"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "её",
+      "marks": "внутрь"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "внутрь"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "эфы"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "и бросил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "камень свинца"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "камень"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "свинца"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "гортань её"
+    }
+  ],
+  "timestamp": "2026-08-03T06:12:24.268386967Z",
+  "model": "glm-4.5"
+}

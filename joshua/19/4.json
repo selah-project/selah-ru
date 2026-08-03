@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "joshua 19:4",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "и Элтолад и Бетул и Хорма",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "и Элтолад"
+    },
+    {
+      "surface": "ובתול",
+      "gloss": "и Бетул"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "и Хорма"
+    }
+  ],
+  "timestamp": "2026-08-02T22:42:03.079519163Z",
+  "model": "glm-4.5"
+}

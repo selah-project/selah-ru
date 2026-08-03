@@ -1,0 +1,108 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "leviticus 8:25",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И взял ⟨את⟩ жир и ⟨את⟩ курдюк и ⟨את⟩ весь жир, который ⟨на⟩ внутренностях, и ⟨את⟩ долю печени и ⟨את⟩ две почки и ⟨את⟩ жир их, и ⟨את⟩ бедро правое",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "И взял"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жир"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "жир"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "курдюк"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "курдюк"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "весь"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "жир"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "внутренностях"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "долю"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "долю"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "печени"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "две"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "две"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "почки"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "жир"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "жир их"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "бедро"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "бедро"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "правое"
+    }
+  ],
+  "timestamp": "2026-08-02T20:47:29.310686462Z",
+  "model": "glm-4.5"
+}

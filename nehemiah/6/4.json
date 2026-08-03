@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И посылали ко мне ⟨את⟩ слово это четыре раза, и возвращал я им ⟨את⟩ слово это.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "И посылали"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ко мне"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слово"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "это"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четыре"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "раза"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "и возвращал"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "им"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слово"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "это"
+    }
+  ],
+  "timestamp": "2026-08-03T12:20:29.758189429Z",
+  "model": "glm-4.5"
+}

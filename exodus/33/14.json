@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "exodus 33:14",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "И сказал: лицо Моё пойдёт, и Я успокою тебя.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицо Моё"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "пойдёт"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "и Я успокою"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебя"
+    }
+  ],
+  "timestamp": "2026-08-02T20:31:09.728731417Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 42,
+  "translation": "И сказали мы ему: честные мы, не шпионы мы.",
+  "tokens": [
+    {
+      "surface": "וַנֹּאמֶר",
+      "gloss": "и сказали"
+    },
+    {
+      "surface": "אֵלָיו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "כֵּנִים",
+      "gloss": "честные"
+    },
+    {
+      "surface": "אֲנָ֑חְנוּ",
+      "gloss": "мы"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הָיִ֖ינוּ",
+      "gloss": "⟨есть⟩"
+    },
+    {
+      "surface": "מְרַגְּלִֽים",
+      "gloss": "шпионы"
+    }
+  ],
+  "timestamp": "2026-08-02T19:46:28.821019096Z",
+  "model": "glm-4.5"
+}

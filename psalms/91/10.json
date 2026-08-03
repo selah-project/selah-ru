@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 91,
+  "translation": "Не постигнет ⟨тебя⟩ зло, и ⟨удар⟩ не приблизится к шатру твоему",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "постигнет"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "тебя"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "и ⟨удар⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "приблизится"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "к шатру твоему"
+    }
+  ],
+  "timestamp": "2026-08-03T08:20:39.266833052Z",
+  "model": "glm-4.5"
+}

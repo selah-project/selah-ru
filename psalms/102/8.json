@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 102,
+  "translation": "Я не сплю и стал, как птица одинокая на ⟨крыше⟩",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "Я не сплю"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "и стал"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "как птица"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "одинокая"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "גג",
+      "gloss": "крыше"
+    }
+  ],
+  "timestamp": "2026-08-03T08:30:18.051065321Z",
+  "model": "glm-4.5"
+}

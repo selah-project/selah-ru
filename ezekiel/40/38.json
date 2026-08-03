@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "ezekiel 40:38",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "И комната и вход её — у столбов ворот, там очищали ⟨את⟩ всесожжение",
+  "tokens": [
+    {
+      "surface": "ולשכה",
+      "gloss": "и комната"
+    },
+    {
+      "surface": "ופתחה",
+      "gloss": "и вход её"
+    },
+    {
+      "surface": "באילים",
+      "gloss": "у столбов"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ворот"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "ידיחו",
+      "gloss": "очищали"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всесожжение"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "всесожжение"
+    }
+  ],
+  "timestamp": "2026-08-03T05:07:48.187143845Z",
+  "model": "glm-4.5"
+}

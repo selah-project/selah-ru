@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Путь верности я избрал, ⟨и⟩ суды Твои я поставил ⟨перед собою⟩",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "Путь"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "верности"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "я избрал"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "суды Твои"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "я поставил"
+    }
+  ],
+  "timestamp": "2026-08-03T08:50:07.296497549Z",
+  "model": "glm-4.5"
+}

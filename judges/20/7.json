@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "judges 20:7",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "вот, все вы сыновья Йисраэля, дайте для ⟨себя⟩ слово и совет здесь.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "все вы"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэля"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "дайте"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "для ⟨себя⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "ועצה",
+      "gloss": "и совет"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "здесь"
+    }
+  ],
+  "timestamp": "2026-08-02T23:10:35.065723596Z",
+  "model": "glm-4.5"
+}

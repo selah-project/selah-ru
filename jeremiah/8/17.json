@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "jeremiah 8:17",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Ибо вот, Я посылаю к вам змей, аспидов, у ⟨которых⟩ ⟨нет⟩ заговора, и они ужалят ⟨את⟩ вас, слово ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "вот, Я"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "посылаю"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "к вам"
+    },
+    {
+      "surface": "נחשים",
+      "gloss": "змей"
+    },
+    {
+      "surface": "צפענים",
+      "gloss": "аспидов"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "у которых"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "להם",
+      "gloss": "у них"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "заговора"
+    },
+    {
+      "surface": "ונשכו",
+      "gloss": "и они ужалят"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T03:09:12.449604466Z",
+  "model": "glm-4.5"
+}

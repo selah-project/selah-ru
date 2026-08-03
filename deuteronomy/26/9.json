@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "и привёл нас в ⟨это⟩ место, и дал нам ⟨את⟩ землю ⟨эту⟩, землю текущую ⟨молоком⟩ и мёдом",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "и привёл нас"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "это"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и дал"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "землю ⟨эту⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "эту"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "текущую"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "молоком"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "и мёдом"
+    }
+  ],
+  "timestamp": "2026-08-02T22:15:32.462131203Z",
+  "model": "glm-4.5"
+}

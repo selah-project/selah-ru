@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "numbers 6:6",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Весь ⟨его⟩ срок separación ⟨к⟩ ЯХВЕ ⟨на⟩ ⟨нефеш⟩ мёртвого ⟨не⟩ придёт",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Весь"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "⟨его⟩ срок"
+    },
+    {
+      "surface": "הזירו",
+      "gloss": "separación"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨к⟩ ЯХВЕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨нефеш⟩"
+    },
+    {
+      "surface": "מת",
+      "gloss": "мёртвого"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "придёт"
+    }
+  ],
+  "timestamp": "2026-08-02T21:16:58.208870421Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Вот родословие Шема: Шему было сто лет, и он родил ⟨את⟩ Арфаксада через два года после потопа.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "родословие"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шема"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шем"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "сто"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и он родил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Арфаксада"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Арфаксада"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "два года"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "после"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "потопа"
+    }
+  ],
+  "timestamp": "2026-08-02T19:08:20.367443966Z",
+  "model": "glm-4.5"
+}

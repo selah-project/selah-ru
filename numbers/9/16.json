@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "numbers 9:16",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Так ⟨будет⟩ всегда: облако покрывало его, и ⟨как⟩ вид огня ⟨бывало⟩ ночью.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨будет⟩"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "всегда"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "облако"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "покрывало его"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "и ⟨как⟩ вид"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огня"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ночью"
+    }
+  ],
+  "timestamp": "2026-08-02T21:21:14.801562504Z",
+  "model": "glm-4.5"
+}

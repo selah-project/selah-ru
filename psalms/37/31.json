@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "Тора его Элохима в сердце его, не содрогнутся его шаги.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "его Элохима"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "в сердце его"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "содрогнутся"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "его шаги"
+    }
+  ],
+  "timestamp": "2026-08-03T07:15:56.545229980Z",
+  "model": "glm-4.5"
+}

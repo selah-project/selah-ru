@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 122,
+  "translation": "Ибо там воссели престолы ⟨для⟩ суда, престолы дома Давида.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "там"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "воссели"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "престолы"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "⟨для⟩ суда"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "престолы"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида"
+    }
+  ],
+  "timestamp": "2026-08-03T08:57:11.114882174Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "ezekiel 35:1",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "И было слово ЯХВЕ ко мне, ⟨чтобы⟩ сказать:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ко мне"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨чтобы⟩ сказать",
+      "marks": "сказать"
+    }
+  ],
+  "timestamp": "2026-08-03T04:59:45.219608334Z",
+  "model": "glm-4.5"
+}

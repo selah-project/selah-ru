@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "jeremiah 48:25",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 48,
+  "translation": "Отсечен ⟨⟩ рог Моава, и ⟨⟩ рука его сломана — слово ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "נגדעה",
+      "gloss": "отсечен"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "рог"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "и ⟨⟩ рука его"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "сломана"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "— слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T04:07:14.200439248Z",
+  "model": "glm-4.5"
+}

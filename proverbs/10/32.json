@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "proverbs 10:32",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Губы праведника знают благоволение, а ⟨ mouths⟩ ⟨ of⟩ wicked ⟨ ones⟩ ⟨ are⟩ perverseness.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "Губы"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведника"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "знают"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "благоволение"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "а ⟨ the⟩ mouth"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wicked ⟨ ones⟩"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "perverseness"
+    }
+  ],
+  "timestamp": "2026-08-03T09:33:18.028418519Z",
+  "model": "glm-4.5"
+}

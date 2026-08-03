@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "proverbs 10:22",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Благословение ЯХВЕ — оно ⟨есть⟩ то, что обогащает, и не добавит ⟨Он⟩ с ним печали.",
+  "tokens": [
+    {
+      "surface": "ברכת",
+      "gloss": "Благословение"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "оно"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "то, что обогащает"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "добавит"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "печали"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "с ним"
+    }
+  ],
+  "timestamp": "2026-08-03T09:33:00.344745039Z",
+  "model": "glm-4.5"
+}

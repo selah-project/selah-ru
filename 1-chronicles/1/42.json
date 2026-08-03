@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Сыновья Эцера: Билхан и Зааван, и Яаакан. Сыновья Дишона: Уц и Аран.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "Эцера"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Билхан"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "и Зааван"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "и Яаакан"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "Дишона"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Уц"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "и Аран"
+    }
+  ],
+  "timestamp": "2026-08-03T12:36:32.051511555Z",
+  "model": "glm-4.5"
+}

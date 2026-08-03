@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "и воскурил на нём благовонное курение, как ЯХВЕ повелел ⟨את⟩ Мошея",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "и воскурил"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на нём"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "благовонное курение"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "курение"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "повелел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мошея"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошея"
+    }
+  ],
+  "timestamp": "2026-08-02T20:39:06.352625804Z",
+  "model": "glm-4.5"
+}

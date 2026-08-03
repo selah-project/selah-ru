@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "ezekiel 13:4",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "Как шакалы в развалинах, пророки твои, Израиль, ⟨были⟩.",
+  "tokens": [
+    {
+      "surface": "כשעלים",
+      "gloss": "как шакалы"
+    },
+    {
+      "surface": "בחרבות",
+      "gloss": "в развалинах"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "пророки твои"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨были⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T04:28:55.584012038Z",
+  "model": "glm-4.5"
+}

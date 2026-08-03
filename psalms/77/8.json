@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 77,
+  "translation": "Навсегда ли Адонай отвергнет и не благоволит ⟨ещё⟩?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "навсегда"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "отвергнет"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "⟨благоволит⟩"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "⟨ещё⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T08:00:08.389403115Z",
+  "model": "glm-4.5"
+}

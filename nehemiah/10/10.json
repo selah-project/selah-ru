@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "nehemiah 10:10",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И левиты: и Йешуа, сын Азании, Биннуй, из сыновей Хенадада, Кадмиэль",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "и левиты"
+    },
+    {
+      "surface": "וישוע",
+      "gloss": "и Йешуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אזניה",
+      "gloss": "Азании"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "Биннуй"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "из сыновей"
+    },
+    {
+      "surface": "חנדד",
+      "gloss": "Хенадада"
+    },
+    {
+      "surface": "קדמיאל",
+      "gloss": "Кадмиэль"
+    }
+  ],
+  "timestamp": "2026-08-03T12:27:59.373874460Z",
+  "model": "glm-4.5"
+}

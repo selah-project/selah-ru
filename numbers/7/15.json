@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "один телёнок, сын ⟨פר⟩ крупного скота, один баран, один барашек, сын года, для о́лы",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "телёнок"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "⟨פר⟩ крупного скота"
+    },
+    {
+      "surface": "איל",
+      "gloss": "баран"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "барашек"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "года"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "для о́лы"
+    }
+  ],
+  "timestamp": "2026-08-02T21:18:11.008042527Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "И сделаешь ⟨את⟩ доски для мишкана, деревьями шиттим, стоящими",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "и сделаешь"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "доски"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "доски"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "для мишкана"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "деревьями"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "шиттим"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "стоящими"
+    }
+  ],
+  "timestamp": "2026-08-02T20:20:23.794640338Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "и увидит ⟨הכהן⟩ ⟨את⟩ поражение и заключит ⟨את⟩ поражение на семь дней",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "и увидит"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨הכהן⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "поражение"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "поражение"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "и заключит"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "поражение"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "поражение"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "семь"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дней"
+    }
+  ],
+  "timestamp": "2026-08-02T20:52:54.396122653Z",
+  "model": "glm-4.5"
+}

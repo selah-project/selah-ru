@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "zechariah 4:13",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И сказал он мне, говоря: ⟨не⟩ знаешь ли ты, что ⟨это⟩? И сказал я: нет, Адонай.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаешь ли ты"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что ⟨это⟩"
+    },
+    {
+      "surface": "אלה",
+      "gloss": ""
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нет"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    }
+  ],
+  "timestamp": "2026-08-03T06:11:43.528494929Z",
+  "model": "glm-4.5"
+}

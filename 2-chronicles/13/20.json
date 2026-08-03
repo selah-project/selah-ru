@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "2-chronicles 13:20",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И не восстановил Яровам ⟨своей⟩ силы ещё ⟨во⟩ дни Авийи, и поразил его ЯХВЕ, и он умер.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "восстановил"
+    },
+    {
+      "surface": "כח",
+      "gloss": "⟨своей⟩ силы",
+      "marks": "силы"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Яровам"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ещё"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "⟨во⟩ дни",
+      "marks": "дней"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "Авийи"
+    },
+    {
+      "surface": "ויגפהו",
+      "gloss": "и поразил его"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и он умер"
+    }
+  ],
+  "timestamp": "2026-08-03T13:39:42.185281825Z",
+  "model": "glm-4.5"
+}

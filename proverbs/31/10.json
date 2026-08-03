@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "proverbs 31:10",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "Жену силы кто найдёт? ⟨её⟩ цена далеко от жемчужин.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "жену"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "силы"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "найдёт"
+    },
+    {
+      "surface": "ורחק",
+      "gloss": "далеко"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "от жемчужин"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "цена"
+    }
+  ],
+  "timestamp": "2026-08-03T10:08:48.521280076Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Он сказал в сердце своём: Эль забыл, скрыл Свой лик, никогда не увидит ⟨это⟩.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "в сердце своём"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "забыл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эль"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "скрыл"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "Свой лик"
+    },
+    {
+      "surface": "בל",
+      "gloss": "никогда"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "не увидит"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "⟨это⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T06:39:53.968784257Z",
+  "model": "glm-4.5"
+}

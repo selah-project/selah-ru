@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "job 18:1",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И отвечал Билдад ⟨Шухи⟩, и сказал:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И отвечал"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "Билдад"
+    },
+    {
+      "surface": "השחי",
+      "gloss": "⟨Шухи⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    }
+  ],
+  "timestamp": "2026-08-03T10:25:09.524978312Z",
+  "model": "glm-4.5"
+}

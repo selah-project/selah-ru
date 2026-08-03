@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "proverbs 1:12",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "проглотим ⟨их⟩ живыми, как Шеол, и целыми, как нисходящие в яму;",
+  "tokens": [
+    {
+      "surface": "נבלעם",
+      "gloss": "проглотим ⟨их⟩"
+    },
+    {
+      "surface": "כשאול",
+      "gloss": "как Шеол"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живыми"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "и целыми"
+    },
+    {
+      "surface": "כיורדי",
+      "gloss": "как нисходящие"
+    },
+    {
+      "surface": "בור",
+      "gloss": "в яму"
+    }
+  ],
+  "timestamp": "2026-08-03T09:20:55.686325663Z",
+  "model": "glm-4.5"
+}

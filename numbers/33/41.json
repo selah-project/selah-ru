@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 41,
+  "ref": "numbers 33:41",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "и отправились от горы Ор, и расположились станом в Цалмоне",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "и отправились"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "от горы"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "Ор"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и расположились станом"
+    },
+    {
+      "surface": "בצלמנה",
+      "gloss": "в Цалмоне"
+    }
+  ],
+  "timestamp": "2026-08-02T21:47:36.015190710Z",
+  "model": "glm-4.5"
+}

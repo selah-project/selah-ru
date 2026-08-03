@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "ezra 2:23",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "мужи Анафофа, сто двадцать и восемь",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "мужи"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Анафоф"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцать"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "и восемь"
+    }
+  ],
+  "timestamp": "2026-08-03T11:58:04.361893683Z",
+  "model": "glm-4.5"
+}

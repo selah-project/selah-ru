@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 55,
+  "translation": "Внемли, Элохим, молитве моей и не скрывайся от мольбы моей",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Внемли"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "молитве моей"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "скрывайся"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "от мольбы моей"
+    }
+  ],
+  "timestamp": "2026-08-03T07:32:44.564599980Z",
+  "model": "glm-4.5"
+}

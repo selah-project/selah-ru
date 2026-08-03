@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "jeremiah 4:15",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "ибо голос вестника из Дана, ⟨и⟩ возвещающий бедствие ⟨с⟩ горы Эфраима",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "קול",
+      "gloss": "голос"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "вестника"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "из Дана"
+    },
+    {
+      "surface": "ומשמיע",
+      "gloss": "⟨и⟩ возвещающий"
+    },
+    {
+      "surface": "און",
+      "gloss": "бедствие"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "⟨с⟩ горы"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраима"
+    }
+  ],
+  "timestamp": "2026-08-03T03:02:25.572734906Z",
+  "model": "glm-4.5"
+}

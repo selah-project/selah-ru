@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "И не вспомнил начальник напитков ⟨את⟩ Йосефа, и забыл его",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "вспомнил"
+    },
+    {
+      "surface": "שר",
+      "gloss": "начальник"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "напитков"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йосефа"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "и забыл его"
+    }
+  ],
+  "timestamp": "2026-08-02T19:43:43.596382226Z",
+  "model": "glm-4.5"
+}

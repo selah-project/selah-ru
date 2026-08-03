@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 136,
+  "translation": "Тому, ⟨Кто⟩ один творит великие чудеса, ибо навеки хесед Его",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "творящему"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "чудеса"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "великие"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "одному"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навеки"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хесед Его"
+    }
+  ],
+  "timestamp": "2026-08-03T09:06:37.630303199Z",
+  "model": "glm-4.5"
+}

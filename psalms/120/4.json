@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 120,
+  "translation": "Стрелы сильного, ⟨с⟩ угольями ретама",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "Стрелы"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "сильного"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "угольями"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "ретама"
+    }
+  ],
+  "timestamp": "2026-08-03T08:56:19.676763127Z",
+  "model": "glm-4.5"
+}

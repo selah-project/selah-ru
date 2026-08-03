@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "job 7:1",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Не служба ли ⟨для⟩ человека на земле, и как дни наёмника — его дни?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "служба"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "⟨для⟩ человека"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земле"
+    },
+    {
+      "surface": "וכימי",
+      "gloss": "и как дни"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "наёмника"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "его дни"
+    }
+  ],
+  "timestamp": "2026-08-03T10:15:36.714460306Z",
+  "model": "glm-4.5"
+}

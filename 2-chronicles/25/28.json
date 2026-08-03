@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "2-chronicles 25:28",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "И поместили его на конях, и похоронили ⟨את⟩ его с отцами его в городе Иудеи",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "и поместили его"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "конях"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "и похоронили"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "его"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "отцами его"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "в городе"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иудеи"
+    }
+  ],
+  "timestamp": "2026-08-03T13:59:23.857149640Z",
+  "model": "glm-4.5"
+}

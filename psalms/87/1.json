@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 87,
+  "translation": "Сынам Кораха. Псалом. Песнь. Его основание на горах святых.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Сынам"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Кораха"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Псалом"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Песнь"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "Его основание"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "на горах"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "святых"
+    }
+  ],
+  "timestamp": "2026-08-03T08:12:25.323610471Z",
+  "model": "glm-4.5"
+}

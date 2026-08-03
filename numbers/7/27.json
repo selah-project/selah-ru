@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "numbers 7:27",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "один телёнок, сын ⟨стада⟩, один баран, один агнец, сын ⟨его⟩ года, для во́схождения ⟨олы́⟩",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "телёнок"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "стада"
+    },
+    {
+      "surface": "איל",
+      "gloss": "баран"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "агнец"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "⟨его⟩ года"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "для во́схождения ⟨олы́⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T21:18:16.935150303Z",
+  "model": "glm-4.5"
+}

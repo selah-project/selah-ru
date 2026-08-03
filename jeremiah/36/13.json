@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "jeremiah 36:13",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "И объявил им Михея все слова, ⟨את⟩ которые слышал, когда Барух читал в свитке в уши народу.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "И объявил"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "מכיהו",
+      "gloss": "Михея"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "все слова"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "слова"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слышал"
+    },
+    {
+      "surface": "בקרא",
+      "gloss": "когда читал"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Барух"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "в свитке"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "в уши"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народу"
+    }
+  ],
+  "timestamp": "2026-08-03T03:50:41.657097698Z",
+  "model": "glm-4.5"
+}

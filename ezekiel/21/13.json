@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "ezekiel 21:13",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "и было слово ЯХВЕ ко мне, говоря:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и было"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ко мне"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-03T04:42:37.253039369Z",
+  "model": "glm-4.5"
+}

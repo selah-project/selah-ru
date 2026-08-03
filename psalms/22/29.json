@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "psalms 22:29",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Ибо ЯХВЕ ⟨царство⟩ и ⟨Он⟩ правит ⟨среди⟩ народов.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "⟨царство⟩"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "и правит"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "⟨среди⟩ народов"
+    }
+  ],
+  "timestamp": "2026-08-03T06:55:52.667180134Z",
+  "model": "glm-4.5"
+}

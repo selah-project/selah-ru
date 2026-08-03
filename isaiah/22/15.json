@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "isaiah 22:15",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Так сказал Адонай ЯХВЕ Цеваот: «Пойди, войди к ⟨этому⟩ казначею, к Шевне, ⟨который⟩ над домом,",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "לך",
+      "gloss": "пойди"
+    },
+    {
+      "surface": "בא",
+      "gloss": "войди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "הסכן",
+      "gloss": "казначею"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨этому⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Шевне"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨который⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "домом"
+    }
+  ],
+  "timestamp": "2026-08-03T02:05:29.301338760Z",
+  "model": "glm-4.5"
+}

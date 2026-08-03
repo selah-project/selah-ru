@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Соберу, соберу всё ⟨с⟩ лица ⟨земли⟩ — слово ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "Соберу"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "соберу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лица"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "⟨земли⟩"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T06:00:57.346192262Z",
+  "model": "glm-4.5"
+}

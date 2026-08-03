@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "Воздающий злом за добро — не отступит зло ⟨от⟩ дома его",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "Воздающий"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "злом"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "добро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "отступит"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "⟨от⟩ дома его"
+    }
+  ],
+  "timestamp": "2026-08-03T09:42:54.337535392Z",
+  "model": "glm-4.5"
+}

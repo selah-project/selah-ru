@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 6:2",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "ты ⟨окутан⟩ ⟨словами⟩ уст твоих, ты ⟨пойман⟩ ⟨словами⟩ уст твоих",
+  "tokens": [
+    {
+      "surface": "נוקשת",
+      "gloss": "ты ⟨окутан⟩"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "⟨словами⟩"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "уст твоих"
+    },
+    {
+      "surface": "נלכדת",
+      "gloss": "ты ⟨пойман⟩"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "⟨словами⟩"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "уст твоих"
+    }
+  ],
+  "timestamp": "2026-08-03T09:27:24.451952650Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "И будь ⟨и⟩ истинно, я сбился, со мной остаётся моя ошибка",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "И"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "истинно"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "я сбился"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "со мной"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "остаётся"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "моя ошибка"
+    }
+  ],
+  "timestamp": "2026-08-03T10:26:19.838316139Z",
+  "model": "glm-4.5"
+}

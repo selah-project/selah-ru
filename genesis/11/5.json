@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И сошёл ЯХВЕ посмотреть ⟨את⟩ город и ⟨את⟩ башню, которые строили сыны человеческие.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "И сошёл"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "посмотреть"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "город"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "город"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "башню"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "башню"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "строили"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "человеческие"
+    }
+  ],
+  "timestamp": "2026-08-02T19:08:19.737464881Z",
+  "model": "glm-4.5"
+}

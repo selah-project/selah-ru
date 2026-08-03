@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "1-chronicles 4:23",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Они — горшечники и ⟨живущие⟩ в Нетаим и Гедере; там они жили при царе в Его работе.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Они"
+    },
+    {
+      "surface": "היוצרים",
+      "gloss": "горшечники"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "и ⟨живущие⟩"
+    },
+    {
+      "surface": "נטעים",
+      "gloss": "в Нетаим"
+    },
+    {
+      "surface": "וגדרה",
+      "gloss": "и Гедере"
+    },
+    {
+      "surface": "עם",
+      "gloss": "при"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царе"
+    },
+    {
+      "surface": "במלאכתו",
+      "gloss": "в Его работе"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "жили"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    }
+  ],
+  "timestamp": "2026-08-03T12:40:33.375372391Z",
+  "model": "glm-4.5"
+}

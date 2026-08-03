@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "И возьми ⟨את⟩ овна второго, и возложат Аарон и сыны его ⟨את⟩ руки свои на голову овна",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "И возьми"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "овна"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "овна"
+    },
+    {
+      "surface": "השני",
+      "gloss": "второго"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "и возложат"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "и сыны его"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "руки"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "руки свои"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "голову"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "овна"
+    }
+  ],
+  "timestamp": "2026-08-02T20:25:47.961477147Z",
+  "model": "glm-4.5"
+}

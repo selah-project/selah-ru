@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Сыновей Мрари по семействам их, по дому отцов их, пересчитай ⟨את⟩ их",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновей"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мрари"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "по семействам их"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "по дому"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "отцов их"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "пересчитай"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "их"
+    }
+  ],
+  "timestamp": "2026-08-02T21:14:02.531089386Z",
+  "model": "glm-4.5"
+}

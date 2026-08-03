@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "и сыновья ⟨Ах̃и̃в⟩ Хелем: Цофах и Имна и Шелеш и Амал.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "и сыновья"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "Хелем"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "Ах̃и̃в"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "Цофах"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "и Имна"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "и Шелеш"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "и Амал"
+    }
+  ],
+  "timestamp": "2026-08-03T12:47:56.208217380Z",
+  "model": "glm-4.5"
+}

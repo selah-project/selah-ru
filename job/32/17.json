@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "job 32:17",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "Я отвечу — ⟨я⟩, ⟨моя⟩ часть, ⟨я⟩ объявлю моё знание, — ⟨я⟩.",
+  "tokens": [
+    {
+      "surface": "אענה",
+      "gloss": "Я отвечу"
+    },
+    {
+      "surface": "אף",
+      "gloss": "⟨я⟩",
+      "marks": "я"
+    },
+    {
+      "surface": "אני",
+      "gloss": "—"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "⟨моя⟩ часть"
+    },
+    {
+      "surface": "אחוה",
+      "gloss": "⟨я⟩ объявлю"
+    },
+    {
+      "surface": "דעי",
+      "gloss": "моё знание"
+    },
+    {
+      "surface": "אף",
+      "gloss": "—",
+      "marks": "я"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨я⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T10:37:52.927104962Z",
+  "model": "glm-4.5"
+}

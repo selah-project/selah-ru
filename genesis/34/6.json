@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "И вышел Хамор, отец Шхема, к Яакову, чтобы поговорить с ⟨ним⟩.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "И вышел"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Хамор"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отец"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Шхема"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакову"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "чтобы поговорить"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "с ⟨ним⟩",
+      "marks": "с Яаковом"
+    }
+  ],
+  "timestamp": "2026-08-02T19:35:54.141878410Z",
+  "model": "glm-4.5"
+}

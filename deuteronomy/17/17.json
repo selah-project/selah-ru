@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "deuteronomy 17:17",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И да не умножит он себе жён и да не уклонится сердце его; и серебро, и золото да не умножит ему ⟨очень⟩",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и да не"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "умножит"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему\/себе"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "жён"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и да не"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "уклонится"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "сердце его"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "и серебро"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "и золото"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "умножит"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "очень"
+    }
+  ],
+  "timestamp": "2026-08-02T22:08:24.945253040Z",
+  "model": "glm-4.5"
+}

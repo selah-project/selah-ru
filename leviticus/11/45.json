@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 45,
+  "ref": "leviticus 11:45",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Ибо Я — ЯХВЕ, выводящий ⟨את⟩ вас из земли Египетской, чтобы быть ⟨את⟩ вам Элохим, и вы будете святы, ибо свят Я",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "выводящий"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "из земли"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Египетской"
+    },
+    {
+      "surface": "להית",
+      "gloss": "чтобы быть"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨את⟩",
+      "marks": "вам"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "и вы будете"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "святы"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "свят"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    }
+  ],
+  "timestamp": "2026-08-02T20:51:07.570168763Z",
+  "model": "glm-4.5"
+}

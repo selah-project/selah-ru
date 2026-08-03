@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "Что, сын мой? и что, сын чрева моего? и что, сын обетов моих?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Что"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "сын мой"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и что"
+    },
+    {
+      "surface": "בר",
+      "gloss": "сын"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "чрева моего"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и что"
+    },
+    {
+      "surface": "בר",
+      "gloss": "сын"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "обетов моих"
+    }
+  ],
+  "timestamp": "2026-08-03T10:08:10.115513144Z",
+  "model": "glm-4.5"
+}

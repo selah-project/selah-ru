@@ -1,0 +1,92 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "deuteronomy 23:11",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Если ⟨будет⟩ в тебе человек, который ⟨не⟩ ⟨будет⟩ чист от случая ночью, и выйдет ⟨את⟩ ⟨את⟩ вовне стану, ⟨не⟩ войдёт ⟨את⟩ внутрь стану",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Если"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨будет⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "в тебе"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человек"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨будет⟩"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чист"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "от случая"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ночью"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "и выйдет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨את⟩",
+      "marks": "⟨את⟩"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "⟨את⟩",
+      "marks": "вовне"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "стану"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "войдёт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨את⟩",
+      "marks": "⟨את⟩"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "внутрь"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "стану"
+    }
+  ],
+  "timestamp": "2026-08-03T18:15:24.548232253Z",
+  "model": "glm-4.5"
+}

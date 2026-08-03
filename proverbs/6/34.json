@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "proverbs 6:34",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "ибо ревность — ярость мужа, и он не пощадит в день мщения",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ревность"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ярость"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "мужа"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "пощадит"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в день"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "мщения"
+    }
+  ],
+  "timestamp": "2026-08-03T09:28:06.790835357Z",
+  "model": "glm-4.5"
+}

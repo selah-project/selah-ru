@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "genesis 7:13",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "В самый ⟨этот⟩ день пришёл Ноах и Шем и Хам и Иефет, сыновья Ноаха, и жена Ноаха, и три жены сыновей его с ними в ковчег",
+  "tokens": [
+    {
+      "surface": "בעצם",
+      "gloss": "В самый"
+    },
+    {
+      "surface": "היום",
+      "gloss": "день"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨этот⟩"
+    },
+    {
+      "surface": "בא",
+      "gloss": "пришёл"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "и Шем"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "и Хам"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "и Иефет"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноаха"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "и жена"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноаха"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "и три"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "жены"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "сыновей его"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "с ними"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ковчег"
+    }
+  ],
+  "timestamp": "2026-08-02T17:50:58.792424492Z",
+  "model": "glm-4.5"
+}

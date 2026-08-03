@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "isaiah 14:26",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Это ⟨the⟩ замысел, ⟨который⟩ замышлен ⟨against⟩ всю землю, и это ⟨the⟩ рука, простёртая ⟨against⟩ все народы",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Это"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "замысел"
+    },
+    {
+      "surface": "היעוצה",
+      "gloss": "⟨который⟩ замышлен"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨against⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "и это"
+    },
+    {
+      "surface": "היד",
+      "gloss": "⟨the⟩ рука"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "простёртая"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨against⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народы"
+    }
+  ],
+  "timestamp": "2026-08-03T01:58:31.664004810Z",
+  "model": "glm-4.5"
+}

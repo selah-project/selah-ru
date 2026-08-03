@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 135,
+  "translation": "ЯХВЕ, имя Твоё ⟨на⟩век, ЯХВЕ, память Твоя ⟨в⟩род ⟨и⟩род",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "имя Твоё"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "⟨на⟩век"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "память Твоя"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "⟨в⟩род"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "⟨и⟩род"
+    }
+  ],
+  "timestamp": "2026-08-03T09:05:46.324627140Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 145,
+  "translation": "ЯХВЕ благ ко ⟨всему⟩, и милости Его на ⟨всех⟩ делах Его",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "благ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ко ⟨всему⟩"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "и милости Его"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨всех⟩"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "делах Его"
+    }
+  ],
+  "timestamp": "2026-08-03T09:15:08.448413731Z",
+  "model": "glm-4.5"
+}

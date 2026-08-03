@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Я увидел ⟨את⟩ землю, и вот, тоху и боху; и ⟨к⟩ небесам, и нет у них света",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Я увидел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "тоху"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "и боху"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и ⟨к⟩"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небесам"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нет"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "у них света"
+    }
+  ],
+  "timestamp": "2026-08-03T03:02:04.168571513Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "genesis 11:17",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И жил Эвер после того, как родил ⟨את⟩ Фалека, триста тридцать лет, и родил сыновей и дочерей",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "И жил"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Эвер"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "после того, как"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "родил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Фалека"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Фалека"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "тридцать"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "и"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "триста"
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и родил"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "и дочерей"
+    }
+  ],
+  "timestamp": "2026-08-02T19:08:56.718177186Z",
+  "model": "glm-4.5"
+}

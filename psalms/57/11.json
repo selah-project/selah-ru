@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 57,
+  "translation": "Ибо велика до небес хесед Твой, и до облаков эмэт Твой.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "велика"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хесед Твой"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "облаков"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "эмэт Твой"
+    }
+  ],
+  "timestamp": "2026-08-03T07:34:32.892674236Z",
+  "model": "glm-4.5"
+}

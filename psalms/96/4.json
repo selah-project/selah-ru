@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 96,
+  "translation": "Ибо велик ЯХВЕ и весьма превозносим, страшен Он над всеми богами.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "и весьма превозносим"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "весьма"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "страшен"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Он"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всеми"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "богами"
+    }
+  ],
+  "timestamp": "2026-08-03T08:24:40.962498311Z",
+  "model": "glm-4.5"
+}

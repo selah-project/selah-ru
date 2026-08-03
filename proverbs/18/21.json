@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "proverbs 18:21",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Смерть и жизнь ⟨находятся⟩ во власти языка, и любящие его съедят ⟨его⟩ плод",
+  "tokens": [
+    {
+      "surface": "מות",
+      "gloss": "Смерть"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "и жизнь"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "во власти"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "языка"
+    },
+    {
+      "surface": "ואהביה",
+      "gloss": "и любящие его"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "съедят"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "⟨его⟩ плод"
+    }
+  ],
+  "timestamp": "2026-08-03T09:44:38.236981498Z",
+  "model": "glm-4.5"
+}

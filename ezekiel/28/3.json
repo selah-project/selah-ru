@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "ezekiel 28:3",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "вот, ты мудрее Даниила; ⟨ни⟩ одной тайны ⟨они⟩ не скрыли от тебя",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудрее"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    },
+    {
+      "surface": "מדנאל",
+      "gloss": "Даниила"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨ни⟩ одной"
+    },
+    {
+      "surface": "סתום",
+      "gloss": "тайны"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨они⟩ не"
+    },
+    {
+      "surface": "עממוך",
+      "gloss": "скрыли от тебя"
+    }
+  ],
+  "timestamp": "2026-08-03T04:51:27.147255182Z",
+  "model": "glm-4.5"
+}

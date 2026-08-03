@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "numbers 30:10",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "И обет вдовы и разведённой, всё, что она связала ⟨на⟩ свою душу, устоит ⟨на⟩ ней.",
+  "tokens": [
+    {
+      "surface": "ונדר",
+      "gloss": "И обет"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "вдовы"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "и разведённой"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "она связала"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "свою душу"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "устоит"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "⟨на⟩ ней"
+    }
+  ],
+  "timestamp": "2026-08-02T21:43:26.728246481Z",
+  "model": "glm-4.5"
+}

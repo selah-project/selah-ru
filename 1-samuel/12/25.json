@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "1-samuel 12:25",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "А если ⟨вы⟩ будете делать зло, ⟨то⟩ и вы, и царь ваш погибнете",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а если"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "будете делать зло"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "⟨будете делать⟩ зло"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨то⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "и вы"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "царь ваш"
+    },
+    {
+      "surface": "תספו",
+      "gloss": "погибнете"
+    }
+  ],
+  "timestamp": "2026-08-02T23:23:24.277080812Z",
+  "model": "glm-4.5"
+}

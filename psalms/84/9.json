@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 84,
+  "translation": "ЯХВЕ, Элохим Цеваот, услышь молитву мою, вникни, Элоhи Яакова, ⟨села⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "услышь"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "молитву мою"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "вникни"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоhи"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "⟨села⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T08:10:21.087613933Z",
+  "model": "glm-4.5"
+}

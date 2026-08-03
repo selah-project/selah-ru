@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "2-chronicles 32:10",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "Так говорит Санхерив, царь Ашшура: на что вы надеетесь, сидя ⟨в осаде⟩ в Иерусалиме?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "говорит"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Санхерив"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшура"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вы"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "надеетесь"
+    },
+    {
+      "surface": "וישבים",
+      "gloss": "сидя"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "в осаде"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "в Иерусалиме"
+    }
+  ],
+  "timestamp": "2026-08-03T14:09:39.282137804Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "exodus 7:24",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И выкопали все Mitsrajim ⟨вокруг⟩ реки воду ⟨чтобы⟩ пить, ибо не могли пить ⟨от⟩ вод реки.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "и выкопали"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "⟨вокруг⟩"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "реки"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воду"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "⟨чтобы⟩ пить"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "могли"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "пить"
+    },
+    {
+      "surface": "ממימי",
+      "gloss": "⟨от⟩ вод"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "реки"
+    }
+  ],
+  "timestamp": "2026-08-02T20:01:36.421918772Z",
+  "model": "glm-4.5"
+}

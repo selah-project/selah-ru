@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 42,
+  "translation": "И сошли десять братьев Йосефа, чтобы купить зерно в Египте.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "и сошли"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "братьев"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефа"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десять"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "чтобы купить"
+    },
+    {
+      "surface": "בר",
+      "gloss": "зерно"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "в Египте"
+    }
+  ],
+  "timestamp": "2026-08-02T19:45:55.405196490Z",
+  "model": "glm-4.5"
+}

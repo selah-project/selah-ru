@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 68,
+  "translation": "Когда Шаддай рассеял царей в ней, ⟨она⟩ была как снег в Цалмоне.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "Когда рассеял"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шаддай"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "царей"
+    },
+    {
+      "surface": "בה",
+      "gloss": "в ней"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "была как снег"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "в Цалмоне"
+    }
+  ],
+  "timestamp": "2026-08-03T07:47:25.679008664Z",
+  "model": "glm-4.5"
+}

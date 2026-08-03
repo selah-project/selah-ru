@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 130,
+  "translation": "Если ⟨Ты⟩, ЯХВЕ, будешь наблюдать ⟨беззакония⟩, Адонай, кто устоит?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Если"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "беззакония"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "будешь наблюдать"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "устоит"
+    }
+  ],
+  "timestamp": "2026-08-03T09:02:01.787299975Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "joshua 6:18",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Только вы остерегитесь от ⟨хéрема⟩, lest you become accursed, and take of ⟨хéрема⟩, and put ⟨את⟩ стан Исраэля ⟨в хéрем⟩, and trouble ⟨את⟩ him.",
+  "tokens": [
+    {
+      "surface": "ורק",
+      "gloss": "только"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вы"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "остерегитесь"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "⟨хéрема⟩"
+    },
+    {
+      "surface": "פן",
+      "gloss": "lest"
+    },
+    {
+      "surface": "תחרימו",
+      "gloss": "you become accursed"
+    },
+    {
+      "surface": "ולקחתם",
+      "gloss": "and take of"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "⟨хéрема⟩"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "and put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "стан Исраэля"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "стан Исраэля"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраэля"
+    },
+    {
+      "surface": "לחרם",
+      "gloss": "⟨в хéрем⟩"
+    },
+    {
+      "surface": "ועכרתם",
+      "gloss": "and trouble"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "его"
+    }
+  ],
+  "timestamp": "2026-08-02T22:29:42.118628319Z",
+  "model": "glm-4.5"
+}

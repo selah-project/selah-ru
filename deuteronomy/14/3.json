@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Не ешь ⟨ни⟩ какой ⟨тоёвah⟩",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ешь"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨ни⟩ какой"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "⟨тоёвah⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T22:05:23.393534256Z",
+  "model": "glm-4.5"
+}

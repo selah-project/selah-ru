@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И приняли иудеи ⟨то⟩, ⟨что⟩ начали они делать, и ⟨то⟩, ⟨что⟩ написал Мардохей им",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "и приняли"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "иудеи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "то, что"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "начали они"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "делать"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "то, что"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "написал"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мардохей"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "им"
+    }
+  ],
+  "timestamp": "2026-08-03T11:36:12.181467385Z",
+  "model": "glm-4.5"
+}

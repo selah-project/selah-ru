@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "И сказал ему Авраам: береги себя, ⟨чтобы⟩ не вернуть ⟨את⟩ сына туда",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "бережи себя"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себе"
+    },
+    {
+      "surface": "פן",
+      "gloss": "⟨чтобы⟩ не"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "вернуть"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сына"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сына"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "туда"
+    }
+  ],
+  "timestamp": "2026-08-02T19:21:20.880027073Z",
+  "model": "glm-4.5"
+}

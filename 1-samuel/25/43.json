@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 43,
+  "ref": "1-samuel 25:43",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "И ⟨את⟩ Ахиноам взял Давид из Изрееля, и стали обе они ему жёнами",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "И ⟨את⟩",
+      "marks": "Ахиноам"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Ахиноам"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "взял"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "מיזרעאל",
+      "gloss": "из Изрееля"
+    },
+    {
+      "surface": "ותהיין",
+      "gloss": "и стали"
+    },
+    {
+      "surface": "גם",
+      "gloss": "обе"
+    },
+    {
+      "surface": "שתיהן",
+      "gloss": "они"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "жёнами"
+    }
+  ],
+  "timestamp": "2026-08-02T23:42:21.290362874Z",
+  "model": "glm-4.5"
+}

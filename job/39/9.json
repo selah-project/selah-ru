@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "job 39:9",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 39,
+  "translation": "Пожелает ли реем служить тебе, или ⟨он⟩ ляжет у твоего яслей?",
+  "tokens": [
+    {
+      "surface": "היאבה",
+      "gloss": "пожелает ли"
+    },
+    {
+      "surface": "רים",
+      "gloss": "реем"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "служить тебе"
+    },
+    {
+      "surface": "אם",
+      "gloss": "или"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ляжет"
+    },
+    {
+      "surface": "על",
+      "gloss": "у"
+    },
+    {
+      "surface": "אבוסך",
+      "gloss": "твоего яслей"
+    }
+  ],
+  "timestamp": "2026-08-03T10:50:29.196230245Z",
+  "model": "glm-4.5"
+}

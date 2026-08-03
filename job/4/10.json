@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Рёв льва и ⟨вой⟩ шакала, и зубы молодые львов ⟨сломаны⟩",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "Рёв"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "льва"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "и ⟨вой⟩"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "шакала"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "и зубы"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "молодые львов"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "⟨сломаны⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T10:12:47.769226207Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 53,
+  "translation": "Кто поверил ⟨нашему⟩ слуху? и ⟨на⟩ ком открылось ⟨так⟩ рука ЯХВЕ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кто"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "поверил"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "⟨нашему⟩ слуху"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "и ⟨так⟩ рука"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩ ком"
+    },
+    {
+      "surface": "מי",
+      "gloss": ""
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "открылось"
+    }
+  ],
+  "timestamp": "2026-08-03T02:43:14.858598502Z",
+  "model": "glm-4.5"
+}

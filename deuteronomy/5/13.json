@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "deuteronomy 5:13",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Шесть дней ⟨ты⟩ будешь работать и сделаешь ⟨весь⟩ твой труд",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Шесть"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дней"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "будешь работать"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "и сделаешь"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨весь⟩"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "твой труд"
+    }
+  ],
+  "timestamp": "2026-08-02T21:56:05.956560826Z",
+  "model": "glm-4.5"
+}

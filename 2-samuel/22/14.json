@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "2-samuel 22:14",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "ЯХВЕ издал гром с небес, и Всевышний подал ⟨свой⟩ голос",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "издал гром"
+    },
+    {
+      "surface": "מן",
+      "gloss": "с"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "и Всевышний"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "подал"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "⟨свой⟩ голос"
+    }
+  ],
+  "timestamp": "2026-08-03T00:12:15.286281339Z",
+  "model": "glm-4.5"
+}

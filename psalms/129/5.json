@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 129,
+  "translation": "Пусть постыдятся и отступят назад все ненавидящие Цион.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "пусть постыдятся"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "и отступят"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "назад"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ненавидящие"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    }
+  ],
+  "timestamp": "2026-08-03T09:01:10.590588178Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "1-chronicles 26:5",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Аммиил шестой, Иссахар седьмой, Пеулетаи восьмой, ибо Элохим благословил его",
+  "tokens": [
+    {
+      "surface": "עמיאל",
+      "gloss": "Аммиил"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "шестой"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Иссахар"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "седьмой"
+    },
+    {
+      "surface": "פעלתי",
+      "gloss": "Пеулетаи"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "восьмой"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "благословил"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-08-03T13:14:04.162309785Z",
+  "model": "glm-4.5"
+}

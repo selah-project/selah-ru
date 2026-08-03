@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "и ⟨его⟩ воинство и ⟨их⟩ счёт — пятьдесят семь тысяч и четыреста",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "и ⟨его⟩ воинство"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "и ⟨их⟩ счёт"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "семь"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "и пятьдесят"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тысячи"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "и четыре"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотни"
+    }
+  ],
+  "timestamp": "2026-08-02T21:11:16.837957890Z",
+  "model": "glm-4.5"
+}

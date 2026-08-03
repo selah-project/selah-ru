@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "ezekiel 24:19",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "И сказали люди мне: не расскажешь ли ты нам, что это ⟨для нас⟩, ведь ты ⟨так⟩ делаешь?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "И сказали"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "העם",
+      "gloss": "люди"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "расскажешь ли"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "это"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "для нас"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ведь"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "делаешь"
+    }
+  ],
+  "timestamp": "2026-08-03T04:47:26.587010572Z",
+  "model": "glm-4.5"
+}

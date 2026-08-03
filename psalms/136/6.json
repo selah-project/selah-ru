@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 136,
+  "translation": "Распростёршему землю над водами, ибо вовек хесед Его",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "распростёршему"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "המים",
+      "gloss": "водами"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "вовек"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хесед Его"
+    }
+  ],
+  "timestamp": "2026-08-03T09:06:36.279455128Z",
+  "model": "glm-4.5"
+}

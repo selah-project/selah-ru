@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Даже когда я взываю и взываю ⟨о⟩ помощи, Он заграждает мою молитву",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Даже"
+    },
+    {
+      "surface": "כי",
+      "gloss": "когда"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "я взываю"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "и взываю ⟨о⟩"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "заграждает"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "мою молитву"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:06.077157179Z",
+  "model": "glm-4.5"
+}

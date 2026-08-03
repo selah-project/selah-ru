@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 115,
+  "translation": "Не нам, ЯХВЕ, не нам, ⟨а⟩ имени Твоему дай славу, ради хеседа Твоего, ⟨и⟩ ради истины Твоей.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨а⟩"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "имени Твоему",
+      "marks": "имени Твоему"
+    },
+    {
+      "surface": "תן",
+      "gloss": "дай"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славу"
+    },
+    {
+      "surface": "על",
+      "gloss": "ради"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хеседа Твоего"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨и⟩ ради"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "истины Твоей"
+    }
+  ],
+  "timestamp": "2026-08-03T08:45:23.771907173Z",
+  "model": "glm-4.5"
+}

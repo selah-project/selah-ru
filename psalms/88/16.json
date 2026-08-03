@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 88,
+  "translation": "Беден я и угасаю от юности; нес я ужасы Твои — изнемогаю.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "Беден"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "и угасаю"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "от юности"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "нес"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "ужасы Твои"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "изнемогаю"
+    }
+  ],
+  "timestamp": "2026-08-03T08:13:17.149594737Z",
+  "model": "glm-4.5"
+}

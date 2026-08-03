@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "Ибо ⟨את⟩ всю землю, которую ⟨ты⟩ видишь, тебе — ⟨Я дам⟩ её, и семени твоему — навеки",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всю землю"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которую"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ты⟩"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "видишь"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "⟨Я дам⟩"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "и семени твоему"
+    },
+    {
+      "surface": "עד",
+      "gloss": "навеки"
+    },
+    {
+      "surface": "עולם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-02T19:10:24.149059549Z",
+  "model": "glm-4.5"
+}

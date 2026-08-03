@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "proverbs 5:6",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Путь ⟨живых⟩, ⟨чтобы⟩ не ⟨выровняла⟩, сбились ⟨её⟩ пути — не ⟨узнаешь⟩.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "Путь"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живых"
+    },
+    {
+      "surface": "פן",
+      "gloss": "чтобы"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "выровняла"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "сбились"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "её"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "узнаешь"
+    }
+  ],
+  "timestamp": "2026-08-03T09:26:12.369357956Z",
+  "model": "glm-4.5"
+}

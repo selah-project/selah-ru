@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 50,
+  "ref": "ezra 2:50",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "сыновья Асны, сыновья Меуним, сыновья Нефисим",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "אסנה",
+      "gloss": "Асны"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "Меуним"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "נפיסים",
+      "gloss": "Нефисим"
+    }
+  ],
+  "timestamp": "2026-08-03T11:59:41.569295383Z",
+  "model": "glm-4.5"
+}

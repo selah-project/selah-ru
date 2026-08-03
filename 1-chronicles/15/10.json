@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-chronicles 15:10",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "Сыновьям Узиила, Амминадаву начальнику и братьям его, ста двенадцати",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Сыновьям"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Узиила"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Амминадаву"
+    },
+    {
+      "surface": "השר",
+      "gloss": "начальнику"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "и братьям его"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ста"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "двенадцати"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T12:59:01.924588775Z",
+  "model": "glm-4.5"
+}

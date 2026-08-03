@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 84,
+  "translation": "Начальнику. На Гиттифе. Сынам Кóраха. Псалом.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Начальнику"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Гиттифе"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Сынам"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Кóраха"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Псалом"
+    }
+  ],
+  "timestamp": "2026-08-03T08:10:10.206391255Z",
+  "model": "glm-4.5"
+}

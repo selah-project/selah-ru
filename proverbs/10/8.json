@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Мудрый сердцем примет заповедь, ⟨а⟩ болтливый глупец будет повержен.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "Мудрый"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сердцем"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "примет"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "заповедь"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "⟨а⟩ глупец"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "болтливый"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "будет повержен"
+    }
+  ],
+  "timestamp": "2026-08-03T09:32:25.616656332Z",
+  "model": "glm-4.5"
+}

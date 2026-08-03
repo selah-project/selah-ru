@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "2-kings 18:1",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И было в третий год Хошеи, сына Элы, царя Израиля, воцарился Хизкияу, сын Ахаза, царя Иудеи.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "в год"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "третий"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "Хошеи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Элы"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "воцарился"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Хизкияу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ахаза"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иудеи"
+    }
+  ],
+  "timestamp": "2026-08-03T01:27:45.006394736Z",
+  "model": "glm-4.5"
+}

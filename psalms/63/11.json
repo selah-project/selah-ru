@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 63,
+  "translation": "Они будут отданы во власть меча; они будут долей шакалов.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "они будут отданы"
+    },
+    {
+      "surface": "על",
+      "gloss": "во"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "власть"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меча"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "долей"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "шакалов"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "они будут"
+    }
+  ],
+  "timestamp": "2026-08-03T07:40:41.321850308Z",
+  "model": "glm-4.5"
+}

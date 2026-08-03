@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Не притесняй ⟨את⟩ ближнего твоего и не грабь; не оставляй ⟨со⟩ тобою плату наёмника до утра",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "притесняй"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ближнего твоего"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ближнего твоего"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "грабь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "оставляй"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "плату"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "наёмника"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨со⟩ тобою"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "утра"
+    }
+  ],
+  "timestamp": "2026-08-02T20:59:44.349543526Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "ezekiel 36:1",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "И ты, сын человека, пророчествуй на горы Израиля и скажи: горы Израиля, слушайте слово ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "И ты"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "пророчествуй"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "горы"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "и скажи"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "горы"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "слушайте"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T05:00:27.224432992Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Увидел я ⟨את⟩ тягость, которую дал Элохим сынам человеческим, чтобы ⟨бы⟩ унижены ими.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Увидел я"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тягость"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "тягость"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которую"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дал"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "сынам"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "человеческим"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "чтобы ⟨бы⟩ унижены"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ими"
+    }
+  ],
+  "timestamp": "2026-08-03T11:17:40.701629756Z",
+  "model": "glm-4.5"
+}

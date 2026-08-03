@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "isaiah 45:22",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 45,
+  "translation": "Обратитесь ко Мне и будьте спасены, все концы земли, ибо Я — Эль, и иного нет.",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "Обратитесь"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ко Мне"
+    },
+    {
+      "surface": "והושעו",
+      "gloss": "и будьте спасены"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "концы"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земли"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эль"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и иного"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "нет"
+    }
+  ],
+  "timestamp": "2026-08-03T02:32:57.851393811Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Даже лань в поле родила и покинула ⟨её⟩, потому что не было травы",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "потому что"
+    },
+    {
+      "surface": "גם",
+      "gloss": "даже"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "лань"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "в поле"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "родила"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "и покинула"
+    },
+    {
+      "surface": "כי",
+      "gloss": "потому что"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "было"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "травы"
+    }
+  ],
+  "timestamp": "2026-08-03T03:15:24.497087750Z",
+  "model": "glm-4.5"
+}

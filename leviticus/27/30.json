@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "leviticus 27:30",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "И вся десятина ⟨с⟩ земли, ⟨от⟩ семени земли и ⟨от⟩ плода дерева — ⟨она⟩ ЯХВЕ: святыня ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "И вся"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "десятина"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨с⟩ земли"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "⟨от⟩ семени"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земли"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "и ⟨от⟩ плода"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "дерева"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "—"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨она⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "святыня"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T21:09:00.737203103Z",
+  "model": "glm-4.5"
+}

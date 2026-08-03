@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Доверяй ЯХВЕ всем ⟨своим⟩ сердцем и ⟨к⟩ ⟨своему⟩ разуму не опирайся",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Доверяй"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "всем"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "⟨своим⟩ сердцем"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "⟨своему⟩ разуму"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "опирайся"
+    }
+  ],
+  "timestamp": "2026-08-03T09:23:08.404548831Z",
+  "model": "glm-4.5"
+}

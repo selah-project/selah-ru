@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 148,
+  "translation": "Хвалите ⟨את⟩ ЯХВЕ с земли, танинимы и все глубины:",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Хвалите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "с"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земли"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "танинимы"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и все"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "глубины"
+    }
+  ],
+  "timestamp": "2026-08-03T09:18:13.280816615Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 58,
+  "translation": "Элохим, сокруши зубы их в устах их; клыки львов ЯХВЕ, исторгни.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "сокруши"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "зубы их"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "в устах ⟨их⟩"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "клыки"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "львов"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "исторгни"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T07:35:32.287353193Z",
+  "model": "glm-4.5"
+}

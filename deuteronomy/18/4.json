@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "deuteronomy 18:4",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "начаток ⟨твоего⟩ зерна, ⟨твоего⟩ вина и ⟨твоего⟩ масла, и начаток шерсти ⟨твоего⟩ стада ты дашь ему",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "начаток"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "зерна"
+    },
+    {
+      "surface": "תירשך",
+      "gloss": "вина"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "и масла"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "и начаток"
+    },
+    {
+      "surface": "גז",
+      "gloss": "шерсти"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "стада"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ты дашь"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    }
+  ],
+  "timestamp": "2026-08-02T22:09:12.255528280Z",
+  "model": "glm-4.5"
+}

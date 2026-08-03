@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 46,
+  "translation": "Гудят, взмучиваются воды ⟨его⟩; вздымаются горы в pride ⟨его⟩. Сэла.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "гудят"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "взмучиваются"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "воды ⟨его⟩",
+      "marks": "воды ⟨его⟩"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "вздымаются"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "горы"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "в pride ⟨его⟩",
+      "marks": "в pride ⟨его⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Сэла"
+    }
+  ],
+  "timestamp": "2026-08-03T07:24:37.502673995Z",
+  "model": "glm-4.5"
+}

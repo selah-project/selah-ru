@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 55,
+  "translation": "Сердце моё страждет внутри меня, и ужасы смерти упали ⟨на⟩ меня.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "Сердце моё"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "страждет"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "внутри меня"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "и ужасы"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смерти"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "упали"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨на⟩ меня"
+    }
+  ],
+  "timestamp": "2026-08-03T07:32:45.995376568Z",
+  "model": "glm-4.5"
+}

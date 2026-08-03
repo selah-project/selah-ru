@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "2-samuel 23:32",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Эльяхба ⟨the⟩ Шаалбонит, ⟨from the⟩ сынов Яшена, Йехонатан,",
+  "tokens": [
+    {
+      "surface": "אליחבא",
+      "gloss": "Эльяхба"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "⟨the⟩ Шаалбонит"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨from the⟩ сынов"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "Яшена"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йехонатан"
+    }
+  ],
+  "timestamp": "2026-08-03T00:13:43.355221368Z",
+  "model": "glm-4.5"
+}

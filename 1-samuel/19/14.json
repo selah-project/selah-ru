@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "И послал Шаул послов, чтобы взять ⟨את⟩ Давида, и она сказала: «он ⟨is⟩ болен».",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "И послал"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "послов"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "чтобы взять"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давида"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "и она сказала"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "болен"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-08-02T23:34:52.893812856Z",
+  "model": "glm-4.5"
+}

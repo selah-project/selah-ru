@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "И вышло ⟨это⟩ всё ⟨собрание⟩ сынов Израиля от ⟨лица⟩ Моше",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "И вышло"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "⟨собрание⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "от ⟨лица⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-08-02T20:33:12.625918702Z",
+  "model": "glm-4.5"
+}

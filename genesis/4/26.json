@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "genesis 4:26",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И Шету также родился сын, и он назвал ⟨את⟩ имя его Энош; тогда начали призывать в имя ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "ולשת",
+      "gloss": "И Шету"
+    },
+    {
+      "surface": "גם",
+      "gloss": "также"
+    },
+    {
+      "surface": "הוא",
+      "gloss": ""
+    },
+    {
+      "surface": "ילד",
+      "gloss": "родился"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и он назвал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "имя его"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "имя его"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Энош"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тогда"
+    },
+    {
+      "surface": "הוחל",
+      "gloss": "начали"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "призывать"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "в имя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T17:47:50.398277810Z",
+  "model": "glm-4.5"
+}

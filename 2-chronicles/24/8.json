@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "2-chronicles 24:8",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "И приказал царь, и сделали ⟨они⟩ ковчег один, и поставили его у ворот дома ЯХВЕ снаружи",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И приказал"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "и сделали"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "и поставили его"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "у ворот"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "снаружи"
+    }
+  ],
+  "timestamp": "2026-08-03T13:57:05.108145465Z",
+  "model": "glm-4.5"
+}

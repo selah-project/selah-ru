@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "job 17:13",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "Если я надеюсь — Шеол мой дом, во тьме постлал я ложе моё",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Если"
+    },
+    {
+      "surface": "אקוה",
+      "gloss": "я надеюсь"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "мой дом"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "во тьме"
+    },
+    {
+      "surface": "רפדתי",
+      "gloss": "постлал"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "ложе моё"
+    }
+  ],
+  "timestamp": "2026-08-03T10:24:48.149124206Z",
+  "model": "glm-4.5"
+}

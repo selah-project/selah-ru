@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "song-of-songs 5:10",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Возлюбленный мой ⟨и⟩ бел ⟨и⟩ румян, выделяется из десяти тысяч",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "Возлюбленный мой"
+    },
+    {
+      "surface": "צח",
+      "gloss": "бел"
+    },
+    {
+      "surface": "ואדום",
+      "gloss": "⟨и⟩ румян"
+    },
+    {
+      "surface": "דגול",
+      "gloss": "выделяется"
+    },
+    {
+      "surface": "מרבבה",
+      "gloss": "из десяти тысяч"
+    }
+  ],
+  "timestamp": "2026-08-03T10:57:01.383756166Z",
+  "model": "glm-4.5"
+}

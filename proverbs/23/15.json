@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "proverbs 23:15",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Сын мой, если мудро ⟨будет⟩ сердце твоё, возрадуется сердце моё, и я [даже].",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сын мой"
+    },
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудро"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "сердце твоё"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "возрадуется"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "сердце моё"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я [даже]"
+    }
+  ],
+  "timestamp": "2026-08-03T18:27:47.353722656Z",
+  "model": "glm-4.5"
+}

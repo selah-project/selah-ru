@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "Слушайте и внимайте, не возноситесь, ибо ЯХВЕ ⟨говорит⟩",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Слушайте"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "и внимайте"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "возноситесь"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨говорит⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T03:14:49.143128378Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "и ⟨את⟩ жир хатта́та воскурить ⟨на⟩ жертвеннике",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "жир"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "жир"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "хатта́та"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "воскурить"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "жертвенник"
+    }
+  ],
+  "timestamp": "2026-08-02T20:56:44.680910062Z",
+  "model": "glm-4.5"
+}

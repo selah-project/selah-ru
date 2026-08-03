@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 142,
+  "translation": "Маски́ль Давида, ⟨был⟩ в пещере, моление",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Маски́ль"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "⟨был⟩"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "в пещере"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "моление"
+    }
+  ],
+  "timestamp": "2026-08-03T09:12:24.533912917Z",
+  "model": "glm-4.5"
+}

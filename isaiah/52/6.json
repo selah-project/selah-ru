@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 52,
+  "translation": "Поэтому народ Мой познаёт имя Моё: поэтому в ⟨тот⟩ день, что Я — Тот, Кто говорит: вот, Я.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Поэтому"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "познаёт"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народ Мой"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "имя Моё"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "поэтому"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в ⟨тот⟩ день"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨тот⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "— Тот"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "Кто говорит"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "вот, Я"
+    }
+  ],
+  "timestamp": "2026-08-03T02:42:33.490760290Z",
+  "model": "glm-4.5"
+}

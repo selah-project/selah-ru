@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "ибо как он мыслит в душе своей, ⟨так⟩ ⟨он⟩: 'Ешь и пей', — скажет он тебе, но сердце его не ⟨с⟩ тобой",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "как"
+    },
+    {
+      "surface": "שער",
+      "gloss": "мыслит"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "в душе своей"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "Ешь"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "и пей"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "скажет"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "но сердце его"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "с тобой"
+    }
+  ],
+  "timestamp": "2026-08-03T09:54:25.716144689Z",
+  "model": "glm-4.5"
+}

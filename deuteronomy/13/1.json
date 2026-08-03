@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "⟨את⟩ ⟨всё⟩ слово, которое я ⟨את⟩ вас повелеваю, его ⟨את⟩ храните, чтобы делать; не прибавите к нему и не убавите от него",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всё"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "повелеваю"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "его"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "храните"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "чтобы делать"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "прибавите"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "к нему"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "убавите"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "от него"
+    }
+  ],
+  "timestamp": "2026-08-02T22:04:38.390317630Z",
+  "model": "glm-4.5"
+}

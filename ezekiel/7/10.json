@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "ezekiel 7:10",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Вот день, вот ⟨он⟩ пришёл, вышла ⟨поворот⟩, расцвёл ⟨жезл⟩, расцвел ⟨задор⟩",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "היום",
+      "gloss": "день"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "באה",
+      "gloss": "⟨он⟩ пришёл"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "вышла"
+    },
+    {
+      "surface": "הצפרה",
+      "gloss": "⟨поворот⟩"
+    },
+    {
+      "surface": "צץ",
+      "gloss": "расцвёл"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "⟨жезл⟩"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "расцвел"
+    },
+    {
+      "surface": "הזדון",
+      "gloss": "⟨задор⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T04:22:28.278423327Z",
+  "model": "glm-4.5"
+}

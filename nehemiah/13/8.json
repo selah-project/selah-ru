@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "nehemiah 13:8",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "и ⟨было⟩ очень тяжко мне, и я выбросил ⟨את⟩ все сосуды дома Товии наружу из ⟨כל⟩ хранилища",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "и ⟨было⟩ тяжко"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "очень"
+    },
+    {
+      "surface": "ואשליכה",
+      "gloss": "и я выбросил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "все сосуды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "сосуды"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Товии"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "наружу"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "хранилища"
+    }
+  ],
+  "timestamp": "2026-08-03T12:33:27.063783694Z",
+  "model": "glm-4.5"
+}

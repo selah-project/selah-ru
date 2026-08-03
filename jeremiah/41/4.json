@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 41,
+  "translation": "И было во второй день, чтобы умертвить ⟨את⟩ Гедалию, и человек не знал",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и было"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "во день"
+    },
+    {
+      "surface": "השני",
+      "gloss": "второй"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "чтобы умертвить"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гедалию"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Гедалию"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "и человек"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знал"
+    }
+  ],
+  "timestamp": "2026-08-03T03:59:14.247831254Z",
+  "model": "glm-4.5"
+}

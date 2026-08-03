@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "deuteronomy 18:2",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "и удела не ⟨будет⟩ ему ⟨среди⟩ братьев его, ЯХВЕ ⟨сам⟩ ⟨есть⟩ удел его, ⟨как⟩ ⟨Он⟩ ⟨говорил⟩ ему",
+  "tokens": [
+    {
+      "surface": "ונחלה",
+      "gloss": "и удела"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨будет⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "⟨среди⟩"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "братьев его"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨сам⟩"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "удел его"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "⟨как⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨Он⟩ ⟨говорил⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    }
+  ],
+  "timestamp": "2026-08-02T22:08:53.340710271Z",
+  "model": "glm-4.5"
+}

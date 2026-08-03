@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "ezekiel 30:14",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "И опустошу ⟨את⟩ Патрос, и дам огонь в Цоане, и произведу суды в Но",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "и опустошу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Патрос"
+    },
+    {
+      "surface": "פתרוס",
+      "gloss": "Патрос"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "и дам"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огонь"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "в Цоане"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "и произведу"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "суды"
+    },
+    {
+      "surface": "בנא",
+      "gloss": "в Но"
+    }
+  ],
+  "timestamp": "2026-08-03T04:54:04.723805131Z",
+  "model": "glm-4.5"
+}

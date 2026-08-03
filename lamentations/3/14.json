@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Я стал посмешищем ⟨для⟩ всего ⟨моего⟩ народа, ⟨их⟩ песней ⟨весь⟩ день.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "стал"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "посмешищем"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "⟨для⟩ всего"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "⟨моего⟩ народа"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "⟨их⟩ песней"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨весь⟩"
+    },
+    {
+      "surface": "היום",
+      "gloss": "день"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:21.020345201Z",
+  "model": "glm-4.5"
+}

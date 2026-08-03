@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "сын Зерахии, сын Уззи, сын Букки",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Зерахии"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Уззи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Букки"
+    }
+  ],
+  "timestamp": "2026-08-03T12:06:10.660557425Z",
+  "model": "glm-4.5"
+}

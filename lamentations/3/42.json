@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Мы ⟨мы⟩ отступили и возмутились: Ты ⟨ты⟩ не ⟨не⟩ простил",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "Мы ⟨мы⟩"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "отступили"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "и возмутились"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ты ⟨ты⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не ⟨не⟩"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "простил"
+    }
+  ],
+  "timestamp": "2026-08-03T11:10:03.640782218Z",
+  "model": "glm-4.5"
+}

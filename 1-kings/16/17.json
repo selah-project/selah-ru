@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "1-kings 16:17",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "И поднялся Амри и весь Израиль с ним из Гивфона и осадили Тирцу",
+  "tokens": [
+    {
+      "surface": "ויעלה",
+      "gloss": "И поднялся"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Амри"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и весь"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с ним"
+    },
+    {
+      "surface": "מגבתון",
+      "gloss": "из Гивфона"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "и осадили"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "Тирцу"
+    }
+  ],
+  "timestamp": "2026-08-03T00:51:03.925766893Z",
+  "model": "glm-4.5"
+}

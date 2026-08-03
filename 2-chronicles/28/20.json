@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "2-chronicles 28:20",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "И пришёл к нему Тилгат-Пилнесер, царь Ашшура, и теснил ⟨его⟩, но не укрепил ⟨его⟩",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и пришёл"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "к нему"
+    },
+    {
+      "surface": "תלגת",
+      "gloss": "Тилгат-"
+    },
+    {
+      "surface": "פלנאסר",
+      "gloss": "Пилнесер"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшура"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "и теснил"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨его⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "укрепил ⟨его⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T14:03:15.676850187Z",
+  "model": "glm-4.5"
+}

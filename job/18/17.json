@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "job 18:17",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Память о нём ⟨погибнет⟩ ⟨от⟩ земли, и ⟨не будет⟩ ⟨у⟩ него имени ⟨на⟩ улице.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Память о нём"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "погибнет"
+    },
+    {
+      "surface": "מני",
+      "gloss": "от"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земли"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "שם",
+      "gloss": "имени"
+    },
+    {
+      "surface": "לו",
+      "gloss": "у него"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "улице"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "⟨наружи⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T10:25:41.311915600Z",
+  "model": "glm-4.5"
+}

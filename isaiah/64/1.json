@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "isaiah 64:1",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 64,
+  "translation": "О, если бы Ты раздвинул ⟨небеса⟩, и сошёл ⟨вниз⟩, дабы от лица Твоего горы потекли ⟨вниз⟩!",
+  "tokens": [
+    {
+      "surface": "כקדח",
+      "gloss": "О, если бы Ты раздвинул"
+    },
+    {
+      "surface": "אש",
+      "gloss": "⟨небеса⟩"
+    },
+    {
+      "surface": "המסים",
+      "gloss": ""
+    },
+    {
+      "surface": "מים",
+      "gloss": ""
+    },
+    {
+      "surface": "תבעה",
+      "gloss": ""
+    },
+    {
+      "surface": "אש",
+      "gloss": ""
+    },
+    {
+      "surface": "להודיע",
+      "gloss": ""
+    },
+    {
+      "surface": "שמך",
+      "gloss": ""
+    },
+    {
+      "surface": "לצריך",
+      "gloss": ""
+    },
+    {
+      "surface": "מפניך",
+      "gloss": ""
+    },
+    {
+      "surface": "גוים",
+      "gloss": ""
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T02:54:41.250804741Z",
+  "model": "glm-4.5"
+}

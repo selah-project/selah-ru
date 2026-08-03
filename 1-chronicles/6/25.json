@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "1-chronicles 6:25",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "сын Михаэля, сын Баасеи, сын Малкии",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "Михаэля"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "בעשיה",
+      "gloss": "Баасеи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "Малкии"
+    }
+  ],
+  "timestamp": "2026-08-03T12:44:30.709186425Z",
+  "model": "glm-4.5"
+}

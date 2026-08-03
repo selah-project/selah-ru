@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И я услышал, ⟨но⟩ не понял, и сказал: Адонай, чему ⟨будет⟩ конец ⟨этому⟩?",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "И я"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "услышал"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "не понял"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чему"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "конец"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "этому"
+    }
+  ],
+  "timestamp": "2026-08-03T11:55:49.639488325Z",
+  "model": "glm-4.5"
+}

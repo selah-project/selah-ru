@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Сыновья Авраама: Ицхак и Ишмаэль.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраама"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхак"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "и Ишмаэль"
+    }
+  ],
+  "timestamp": "2026-08-03T12:35:42.556902776Z",
+  "model": "glm-4.5"
+}

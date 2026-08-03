@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "proverbs 20:29",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "Краса ⟨их⟩ силы — у молодых; и слава стариков — седи́на.",
+  "tokens": [
+    {
+      "surface": "תפארת",
+      "gloss": "Краса"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "у молодых"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "силы"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "и слава"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "стариков"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "седи́на"
+    }
+  ],
+  "timestamp": "2026-08-03T09:47:36.814359040Z",
+  "model": "glm-4.5"
+}

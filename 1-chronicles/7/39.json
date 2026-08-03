@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 39,
+  "ref": "1-chronicles 7:39",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И сыновья Уллы: Арах и Ханниэль и Риция.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И сыновья"
+    },
+    {
+      "surface": "עלא",
+      "gloss": "Уллы"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "Арах"
+    },
+    {
+      "surface": "וחניאל",
+      "gloss": "и Ханниэль"
+    },
+    {
+      "surface": "ורציא",
+      "gloss": "и Риция"
+    }
+  ],
+  "timestamp": "2026-08-03T12:47:45.474538848Z",
+  "model": "glm-4.5"
+}

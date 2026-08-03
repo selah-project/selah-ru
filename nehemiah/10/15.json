@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Главы народа: Парош, Пахат-Моав, Эйлам, Затту, Бани",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "Главы"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народа"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Парош"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "Пахат"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Эйлам"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "Затту"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Бани"
+    }
+  ],
+  "timestamp": "2026-08-03T12:28:15.821496850Z",
+  "model": "glm-4.5"
+}

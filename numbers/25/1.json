@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "numbers 25:1",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "И Израиль жил в Шиттиме, и начал народ блудить к дочерям Моава",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "и жил"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    },
+    {
+      "surface": "בשטים",
+      "gloss": "в Шиттиме"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "и начал"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "блудить"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "дочерям"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    }
+  ],
+  "timestamp": "2026-08-02T21:37:56.546193633Z",
+  "model": "glm-4.5"
+}

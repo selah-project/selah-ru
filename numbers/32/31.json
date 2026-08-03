@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "numbers 32:31",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "И отвечали сыны Гада и сыны Рувима, говоря: ⟨то⟩, ⟨что⟩ говорил ЯХВЕ рабам твоим, так мы сделаем",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "И отвечали"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гада"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и сыны"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Рувима"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "то, что"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "рабам"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "твоим"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "мы сделаем"
+    }
+  ],
+  "timestamp": "2026-08-02T21:46:07.152594112Z",
+  "model": "glm-4.5"
+}

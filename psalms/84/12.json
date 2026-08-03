@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 84,
+  "translation": "Ибо солнце и щит ⟨есть⟩ ЯХВЕ Элохим: хесед и כבוד даст ЯХВЕ; не withhold Он добро от ходящих в целости.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "солнце"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "и щит"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "חן",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "и כבод"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "даст"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "withhold"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "от ходящих"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "в целости"
+    }
+  ],
+  "timestamp": "2026-08-03T08:10:17.470879813Z",
+  "model": "glm-4.5"
+}

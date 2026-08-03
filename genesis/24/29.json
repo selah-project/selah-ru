@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "genesis 24:29",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "У Ривки ⟨был⟩ брат, и имя ему Лаван; и побежал Лаван к человеку наружу, к источнику.",
+  "tokens": [
+    {
+      "surface": "ולרבקה",
+      "gloss": "У Ривки"
+    },
+    {
+      "surface": "אח",
+      "gloss": "⟨был⟩ брат"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "и имя ему"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "и побежал"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "человеку"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "наружу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "העין",
+      "gloss": "источнику"
+    }
+  ],
+  "timestamp": "2026-08-02T19:21:51.211504907Z",
+  "model": "glm-4.5"
+}

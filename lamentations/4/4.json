@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Язык сосущего ⟨ребёнка⟩ прилип к нёбу его от жажды; дети просили хлеба, но ⟨нет⟩ того, кто ломал бы ⟨им⟩.",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "прилип"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "язык"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "сосущего"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "нёбу его"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "от жажды"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "дети"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "просили"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "ломал бы"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    }
+  ],
+  "timestamp": "2026-08-03T11:13:37.949709511Z",
+  "model": "glm-4.5"
+}

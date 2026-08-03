@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "nehemiah 10:22",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Мешезавэ́л, Цадо́к, Яддуа",
+  "tokens": [
+    {
+      "surface": "משיזבאל",
+      "gloss": "Мешезавэ́л"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Цадо́к"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Яддуа"
+    }
+  ],
+  "timestamp": "2026-08-03T12:28:23.243196730Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Далеко ⟨то⟩, что было, и глубоко, глубоко: кто найдет его?",
+  "tokens": [
+    {
+      "surface": "רָח֖וֹק",
+      "gloss": "далеко"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "⟨то⟩"
+    },
+    {
+      "surface": "שֶׁהָיָ֑ה",
+      "gloss": "что было"
+    },
+    {
+      "surface": "וְעָמֹ֥ק",
+      "gloss": "и глубоко"
+    },
+    {
+      "surface": "עָמֹ֖ק",
+      "gloss": "глубоко"
+    },
+    {
+      "surface": "מִי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "יִמְצָאֶֽנּוּ",
+      "gloss": "найдет его"
+    }
+  ],
+  "timestamp": "2026-08-03T11:22:09.223875192Z",
+  "model": "glm-4.5"
+}

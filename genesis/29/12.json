@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 29:12",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "И Яаков поведал Рахели, что он брат отца её, и что он сын Ривки, и побежала, и поведала отцу своему",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "и поведал"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Рахели"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брат"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "отца её"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "и что"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ривки"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "и побежала"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "и поведала"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "отцу своему"
+    }
+  ],
+  "timestamp": "2026-08-02T19:29:40.454529140Z",
+  "model": "glm-4.5"
+}

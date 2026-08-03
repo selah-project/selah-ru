@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "song-of-songs 6:7",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Как срез граната ⟨твои⟩ виски ⟨из-за⟩ ⟨твоей⟩ косы",
+  "tokens": [
+    {
+      "surface": "כפלח",
+      "gloss": "Как срез граната"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "граната"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "⟨твои⟩ виски"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "⟨из-за⟩"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "⟨твоей⟩ косы"
+    }
+  ],
+  "timestamp": "2026-08-03T10:57:53.658782895Z",
+  "model": "glm-4.5"
+}

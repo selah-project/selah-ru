@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Блаженны непорочные ⟨на⟩ пути, ходящие ⟨в⟩ Торе ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "блаженны"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "непорочные"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "путь"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "ходящие"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "⟨в⟩ Торе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T08:49:52.797485262Z",
+  "model": "glm-4.5"
+}

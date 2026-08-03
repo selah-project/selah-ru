@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "И родила Зилпа, служанка Лии, Яакову сына.",
+  "tokens": [
+    {
+      "surface": "וַתֵּ֗לֶד",
+      "gloss": "И родила"
+    },
+    {
+      "surface": "זִלְפָּ֛ה",
+      "gloss": "Зилпа"
+    },
+    {
+      "surface": "שִׁפְחַ֥ת",
+      "gloss": "служанка"
+    },
+    {
+      "surface": "לֵאָ֖ה",
+      "gloss": "Лии"
+    },
+    {
+      "surface": "לְיַעֲקֹ֥ב",
+      "gloss": "Яакову"
+    },
+    {
+      "surface": "בֵּֽן",
+      "gloss": "сына"
+    }
+  ],
+  "timestamp": "2026-08-02T19:30:43.651902263Z",
+  "model": "glm-4.5"
+}

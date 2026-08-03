@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "judges 8:22",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И сказали мужи Израиля Гидеону: владей нами — и ты, и сын твой, и сын сына твоего — ибо ты ⟨спас⟩ нас из руки Мадияна",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "и сказали"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мужи"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Гидеону"
+    },
+    {
+      "surface": "משל",
+      "gloss": "владей"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "нами"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "сын"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "сына"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "⟨спас⟩ нас"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "из руки"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мадияна"
+    }
+  ],
+  "timestamp": "2026-08-02T22:57:57.274231771Z",
+  "model": "glm-4.5"
+}

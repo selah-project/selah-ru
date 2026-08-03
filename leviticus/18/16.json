@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Наготу ⟨жены⟩ брата твоего не открывай: ⟨это⟩ нагота ⟨брата⟩ твоего.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "наготу"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "⟨жены⟩",
+      "marks": "брата твоего"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "брата твоего"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "открывай"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "нагота"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "⟨брата⟩",
+      "marks": "твоего"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨это⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T20:58:13.427309496Z",
+  "model": "glm-4.5"
+}

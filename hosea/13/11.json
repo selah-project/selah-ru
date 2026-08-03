@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "hosea 13:11",
+  "book": "hosea",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "Я дам тебе царя в гневе Моём, и возьму ⟨его⟩ в ярости Моей",
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "Я дам"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "в гневе Моём"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "и возьму"
+    },
+    {
+      "surface": "בעברתי",
+      "gloss": "в ярости Моей"
+    }
+  ],
+  "timestamp": "2026-08-03T05:29:20.618256087Z",
+  "model": "glm-4.5"
+}

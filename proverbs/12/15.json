@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Путь глупца ⟨прям⟩ в его глазах, а слушающий совету — мудр.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "Путь"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "глупца"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "прям"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "в его глазах"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "а слушающий"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "совету"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудр"
+    }
+  ],
+  "timestamp": "2026-08-03T09:35:15.919239919Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "nehemiah 11:32",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "в Анафоте, Нобе, Анании;",
+  "tokens": [
+    {
+      "surface": "ענתות",
+      "gloss": "в Анафоте"
+    },
+    {
+      "surface": "נב",
+      "gloss": "Нобе"
+    },
+    {
+      "surface": "ענניה",
+      "gloss": "Анании"
+    }
+  ],
+  "timestamp": "2026-08-03T12:30:07.807626842Z",
+  "model": "glm-4.5"
+}

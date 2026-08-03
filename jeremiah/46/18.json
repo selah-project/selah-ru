@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "jeremiah 46:18",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 46,
+  "translation": "Жив ⟨я⟩, слово Царя, имя ЯХВЕ Цеваот: как Фавор среди гор, и как Кармил у моря, так ⟨он⟩ придёт",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Жив"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨я⟩"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Царя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "имя"
+    },
+    {
+      "surface": "כי",
+      "gloss": "как"
+    },
+    {
+      "surface": "כתבור",
+      "gloss": "Фавор"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "среди гор"
+    },
+    {
+      "surface": "וככרמל",
+      "gloss": "и как Кармил"
+    },
+    {
+      "surface": "בים",
+      "gloss": "у моря"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "придёт"
+    }
+  ],
+  "timestamp": "2026-08-03T04:05:42.121084209Z",
+  "model": "glm-4.5"
+}

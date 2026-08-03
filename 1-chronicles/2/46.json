@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И Эйфа, наложница Калева, родила ⟨את⟩ Харана, ⟨את⟩ Моцу и ⟨את⟩ Газеза; а Харан породил ⟨את⟩ Газеза.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "И Эйфа"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "наложница"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калева"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "родила"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Харана"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Харана"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Моцу"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Моцу"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Газеза"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Газеза"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "а Харан"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Газеза"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Газеза"
+    }
+  ],
+  "timestamp": "2026-08-03T12:38:32.697027481Z",
+  "model": "glm-4.5"
+}

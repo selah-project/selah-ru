@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "proverbs 7:22",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Идёт он ⟨за⟩ ней внезапно, как вол к закланию приходит он, и как оковы к наказанию глупца",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "Идёт"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "⟨за⟩ ней"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "внезапно"
+    },
+    {
+      "surface": "כשור",
+      "gloss": "как вол"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "закланию"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "приходит"
+    },
+    {
+      "surface": "וכעכס",
+      "gloss": "и как оковы"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "наказанию"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "глупца"
+    }
+  ],
+  "timestamp": "2026-08-03T09:28:38.586480989Z",
+  "model": "glm-4.5"
+}

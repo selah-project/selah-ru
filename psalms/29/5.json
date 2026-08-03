@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "Голос ЯХВЕ ломает кедры, и ломает ЯХВЕ ⟨את⟩ кедры Ливана",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Голос"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ломает"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "кедры"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "и ломает"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кедры"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "кедры"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Ливана"
+    }
+  ],
+  "timestamp": "2026-08-03T07:05:05.665030264Z",
+  "model": "glm-4.5"
+}

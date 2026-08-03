@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Мой глаз изливается ⟨и⟩ не умолкает, оттого что нет облегчения",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Мой глаз"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "изливается"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "⟨и⟩ не"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "умолкает"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "оттого что"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "⟨нет⟩ облегчения"
+    }
+  ],
+  "timestamp": "2026-08-03T11:13:05.393879249Z",
+  "model": "glm-4.5"
+}

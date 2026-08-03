@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "job 37:24",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "Поэтому ⟨мужи⟩ боятся Его; ⟨Его⟩ не увидят все мудрые сердцем.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Поэтому"
+    },
+    {
+      "surface": "יראוהו",
+      "gloss": "боятся Его"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "мужи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "увидят"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "חכמי",
+      "gloss": "мудрые"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сердцем"
+    }
+  ],
+  "timestamp": "2026-08-03T10:48:25.463327982Z",
+  "model": "glm-4.5"
+}

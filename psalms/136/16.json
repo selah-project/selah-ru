@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 136,
+  "translation": "Ведущему ⟨свой⟩ народ в пустыне: ибо вовек хесед Его.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "Ведущему"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨свой⟩ народ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "в пустыне"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "вовек"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хесед Его"
+    }
+  ],
+  "timestamp": "2026-08-03T09:07:02.778462913Z",
+  "model": "glm-4.5"
+}

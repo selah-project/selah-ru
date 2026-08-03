@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "isaiah 53:10",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 53,
+  "translation": "И ЯХВЕ изволил сокрушить Его, Он подверг Его страданию; если ты сделаешь ⟨את⟩ душу Его ⟨את⟩ повинностью, Он увидит ⟨את⟩ потомство, Он продлит ⟨את⟩ дни, и воля ЯХВЕ в руке Его prosperirá.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "И ЯХВЕ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "изволил"
+    },
+    {
+      "surface": "דכאו",
+      "gloss": "сокрушить Его"
+    },
+    {
+      "surface": "החלי",
+      "gloss": "Он subjected Him to suffering"
+    },
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "сделаешь"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "повинностью"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "душу Его",
+      "marks": "душу Его"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "Он увидит"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "потомство",
+      "marks": "потомство"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "Он продлит"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни",
+      "marks": "дни"
+    },
+    {
+      "surface": "וחפץ",
+      "gloss": "и воля"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "в руке Его"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "prosperirá"
+    }
+  ],
+  "timestamp": "2026-08-03T02:43:23.300751918Z",
+  "model": "glm-4.5"
+}

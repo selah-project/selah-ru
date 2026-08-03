@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Изгони насмешника, и выйдет ⟨спор⟩; и прекратятся ⟨суд⟩ и бесчестие.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "изгони"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "насмешника"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "и выйдет"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "⟨спор⟩",
+      "marks": "спор"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "и прекратятся"
+    },
+    {
+      "surface": "דין",
+      "gloss": "⟨суд⟩",
+      "marks": "суд"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "и бесчестие"
+    }
+  ],
+  "timestamp": "2026-08-03T09:50:06.302253759Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "И поставил ⟨он⟩ там жертвенник и призвал ⟨на⟩ него: Эль Элогей Исраэль.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "и поставил"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "жертвенник"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и призвал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨на⟩ него"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эль"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элогей"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраэль"
+    }
+  ],
+  "timestamp": "2026-08-02T19:35:16.104497627Z",
+  "model": "glm-4.5"
+}

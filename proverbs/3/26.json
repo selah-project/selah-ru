@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "proverbs 3:26",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "ибо ЯХВЕ будет ⟨твоим⟩ упованием и ⟨тебя⟩ сохранит от западни",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "будет"
+    },
+    {
+      "surface": "בכסלך",
+      "gloss": "⟨твоим⟩ упованием"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "и ⟨тебя⟩ сохранит"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "⟨твою⟩ ногу"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "от западни"
+    }
+  ],
+  "timestamp": "2026-08-03T09:23:40.940315224Z",
+  "model": "glm-4.5"
+}

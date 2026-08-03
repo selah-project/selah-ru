@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "ezekiel 41:11",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 41,
+  "translation": "И openings ⟨of⟩ ⟨the⟩ side chambers ⟨were⟩ toward ⟨the⟩ vacant place, one opening toward ⟨the⟩ north, and one opening toward ⟨the⟩ south, and ⟨the⟩ breadth ⟨of⟩ ⟨the⟩ vacant place ⟨was⟩ five cubits around around.",
+  "tokens": [
+    {
+      "surface": "ופתח",
+      "gloss": "и openings"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "⟨of⟩ ⟨the⟩ side chambers"
+    },
+    {
+      "surface": "למנח",
+      "gloss": "к ⟨the⟩ vacant place"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "отверстие"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одно"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "по направлению"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "⟨the⟩ north"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "и отверстие"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одно"
+    },
+    {
+      "surface": "לדרום",
+      "gloss": "к югу"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "и ⟨the⟩ breadth"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "⟨of⟩ ⟨the⟩ place"
+    },
+    {
+      "surface": "המנח",
+      "gloss": "вакантного"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пять"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "локтей"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "вокруг"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "вокруг"
+    }
+  ],
+  "timestamp": "2026-08-03T05:08:52.554719151Z",
+  "model": "glm-4.5"
+}

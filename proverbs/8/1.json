@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Не взывает ли Хохма и не подаёт ли Твуна свой голос?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "не"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Хохма"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "взывает"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "и"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "подаёт"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "свой голос"
+    }
+  ],
+  "timestamp": "2026-08-03T09:29:46.526468204Z",
+  "model": "glm-4.5"
+}

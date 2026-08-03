@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "2-samuel 15:29",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "И Цадок и Авиятар вернули ⟨את⟩ ковчег Элохима в Иерушалаим, и пребывали там",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "и"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Цадок"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "и Авиятар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ковчег"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Эlohима"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "в Иерушалаим"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "и пребывали"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    }
+  ],
+  "timestamp": "2026-08-03T00:03:32.009736511Z",
+  "model": "glm-4.5"
+}

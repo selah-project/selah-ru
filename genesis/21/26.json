@@ -1,0 +1,94 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "genesis 21:26",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И сказал Авимелех: не знал я, кто сделал ⟨את⟩ ⟨это⟩ дело, и также ты не сообщил мне, и также я не слышал ⟨о⟩ нём, кроме как сегодня.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авимелех"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знал"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "это дело"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "дело"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "это"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и также"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "сообщил"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и также"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "слышал"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "кроме как"
+    },
+    {
+      "surface": "היום",
+      "gloss": "сегодня"
+    }
+  ],
+  "timestamp": "2026-08-02T19:18:08.789693761Z",
+  "model": "glm-4.5"
+}

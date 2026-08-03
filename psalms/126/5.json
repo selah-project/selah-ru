@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 126,
+  "translation": "Сеющие ⟨со⟩ слезами ⟨с⟩ песнопением пожнут",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "Сеющие"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "⟨со⟩ слезами"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "⟨с⟩ песнопением"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "пожнут"
+    }
+  ],
+  "timestamp": "2026-08-03T08:59:29.962276353Z",
+  "model": "glm-4.5"
+}

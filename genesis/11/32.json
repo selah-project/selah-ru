@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И были дни Тераха двести пять лет, и умер Терах в Харане.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И были"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дни"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Тераха"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пять"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "лет"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "и двести"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "год"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умер"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Терах"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "в Харане"
+    }
+  ],
+  "timestamp": "2026-08-02T19:08:38.941533644Z",
+  "model": "glm-4.5"
+}

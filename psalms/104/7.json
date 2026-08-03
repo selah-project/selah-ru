@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 104,
+  "translation": "От твоего укора они бегут, от голоса грома твоего они спе́шат",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "От"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "твоего укора"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "они бегут"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "קול",
+      "gloss": "голоса"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "грома твоего"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "они спе́шат"
+    }
+  ],
+  "timestamp": "2026-08-03T08:33:25.971474994Z",
+  "model": "glm-4.5"
+}

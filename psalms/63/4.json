@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 63,
+  "translation": "Ибо хесед Твой лучше жизни, ⟨мои⟩ губы ⟨будут⟩ восхвалять Тебя",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "лучше"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хесед Твой"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "жизни"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "губы"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "восхвалять Тебя"
+    }
+  ],
+  "timestamp": "2026-08-03T07:40:51.515007218Z",
+  "model": "glm-4.5"
+}

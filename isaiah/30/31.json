@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Ибо ⟨от⟩ голоса ЯХВЕ смирится Ашшур, ⟨которым⟩ бил ⟨он⟩ жезлом,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "⟨от⟩ голоса"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "смирится"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшур"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "⟨которым⟩ бил ⟨он⟩ жезлом"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "бил"
+    }
+  ],
+  "timestamp": "2026-08-03T02:15:14.395039681Z",
+  "model": "glm-4.5"
+}

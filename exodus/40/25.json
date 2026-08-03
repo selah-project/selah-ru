@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "И возжёг ⟨он⟩ лампады пред лицом ЯХВЕ, как ⟨את⟩ повелел ЯХВЕ ⟨את⟩ Моше",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "И возжёг"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "лампады"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред лицом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "повелел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨את⟩ Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-08-02T20:39:19.798488736Z",
+  "model": "glm-4.5"
+}

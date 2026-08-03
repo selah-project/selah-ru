@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 103,
+  "translation": "Ибо Он знает ⟨наше⟩ создание; помнит, что мы ⟨есть⟩ прах",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Он"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знает"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "создание"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "помнит"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "прах"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "мы"
+    }
+  ],
+  "timestamp": "2026-08-03T08:31:39.747724992Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 39,
+  "ref": "1-chronicles 4:39",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И пошли они ко входу в Гедор, до востока ⟨the⟩ долины, искать пастбище для ⟨их⟩ стад",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "и пошли они"
+    },
+    {
+      "surface": "למבוא",
+      "gloss": "ко входу"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "Гедор"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "востока"
+    },
+    {
+      "surface": "הגיא",
+      "gloss": "⟨the⟩ долины"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "искать"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "пастбище"
+    },
+    {
+      "surface": "לצאנם",
+      "gloss": "для ⟨их⟩ стад"
+    }
+  ],
+  "timestamp": "2026-08-03T12:41:11.763476365Z",
+  "model": "glm-4.5"
+}

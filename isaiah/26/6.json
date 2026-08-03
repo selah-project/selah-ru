@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Топчет ⟨её⟩ нога, ступни бедняка, шаги нуждающихся",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "Топчет"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "нога"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ступни"
+    },
+    {
+      "surface": "עני",
+      "gloss": "бедняка"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "шаги"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "нуждающихся"
+    }
+  ],
+  "timestamp": "2026-08-03T02:09:48.727565677Z",
+  "model": "glm-4.5"
+}

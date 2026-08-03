@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "и ходили они ⟨от⟩ народа ⟨к⟩ народу и ⟨от⟩ царства ⟨к⟩ другому народу",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "и ходили они"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "⟨от⟩ народа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "народу"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "и ⟨от⟩ царства"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "другому народу"
+    },
+    {
+      "surface": "אחר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T13:00:28.568244628Z",
+  "model": "glm-4.5"
+}

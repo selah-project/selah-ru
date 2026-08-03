@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 71,
+  "translation": "Как чудо я ⟨был⟩ для многих, а Ты — убежище ⟨моё⟩, сила.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "как чудо"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "я ⟨был⟩"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "для многих"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "а Ты"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "убежище ⟨моё⟩"
+    },
+    {
+      "surface": "עז",
+      "gloss": "сила"
+    }
+  ],
+  "timestamp": "2026-08-03T07:51:25.720356191Z",
+  "model": "glm-4.5"
+}

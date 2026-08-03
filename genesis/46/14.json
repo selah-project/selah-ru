@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "genesis 46:14",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 46,
+  "translation": "И сыновья Завулона: Серед и Элон и Яхлеэл.",
+  "tokens": [
+    {
+      "surface": "וּבְנֵי",
+      "gloss": "И сыновья"
+    },
+    {
+      "surface": "זְבוּלֻן",
+      "gloss": "Завулона"
+    },
+    {
+      "surface": "סֶרֶד",
+      "gloss": "Серед"
+    },
+    {
+      "surface": "וְאֵלוֹן",
+      "gloss": "и Элон"
+    },
+    {
+      "surface": "וְיַחְלְאֵל",
+      "gloss": "и Яхлеэл"
+    }
+  ],
+  "timestamp": "2026-08-02T19:50:52.752986542Z",
+  "model": "glm-4.5"
+}

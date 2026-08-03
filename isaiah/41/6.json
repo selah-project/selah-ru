@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 41,
+  "translation": "Каждый помогал ⟨את⟩ своему ближнему, и каждому ⟨ brother ⟩ своему он говорил: крепись.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "каждый"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "своему ближнему"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "своему ближнему"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "помогал"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "и каждому ⟨ brother ⟩ своему"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "он говорил"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "крепись"
+    }
+  ],
+  "timestamp": "2026-08-03T02:27:34.902438124Z",
+  "model": "glm-4.5"
+}

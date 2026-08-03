@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "lamentations 5:21",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Возврати нас к Себе, ЯХВЕ, и мы обратимся; обнови дни наши, как ⟨в⟩ древности",
+  "tokens": [
+    {
+      "surface": "השיבנו",
+      "gloss": "возврати нас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "к Себе"
+    },
+    {
+      "surface": "ונשוב",
+      "gloss": "и мы обратимся"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "обнови"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "дни наши"
+    },
+    {
+      "surface": "כקדם",
+      "gloss": "как ⟨в⟩ древности"
+    }
+  ],
+  "timestamp": "2026-08-03T11:14:52.205626489Z",
+  "model": "glm-4.5"
+}

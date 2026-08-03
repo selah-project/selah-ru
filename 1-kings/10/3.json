@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И Шеломо рассказал ей ⟨את⟩ все её вопросы; не было ⟨ничего⟩ сокрытого от царя, чего он не открыл ей",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "И рассказал"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ей"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "все её вопросы"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "её вопросы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не было"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨было⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ничего"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "сокрытого"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "чего"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "открыл"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ей"
+    }
+  ],
+  "timestamp": "2026-08-03T00:36:39.166959982Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "его голени — из железа, ⟨части⟩ его ног — из железа, и ⟨части⟩ — из глины",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "его голени"
+    },
+    {
+      "surface": "די",
+      "gloss": ""
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "из железа"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "его ног"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "⟨части⟩"
+    },
+    {
+      "surface": "די",
+      "gloss": ""
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "из железа"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "и ⟨части⟩"
+    },
+    {
+      "surface": "די",
+      "gloss": ""
+    },
+    {
+      "surface": "חסף",
+      "gloss": "из глины"
+    }
+  ],
+  "timestamp": "2026-08-03T11:40:08.102995278Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Мы подали руку Египту и Ашшуру, ⟨чтобы⟩ быть сытым хлебом",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Египту"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "Мы подали"
+    },
+    {
+      "surface": "יד",
+      "gloss": "руку"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "и Ашшуру"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "⟨чтобы⟩ быть сытым"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлебом"
+    }
+  ],
+  "timestamp": "2026-08-03T11:14:26.138759039Z",
+  "model": "glm-4.5"
+}

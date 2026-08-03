@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "1-chronicles 6:27",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "сын Эйтана, сын Зиммы, сына Шимей;",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "Эйтана"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "Зиммы"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шимей"
+    }
+  ],
+  "timestamp": "2026-08-03T12:44:29.807786562Z",
+  "model": "glm-4.5"
+}

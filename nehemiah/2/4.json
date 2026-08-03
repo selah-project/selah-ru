@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "nehemiah 2:4",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И сказал мне царь: «О чём ты просишь?» И я помолился Элохим небес",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "על",
+      "gloss": "о"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чём"
+    },
+    {
+      "surface": "זה",
+      "gloss": ""
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "просишь"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "и я помолился"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небес"
+    }
+  ],
+  "timestamp": "2026-08-03T12:14:25.132259412Z",
+  "model": "glm-4.5"
+}

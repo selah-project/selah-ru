@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Разве я — море, или танин, что ⟨ты⟩ поставил ⟨надо⟩ мной стражу?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "море"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "אם",
+      "gloss": "или"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "танин"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "поставил"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "надо мной"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "стражу"
+    }
+  ],
+  "timestamp": "2026-08-03T10:15:48.276995393Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 86,
+  "translation": "Ибо Ты велик и творишь ⟨чудеса⟩, Ты, Элохим, ⟨един⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "и творишь"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "⟨чудеса⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "⟨един⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T08:12:01.444593976Z",
+  "model": "glm-4.5"
+}

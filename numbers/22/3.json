@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "numbers 22:3",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И Моав очень боялся ⟨этого⟩ народа, ибо ⟨он⟩ был велик, и Моав страдал от сыновей Исраэля",
+  "tokens": [
+    {
+      "surface": "ויגר",
+      "gloss": "И боялся"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "от"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨этого⟩ народа",
+      "marks": "⟨этого⟩ народа"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "очень"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "רב",
+      "gloss": "был велик"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩",
+      "marks": "⟨он⟩"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "и страдал"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "от"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраэля"
+    }
+  ],
+  "timestamp": "2026-08-02T21:34:41.485496667Z",
+  "model": "glm-4.5"
+}

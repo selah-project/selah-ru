@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 49,
+  "ref": "1-chronicles 2:49",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Родила Шааф, отец Мадманны, ⟨את⟩ Шева, отца Макбены, и отца Гивы, а дочь Калеба — Ахса.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "родила"
+    },
+    {
+      "surface": "שעף",
+      "gloss": "Шааф"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отец"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "Мадманны"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шева"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отца"
+    },
+    {
+      "surface": "מכבנה",
+      "gloss": "Макбены"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "и отца"
+    },
+    {
+      "surface": "גבעא",
+      "gloss": "Гивы"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "а дочь"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калеба"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Ахса"
+    }
+  ],
+  "timestamp": "2026-08-03T12:38:45.497754258Z",
+  "model": "glm-4.5"
+}

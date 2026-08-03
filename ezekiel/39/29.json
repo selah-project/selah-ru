@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "ezekiel 39:29",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 39,
+  "translation": "И не скрою больше лица ⟨моего⟩ от них, когда я излил ⟨את⟩ Руах мою на дом Исраэля, — слово Адоная ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И не"
+    },
+    {
+      "surface": "אסתיר",
+      "gloss": "скрою"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "больше"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лица"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "от них"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "когда"
+    },
+    {
+      "surface": "שפכתי",
+      "gloss": "я излил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Руах мою"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "Руах мою"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраэля"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адоная"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T05:05:39.745564727Z",
+  "model": "glm-4.5"
+}

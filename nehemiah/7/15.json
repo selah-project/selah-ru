@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "nehemiah 7:15",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Сыновья Биннуя, шестьсот сорок и ⟨восемь⟩",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "Биннуя"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шестьсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сот"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "сорок"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "⟨восемь⟩",
+      "marks": "шестьсот сорок и восемь"
+    }
+  ],
+  "timestamp": "2026-08-03T12:22:01.817950601Z",
+  "model": "glm-4.5"
+}

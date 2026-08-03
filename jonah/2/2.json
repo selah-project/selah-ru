@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И молился Йона ЯХВЕ Элохим своему из чрева рыбы ⟨הדגה⟩",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "и молился"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Йона"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": ""
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Элохим своему"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "из чрева"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "рыбы ⟨הדגה⟩",
+      "marks": "рыбы"
+    }
+  ],
+  "timestamp": "2026-08-03T05:45:15.174437584Z",
+  "model": "glm-4.5"
+}

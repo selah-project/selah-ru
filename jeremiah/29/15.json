@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "Потому что вы сказали: ЯХВЕ воздвиг нам ⟨пророков⟩ в Вавилоне.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Потому что"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "вы сказали"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "воздвиг"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "⟨пророков⟩"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "в Вавилоне"
+    }
+  ],
+  "timestamp": "2026-08-03T03:39:04.154287089Z",
+  "model": "glm-4.5"
+}

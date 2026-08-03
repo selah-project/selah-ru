@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 50,
+  "translation": "Из Сиона, ⟨совершенства⟩ красоты, воссиял Элохим.",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "Из Сиона"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "⟨совершенства⟩"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "красоты"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "воссиял"
+    }
+  ],
+  "timestamp": "2026-08-03T07:28:17.987457207Z",
+  "model": "glm-4.5"
+}

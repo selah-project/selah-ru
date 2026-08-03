@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 48,
+  "ref": "1-kings 22:48",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И не было царя в Эдоме: наместник ⟨был⟩ царем.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "и не было"
+    },
+    {
+      "surface": "אין",
+      "gloss": "не"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "в Эдоме"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "поставлен"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    }
+  ],
+  "timestamp": "2026-08-03T01:01:48.481820088Z",
+  "model": "glm-4.5"
+}

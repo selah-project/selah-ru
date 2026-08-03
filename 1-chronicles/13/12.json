@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И испугался Давид ⟨את⟩ Элохима в тот день, говоря: как принесу я ⟨את⟩ ковчег Эlohима к себе?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "и испугался"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эlohима"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Эlohима"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в тот день"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "היך",
+      "gloss": "как"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "принесу я"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "к себе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ковчег Эlohима"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Эlohима"
+    }
+  ],
+  "timestamp": "2026-08-03T12:56:57.612096045Z",
+  "model": "glm-4.5"
+}

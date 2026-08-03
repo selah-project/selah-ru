@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "и хомяк, и хамелеон, и ящерица, и ящерка, и сцинк",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "и хомяк"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "и хамелеон"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "и ящерица"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "и ящерка"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "и сцинк"
+    }
+  ],
+  "timestamp": "2026-08-02T20:50:14.710710977Z",
+  "model": "glm-4.5"
+}

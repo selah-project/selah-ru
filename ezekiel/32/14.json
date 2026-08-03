@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "ezekiel 32:14",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "Тогда Я успокою ⟨их⟩ воды и реки их, как масло, поведу, — слово Адонай ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тогда"
+    },
+    {
+      "surface": "אשקיע",
+      "gloss": "успокою"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "⟨их⟩ воды"
+    },
+    {
+      "surface": "ונהרותם",
+      "gloss": "и реки их"
+    },
+    {
+      "surface": "כשמן",
+      "gloss": "как масло"
+    },
+    {
+      "surface": "אוליך",
+      "gloss": "поведу"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T04:55:47.930764557Z",
+  "model": "glm-4.5"
+}

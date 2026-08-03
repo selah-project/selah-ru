@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "deuteronomy 4:16",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "чтобы вы не развратились и не сделали себе истукана, подобие любого образа, форму самца или самки,",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "чтобы"
+    },
+    {
+      "surface": "תשחתון",
+      "gloss": "вы не развратились"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "и не сделали"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "себе"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "истукана"
+    },
+    {
+      "surface": "תמונת",
+      "gloss": "подобие"
+    },
+    {
+      "surface": "כל",
+      "gloss": "любого"
+    },
+    {
+      "surface": "סמל",
+      "gloss": "образа"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "форму"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "самца"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "самки"
+    }
+  ],
+  "timestamp": "2026-08-02T21:54:49.114259605Z",
+  "model": "glm-4.5"
+}

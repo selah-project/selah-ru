@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "numbers 22:13",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И встал Билам утром и сказал князьям Валака: идите в вашу землю, ибо ЯХВЕ отказал ⟨ мне⟩ пойти с вами",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "и встал"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билам"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "утром"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "князьям"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Валака"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "идите"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "вашу землю"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "отказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לתתי",
+      "gloss": "⟨мне⟩"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "пойти"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "с вами"
+    }
+  ],
+  "timestamp": "2026-08-02T21:34:59.725393789Z",
+  "model": "glm-4.5"
+}

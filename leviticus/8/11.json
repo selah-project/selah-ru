@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "и он окропил ⟨им⟩ на алтарь семь раз, и помазал ⟨את⟩ алтарь и ⟨את⟩ все его utensils, и ⟨את⟩ умывальницу и ⟨את⟩ подножие ⟨её⟩, чтобы освятить их.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "и он окропил"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "⟨им⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "алтарь"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семь"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "раз"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "и помазал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "алтарь"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "алтарь"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "все"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "его utensils"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "умывальницу"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "умывальницу"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "подножие"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "подножие ⟨её⟩"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "чтобы освятить их"
+    }
+  ],
+  "timestamp": "2026-08-02T20:47:12.549466062Z",
+  "model": "glm-4.5"
+}

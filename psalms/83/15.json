@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 83,
+  "translation": "Как огонь сожжёт лес и как пламя воспламенит горы",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "как огонь"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "сожжёт"
+    },
+    {
+      "surface": "יער",
+      "gloss": "лес"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "и как пламя"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "воспламенит"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "горы"
+    }
+  ],
+  "timestamp": "2026-08-03T08:09:11.839383409Z",
+  "model": "glm-4.5"
+}

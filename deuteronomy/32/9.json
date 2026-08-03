@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "Ибо доля ЯХВЕ — ⟨Его⟩ народ, Яаков — мера ⟨Его⟩ наследия.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "доля"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨Его⟩ народ",
+      "marks": "Его народ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "мера"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "⟨Его⟩ наследия",
+      "marks": "Его наследия"
+    }
+  ],
+  "timestamp": "2026-08-02T22:22:27.412359683Z",
+  "model": "glm-4.5"
+}

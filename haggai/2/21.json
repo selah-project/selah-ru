@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Скажи Зеруббавелю, правителю Иудеи, говоря: Я потрясаю ⟨את⟩ небеса и ⟨את⟩ землю",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Скажи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Зеруббавелю"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "правителю"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иудеи"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "потрясаю"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "небеса"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    }
+  ],
+  "timestamp": "2026-08-03T06:07:46.913548873Z",
+  "model": "glm-4.5"
+}

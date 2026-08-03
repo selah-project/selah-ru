@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "proverbs 15:31",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "Ухо, слушающее обличение жизни, пребудет среди мудрых.",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "ухо"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "слушающее"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "обличение"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "жизни"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "среди"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудрых"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "пребудет"
+    }
+  ],
+  "timestamp": "2026-08-03T09:39:56.943647667Z",
+  "model": "glm-4.5"
+}

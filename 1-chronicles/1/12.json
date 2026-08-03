@@ -1,0 +1,56 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "и ⟨את⟩ Патрусим, и ⟨את⟩ Каслухим, от которых вышли ⟨פלשתים⟩, и ⟨את⟩ Кафторим",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Патрусим"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Патрусим"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Каслухим"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Каслухим"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "от которых"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "вышли"
+    },
+    {
+      "surface": "משם",
+      "gloss": ""
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "⟨פלשתים⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Кафторим"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Кафторим"
+    }
+  ],
+  "timestamp": "2026-08-03T12:35:48.327882364Z",
+  "model": "glm-4.5"
+}

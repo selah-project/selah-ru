@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 132:18",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 132,
+  "translation": "Врагов его облеку в позор, а на нём — ⟨цветёт⟩ венец ⟨его⟩.",
+  "tokens": [
+    {
+      "surface": "אויביו",
+      "gloss": "Врагов его"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "облеку"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "в позор"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "а на нём"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "⟨цветёт⟩"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "венец ⟨его⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T09:03:45.083161640Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "genesis 49:19",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 49,
+  "translation": "Гад — толпа ⟨שֶׁ⟩ теснит его, но он ⟨שֶׁ⟩ теснит ⟨по⟩ пятам.",
+  "tokens": [
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "толпа"
+    },
+    {
+      "surface": "יגודנו",
+      "gloss": "⟨שֶׁ⟩ теснит его",
+      "marks": "толпа"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "но он"
+    },
+    {
+      "surface": "יגד",
+      "gloss": "⟨שֶׁ⟩ теснит",
+      "marks": "по пятам"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "по пятам"
+    }
+  ],
+  "timestamp": "2026-08-02T19:53:57.695879770Z",
+  "model": "glm-4.5"
+}

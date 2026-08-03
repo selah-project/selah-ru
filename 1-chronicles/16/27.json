@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "1-chronicles 16:27",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Слава и величие ⟨находятся⟩ перед Ним; могущество и радость ⟨в⟩ месте Его.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Слава"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "и величие"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "перед Ним"
+    },
+    {
+      "surface": "עז",
+      "gloss": "могущество"
+    },
+    {
+      "surface": "וחדוה",
+      "gloss": "и радость"
+    },
+    {
+      "surface": "במקמו",
+      "gloss": "⟨в⟩ месте Его"
+    }
+  ],
+  "timestamp": "2026-08-03T13:00:24.875183453Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Начало мудрости — страх ЯХВЕ, и знание святых — разум.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "Начало"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрости"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "страх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "и знание"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "святых"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "разум"
+    }
+  ],
+  "timestamp": "2026-08-03T09:31:53.723531703Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Разрушен город пустоты, ⟨את⟩ всякий дом закрыт от входа.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "разрушен"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "город"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "пустоты"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "закрыт"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨את⟩",
+      "marks": "всякий"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "от входа"
+    }
+  ],
+  "timestamp": "2026-08-03T02:08:17.758112199Z",
+  "model": "glm-4.5"
+}

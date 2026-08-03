@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "ecclesiastes 7:29",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Смотри, только это нашёл я: что сделал Элохим ⟨את⟩ человека прямым, а они искали многих вымыслов",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "только"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "смотри"
+    },
+    {
+      "surface": "זה",
+      "gloss": "это"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "нашёл я"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "человека"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "прямым"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "а они"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "искали"
+    },
+    {
+      "surface": "חשבנות",
+      "gloss": "вымыслов"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многих"
+    }
+  ],
+  "timestamp": "2026-08-03T11:22:12.193533566Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Моё ⟨защита⟩ — у Элохима, ⟨Который⟩ спасает ⟨прямых⟩ сердцем",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "Моё ⟨защита⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "у"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохима"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "⟨Который⟩ спасает"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "⟨прямых⟩"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сердцем"
+    }
+  ],
+  "timestamp": "2026-08-03T06:37:09.107406117Z",
+  "model": "glm-4.5"
+}

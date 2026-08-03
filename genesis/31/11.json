@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "genesis 31:11",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "И сказал мне посланник Элохима во сне: Яаков! И ⟨я⟩ сказал: вот ⟨я⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "посланник"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Эlohima",
+      "marks": "посланника"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "во сне"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков!"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и ⟨я⟩ сказал"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "вот ⟨я⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T19:32:10.594769913Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "joshua 13:19",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "и Кириатаим, и Сивма, и Церет-ха-Шахар ⟨в⟩ горе ⟨долины⟩",
+  "tokens": [
+    {
+      "surface": "וקריתים",
+      "gloss": "и Кириатаим"
+    },
+    {
+      "surface": "ושבמה",
+      "gloss": "и Сивма"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "и Церет-ха-Шахар"
+    },
+    {
+      "surface": "השחר",
+      "gloss": ""
+    },
+    {
+      "surface": "בהר",
+      "gloss": "⟨в⟩ горе"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "⟨долины⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T22:37:07.518585949Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Я воззвал к имени Твоему, ЯХВЕ, из ямы самой глубокой.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "Я воззвал"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "к имени Твоему"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "из ямы"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "самой глубокой"
+    }
+  ],
+  "timestamp": "2026-08-03T11:12:52.171667950Z",
+  "model": "glm-4.5"
+}

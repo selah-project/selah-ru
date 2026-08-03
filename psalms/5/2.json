@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Внемли словам моим, ЯХВЕ, вникни в ⟨моё⟩ роптание",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "словам моим"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "внемли"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "вникни"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "роптание"
+    }
+  ],
+  "timestamp": "2026-08-03T06:35:35.288265489Z",
+  "model": "glm-4.5"
+}

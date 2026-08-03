@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "И сказал ЯХВЕ Моше: ⟨я⟩ видел ⟨את⟩ ⟨этот⟩ народ, и вот, ⟨это⟩ народ жесткошеий, ⟨он⟩",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "⟨я⟩ видел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨этот⟩ народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨этот⟩ народ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨этот⟩"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "жесткошеий"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "шея"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T20:29:58.475706793Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Вот шесть, что ненавидит ЯХВЕ, и семь — мерзости ⟨для⟩ души Его",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "шесть"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ненавидит"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "и семь"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "мерзости"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "души Его"
+    }
+  ],
+  "timestamp": "2026-08-03T09:27:04.030419601Z",
+  "model": "glm-4.5"
+}

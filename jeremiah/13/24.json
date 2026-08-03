@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "jeremiah 13:24",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И рассею их, как солому, уносимую ⟨ветром⟩ пустыни.",
+  "tokens": [
+    {
+      "surface": "ואפיצם",
+      "gloss": "И рассею их"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "как солому"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "уносимую"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "⟨ветром⟩",
+      "marks": "ветром"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "пустыни"
+    }
+  ],
+  "timestamp": "2026-08-03T03:14:30.681025727Z",
+  "model": "glm-4.5"
+}

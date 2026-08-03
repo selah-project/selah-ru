@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Цидоняне называют ⟨её⟩ Сирионом, а Эморей называют ⟨его⟩ Сениром",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "Цидоняне"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "называют"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "⟨её⟩",
+      "marks": "Сирионом"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "Сирионом"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "а Эморей"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "называют"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨его⟩",
+      "marks": "Сениром"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "Сениром"
+    }
+  ],
+  "timestamp": "2026-08-02T21:53:14.067194781Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "1-chronicles 6:14",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Сыновья Мрари: Махли, Ливни — ⟨его⟩ сын, Шими — ⟨его⟩ сын, Уцца — ⟨его⟩ сын.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мрари"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Махли"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Ливни"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "сын"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шими"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "сын"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Уцца"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "сын"
+    }
+  ],
+  "timestamp": "2026-08-03T12:44:37.074809093Z",
+  "model": "glm-4.5"
+}

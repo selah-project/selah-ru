@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "proverbs 15:18",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "Человек вспыльчивый возбуждает раздор, ⟨а⟩ долготерпивый утишает ссору.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "человек"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "вспыльчивый"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "возбуждает"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "раздор"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "и"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "долготерпивый"
+    },
+    {
+      "surface": "ישקיט",
+      "gloss": "утишает"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ссору"
+    }
+  ],
+  "timestamp": "2026-08-03T09:39:40.356909803Z",
+  "model": "glm-4.5"
+}

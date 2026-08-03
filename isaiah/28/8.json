@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Ибо все столы полны рвоты и нечистоты, ⟨без⟩ ⟨чистого⟩ места.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "столы"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "полны"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "рвоты"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "нечистоты"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "места",
+      "marks": "чистого места"
+    }
+  ],
+  "timestamp": "2026-08-03T02:12:07.214554268Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "isaiah 8:22",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "и⟨к⟩земле вглядится, и вот: теснота, и мрак, и тьма угнетения, мрак беженца.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "и⟨к⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земле"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "вглядится"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "теснота"
+    },
+    {
+      "surface": "וחשכה",
+      "gloss": "и мрак"
+    },
+    {
+      "surface": "מעוף",
+      "gloss": "и тьма"
+    },
+    {
+      "surface": "צוקה",
+      "gloss": "угнетения"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "мрак"
+    },
+    {
+      "surface": "מנדח",
+      "gloss": "беженца"
+    }
+  ],
+  "timestamp": "2026-08-03T01:52:26.935265386Z",
+  "model": "glm-4.5"
+}

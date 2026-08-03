@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "И встал Давид, и перешёл он, и ⟨шесть⟩ сотен человек, которые ⟨с⟩ ним, к Акишу, сыну Маоха, царю Гата",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "и встал"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "и перешёл"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "и ⟨шесть⟩"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотен"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человек"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨с⟩ ним",
+      "marks": "с людьми"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Акишу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сыну"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "Маоха"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Гата"
+    }
+  ],
+  "timestamp": "2026-08-02T23:43:58.361354441Z",
+  "model": "glm-4.5"
+}

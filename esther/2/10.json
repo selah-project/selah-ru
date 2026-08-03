@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Эсфирь не ⟨את⟩народ свой и ⟨את⟩родство своё, потому что Мардохей повелел ей, чтобы она не объявила",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "объявила"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Эсфирь"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "свой"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "родство"
+    },
+    {
+      "surface": "כי",
+      "gloss": "потому что"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мардохей"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "повелел"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ей"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "чтобы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "объявила"
+    }
+  ],
+  "timestamp": "2026-08-03T11:29:22.985714782Z",
+  "model": "glm-4.5"
+}

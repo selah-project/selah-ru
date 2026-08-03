@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "genesis 21:31",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Поэтому он назвал то место Беэр-Шева, потому что там оба поклялись.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "поэтому"
+    },
+    {
+      "surface": "כן",
+      "gloss": "—"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "назвал"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "то"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беэр"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "כי",
+      "gloss": "потому что"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "поклялись"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "оба"
+    }
+  ],
+  "timestamp": "2026-08-02T19:18:26.113266091Z",
+  "model": "glm-4.5"
+}

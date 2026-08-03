@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "Давиду. Не разжигай ⟨себя⟩ из-за злодеев, не завидуй делающим ⟨ Aven ⟩.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Давиду"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "разжигай"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "из-за злодеев"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "завидуй"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "делающим"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "Aven"
+    }
+  ],
+  "timestamp": "2026-08-03T07:15:54.601161148Z",
+  "model": "glm-4.5"
+}

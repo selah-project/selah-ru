@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Все отвратились, вместе они осквернились: нет делающего добро, нет даже ⟨одного⟩.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Все"
+    },
+    {
+      "surface": "סר",
+      "gloss": "отвратились"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "вместе"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "осквернились"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "делающего"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "גם",
+      "gloss": "даже"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одного"
+    }
+  ],
+  "timestamp": "2026-08-03T06:44:02.162795030Z",
+  "model": "glm-4.5"
+}

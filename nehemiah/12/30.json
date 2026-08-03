@@ -1,0 +1,56 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И очистились коhены и левиты, и очистили ⟨את⟩ народ, и ⟨את⟩ ворота, и ⟨את⟩ стену",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "и очистились"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "коhены"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "и левиты"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "и очистили"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ворота"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ворота"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "стену"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "стену"
+    }
+  ],
+  "timestamp": "2026-08-03T12:31:24.925393161Z",
+  "model": "glm-4.5"
+}

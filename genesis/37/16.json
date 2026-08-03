@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "И ⟨את⟩ братьев ⟨я⟩ ищу: поведай мне, ⟨прошу⟩, где ⟨они⟩ пасут ⟨стада⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и ⟨сказал⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "братьев"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "братьев"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨я⟩"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ищу"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "поведай"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨прошу⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "где"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨они⟩"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "пасут ⟨стада⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T19:39:38.308146083Z",
+  "model": "glm-4.5"
+}

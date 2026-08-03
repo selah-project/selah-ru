@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "proverbs 21:31",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Конь готов ⟨к⟩ дню битвы, а ⟨у⟩ ЯХВЕ ⟨спасение⟩",
+  "tokens": [
+    {
+      "surface": "סוס",
+      "gloss": "Конь"
+    },
+    {
+      "surface": "מוכן",
+      "gloss": "готов"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "⟨к⟩ дню"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "битвы"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "а ⟨у⟩ ЯХВЕ"
+    },
+    {
+      "surface": "התשועה",
+      "gloss": "⟨спасение⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T09:48:58.192277944Z",
+  "model": "glm-4.5"
+}

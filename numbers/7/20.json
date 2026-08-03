@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "numbers 7:20",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "одно золотое блюдо в десять сиклей, полное курения:",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "блюдо"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "одно"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десять"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золотое"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "полное"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "курения"
+    }
+  ],
+  "timestamp": "2026-08-02T21:17:54.996472595Z",
+  "model": "glm-4.5"
+}

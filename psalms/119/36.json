@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Склони сердце моё к свидетельствам Твоим, а не ⟨к⟩ корысти",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "Склони"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "сердце моё"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "свидетельствам Твоим"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "а не"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩",
+      "marks": "корысти"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "корысти"
+    }
+  ],
+  "timestamp": "2026-08-03T08:50:35.708793462Z",
+  "model": "glm-4.5"
+}

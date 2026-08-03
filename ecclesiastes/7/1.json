@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Хорошо имя, ⟨чем⟩ благовонное масло, и день смерти ⟨чем⟩ день рождения ⟨его⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Хорошо"
+    },
+    {
+      "surface": "שם",
+      "gloss": "имя"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "⟨чем⟩ благовонное масло"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "хорошо"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "и день"
+    },
+    {
+      "surface": "המות",
+      "gloss": "смерти"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "⟨чем⟩ день"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "рождения ⟨его⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T11:21:40.226046712Z",
+  "model": "glm-4.5"
+}

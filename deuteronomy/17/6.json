@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "deuteronomy 17:6",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "по словам двух свидетелей или трёх свидетелей умереть ⟨должен⟩ умерший; не умереть по слова одного свидетеля",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "פי",
+      "gloss": "словам"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "двух"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "свидетелей"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "трёх"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "свидетелей"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "умереть"
+    },
+    {
+      "surface": "המת",
+      "gloss": "⟨должен⟩ умерший"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "умереть"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "פי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "עד",
+      "gloss": "одного свидетеля"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одного"
+    }
+  ],
+  "timestamp": "2026-08-02T22:08:23.289233601Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "job 15:10",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "С нами ⟨и⟩ седой ⟨и⟩ очень старый, старше отца твоего днями.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "שב",
+      "gloss": "седой"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "очень старый"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "с нами"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "старше"
+    },
+    {
+      "surface": "מאביך",
+      "gloss": "отца твоего"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "днями"
+    }
+  ],
+  "timestamp": "2026-08-03T10:22:39.387557750Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "А Сараи была неплодна, ⟨не было⟩ у неё ребёнка.",
+  "tokens": [
+    {
+      "surface": "וַתְּהִי",
+      "gloss": "А ⟨была⟩"
+    },
+    {
+      "surface": "שָׂרַי",
+      "gloss": "Сараи"
+    },
+    {
+      "surface": "עֲקָרָה",
+      "gloss": "неплодна"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "⟨не было⟩"
+    },
+    {
+      "surface": "לָהּ",
+      "gloss": "у неё"
+    },
+    {
+      "surface": "וָלָד",
+      "gloss": "ребёнка"
+    }
+  ],
+  "timestamp": "2026-08-02T19:08:33.452989916Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И вошёл Элиша ⟨в⟩ дом, и вот, отрок мёртв лежащий на постели его",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И вошёл"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Элиша"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "⟨в⟩ дом"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "отрок"
+    },
+    {
+      "surface": "מת",
+      "gloss": "мёртв"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "лежащий"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "постели его"
+    }
+  ],
+  "timestamp": "2026-08-03T01:07:27.138155212Z",
+  "model": "glm-4.5"
+}

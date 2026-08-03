@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И было ⟨эта⟩ ковчег ЯХВЕ в поле Филистимлян ⟨в течение⟩ семи месяцев",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "в поле"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Филистимлян"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "семи"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "месяцев"
+    }
+  ],
+  "timestamp": "2026-08-02T23:17:56.270349978Z",
+  "model": "glm-4.5"
+}

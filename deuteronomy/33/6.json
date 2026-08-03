@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "Да живёт Реувен и не умрёт, и да будут люди его ⟨числом⟩.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "Да живёт"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реувен"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "умрёт"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и да будут"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "люди его"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "⟨числом⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T22:23:47.742219424Z",
+  "model": "glm-4.5"
+}

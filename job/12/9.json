@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Кто не знает во всём этом, что рука ЯХВЕ сделала это?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знает"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "во всём"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "этом"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "יד",
+      "gloss": "рука"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "сделала"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "это"
+    }
+  ],
+  "timestamp": "2026-08-03T10:20:15.741660592Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И было в конце дней, и принёс Каин от плодов ⟨земли⟩ дар ⟨את⟩ ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "в конце"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дней"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и принёс"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Каин"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "от плодов"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "⟨земли⟩"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "дар"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T17:47:32.700169909Z",
+  "model": "glm-4.5"
+}

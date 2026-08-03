@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "job 13:3",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "Но я ⟨буду⟩ говорить к Шаддаю, и ⟨я желаю⟩ спорить с Элохим",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "Но"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шаддаю"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "⟨буду⟩ говорить"
+    },
+    {
+      "surface": "והוכח",
+      "gloss": "и ⟨я желаю⟩ спорить"
+    },
+    {
+      "surface": "אל",
+      "gloss": "с"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אחפץ",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T18:30:25.928680527Z",
+  "model": "glm-4.5"
+}

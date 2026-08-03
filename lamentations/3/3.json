@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Только во мне Он обращает, поворачивает руку Свою ⟨весь⟩ день.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Только"
+    },
+    {
+      "surface": "בי",
+      "gloss": "во мне"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "Он обращает"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "поворачивает"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "руку Свою"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨весь⟩",
+      "marks": "день"
+    },
+    {
+      "surface": "היום",
+      "gloss": "день"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:21.863687492Z",
+  "model": "glm-4.5"
+}

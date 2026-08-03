@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 47,
+  "ref": "1-chronicles 2:47",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И сыновья Йехдая: Регем и Йофам, и Гешан, и Пэлет, и Эйфа, и Шааф.",
+  "tokens": [
+    {
+      "surface": "וּבְנֵי",
+      "gloss": "И сыновья"
+    },
+    {
+      "surface": "יָהְדָּי",
+      "gloss": "Йехдая"
+    },
+    {
+      "surface": "רֶגֶם",
+      "gloss": "Регем"
+    },
+    {
+      "surface": "וְיוֹתָם",
+      "gloss": "и Йофам"
+    },
+    {
+      "surface": "וְגֵישָׁן",
+      "gloss": "и Гешан"
+    },
+    {
+      "surface": "וָפֶלֶט",
+      "gloss": "и Пэлет"
+    },
+    {
+      "surface": "וְעֵיפָה",
+      "gloss": "и Эйфа"
+    },
+    {
+      "surface": "וָשָׁעַף",
+      "gloss": "и Шааф"
+    }
+  ],
+  "timestamp": "2026-08-03T12:38:35.348403410Z",
+  "model": "glm-4.5"
+}

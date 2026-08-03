@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "job 15:11",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "Мало ⟨для тебя⟩ утешений от Эля, и слово мягкое ⟨с тобою⟩?",
+  "tokens": [
+    {
+      "surface": "המעט",
+      "gloss": "Мало"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "⟨для тебя⟩"
+    },
+    {
+      "surface": "תנחמות",
+      "gloss": "утешений"
+    },
+    {
+      "surface": "אל",
+      "gloss": "от Эля"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "и слово"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "мягкое"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "⟨с тобою⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T10:23:05.800596184Z",
+  "model": "glm-4.5"
+}

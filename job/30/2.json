@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "job 30:2",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Даже сила рук их — зачем ⟨есть⟩ ⟨она⟩ мне? На них ‏כָֽלַח‏ погибло.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Даже"
+    },
+    {
+      "surface": "כח",
+      "gloss": "сила"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "рук их"
+    },
+    {
+      "surface": "למה",
+      "gloss": "зачем ⟨есть⟩ ⟨она⟩ мне"
+    },
+    {
+      "surface": "לי",
+      "gloss": ""
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "На них"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "погибло"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "‏כָֽלַח‏"
+    }
+  ],
+  "timestamp": "2026-08-03T10:35:28.108102023Z",
+  "model": "glm-4.5"
+}

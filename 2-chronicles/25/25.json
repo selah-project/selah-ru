@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "2-chronicles 25:25",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "И жил Амцйаху сын Йоаша царь Йегуды ⟨после⟩ смерти Йоаша сына Йегоахаза царя Исраэле ⟨в⟩ пятнадцать лет",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "И жил"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Амцйаху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Йоаша"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йегуды"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "⟨после⟩"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смерти"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Йоаша"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Йегоахаза"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраэле"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пятнадцать"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "⟨лет⟩"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "⟨лет⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T13:59:07.406140335Z",
+  "model": "glm-4.5"
+}

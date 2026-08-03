@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "proverbs 29:24",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "Делящий ⟨с⟩ вором ненавидит свою душу: ⟨он⟩ слышит клятву ⟨и⟩ не разоблачит.",
+  "tokens": [
+    {
+      "surface": "חולק",
+      "gloss": "Делящий"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "вором"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ненавидит"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "свою душу"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "клятву"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "слышит"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "⟨и⟩ не"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "разоблачит"
+    }
+  ],
+  "timestamp": "2026-08-03T10:06:28.429414819Z",
+  "model": "glm-4.5"
+}

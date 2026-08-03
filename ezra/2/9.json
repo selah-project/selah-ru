@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "сыновья Заккая, ⟨с⟩емьсот ⟨и⟩ шестьдесят",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "Заккая"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семьсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотен"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "и шестьдесят"
+    }
+  ],
+  "timestamp": "2026-08-03T11:57:53.503496992Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 57,
+  "translation": "Он войдёт в шалом, они покоятся на ложах своих, ⟨каждый⟩, идущий прямо.",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "войдёт"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "шалом"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "покоятся"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "ложах своих"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "идущий"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "прямо"
+    }
+  ],
+  "timestamp": "2026-08-03T02:46:53.478159011Z",
+  "model": "glm-4.5"
+}

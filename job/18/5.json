@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "job 18:5",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Да, свет wicked не ⟨будет⟩ угас, и ⟨не⟩ засияет ⟨пламя⟩ огня его",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Да"
+    },
+    {
+      "surface": "אור",
+      "gloss": "свет"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wicked"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "не ⟨будет⟩ угас"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и ⟨не⟩"
+    },
+    {
+      "surface": "יגה",
+      "gloss": "засияет"
+    },
+    {
+      "surface": "שביב",
+      "gloss": "⟨пламя⟩"
+    },
+    {
+      "surface": "אשו",
+      "gloss": "огня его"
+    }
+  ],
+  "timestamp": "2026-08-03T10:25:15.906747199Z",
+  "model": "glm-4.5"
+}

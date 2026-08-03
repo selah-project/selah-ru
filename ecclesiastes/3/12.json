@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Я познал, что нет ничего лучшего для ⟨них⟩, как ⟨лишь⟩ радоваться и делать добро в жизни ⟨своей⟩.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "я познал"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ничего лучшего"
+    },
+    {
+      "surface": "בם",
+      "gloss": "для ⟨них⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "как"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨лишь⟩"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "радоваться"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "и делать"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "в жизни ⟨своей⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T11:18:25.179596220Z",
+  "model": "glm-4.5"
+}

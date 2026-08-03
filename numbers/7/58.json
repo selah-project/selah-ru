@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 58,
+  "ref": "numbers 7:58",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "один козёл ⟨из⟩ козлов для грехоочистительной жертвы",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "козёл"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "⟨из⟩ козлов"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "для грехоочистительной жертвы"
+    }
+  ],
+  "timestamp": "2026-08-02T21:18:38.267490957Z",
+  "model": "glm-4.5"
+}

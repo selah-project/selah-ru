@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 115:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 115,
+  "translation": "Рот ⟨есть⟩ у них, и не говорят ⟨они⟩; глаза ⟨есть⟩ у них, и не видят ⟨они⟩:",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "рот"
+    },
+    {
+      "surface": "להם",
+      "gloss": "у них"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "говорят"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "глаза"
+    },
+    {
+      "surface": "להם",
+      "gloss": "у них"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "видят"
+    }
+  ],
+  "timestamp": "2026-08-03T08:45:42.226438939Z",
+  "model": "glm-4.5"
+}

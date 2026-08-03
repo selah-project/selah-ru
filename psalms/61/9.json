@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 61:9",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 61,
+  "translation": "Так я буду петь имя Твоё навечно, исполняя обеты мои день за днём.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Так"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "я буду петь"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "имя Твоё"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "навечно"
+    },
+    {
+      "surface": "לשלמי",
+      "gloss": "исполняя"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "обеты мои"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "יום",
+      "gloss": "за днём"
+    }
+  ],
+  "timestamp": "2026-08-03T07:38:57.112502108Z",
+  "model": "glm-4.5"
+}

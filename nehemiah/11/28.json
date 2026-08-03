@@ -1,0 +1,26 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "nehemiah 11:28",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "и в Циклаге, и в Мехоне и в ⟨его⟩ поселениях",
+  "tokens": [
+    {
+      "surface": "ובצקלג",
+      "gloss": "и в Циклаге"
+    },
+    {
+      "surface": "ובמכנה",
+      "gloss": "и в Мехоне"
+    },
+    {
+      "surface": "ובבנתיה",
+      "gloss": "и в ⟨его⟩ поселениях",
+      "marks": "поселениях"
+    }
+  ],
+  "timestamp": "2026-08-03T12:30:20.089175236Z",
+  "model": "glm-4.5"
+}

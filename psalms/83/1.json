@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 83,
+  "translation": "Песнь, псалом — Асафу.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Песнь"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "псалом"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Асафу"
+    }
+  ],
+  "timestamp": "2026-08-03T08:08:53.509592234Z",
+  "model": "glm-4.5"
+}

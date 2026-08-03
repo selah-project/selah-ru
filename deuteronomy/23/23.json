@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "И когда ты остановишься ⟨анани⟩ взамен, ⟨את⟩ ⟨не⟩ будет в тебе ⟨חטא⟩.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "И когда"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "ты остановишься"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "⟨анани⟩ взамен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "будет"
+    },
+    {
+      "surface": "בך",
+      "gloss": "в тебе"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "⟨חטא⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T22:13:34.072324459Z",
+  "model": "glm-4.5"
+}

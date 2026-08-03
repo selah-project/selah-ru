@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 20:9",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "Кто скажет: «Я очистил ⟨своё⟩ сердце, я чист от ⟨своего⟩ греха»?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кто"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "скажет"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "я очистил"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "⟨своё⟩ сердце"
+    },
+    {
+      "surface": "טהרתי",
+      "gloss": "я чист"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "от ⟨своего⟩ греха"
+    }
+  ],
+  "timestamp": "2026-08-03T09:47:02.358812622Z",
+  "model": "glm-4.5"
+}

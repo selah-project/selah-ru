@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "Ибо искупил ЯХВЕ ⟨את⟩ Яакова и освободил его от руки сильнее него",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "искупил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яакова"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "и освободил его"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "от руки"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "сильнее"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "него"
+    }
+  ],
+  "timestamp": "2026-08-03T03:42:17.823984003Z",
+  "model": "glm-4.5"
+}

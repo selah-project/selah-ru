@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "1-chronicles 4:30",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "и в Бетуэле, и в Орме, и в Циклаге",
+  "tokens": [
+    {
+      "surface": "ובבתואל",
+      "gloss": "и в Бетуэле"
+    },
+    {
+      "surface": "ובחרמה",
+      "gloss": "и в Орме"
+    },
+    {
+      "surface": "ובציקלג",
+      "gloss": "и в Циклаге"
+    }
+  ],
+  "timestamp": "2026-08-03T12:40:55.434092997Z",
+  "model": "glm-4.5"
+}

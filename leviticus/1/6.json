@@ -1,0 +1,39 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "и снимет ⟨את⟩ олу́ и рассечёт ⟨את⟩ её на части её",
+  "tokens": [
+    {
+      "surface": "וְהִפְשִׁיט",
+      "gloss": "и снимет"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "олу́"
+    },
+    {
+      "surface": "הָעֹלָה",
+      "gloss": "олу́"
+    },
+    {
+      "surface": "וְנִתַּח",
+      "gloss": "и рассечёт"
+    },
+    {
+      "surface": "אֹתָהּ",
+      "gloss": "⟨את⟩",
+      "marks": "её"
+    },
+    {
+      "surface": "לִנְתָחֶיהָ",
+      "gloss": "на части её"
+    }
+  ],
+  "timestamp": "2026-08-02T20:40:20.992229733Z",
+  "model": "glm-4.5"
+}

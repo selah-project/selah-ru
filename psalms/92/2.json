@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 92,
+  "translation": "Хорошо славить ЯХВЕ и петь имени Твоему, Эльон,",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Хорошо"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "славить"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "и петь"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "имени Твоему"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Эльон,"
+    }
+  ],
+  "timestamp": "2026-08-03T08:21:16.846514191Z",
+  "model": "glm-4.5"
+}

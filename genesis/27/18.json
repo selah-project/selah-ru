@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "И пришёл он к отцу своему и сказал: отец мой! И он сказал: вот я; кто ⟨ты⟩, сын мой?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И пришёл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "отцу своему"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отец мой"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и он сказал"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "вот я"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ты⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сын мой"
+    }
+  ],
+  "timestamp": "2026-08-02T19:26:35.275265185Z",
+  "model": "glm-4.5"
+}

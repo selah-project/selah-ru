@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "ezekiel 20:29",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И сказал я им: что ⟨есть⟩ высота, куда ⟨вы⟩ приходите ⟨там⟩? И наречено ⟨ей⟩ имя: высота до дня ⟨этого⟩.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "И сказал я"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "высота"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "куда"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вы"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "приходите"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨там⟩"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "И наречено"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "⟨ей⟩ имя"
+    },
+    {
+      "surface": "במה",
+      "gloss": "высота"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дня"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨этого⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T04:40:50.194360550Z",
+  "model": "glm-4.5"
+}

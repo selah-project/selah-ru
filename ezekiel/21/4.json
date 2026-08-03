@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И увидит всякая плоть, что Я — ЯХВЕ, ⟨я⟩ разжёг ⟨её⟩; не ⟨она⟩ угаснет.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "и увидит"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всякая"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "плоть"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "⟨я⟩ разжёг ⟨её⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "⟨она⟩ угаснет"
+    }
+  ],
+  "timestamp": "2026-08-03T04:42:15.826527185Z",
+  "model": "glm-4.5"
+}

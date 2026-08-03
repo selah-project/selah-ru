@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "proverbs 10:11",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Источник жизни — уста праведника, а уста нечестивых ⟨покрывает⟩ насилие.",
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "Источник"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "жизни"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уста"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведника"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "а уста"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивых"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "⟨покрывает⟩"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насилие"
+    }
+  ],
+  "timestamp": "2026-08-03T09:32:19.250014139Z",
+  "model": "glm-4.5"
+}

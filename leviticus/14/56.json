@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 56,
+  "ref": "leviticus 14:56",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "и для припухлости, и для струпа, и для ⟨белого⟩ пятна",
+  "tokens": [
+    {
+      "surface": "ולשאת",
+      "gloss": "и для припухлости"
+    },
+    {
+      "surface": "ולספחת",
+      "gloss": "и для струпа"
+    },
+    {
+      "surface": "ולבהרת",
+      "gloss": "и для ⟨белого⟩ пятна"
+    }
+  ],
+  "timestamp": "2026-08-02T20:54:33.010717452Z",
+  "model": "glm-4.5"
+}

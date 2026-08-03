@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "Не отдавай женщинам силу твою, и пути твои ⟨тем⟩, что губят царей",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "отдавай"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "женщинам"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "силу твою"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "и пути твои"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "⟨тем⟩"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "что губят царей"
+    }
+  ],
+  "timestamp": "2026-08-03T10:08:41.904128484Z",
+  "model": "glm-4.5"
+}

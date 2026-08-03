@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "job 18:21",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Только вот жилища нечестивого, и это место того, кто не познал Эла.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Только"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "жилища"
+    },
+    {
+      "surface": "עול",
+      "gloss": "нечестивого"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "и это"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "познал"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эла"
+    }
+  ],
+  "timestamp": "2026-08-03T10:25:47.206024949Z",
+  "model": "glm-4.5"
+}

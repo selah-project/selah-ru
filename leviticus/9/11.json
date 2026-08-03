@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И ⟨את⟩ мясо и ⟨את⟩ кожу сжёг в огне вне стана",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "мясо"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "мясо"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "кожа"
+    },
+    {
+      "surface": "העור",
+      "gloss": "кожа"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "сжёг"
+    },
+    {
+      "surface": "באש",
+      "gloss": "в огне"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "вне"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "стана"
+    }
+  ],
+  "timestamp": "2026-08-02T20:48:16.357013578Z",
+  "model": "glm-4.5"
+}

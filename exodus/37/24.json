@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "Киккаром чистого золота сделал он ⟨её⟩ и ⟨את⟩ все её утвари",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "Киккаром"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "чистого золота"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чистого"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨её⟩",
+      "marks": "ее (менору)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "все её утвари"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "её утвари"
+    }
+  ],
+  "timestamp": "2026-08-02T20:35:32.493790485Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Плод праведного — дерево жизни, ⟨а⟩ берущий души — мудр.",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "Плод"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведного"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дерево"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "жизни"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "⟨а⟩ берущий"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "души"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудр"
+    }
+  ],
+  "timestamp": "2026-08-03T09:34:32.895936025Z",
+  "model": "glm-4.5"
+}

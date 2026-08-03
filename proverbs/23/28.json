@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "proverbs 23:28",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Она ⟨же⟩, как засада, ⟨в⟩ засаде ⟨и⟩ вероломных среди людей умножает.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "даже"
+    },
+    {
+      "surface": "היא",
+      "gloss": "она"
+    },
+    {
+      "surface": "כחתף",
+      "gloss": "как засада"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "в засаде"
+    },
+    {
+      "surface": "ובוגדים",
+      "gloss": "и вероломных"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "среди людей"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "умножает"
+    }
+  ],
+  "timestamp": "2026-08-03T18:27:30.964794573Z",
+  "model": "glm-4.5"
+}

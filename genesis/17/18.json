@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "genesis 17:18",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И сказал Авраам Элохим: oh, чтобы Исмаил жил пред Тобою!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "לו",
+      "gloss": "oh, чтобы"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Исмаил"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "жил"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "пред Тобою"
+    }
+  ],
+  "timestamp": "2026-08-02T19:14:15.450100156Z",
+  "model": "glm-4.5"
+}

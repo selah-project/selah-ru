@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Я прославлю ЯХВЕ по праведности Его и воспою ⟨את⟩ Имя ЯХВЕ Эльон",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Я прославлю"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "по праведности Его"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "и воспою"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Имя"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Имя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Эльон"
+    }
+  ],
+  "timestamp": "2026-08-03T06:37:38.531232951Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "jeremiah 46:1",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 46,
+  "translation": "Слово, которое было к Ирмеяху ⟨пророку⟩ от ЯХВЕ о ⟨го́ях⟩",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "היה",
+      "gloss": "было"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "от ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмеяху"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "⟨пророку⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "о"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "⟨го́ях⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T04:05:01.725316686Z",
+  "model": "glm-4.5"
+}

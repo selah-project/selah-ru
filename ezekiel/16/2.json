@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Сын человека, дай знать ⟨את⟩ Иерусалим ⟨את⟩ мерзости его",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Сын"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "дай знать"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Иерусалим"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Иерусалим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мерзости его"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "мерзости его"
+    }
+  ],
+  "timestamp": "2026-08-03T04:33:30.108400993Z",
+  "model": "glm-4.5"
+}

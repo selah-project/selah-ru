@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "proverbs 30:21",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Под ⟨тремя⟩ земля трясётся, и ⟨под⟩ ⟨четырьмя⟩ не может ⟨вынести⟩:",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "тремя"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "трясётся"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "и⟨под⟩"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "⟨четырьмя⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "может"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "вынести"
+    }
+  ],
+  "timestamp": "2026-08-03T10:07:08.252746409Z",
+  "model": "glm-4.5"
+}

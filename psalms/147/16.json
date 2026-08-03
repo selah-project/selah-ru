@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 147,
+  "translation": "Дающий снег, как шерсть, иней, как пепел, рассыпает",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Дающий"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "снег"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "как шерсть"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "иней"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "как пепел"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "рассыпает"
+    }
+  ],
+  "timestamp": "2026-08-03T09:17:35.345458311Z",
+  "model": "glm-4.5"
+}

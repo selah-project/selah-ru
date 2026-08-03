@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Глупец складывает ⟨את⟩ свои руки и ест ⟨את⟩ свою плоть",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "Глупец"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "складывает"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "свои руки"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "свои руки"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "и ест"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "свою плоть"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "свою плоть"
+    }
+  ],
+  "timestamp": "2026-08-03T11:18:59.700583468Z",
+  "model": "glm-4.5"
+}

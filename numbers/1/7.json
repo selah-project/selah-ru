@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Для Йегуды: Нахшон, сын Амминадава.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "Для Йегуды"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Нахшон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Амминадава"
+    }
+  ],
+  "timestamp": "2026-08-02T21:09:40.986372113Z",
+  "model": "glm-4.5"
+}

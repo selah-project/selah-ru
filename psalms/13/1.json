@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "Начальнику хоров. Псалом Давида.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Начальнику хоров"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Псалом"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давида"
+    }
+  ],
+  "timestamp": "2026-08-03T06:43:21.223884044Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Наготу дочери сына твоего или дочери дочери твоей — ⟨их⟩ наготу не открывай, ибо ⟨она⟩ нагота твоя.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "наготу"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочери"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "сына"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочери"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "дочери"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "открывай"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "наготу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "нагота"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨она⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T20:58:32.386116636Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "ezekiel 43:4",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 43,
+  "translation": "И слава ЯХВЕ пришла в ⟨этот⟩ дом ⟨путём⟩ ворот ⟨чье⟩ лицо — ⟨направление⟩ востока",
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "и слава"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "пришла"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨этот⟩ дом"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "⟨путём⟩"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ворот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨чье⟩"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лицо"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "⟨направление⟩"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "востока"
+    }
+  ],
+  "timestamp": "2026-08-03T05:10:58.536601096Z",
+  "model": "glm-4.5"
+}

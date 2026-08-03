@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "numbers 18:14",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Всё ⟨חרם⟩ в Израиле ⟨будет⟩ твоим.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Всё"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "⟨חרם⟩"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "в Израиле"
+    },
+    {
+      "surface": "לך",
+      "gloss": "твоим"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨будет⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T21:31:13.086347672Z",
+  "model": "glm-4.5"
+}

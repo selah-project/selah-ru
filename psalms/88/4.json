@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 88,
+  "translation": "ибо насыщена бедами душа моя и жизнь моя приблизилась к Шеолу",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "насыщена"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "бедами"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душа моя"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "и жизнь моя"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "к Шеолу"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "приблизилась"
+    }
+  ],
+  "timestamp": "2026-08-03T08:12:59.684868171Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "Глаза ЯХВЕ ⟨к⟩ праведникам, и уши Его ⟨к⟩ воплю их.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Глаза"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩",
+      "marks": "праведникам"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведникам"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "и уши Его"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩",
+      "marks": "воплю их"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "воплю их"
+    }
+  ],
+  "timestamp": "2026-08-03T07:10:03.883184294Z",
+  "model": "glm-4.5"
+}

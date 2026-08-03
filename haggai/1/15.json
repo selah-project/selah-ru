@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "haggai 1:15",
+  "book": "haggai",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "в день двадцать и четыре ⟨к⟩ месяцу, в шестом, в год два ⟨к⟩ Дарию, царю",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "в день"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцать"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "и четыре"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "⟨к⟩ месяцу",
+      "marks": "месяцу"
+    },
+    {
+      "surface": "בששי",
+      "gloss": "в шестом"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "в год"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "два"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "⟨к⟩ Дарию",
+      "marks": "Дарию"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царю"
+    }
+  ],
+  "timestamp": "2026-08-03T06:06:37.595418583Z",
+  "model": "glm-4.5"
+}

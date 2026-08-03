@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 106,
+  "translation": "И служили ⟨את⟩ идолам своим, и стали им западней.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "И служили"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "идолам своим"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "идолам своим"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "и стали"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "западней"
+    }
+  ],
+  "timestamp": "2026-08-03T08:37:51.284218883Z",
+  "model": "glm-4.5"
+}

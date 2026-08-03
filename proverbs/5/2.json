@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 5:2",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "хранить замыслы и чтобы твои губы хранили знание",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "хранить"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "замыслы"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "и знание"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "твои губы"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "хранили"
+    }
+  ],
+  "timestamp": "2026-08-03T09:25:54.070399766Z",
+  "model": "glm-4.5"
+}

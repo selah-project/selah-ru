@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 14:9",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Глупцы глумятся ⟨над⟩ виной, а ⟨между⟩ прямыми — благоволение",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "Глупцы"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "глумятся"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "⟨над⟩ виной"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "а ⟨между⟩"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "прямыми"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "благоволение"
+    }
+  ],
+  "timestamp": "2026-08-03T09:37:59.613794698Z",
+  "model": "glm-4.5"
+}

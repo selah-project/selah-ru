@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Не отвечай глупцу ⟨по⟩ ⟨его⟩ глупости, ⟨чтобы⟩ не стать подобным ему ⟨даже⟩ ты",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תען",
+      "gloss": "отвечай"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупцу"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "по его глупости"
+    },
+    {
+      "surface": "פן",
+      "gloss": "чтобы"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "стать"
+    },
+    {
+      "surface": "לו",
+      "gloss": "подобным ему"
+    },
+    {
+      "surface": "גם",
+      "gloss": "даже"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    }
+  ],
+  "timestamp": "2026-08-03T10:02:11.701285898Z",
+  "model": "glm-4.5"
+}

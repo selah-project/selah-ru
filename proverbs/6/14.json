@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "proverbs 6:14",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "В сердце его — коварство, зло ⟨он⟩ вынашивает ⟨во⟩ всякое время, раздоры ⟨он⟩ сеет",
+  "tokens": [
+    {
+      "surface": "תהפכות",
+      "gloss": "коварство"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "в сердце его"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "вынашивает"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "во"
+    },
+    {
+      "surface": "עת",
+      "gloss": "всякое время"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "раздоры"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "сеет"
+    }
+  ],
+  "timestamp": "2026-08-03T09:27:46.698439588Z",
+  "model": "glm-4.5"
+}

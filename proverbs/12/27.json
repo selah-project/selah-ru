@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "proverbs 12:27",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Ленивец ⟨не⟩ изжарит свою добычу, а ценное имущество человека — ⟨в⟩ усердии.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחרך",
+      "gloss": "изжарит"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ленивец"
+    },
+    {
+      "surface": "צידו",
+      "gloss": "свою добычу"
+    },
+    {
+      "surface": "והון",
+      "gloss": "а имущество"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ценное"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "⟨в⟩ усердии"
+    }
+  ],
+  "timestamp": "2026-08-03T09:36:01.939740128Z",
+  "model": "glm-4.5"
+}

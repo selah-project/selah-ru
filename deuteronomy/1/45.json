@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 45,
+  "ref": "deuteronomy 1:45",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И вы вернулись и плакали пред лицем ЯХВЕ, и ⟨не⟩ послушал ЯХВЕ голоса вашего, и ⟨не⟩ внял вам",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "и вы вернулись"
+    },
+    {
+      "surface": "ותבכו",
+      "gloss": "и плакали"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред лицем"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и ⟨не⟩"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "послушал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בקלכם",
+      "gloss": "голоса вашего"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и ⟨не⟩"
+    },
+    {
+      "surface": "האזין",
+      "gloss": "внял"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "вам"
+    }
+  ],
+  "timestamp": "2026-08-02T21:51:51.298616095Z",
+  "model": "glm-4.5"
+}

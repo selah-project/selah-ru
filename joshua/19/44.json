@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 44,
+  "ref": "joshua 19:44",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "и Эльтеке, и Гивбетон, и Баалат,",
+  "tokens": [
+    {
+      "surface": "ואלתקה",
+      "gloss": "и Эльтеке"
+    },
+    {
+      "surface": "וגבתון",
+      "gloss": "и Гивбетон"
+    },
+    {
+      "surface": "ובעלת",
+      "gloss": "и Баалат"
+    }
+  ],
+  "timestamp": "2026-08-02T22:42:41.845333942Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "И это слова, которые говорил ЯХВЕ об Исраэле и об Иехуде",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "И это"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "слова"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨об⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраэле"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и ⟨об⟩"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иехуде"
+    }
+  ],
+  "timestamp": "2026-08-03T03:40:34.291345010Z",
+  "model": "glm-4.5"
+}

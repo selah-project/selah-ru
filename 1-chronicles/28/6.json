@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "1-chronicles 28:6",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "И сказал мне: „Шеломо, сын твой, он построит дом Мой и дворы Мои, ибо Я избрал его Себе в сына, и Я буду ему отцом“.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "„Шеломо"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "сын твой"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "построит"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "дом Мой"
+    },
+    {
+      "surface": "וחצרותי",
+      "gloss": "и дворы Мои"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "Я избрал"
+    },
+    {
+      "surface": "בו",
+      "gloss": "его"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Себе"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "в сына"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "и Я"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "буду"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "отцом“"
+    }
+  ],
+  "timestamp": "2026-08-03T13:16:23.091086505Z",
+  "model": "glm-4.5"
+}

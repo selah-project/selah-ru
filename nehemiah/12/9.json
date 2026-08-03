@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "nehemiah 12:9",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И Бакбукия и Унни, братья их, ⟨были⟩ напротив них ⟨в⟩ дозорах.",
+  "tokens": [
+    {
+      "surface": "ובקבקיה",
+      "gloss": "и Бакбукия"
+    },
+    {
+      "surface": "וענו",
+      "gloss": "и Унни"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "братья их"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "напротив них"
+    },
+    {
+      "surface": "למשמרות",
+      "gloss": "в дозорах"
+    }
+  ],
+  "timestamp": "2026-08-03T12:31:19.427319022Z",
+  "model": "glm-4.5"
+}

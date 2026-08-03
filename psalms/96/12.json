@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 96,
+  "translation": "Пусть ликует поле и всё ⟨что⟩ в нём; тогда пусть торжествуют все деревья леса",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "пусть ликует"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "поле"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨что⟩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в нём"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тогда"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "пусть торжествуют"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "деревья"
+    },
+    {
+      "surface": "יער",
+      "gloss": "леса"
+    }
+  ],
+  "timestamp": "2026-08-03T08:24:59.565654594Z",
+  "model": "glm-4.5"
+}

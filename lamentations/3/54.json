@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Воды потекли ⟨над⟩ головою моею; я сказал: я отсеян.",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "потекли"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воды"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨над⟩"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "головою моею"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "я сказал"
+    },
+    {
+      "surface": "נגזרתי",
+      "gloss": "я отсеян"
+    }
+  ],
+  "timestamp": "2026-08-03T11:12:50.109669194Z",
+  "model": "glm-4.5"
+}

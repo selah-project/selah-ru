@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "ezekiel 21:18",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Ибо испытание, и ⟨что⟩ если ⟨даже⟩ жезл презрен? ⟨Он⟩ не будет, — слово Адонай ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "בחן",
+      "gloss": "испытание"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и ⟨что⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨даже⟩"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "жезл"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "презрен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "будет"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T04:42:29.688158187Z",
+  "model": "glm-4.5"
+}

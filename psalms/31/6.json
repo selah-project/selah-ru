@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "В руку Твою предаю дух мой; Ты избавил ⟨меня⟩, ЯХВЕ, Эль истины.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "в руку"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "предаю"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "дух"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "избавил"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨меня⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эль"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "истины"
+    }
+  ],
+  "timestamp": "2026-08-03T07:07:38.865460330Z",
+  "model": "glm-4.5"
+}

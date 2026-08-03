@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И вот потомство Аарона и Моше, в ⟨тот⟩ день, когда ЯХВЕ ⟨את⟩ Моше говорил на горе Синай.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "И вот"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "потомство"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарона"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "и Моше"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в ⟨тот⟩ день"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "когда... говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "на горе"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синай"
+    }
+  ],
+  "timestamp": "2026-08-02T21:12:03.430956795Z",
+  "model": "glm-4.5"
+}

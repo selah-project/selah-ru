@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "numbers 16:6",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Это сделайте: возьмите себе кадильницы, Корах и всё ⟨его⟩ общество",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Это"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "сделайте"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "возьмите"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "себе"
+    },
+    {
+      "surface": "מחתות",
+      "gloss": "кадильницы"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и всё"
+    },
+    {
+      "surface": "עדתו",
+      "gloss": "⟨את⟩ общество",
+      "marks": "⟨את⟩ общество"
+    }
+  ],
+  "timestamp": "2026-08-02T21:28:38.321533613Z",
+  "model": "glm-4.5"
+}

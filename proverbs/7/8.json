@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "проходящий по рынку ⟨подле⟩ угла её, ⟨и⟩ дорога ⟨к⟩ дому её — он ступал",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "проходящий"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "по рынку"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "⟨подле⟩",
+      "marks": "угла"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "угла её"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "⟨и⟩ дорога"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "⟨к⟩ дому её"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "он ступал"
+    }
+  ],
+  "timestamp": "2026-08-03T09:28:37.278037572Z",
+  "model": "glm-4.5"
+}

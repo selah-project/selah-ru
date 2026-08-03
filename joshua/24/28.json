@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "И отпустил Иегошуа ⟨את⟩ народ, каждый в своё наследие",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "И отпустил"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Иегошуа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "каждый"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "в своё наследие"
+    }
+  ],
+  "timestamp": "2026-08-02T22:48:33.461622382Z",
+  "model": "glm-4.5"
+}

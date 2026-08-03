@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Пусть сидит ⟨он⟩ в одиночестве и молчит, ибо возложено ⟨это⟩ на него",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "сидит"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "в одиночестве"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "и молчит"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "возложено"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на него"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:36.326470600Z",
+  "model": "glm-4.5"
+}

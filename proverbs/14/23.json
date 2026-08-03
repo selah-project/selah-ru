@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "proverbs 14:23",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Во всяком ⟨труде⟩ ⟨будет⟩ избыток, а ⟨речь⟩ губ — только к нужде",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Во всяком"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "⟨труде⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨будет⟩"
+    },
+    {
+      "surface": "מותר",
+      "gloss": "избыток"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "а ⟨речь⟩"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "губ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "только"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "к нужде"
+    }
+  ],
+  "timestamp": "2026-08-03T09:38:41.870382234Z",
+  "model": "glm-4.5"
+}

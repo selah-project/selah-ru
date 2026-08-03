@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 62,
+  "ref": "genesis 24:62",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "И Ицхак ⟨шёл⟩ от ⟨пути⟩ Беэр-Лахай-Рои, а он ⟨жил⟩ в стране Негев.",
+  "tokens": [
+    {
+      "surface": "ויצחק",
+      "gloss": "И Ицхак"
+    },
+    {
+      "surface": "בא",
+      "gloss": "⟨шёл⟩"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "от ⟨пути⟩"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беэр"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Лахай"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Рои"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а он"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "⟨жил⟩"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в стране"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Негев"
+    }
+  ],
+  "timestamp": "2026-08-02T19:22:49.113635299Z",
+  "model": "glm-4.5"
+}

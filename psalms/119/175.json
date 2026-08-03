@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Да живёт нефеш моя и будет славить Тебя, и judging Твои — да помогут мне",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "да живёт"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "нефеш моя"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "и будет славить Тебя"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "и judging Твои"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "да помогут мне"
+    }
+  ],
+  "timestamp": "2026-08-03T08:55:47.138497466Z",
+  "model": "glm-4.5"
+}

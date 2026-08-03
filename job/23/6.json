@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "job 23:6",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Разве Он будет спорить со мною в великой силе? Нет, ⟨ведь⟩ Он положит ⟨разум⟩ во мне.",
+  "tokens": [
+    {
+      "surface": "הברב",
+      "gloss": "в великой"
+    },
+    {
+      "surface": "כח",
+      "gloss": "силе"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "спорить"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "со мною"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Нет"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ведь"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Он"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "положит"
+    },
+    {
+      "surface": "בי",
+      "gloss": "во мне"
+    }
+  ],
+  "timestamp": "2026-08-03T10:30:43.997454478Z",
+  "model": "glm-4.5"
+}

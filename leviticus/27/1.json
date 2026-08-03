@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "leviticus 27:1",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "И spoke ЯХВЕ к Моше, saying:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И spoke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "saying"
+    }
+  ],
+  "timestamp": "2026-08-02T21:08:27.977585647Z",
+  "model": "glm-4.5"
+}

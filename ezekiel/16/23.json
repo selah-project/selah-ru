@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "ezekiel 16:23",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "И было после всей твоей злобы: горе, горе тебе — слово Адоная ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "после"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всей"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "твоей злобы"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "горе"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "горе"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адоная"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T04:34:09.380496985Z",
+  "model": "glm-4.5"
+}

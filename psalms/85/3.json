@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 85,
+  "translation": "Ты поднял беззаконие народа Твоего, покрыл Ты все грехи их. Села.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "Ты поднял"
+    },
+    {
+      "surface": "עון",
+      "gloss": "беззаконие"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "народа Твоего"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "покрыл Ты"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "грехи их"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-08-03T08:10:47.615190728Z",
+  "model": "glm-4.5"
+}

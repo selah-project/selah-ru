@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "proverbs 30:8",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Удали ⟨ложь⟩ и слово лжи далеко от меня; не давай мне нищеты, ни богатства; корми меня хлебом ⟨моей⟩ доли,",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "ложь"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "и слово"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "лжи"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "далеко"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "от меня"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "нищеты"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ни"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "давай"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "הטריפני",
+      "gloss": "корми меня"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлебом"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "доли"
+    }
+  ],
+  "timestamp": "2026-08-03T10:06:49.857824016Z",
+  "model": "glm-4.5"
+}

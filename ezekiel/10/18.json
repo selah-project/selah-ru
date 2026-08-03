@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "ezekiel 10:18",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И славу ЯХВЕ вышло ⟨от⟩ порога дома и стало ⟨над⟩ херувимами",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "И вышло"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "⟨от⟩"
+    },
+    {
+      "surface": "מפתן",
+      "gloss": "порога"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "и стало"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨над⟩"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "херувимами"
+    }
+  ],
+  "timestamp": "2026-08-03T04:25:56.582914545Z",
+  "model": "glm-4.5"
+}

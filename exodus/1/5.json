@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И было всяких душ вышедших из бедра Яакова семьдесят душ, а Йосеф был в Египте.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и было"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяких"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душ"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "вышедших"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "из ⟨бедра⟩"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "семьдесят"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душ"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "а Йосеф"
+    },
+    {
+      "surface": "היה",
+      "gloss": "был"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "в Египте"
+    }
+  ],
+  "timestamp": "2026-08-02T19:55:33.131452684Z",
+  "model": "glm-4.5"
+}

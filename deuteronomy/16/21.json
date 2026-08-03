@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "deuteronomy 16:21",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Не посади себе Ашеры ⟨какого-либо⟩ дерева возле жертвенника ЯХВЕ, Элоха твоего, который ты сделаешь себе",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "посади"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себе"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "Ашеры"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨какого-либо⟩"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дерева"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "возле"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "жертвенника"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоха"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "сделаешь"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себе"
+    }
+  ],
+  "timestamp": "2026-08-02T22:07:36.337795950Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "Не хвались ⟨в⟩ день завтрашний, ибо не знаешь, что ⟨родит⟩ день.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "хвались"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "⟨в⟩"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "день завтрашний"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "знаешь"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "⟨родит⟩"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    }
+  ],
+  "timestamp": "2026-08-03T10:03:04.264156315Z",
+  "model": "glm-4.5"
+}

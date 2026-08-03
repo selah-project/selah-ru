@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "proverbs 5:20",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И почему, сын мой, ты шатаешься ⟨от⟩ чужой и объимаешь лоно инородицы?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "И почему"
+    },
+    {
+      "surface": "תשגה",
+      "gloss": "ты шатаешься"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сын мой"
+    },
+    {
+      "surface": "בזרה",
+      "gloss": "⟨от⟩ чужой"
+    },
+    {
+      "surface": "ותחבק",
+      "gloss": "и объимаешь"
+    },
+    {
+      "surface": "חק",
+      "gloss": "лоно"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "инородицы"
+    }
+  ],
+  "timestamp": "2026-08-03T09:26:32.746295290Z",
+  "model": "glm-4.5"
+}

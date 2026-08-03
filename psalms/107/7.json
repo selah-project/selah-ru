@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 107,
+  "translation": "И повёл их ⟨Он⟩ путём прямым, чтобы идти к городу обитания",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "И повёл их"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "путём"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "прямым"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "чтобы идти"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "городу"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "обитания"
+    }
+  ],
+  "timestamp": "2026-08-03T08:38:22.427364248Z",
+  "model": "glm-4.5"
+}

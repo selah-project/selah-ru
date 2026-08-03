@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Приходит надменность, и приходит позор, а со смирёнными — хохма.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "приходит"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "надменность"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и приходит"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "позор"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "со смирёнными"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "смирёнными"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "хохма"
+    }
+  ],
+  "timestamp": "2026-08-03T09:33:40.351487721Z",
+  "model": "glm-4.5"
+}

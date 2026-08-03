@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "nehemiah 11:36",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "А из левитов, ⟨от⟩ отделов Йехуды, ⟨в⟩ Биньямин.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "А из"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левитов"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "отделов"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуды"
+    },
+    {
+      "surface": "לבנימין",
+      "gloss": "Биньямин"
+    }
+  ],
+  "timestamp": "2026-08-03T12:30:39.323827863Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "judges 6:40",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И сделал так Элохим в ту ночь, и ⟨было⟩ иссушение ⟨на⟩ руне только, а на всей земле ⟨был⟩ тал.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "и сделал"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "в ту ночь"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨ту⟩"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и ⟨было⟩"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "иссушение"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "הגזה",
+      "gloss": "руне"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "только"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "а на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всей"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земле"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨был⟩"
+    },
+    {
+      "surface": "טל",
+      "gloss": "тал"
+    }
+  ],
+  "timestamp": "2026-08-02T22:56:08.716242577Z",
+  "model": "glm-4.5"
+}

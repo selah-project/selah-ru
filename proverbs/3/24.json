@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Когда ⟨ты⟩ ляжешь, не страшишься, и ложишься, и сладок сон ⟨твой⟩",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Когда"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "⟨ты⟩ ляжешь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "страшишься"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "и ложишься"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "и сладок"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "сон ⟨твой⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T09:23:50.139361176Z",
+  "model": "glm-4.5"
+}

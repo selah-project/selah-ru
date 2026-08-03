@@ -1,0 +1,68 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Из той земли вышел Ашшур и построил ⟨את⟩ Ниневию и ⟨את⟩ улицы города и ⟨את⟩ Калах",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "той земли"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "вышел"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшур"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "и построил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ниневию"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ниневию"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "улицы города"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "улицы"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "города"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Калах"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Калах"
+    }
+  ],
+  "timestamp": "2026-08-02T17:53:30.428111994Z",
+  "model": "glm-4.5"
+}

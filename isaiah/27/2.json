@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "isaiah 27:2",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "В тот день: «Виноградник отборного вина, пойте о ⟨него⟩»",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "В тот день"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨тот⟩"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "виноградник"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "отборного вина"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "пойте о"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨о нём⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T02:11:01.067490872Z",
+  "model": "glm-4.5"
+}

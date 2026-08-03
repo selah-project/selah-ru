@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 99,
+  "translation": "ЯХВЕ велик в Ционе, и высок Он над всеми народами.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "в Ционе"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "и высок"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Он"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всеми"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "народами"
+    }
+  ],
+  "timestamp": "2026-08-03T08:28:32.638757720Z",
+  "model": "glm-4.5"
+}

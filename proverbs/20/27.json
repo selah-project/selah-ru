@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "proverbs 20:27",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "Дух человека — светильник ЯХВЕ, высматривающий все глубины ⟨его⟩ чрева.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "светильник"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "дух"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "высматривающий"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "глубины"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "чрева"
+    }
+  ],
+  "timestamp": "2026-08-03T09:47:18.814341541Z",
+  "model": "glm-4.5"
+}

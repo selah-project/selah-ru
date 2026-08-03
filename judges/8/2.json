@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "judges 8:2",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "и сказал он им: что я сделал ⟨теперь⟩ подобно вам? не лучше ли gleanings Эфраима, чем vintage Авиэзера?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "я сделал"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "⟨теперь⟩"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "подобно вам"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "лучше"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "gleanings"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраима"
+    },
+    {
+      "surface": "מבציר",
+      "gloss": "чем vintage"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Авиэзера"
+    }
+  ],
+  "timestamp": "2026-08-02T22:57:28.582768478Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "joshua 9:10",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "и ⟨את⟩ всё, что ⟨он сделал⟩ двум царям amorim, которые за Ярденом — Сихону, царю Хешбона, и Огу, царю Башана, который в Аштарот",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "всё"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨он сделал⟩"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "двум"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "царям"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "amorim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "за"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Ярденом"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "Сихону"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Хешбона"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "и Огу"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Башана"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "בעשתרות",
+      "gloss": "в Аштарот"
+    }
+  ],
+  "timestamp": "2026-08-02T22:32:57.297694353Z",
+  "model": "glm-4.5"
+}

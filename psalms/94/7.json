@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 94,
+  "translation": "И они сказали: «не увидит ⟨ЯХВЕ⟩, и не поймёт Элохи Яакова»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "И они сказали"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "увидит"
+    },
+    {
+      "surface": "יה",
+      "gloss": "⟨ЯХВЕ⟩",
+      "marks": "увидит"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "поймёт"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохи"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    }
+  ],
+  "timestamp": "2026-08-03T08:23:16.475117506Z",
+  "model": "glm-4.5"
+}

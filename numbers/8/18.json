@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "numbers 8:18",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И я взял ⟨את⟩ левитов вместо всех первенцев из сынов Израиля:",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "И я взял"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "левитов"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левитов"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "вместо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "первенцев"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "из сынов"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-02T21:20:19.442818463Z",
+  "model": "glm-4.5"
+}

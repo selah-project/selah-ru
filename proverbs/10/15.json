@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Богатство богатого — ⟨это⟩ крепость его, ⟨а⟩ разрушение бедных — ⟨их⟩ нищета.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "богатство"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "богатого"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "крепость"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "его"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "разрушение"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "бедных"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "нищета"
+    }
+  ],
+  "timestamp": "2026-08-03T09:32:53.133527220Z",
+  "model": "glm-4.5"
+}

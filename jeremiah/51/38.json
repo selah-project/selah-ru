@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "jeremiah 51:38",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 51,
+  "translation": "Вместе как молодые львы они заревут, потрясутся как львята",
+  "tokens": [
+    {
+      "surface": "יחדו",
+      "gloss": "Вместе"
+    },
+    {
+      "surface": "ככפרים",
+      "gloss": "как молодые львы"
+    },
+    {
+      "surface": "ישאגו",
+      "gloss": "они заревут"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "потрясутся"
+    },
+    {
+      "surface": "כגורי",
+      "gloss": "как"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "львята"
+    }
+  ],
+  "timestamp": "2026-08-03T04:13:36.981589176Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "joshua 19:18",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "И была их граница ⟨в⟩ Изреэле, и Кесуллоф, и Шунем.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И была"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "их граница"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "Изреэле"
+    },
+    {
+      "surface": "והכסולת",
+      "gloss": "и Кесуллоф"
+    },
+    {
+      "surface": "ושונם",
+      "gloss": "и Шунем"
+    }
+  ],
+  "timestamp": "2026-08-02T22:42:34.409552916Z",
+  "model": "glm-4.5"
+}

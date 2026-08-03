@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 129,
+  "ref": "psalms 119:129",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Чудесны свидетельства Твои, ⟨поэтому⟩ хранит их душа моя.",
+  "tokens": [
+    {
+      "surface": "פלאות",
+      "gloss": "чудесны"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "свидетельства Твои"
+    },
+    {
+      "surface": "על",
+      "gloss": "поэтому"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "נצרתם",
+      "gloss": "хранит их"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душа моя"
+    }
+  ],
+  "timestamp": "2026-08-03T08:54:18.819750842Z",
+  "model": "glm-4.5"
+}

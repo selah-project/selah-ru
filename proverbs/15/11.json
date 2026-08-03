@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "proverbs 15:11",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "Шеол и Аваддон ⟨находятся⟩ перед ЯХВЕ, ⟨неужели⟩ не ⟨и⟩ сердца сыновей Адама?",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "ואבדון",
+      "gloss": "и Аваддон"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "⟨находятся⟩ перед"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "⟨неужели⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "сердца"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Адама"
+    }
+  ],
+  "timestamp": "2026-08-03T09:39:52.355454927Z",
+  "model": "glm-4.5"
+}

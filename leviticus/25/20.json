@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "И если скажете: что будем ⟨мы⟩ есть в год седьмой? вот, не посеем и не соберём ⟨את⟩ урожай наш",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "И если"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "скажете"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "будем есть"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "в год"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "седьмой"
+    },
+    {
+      "surface": "הן",
+      "gloss": "вот"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "посеем"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "соберём"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "урожай наш"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "урожай наш"
+    }
+  ],
+  "timestamp": "2026-08-02T21:05:20.114717721Z",
+  "model": "glm-4.5"
+}

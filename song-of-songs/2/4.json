@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Он привёл меня в дом вина, и ⟨его⟩ знамя надо мной — любовь.",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "Он привёл меня"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "היין",
+      "gloss": "вина"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "и ⟨его⟩ знамя"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "надо мной"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "любовь"
+    }
+  ],
+  "timestamp": "2026-08-03T10:54:49.749566232Z",
+  "model": "glm-4.5"
+}

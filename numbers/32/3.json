@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "numbers 32:3",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "Атарот, и Дибон, и Язер, и Нимра, и Хешбон, и Элеале, и Шевам, и Нево, и Беон",
+  "tokens": [
+    {
+      "surface": "עטרות",
+      "gloss": "Атарот"
+    },
+    {
+      "surface": "ודיבן",
+      "gloss": "и Дибон"
+    },
+    {
+      "surface": "ויעזר",
+      "gloss": "и Язер"
+    },
+    {
+      "surface": "ונמרה",
+      "gloss": "и Нимра"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "и Хешбон"
+    },
+    {
+      "surface": "ואלעלה",
+      "gloss": "и Элеале"
+    },
+    {
+      "surface": "ושבם",
+      "gloss": "и Шевам"
+    },
+    {
+      "surface": "ונבו",
+      "gloss": "и Нево"
+    },
+    {
+      "surface": "ובען",
+      "gloss": "и Беон"
+    }
+  ],
+  "timestamp": "2026-08-02T21:45:32.683154082Z",
+  "model": "glm-4.5"
+}

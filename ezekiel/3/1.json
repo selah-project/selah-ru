@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "ezekiel 3:1",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И сказал мне: сын человека, ⟨את⟩ ⟨что⟩ найдёшь, ешь; ешь ⟨את⟩ ⟨этот⟩ свиток, и иди, говори к дому Израиля",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨что⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨что⟩"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "найдёшь"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "ешь"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "ешь"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨этой⟩"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "⟨этой⟩ свиток"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": ""
+    },
+    {
+      "surface": "ולך",
+      "gloss": "и иди"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-03T04:18:45.671369364Z",
+  "model": "glm-4.5"
+}

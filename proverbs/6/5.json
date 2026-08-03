@@ -1,0 +1,39 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Спасайся, как газель ⟨от⟩ руки, и как птица ⟨от⟩ руки ловца.",
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "спасайся"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "как газель"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "⟨от⟩ руки",
+      "marks": "руки"
+    },
+    {
+      "surface": "וכצפור",
+      "gloss": "и как птица"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "⟨от⟩ руки",
+      "marks": "руки"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "ловца"
+    }
+  ],
+  "timestamp": "2026-08-03T09:27:21.596552279Z",
+  "model": "glm-4.5"
+}

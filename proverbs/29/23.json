@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "proverbs 29:23",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "Гордость ⟨человека⟩ унизит его, а humble в духе поддержит ⟨честь⟩.",
+  "tokens": [
+    {
+      "surface": "גאות",
+      "gloss": "Гордость"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "תשפילנו",
+      "gloss": "унизит его"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "а humble"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "в духе"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "поддержит"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "честь"
+    }
+  ],
+  "timestamp": "2026-08-03T10:06:28.094016857Z",
+  "model": "glm-4.5"
+}

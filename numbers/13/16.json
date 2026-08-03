@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "numbers 13:16",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "Вот имена мужчин, которых послал Моше разведать ⟨את⟩ землю. И назвал Моше Гошеа, сына Нуна, Иегошуа.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "имена"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "мужчин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которых"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "послал"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "разведать"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и назвал"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "Гошеа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Нуна"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Иегошуа"
+    }
+  ],
+  "timestamp": "2026-08-02T21:24:52.106901365Z",
+  "model": "glm-4.5"
+}

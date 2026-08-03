@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "И сошёл Моше с горы к народу, и освятил ⟨את⟩ народ, и омыли одежды свои",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "и сошёл"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מן",
+      "gloss": "с"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "горы"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народу"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "и освятил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "и омыли"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "одежды свои"
+    }
+  ],
+  "timestamp": "2026-08-02T20:13:14.727713948Z",
+  "model": "glm-4.5"
+}

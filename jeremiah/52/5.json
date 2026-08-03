@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "jeremiah 52:5",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 52,
+  "translation": "И город был в осаде ⟨до⟩ одиннадцатого года царя Цидкиягу.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "и была"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "город"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "в осаде"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "одиннадцатого"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "года"
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    },
+    {
+      "surface": "למלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Цидкиягу"
+    }
+  ],
+  "timestamp": "2026-08-03T04:15:28.482665578Z",
+  "model": "glm-4.5"
+}

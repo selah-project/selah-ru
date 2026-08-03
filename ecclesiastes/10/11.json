@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Если ужал змей ⟨без⟩ шептания, ⟨то нет⟩ преимущества у владеющего языком",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Если"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ужал"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "змей"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "⟨без⟩"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "шептания"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "⟨то нет⟩"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "преимущества"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "у владеющего"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "языком"
+    }
+  ],
+  "timestamp": "2026-08-03T11:26:24.900782832Z",
+  "model": "glm-4.5"
+}

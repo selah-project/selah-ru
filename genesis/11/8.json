@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И рассеял ЯХВЕ их ⟨оттуда⟩ по ⟨лицу⟩ всей ⟨земли⟩, и они перестали строить ⟨город⟩",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "И рассеял"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "их"
+    },
+    {
+      "surface": "משם",
+      "gloss": "⟨оттуда⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨лицу⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всей"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨земли⟩"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "и они перестали"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "строить"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨город⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T19:08:51.042839569Z",
+  "model": "glm-4.5"
+}

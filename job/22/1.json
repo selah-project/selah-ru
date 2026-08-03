@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "job 22:1",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И ответил Элифаз Θеманит, и сказал:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И ответил"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Элифаз"
+    },
+    {
+      "surface": "התמני",
+      "gloss": "Θеманит"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    }
+  ],
+  "timestamp": "2026-08-03T10:29:18.878190395Z",
+  "model": "glm-4.5"
+}

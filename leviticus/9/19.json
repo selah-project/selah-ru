@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "leviticus 9:19",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "и ⟨את⟩ жир из ⟨быка⟩ и из ⟨барана⟩, курдюк, и покров внутренностей, и почки, и долю над ⟨печенью⟩",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "жир"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "жир"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "השור",
+      "gloss": "быка"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и из"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "барана"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "курдюк"
+    },
+    {
+      "surface": "והמכסה",
+      "gloss": "и покров"
+    },
+    {
+      "surface": "והכלית",
+      "gloss": "и почки"
+    },
+    {
+      "surface": "ויתרת",
+      "gloss": "и долю"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "над ⟨печенью⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T20:48:44.951617009Z",
+  "model": "glm-4.5"
+}

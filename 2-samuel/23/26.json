@@ -1,0 +1,40 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "2-samuel 23:26",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Хелец ⟨ה⟩Палти, Ира ⟨бен⟩ Икеш ⟨ה⟩Текоит,",
+  "tokens": [
+    {
+      "surface": "חלץ",
+      "gloss": "Хелец"
+    },
+    {
+      "surface": "הפלטי",
+      "gloss": "⟨ה⟩Палти",
+      "marks": "Хелеца"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "Ира"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨бен⟩",
+      "marks": "Иры"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "Икеш"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "⟨ה⟩Текоит",
+      "marks": "Икеша"
+    }
+  ],
+  "timestamp": "2026-08-03T00:13:33.733210161Z",
+  "model": "glm-4.5"
+}

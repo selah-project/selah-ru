@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "1-kings 4:6",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И Ахи́шар ⟨был⟩ над домом, а Адонирам, сын Авды, ⟨был⟩ над податью",
+  "tokens": [
+    {
+      "surface": "ואחישר",
+      "gloss": "И Ахи́шар"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "домом"
+    },
+    {
+      "surface": "ואדנירם",
+      "gloss": "а Адонирам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "עבדא",
+      "gloss": "Авды"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "המס",
+      "gloss": "податью"
+    }
+  ],
+  "timestamp": "2026-08-03T00:24:07.006078643Z",
+  "model": "glm-4.5"
+}

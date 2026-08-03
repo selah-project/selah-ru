@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Богатый правит ⟨над⟩ бедными, и заёмщик ⟨становится⟩ рабом ⟨для⟩ заимодавца.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "Богатый"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "над бедными"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "правит"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "и рабом"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "заёмщик"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "для"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "заимодавца"
+    }
+  ],
+  "timestamp": "2026-08-03T09:49:43.962260963Z",
+  "model": "glm-4.5"
+}

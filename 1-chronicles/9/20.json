@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "1-chronicles 9:20",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И Финес, сын Элеазара, был над ними начальником ⟨прежде⟩; ЯХВЕ ⟨был⟩ с ⟨ним⟩",
+  "tokens": [
+    {
+      "surface": "ופינחס",
+      "gloss": "И Финес"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Элеазара"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "начальником"
+    },
+    {
+      "surface": "היה",
+      "gloss": "был"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "над ними"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "⟨прежде⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с ⟨ним⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T12:50:44.922291383Z",
+  "model": "glm-4.5"
+}

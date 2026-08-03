@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 80,
+  "translation": "Горы покрыты ⟨её⟩ тенью, и ветви ⟨её⟩ — как кедры Эля.",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "покрыты"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "горы"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "⟨её⟩ тенью"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "и ветви ⟨её⟩"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "кедры"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эля"
+    }
+  ],
+  "timestamp": "2026-08-03T08:06:25.103159266Z",
+  "model": "glm-4.5"
+}

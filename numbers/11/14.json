@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Не могу я один носить ⟨את⟩ весь ⟨את⟩ народ этот, ибо тяжело от меня",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "могу"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "один"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "нести"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "весь"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "этот"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "тяжело"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "от меня"
+    }
+  ],
+  "timestamp": "2026-08-03T18:05:24.137812867Z",
+  "model": "glm-4.5"
+}

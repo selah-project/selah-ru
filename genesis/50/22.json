@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "genesis 50:22",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 50,
+  "translation": "И жил Иосеф в Мицраиме, ⟨он⟩ и дом отца его, и жил Иосеф сто десять лет",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "И жил"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Иосеф"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "в Мицраиме"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "и дом"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "отца его"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "и жил"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Иосеф"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "десять"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "лет"
+    }
+  ],
+  "timestamp": "2026-08-02T19:54:52.259452322Z",
+  "model": "glm-4.5"
+}

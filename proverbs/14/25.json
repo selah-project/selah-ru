@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "⟨Честный⟩ свидетель спасает души, а ⟨выдыхающий⟩ ложь ⟨есть⟩ обман",
+  "tokens": [
+    {
+      "surface": "מציל",
+      "gloss": "спасающий"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "души"
+    },
+    {
+      "surface": "עד",
+      "gloss": "свидетель"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "правды"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "и выдыхающий"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "лжи"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "обман"
+    }
+  ],
+  "timestamp": "2026-08-03T09:38:29.342561827Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "1-samuel 13:9",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И сказал Шаул: «Поднесите ко мне олу́ и шла́мим», и воснёс ⟨он⟩ ⟨olú⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "הגשו",
+      "gloss": "Поднесите"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ко мне"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olú"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "и шла́мим"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "и воснёс"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "⟨olú⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T23:24:05.754845951Z",
+  "model": "glm-4.5"
+}

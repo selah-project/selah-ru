@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "genesis 34:22",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "Только в этом согласятся ⟨эти⟩ люди с нами dwell с нами, to be one people, circumcising for us every male, как они circumcised",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Только"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "в этом"
+    },
+    {
+      "surface": "יאתו",
+      "gloss": "согласятся"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "с нами"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "⟨эти⟩ люди"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "dwell с нами"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨с нами⟩"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "to be"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "one people"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "בהמול",
+      "gloss": "circumcising"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "для нас"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всякий"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "мужчина"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "הם",
+      "gloss": "они"
+    },
+    {
+      "surface": "נמלים",
+      "gloss": "circumcised"
+    }
+  ],
+  "timestamp": "2026-08-02T19:36:33.319710080Z",
+  "model": "glm-4.5"
+}

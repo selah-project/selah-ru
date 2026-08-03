@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "jeremiah 11:1",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Слово, которое было к Йирмея́ху от ЯХВЕ, говоря:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Слово"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "היה",
+      "gloss": "было"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йирмея́ху"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "от"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-03T03:11:52.927149532Z",
+  "model": "glm-4.5"
+}

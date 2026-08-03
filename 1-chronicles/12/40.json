@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "1-chronicles 12:40",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И были они там с Давидом ⟨в⟩дни три, ⟨едящими⟩и ⟨пьющими⟩, ибо ⟨им⟩братья ⟨их⟩приготовили.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И были"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давидом"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "три"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "едящими"
+    },
+    {
+      "surface": "ושותים",
+      "gloss": "и ⟨пьющими⟩",
+      "marks": "шотим"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "приготовили"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨им⟩"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "братья ⟨их⟩",
+      "marks": "лахем"
+    }
+  ],
+  "timestamp": "2026-08-03T12:56:06.667377736Z",
+  "model": "glm-4.5"
+}

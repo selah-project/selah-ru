@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 41,
+  "ref": "deuteronomy 4:41",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Тогда Моше отделил три города за ⟨הַיַּרְדֵּן⟩ к востоку, к ⟨восходу солнца⟩",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "тогда"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "отделил"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "города"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "за"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "⟨הַיַּרְדֵּן⟩",
+      "marks": "Иорданом"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "к востоку"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "⟨восходу солнца⟩",
+      "marks": "к солнцу"
+    }
+  ],
+  "timestamp": "2026-08-02T21:55:21.705296984Z",
+  "model": "glm-4.5"
+}

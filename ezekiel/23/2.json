@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Сын человеческий, две женщины, дочери одной матери, они ⟨были⟩",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Сын"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человеческий"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "две"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "женщины"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "дочери"
+    },
+    {
+      "surface": "אם",
+      "gloss": "матери"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "одной"
+    },
+    {
+      "surface": "היו",
+      "gloss": "они"
+    }
+  ],
+  "timestamp": "2026-08-03T04:44:54.923744293Z",
+  "model": "glm-4.5"
+}

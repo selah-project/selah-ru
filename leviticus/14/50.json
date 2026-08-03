@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "и заколет ⟨את⟩ ⟨птицу⟩ ⟨эту⟩ в ⟨сосуд⟩ ⟨глиняный⟩ над ⟨водою⟩ ⟨живою⟩",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "и заколет"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "птицу"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "птицу"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "эту"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "сосуд"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "глиняный"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "מים",
+      "gloss": "водою"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живою"
+    }
+  ],
+  "timestamp": "2026-08-02T20:54:57.721953376Z",
+  "model": "glm-4.5"
+}

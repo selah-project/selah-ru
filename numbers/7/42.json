@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "В шестой день Эльясаф, сын Деуэля, князь сынов Гада,",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "В день"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "шестой"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "князь"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гада"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Эльясаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Деуэля"
+    }
+  ],
+  "timestamp": "2026-08-02T21:18:49.535366903Z",
+  "model": "glm-4.5"
+}

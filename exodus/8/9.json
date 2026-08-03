@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И сделал ЯХВЕ по слову Моше, и умерли лягушки из домов, из дворов и из полей.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И сделал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "по слову"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "и умерли"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "лягушки"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "домов"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "дворов"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и из"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "полей"
+    }
+  ],
+  "timestamp": "2026-08-02T20:02:23.794531514Z",
+  "model": "glm-4.5"
+}

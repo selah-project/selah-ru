@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "lamentations 4:8",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Потемнело ⟨их⟩ обличие ⟨от⟩ сажи, не узнают ⟨их⟩ на улицах; прилипла кожа к костям ⟨их⟩, иссохло, стало как дерево.",
+  "tokens": [
+    {
+      "surface": "חשך",
+      "gloss": "потемнело"
+    },
+    {
+      "surface": "משחור",
+      "gloss": "от сажи"
+    },
+    {
+      "surface": "תארם",
+      "gloss": "их обличие"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נכרו",
+      "gloss": "узнают"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "на улицах"
+    },
+    {
+      "surface": "צפד",
+      "gloss": "прилипла"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "кожа"
+    },
+    {
+      "surface": "על",
+      "gloss": "к"
+    },
+    {
+      "surface": "עצמם",
+      "gloss": "костям их"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "иссохло"
+    },
+    {
+      "surface": "היה",
+      "gloss": "стало"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "как дерево"
+    }
+  ],
+  "timestamp": "2026-08-03T11:13:31.045501699Z",
+  "model": "glm-4.5"
+}

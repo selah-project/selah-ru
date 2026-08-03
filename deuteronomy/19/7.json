@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Посему ⟨я⟩ повелеваю ⟨тебе⟩ говорить: три города отдели себе",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Посему"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨так⟩"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨я⟩"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "повелеваю ⟨тебе⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорить"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "города"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "отдели"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себе"
+    }
+  ],
+  "timestamp": "2026-08-02T22:09:51.237247986Z",
+  "model": "glm-4.5"
+}

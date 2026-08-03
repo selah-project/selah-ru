@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "1-chronicles 4:29",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "и в Билхе, и в Эцеме, и в Толаде",
+  "tokens": [
+    {
+      "surface": "וּבְבִלְהָה",
+      "gloss": "и в Билхе"
+    },
+    {
+      "surface": "וּבְעֶצֶם",
+      "gloss": "и в Эцеме"
+    },
+    {
+      "surface": "וּבְתוֹלָד",
+      "gloss": "и в Толаде"
+    }
+  ],
+  "timestamp": "2026-08-03T12:40:48.306929675Z",
+  "model": "glm-4.5"
+}

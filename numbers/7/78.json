@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 78,
+  "ref": "numbers 7:78",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "В день двенадцатый день: князь ⟨для⟩ сынов Нефтали, Ахира ⟨ сын⟩ Энана.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "В день"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "двенадцатый"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יום",
+      "gloss": "день:"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "князь"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨для⟩ сынов"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нефтали,"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "Ахира"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨ сын⟩"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Энана."
+    }
+  ],
+  "timestamp": "2026-08-02T21:19:44.181421621Z",
+  "model": "glm-4.5"
+}

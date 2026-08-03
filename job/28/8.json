@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "job 28:8",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Сыны гордости ⟨не⟩ топтали его, ⟨не⟩ проходил ⟨по⟩ нему лев",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הדריכהו",
+      "gloss": "топтали его"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "гордости"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "проходил"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "по нему"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "лев"
+    }
+  ],
+  "timestamp": "2026-08-03T10:33:35.250712188Z",
+  "model": "glm-4.5"
+}

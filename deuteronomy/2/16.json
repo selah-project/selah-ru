@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И было, когда закончились все мужи войны умирать из среды ⟨народа⟩",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "когда"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "закончились"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "мужи"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "войны"
+    },
+    {
+      "surface": "למות",
+      "gloss": "умирать"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "из среды"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨народа⟩",
+      "marks": "из среды"
+    }
+  ],
+  "timestamp": "2026-08-03T18:10:11.019463254Z",
+  "model": "glm-4.5"
+}

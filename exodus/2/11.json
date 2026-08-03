@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "exodus 2:11",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И было в ⟨те⟩ дни, и вырос Моше, и вышел к братьям своим, и увидел в ⟨их⟩ тяжестях, и увидел мужа Mitsri бьющего мужа Ivri из братьев его",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и было"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "в ⟨те⟩ дни"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "⟨те⟩"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "и вырос"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "и вышел"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "братьям своим"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "и увидел"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "в ⟨их⟩ тяжестях"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "и увидел"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мужа"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Mitsri"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "бьющего"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мужа"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Ivri"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "из братьев его"
+    }
+  ],
+  "timestamp": "2026-08-02T19:56:26.590774560Z",
+  "model": "glm-4.5"
+}

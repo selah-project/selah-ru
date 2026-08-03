@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 118,
+  "translation": "Десница ЯХВЕ вознесена; десница ЯХВЕ творит силу.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "десница"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "вознесена"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "десница"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "творит"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "силу"
+    }
+  ],
+  "timestamp": "2026-08-03T08:48:07.623695749Z",
+  "model": "glm-4.5"
+}

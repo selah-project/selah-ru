@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 78,
+  "translation": "Не хранили ⟨они⟩ завет Элохима и в Торе Его отказались ⟨идти⟩",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "хранили"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "завет"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохима"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "и в Торе Его"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "отказались"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "⟨идти⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T08:00:55.054720454Z",
+  "model": "glm-4.5"
+}

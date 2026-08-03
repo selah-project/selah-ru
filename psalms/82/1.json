@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 82,
+  "translation": "Псалом Асафа. Элохим стоит ⟨в⟩ собрании Эля, ⟨среди⟩ Элохим судит ⟨Он⟩:",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Псалом"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Асафа"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "стоит"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "⟨в⟩ собрании"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эля"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "⟨среди⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "судит ⟨Он⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T08:08:23.117349698Z",
+  "model": "glm-4.5"
+}

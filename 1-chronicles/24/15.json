@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-chronicles 24:15",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "семнадцатый — Хециру, восемнадцатый — Гафацу,",
+  "tokens": [
+    {
+      "surface": "לחזיר",
+      "gloss": "Хециру"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "семнадцатый"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "להפצץ",
+      "gloss": "Гафацу"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "восемнадцатый"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-08-03T13:11:05.281475411Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Сыновья Атера Хизкии, ⟨девяносто⟩ ⟨и⟩ восемь",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "Атера"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "Хизкии"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "⟨девяносто⟩"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "⟨и⟩ восемь"
+    }
+  ],
+  "timestamp": "2026-08-03T12:21:49.597454901Z",
+  "model": "glm-4.5"
+}

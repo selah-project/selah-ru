@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Остерегайся, чтобы не забыть ⟨את⟩ ЯХВЕ, Который вывел тебя из земли Египетской, из дома рабства",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Остерегайся"
+    },
+    {
+      "surface": "לך",
+      "gloss": "для себя"
+    },
+    {
+      "surface": "פן",
+      "gloss": "чтобы не"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "забыл"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Который"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "вывел тебя"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "из земли"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Египетской"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "из дома"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "рабства"
+    }
+  ],
+  "timestamp": "2026-08-02T21:57:20.980416680Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Гроздь моя любовь мне ⟨есть⟩ в виноградниках Эйн-Геди",
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "Гроздь"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "моей любви"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "моя любовь"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "в виноградниках"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Эйн-"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Геди"
+    }
+  ],
+  "timestamp": "2026-08-03T10:54:11.259961315Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "И воспылал гнев ЯХВЕ в тот день, и поклялся, говоря:",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "и воспылал"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гнев"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в ⟨тот⟩ день"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨тот⟩"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "и поклялся"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-02T21:45:41.106741443Z",
+  "model": "glm-4.5"
+}

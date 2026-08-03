@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "deuteronomy 2:26",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И я послал вестников из пустыни Кдемот к Сихону, царю Хешбона, ⟨с⟩ словами мира, говоря:",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "И я послал"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "вестников"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "из пустыни"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Кдемот"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Сихону"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Хешбона"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "словами"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мира"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-02T21:52:41.127743422Z",
+  "model": "glm-4.5"
+}

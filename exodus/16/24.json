@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "и оставили его ⟨до⟩ утра, как ⟨повелел⟩ Моше, и не завоняло ⟨оно⟩, и червя не было в нём",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "и оставили"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "его"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨до⟩"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "утра"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "⟨повелел⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "завоняло"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "и червя"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "было"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в нём"
+    }
+  ],
+  "timestamp": "2026-08-02T20:10:46.536659131Z",
+  "model": "glm-4.5"
+}

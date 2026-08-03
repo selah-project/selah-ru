@@ -1,0 +1,60 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И сыновья Хецрона, которые родились у него: ⟨את⟩ Йерахмеэля, и ⟨את⟩ Рама, и ⟨את⟩ Келувая.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И сыновья"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Хецрона"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "родились"
+    },
+    {
+      "surface": "לו",
+      "gloss": "у него"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йерахмеэля"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Йерахмеэля"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Рама"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Рама"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨אет⟩",
+      "marks": "Келувая"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Келувая"
+    }
+  ],
+  "timestamp": "2026-08-03T12:37:17.573717601Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "и ⟨את⟩ сыновей его подведи, и одень их в ⟨את⟩ туники:",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "сыновей его"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "сыновей его"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "подведи"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "и одень их"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "в ⟨את⟩",
+      "marks": "туники"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "туники"
+    }
+  ],
+  "timestamp": "2026-08-02T20:38:47.323513716Z",
+  "model": "glm-4.5"
+}

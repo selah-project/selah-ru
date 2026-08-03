@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "jeremiah 36:17",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "И ⟨את⟩ Бару́ха спросили, говоря: объяви нам, пожалуйста, как ты написал ⟨את⟩ все эти слова из уст Его?",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "И ⟨את⟩",
+      "marks": "Баруха"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Бару́ха"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "спросили"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "объяви"
+    },
+    {
+      "surface": "נא",
+      "gloss": "пожалуйста"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "איך",
+      "gloss": "как"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "написал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "все"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "эти слова"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "эти"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "из уст Его"
+    }
+  ],
+  "timestamp": "2026-08-03T03:50:50.948885254Z",
+  "model": "glm-4.5"
+}

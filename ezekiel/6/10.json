@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "ezekiel 6:10",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И узнают, что Я — ЯХВЕ, не напрасно говорил Я, чтобы сделать им это зло",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "и узнают"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨напрасно⟩"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "напрасно"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "говорил"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "чтобы сделать"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "это зло"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "⟨это⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T04:21:19.569782856Z",
+  "model": "glm-4.5"
+}

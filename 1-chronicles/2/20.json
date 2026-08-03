@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И Хур породил ⟨את⟩ Ури, а Ури породил ⟨את⟩ Бецалэ́ль.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "И Хур"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ури"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Ури"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "а Ури"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бецалэ́ль"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Бецалэ́ль"
+    }
+  ],
+  "timestamp": "2026-08-03T12:37:25.555184350Z",
+  "model": "glm-4.5"
+}

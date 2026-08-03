@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "proverbs 29:26",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "Многие ищут ⟨лицо⟩ правителя, но ⟨от⟩ ЯХВЕ — ⟨суд⟩ человека.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Многие"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "ищут"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨лицо⟩",
+      "marks": "правителя"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "правителя"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "но ⟨от⟩ ЯХВЕ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "— ⟨суд⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человека"
+    }
+  ],
+  "timestamp": "2026-08-03T10:06:28.274863481Z",
+  "model": "glm-4.5"
+}

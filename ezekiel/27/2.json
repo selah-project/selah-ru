@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "И ты, сын человека, подними ⟨над⟩ Цором кинá,",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "И ты"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "שא",
+      "gloss": "подними"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨над⟩",
+      "marks": "Цором"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Цором"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "кинá"
+    }
+  ],
+  "timestamp": "2026-08-03T04:49:49.783306508Z",
+  "model": "glm-4.5"
+}

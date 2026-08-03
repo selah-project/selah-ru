@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И послал царь Давид, и взял его из дома Махира, сына Амиэля, из Ло-Девара.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "И послал"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "וקחהו",
+      "gloss": "и взял его"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "из дома"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Махира"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Амиэля"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "из"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Ло-Девара"
+    }
+  ],
+  "timestamp": "2026-08-02T23:56:03.742401736Z",
+  "model": "glm-4.5"
+}

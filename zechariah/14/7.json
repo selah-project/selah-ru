@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "zechariah 14:7",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "и будет: день один, он известен ЯХВЕ — не день и не ночь, и будет: ко времени вечера ⟨будет⟩ свет.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и будет"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "известен"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "не"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ночь"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "и будет"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ко времени"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "вечера ⟨будет⟩"
+    },
+    {
+      "surface": "אור",
+      "gloss": "свет"
+    }
+  ],
+  "timestamp": "2026-08-03T06:20:43.191913456Z",
+  "model": "glm-4.5"
+}

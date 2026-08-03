@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "proverbs 4:21",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Да не отойдут они от глаз твоих; храни их ⟨в⟩ середине сердца твоего",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "да не"
+    },
+    {
+      "surface": "יליזו",
+      "gloss": "отойдут"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "от глаз твоих"
+    },
+    {
+      "surface": "שמרם",
+      "gloss": "храни их"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "⟨в⟩ середине"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "сердца твоего"
+    }
+  ],
+  "timestamp": "2026-08-03T09:25:01.877555490Z",
+  "model": "glm-4.5"
+}

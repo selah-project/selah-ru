@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Все руки опустятся, и все колена истекут, как вода.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "руки"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "опустятся"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и все"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "колени"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "истекут"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    }
+  ],
+  "timestamp": "2026-08-03T04:22:29.735685909Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "jeremiah 4:27",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Ибо так сказал ЯХВЕ: пустыней будет вся земля, но ⟨полного⟩ конца не сделаю.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "пустыней"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "будет"
+    },
+    {
+      "surface": "כל",
+      "gloss": "вся"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "но ⟨полного⟩ конца"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "сделаю"
+    }
+  ],
+  "timestamp": "2026-08-03T03:02:26.565044702Z",
+  "model": "glm-4.5"
+}

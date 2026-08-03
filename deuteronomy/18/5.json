@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "deuteronomy 18:5",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "ибо в нём избрал ЯХВЕ Эlohим твой из всех колен твоих, чтобы стоять служить во имя ЯХВЕ, он и сыновья его, все дни.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в нём"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "избрал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Эlohim твой"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "из всех"
+    },
+    {
+      "surface": "שבטיך",
+      "gloss": "колен твоих"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "чтобы стоять"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "служить"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "во имя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "и сыновья его"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дни"
+    }
+  ],
+  "timestamp": "2026-08-02T22:08:59.194330893Z",
+  "model": "glm-4.5"
+}

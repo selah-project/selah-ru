@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "jeremiah 39:15",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 39,
+  "translation": "И к Ирмияху было слово ЯХВЕ, когда ⟨он⟩ был заключен во дворе стражи, говоря:",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "И к"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмияху"
+    },
+    {
+      "surface": "היה",
+      "gloss": "было"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בהיתו",
+      "gloss": "когда ⟨он⟩ был"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "заключен"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "во дворе"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "стражи"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-03T03:54:41.863791298Z",
+  "model": "glm-4.5"
+}

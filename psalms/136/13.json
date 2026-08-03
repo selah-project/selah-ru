@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 136,
+  "translation": "Рассекающему Ям Суф ⟨на⟩ части, ибо ⟨в⟩ вечность хесед Его!",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "Рассекающему"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Ям"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Суф"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "⟨на⟩ части"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "⟨в⟩ вечность"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хесед Его"
+    }
+  ],
+  "timestamp": "2026-08-03T09:06:41.442634994Z",
+  "model": "glm-4.5"
+}

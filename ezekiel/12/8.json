@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "ezekiel 12:8",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И стало слово ЯХВЕ ко мне утром, говоря",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и стало"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ко мне"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "утром"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-03T04:28:03.420893983Z",
+  "model": "glm-4.5"
+}

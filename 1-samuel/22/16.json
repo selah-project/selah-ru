@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И сказал царь: умри смертью, Ахимелех, ты и ⟨весь⟩ дом отца твоего.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смертью"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "умри"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ахимелех"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и ⟨весь⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "отца твоего"
+    }
+  ],
+  "timestamp": "2026-08-02T23:38:39.180594201Z",
+  "model": "glm-4.5"
+}

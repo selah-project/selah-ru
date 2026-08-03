@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "1-chronicles 9:37",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "и Гедор, и Ахийо, и Зехарья, и Миклот",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "и Гедор"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "и Ахийо"
+    },
+    {
+      "surface": "וזכריה",
+      "gloss": "и Зехарья"
+    },
+    {
+      "surface": "ומקלות",
+      "gloss": "и Миклот"
+    }
+  ],
+  "timestamp": "2026-08-03T12:51:18.197325269Z",
+  "model": "glm-4.5"
+}

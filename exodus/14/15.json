@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "exodus 14:15",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И сказал ЯХВЕ Моше: что ты кричишь ⟨ко⟩ Мне? говори сынам Израиля, и пусть пойдут",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "תצעק",
+      "gloss": "ты кричишь"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨ко⟩ Мне"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "сынам"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "и пусть пойдут"
+    }
+  ],
+  "timestamp": "2026-08-02T20:08:34.337266312Z",
+  "model": "glm-4.5"
+}

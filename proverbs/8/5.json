@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 8:5",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Поймите, простецы, ⟨в⟩ хитрости, и глупцы, поймите ⟨в⟩ сердце",
+  "tokens": [
+    {
+      "surface": "הבינו",
+      "gloss": "поймите"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "простецы"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "хитрости"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "и глупцы"
+    },
+    {
+      "surface": "הבינו",
+      "gloss": "поймите"
+    },
+    {
+      "surface": "לב",
+      "gloss": "⟨в⟩ сердце"
+    }
+  ],
+  "timestamp": "2026-08-03T09:29:40.540367910Z",
+  "model": "glm-4.5"
+}

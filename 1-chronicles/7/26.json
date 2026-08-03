@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "1-chronicles 7:26",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Лаадан его сын, Аммиѓуд его сын, Элишама его сын,",
+  "tokens": [
+    {
+      "surface": "לעדן",
+      "gloss": "Лаадан"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "его сын"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Аммиѓуд"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "его сын"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Элишама"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "его сын"
+    }
+  ],
+  "timestamp": "2026-08-03T12:46:47.129359237Z",
+  "model": "glm-4.5"
+}

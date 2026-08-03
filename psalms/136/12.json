@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 136,
+  "translation": "рукою крепкою и рукою простёртою: ибо вовек хесед Его",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "рукою"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "крепкою"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "и рукою"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "простёртою"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "вовек"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хесед Его"
+    }
+  ],
+  "timestamp": "2026-08-03T09:06:51.384452032Z",
+  "model": "glm-4.5"
+}

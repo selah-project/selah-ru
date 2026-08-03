@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 105,
+  "translation": "Поставили в них слова Его знамений и чудеса в земле Хам",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "поставили"
+    },
+    {
+      "surface": "בם",
+      "gloss": "в них"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "Его знамений"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "и чудеса"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земле"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Хам"
+    }
+  ],
+  "timestamp": "2026-08-03T08:34:55.642961617Z",
+  "model": "glm-4.5"
+}

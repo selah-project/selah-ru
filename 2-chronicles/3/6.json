@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И покрыл ⟨את⟩ дом дорогим камнем для красоты, а золото было золотом Парваима.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "И покрыл"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дом"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "камнем"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "дорогим"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "для красоты"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "а золото"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "было золотом"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "Парваима"
+    }
+  ],
+  "timestamp": "2026-08-03T13:22:53.463138564Z",
+  "model": "glm-4.5"
+}

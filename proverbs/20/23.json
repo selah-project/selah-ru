@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "proverbs 20:23",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "То́а́ват ЯХВЕ — ⟨разные⟩ ⟨камни⟩, и ⟨весы⟩ обмана — ⟨не⟩ хороши",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "То́а́ват"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "⟨разные⟩"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "⟨камни⟩"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "и ⟨весы⟩"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "обмана"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "хороши"
+    }
+  ],
+  "timestamp": "2026-08-03T09:47:20.671654771Z",
+  "model": "glm-4.5"
+}

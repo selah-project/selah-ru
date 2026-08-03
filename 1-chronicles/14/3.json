@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "1-chronicles 14:3",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И взял Давид ещё жён в Иерусалиме, и родил Давид ещё сыновей и дочерей",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "И взял"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ещё"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "жён"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "в Иерусалиме"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и родил"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ещё"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "и дочерей"
+    }
+  ],
+  "timestamp": "2026-08-03T12:57:37.984403441Z",
+  "model": "glm-4.5"
+}

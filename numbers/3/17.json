@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "numbers 3:17",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И вот ⟨эти⟩ сыновья Левия по именам ⟨их⟩: Гершон и Кегат и Мерари.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И вот"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "⟨эти⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Левия"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "по именам ⟨их⟩"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Гершон"
+    },
+    {
+      "surface": "וקהת",
+      "gloss": "и Кегат"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "и Мерари"
+    }
+  ],
+  "timestamp": "2026-08-02T21:12:19.800869337Z",
+  "model": "glm-4.5"
+}

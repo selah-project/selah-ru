@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "numbers 10:34",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И облако ЯХВЕ ⟨было⟩ над ними днём, когда выступали ⟨את⟩ из стана.",
+  "tokens": [
+    {
+      "surface": "וענן",
+      "gloss": "И облако"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "над ними"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "днём"
+    },
+    {
+      "surface": "בנסעם",
+      "gloss": "когда выступали"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из",
+      "marks": "стана"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "стана"
+    }
+  ],
+  "timestamp": "2026-08-02T21:22:23.503101618Z",
+  "model": "glm-4.5"
+}

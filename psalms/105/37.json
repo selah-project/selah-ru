@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "psalms 105:37",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 105,
+  "translation": "И вывел их с серебром и золотом, и не было в племенах Его ⟨ stumble⟩",
+  "tokens": [
+    {
+      "surface": "ויוציאם",
+      "gloss": "и вывел их"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "с серебром"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "и золотом"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и не было"
+    },
+    {
+      "surface": "בשבטיו",
+      "gloss": "в племенах Его"
+    },
+    {
+      "surface": "כושל",
+      "gloss": "⟨stumble⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T08:35:45.218683309Z",
+  "model": "glm-4.5"
+}

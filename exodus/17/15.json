@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И построил Моше ⟨את⟩ жертвенник, и назвал имя его: ЯХВЕ-Нисси.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "и построил"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "⟨את⟩ жертвенник",
+      "marks": "жертвенник"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и назвал"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "имя его"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Нисси"
+    }
+  ],
+  "timestamp": "2026-08-02T20:11:48.395673868Z",
+  "model": "glm-4.5"
+}

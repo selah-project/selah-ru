@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 48,
+  "translation": "Нет шалома, сказал ЯХВЕ, ⟨для⟩ нечестивых.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Нет"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "шалома"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "⟨для⟩ нечестивых",
+      "marks": "нечестивых"
+    }
+  ],
+  "timestamp": "2026-08-03T02:36:23.287746147Z",
+  "model": "glm-4.5"
+}

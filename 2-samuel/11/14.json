@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И было утром, и написал Давид письмо ⟨в⟩ Йоаву, и послал ⟨его⟩ ⟨в⟩ руке Урии",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "утром"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "и написал"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "письмо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨в⟩"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоаву"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "и послал"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨в⟩ руке"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Урии"
+    }
+  ],
+  "timestamp": "2026-08-02T23:57:24.310943171Z",
+  "model": "glm-4.5"
+}

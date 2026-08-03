@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Не будь мудрым в ⟨своих⟩ глазах; бойся ЯХВЕ, и уклоняйся от зла",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "будь"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудрым"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "в глазах"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "бойся"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "и уклоняйся"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "от зла"
+    }
+  ],
+  "timestamp": "2026-08-03T09:23:07.690861681Z",
+  "model": "glm-4.5"
+}

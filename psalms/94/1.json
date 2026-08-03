@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 94,
+  "translation": "Эль мститель — ЯХВЕ! Эль мститель, яви ⟨себя⟩!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Эль"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "мститель"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эль"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "мститель"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "яви"
+    }
+  ],
+  "timestamp": "2026-08-03T08:23:22.612054908Z",
+  "model": "glm-4.5"
+}

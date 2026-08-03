@@ -1,0 +1,44 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 135,
+  "translation": "Кумиры ⟨כסף⟩ народов — ⟨וזהב⟩, ⟨מעשה⟩ ⟨ידי⟩ אדама.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "Кумиры"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "⟨народов⟩",
+      "marks": "кумиров"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "⟨серебро⟩"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "⟨и золото⟩"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "⟨изделие⟩"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "⟨рук⟩",
+      "marks": "изделие"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨человека⟩",
+      "marks": "рук"
+    }
+  ],
+  "timestamp": "2026-08-03T09:05:52.228502055Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "proverbs 3:34",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Если ⟨Он⟩ насмешникам — ⟨насмешник⟩, а смиренным даёт ⟨благоволение⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Если"
+    },
+    {
+      "surface": "ללצים",
+      "gloss": "насмешникам"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Он⟩"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "насмешник"
+    },
+    {
+      "surface": "ולעניים",
+      "gloss": "а смиренным"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "даёт"
+    },
+    {
+      "surface": "חן",
+      "gloss": "⟨благоволение⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T09:24:13.401351923Z",
+  "model": "glm-4.5"
+}

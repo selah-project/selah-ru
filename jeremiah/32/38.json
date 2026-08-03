@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "jeremiah 32:38",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "И они будут Мне ⟨את⟩ народом, и Я буду им ⟨את⟩ Элохим",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "И они будут"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мне"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "⟨את⟩ народом",
+      "marks": "народом"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "и Я"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "буду"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "⟨את⟩ Элохим",
+      "marks": "Элохим"
+    }
+  ],
+  "timestamp": "2026-08-03T03:45:37.569651786Z",
+  "model": "glm-4.5"
+}

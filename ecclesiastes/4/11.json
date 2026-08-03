@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Также если ⟨они⟩ лягут вдвоём, то тепло им; а ⟨как⟩ ⟨будет⟩ тепл ⟨одному⟩?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Также"
+    },
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "⟨они⟩ лягут"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "вдвоём"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "то тепло"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "а ⟨как⟩ ⟨будет⟩ тепл ⟨одному⟩"
+    },
+    {
+      "surface": "איך",
+      "gloss": "⟨как⟩"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "⟨будет⟩ тепл"
+    }
+  ],
+  "timestamp": "2026-08-03T11:18:55.373566035Z",
+  "model": "glm-4.5"
+}

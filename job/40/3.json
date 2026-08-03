@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "job 40:3",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "И отвечал Иов ⟨את⟩ ЯХВЕ и сказал:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "и отвечал"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Иов"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    }
+  ],
+  "timestamp": "2026-08-03T10:50:57.686439429Z",
+  "model": "glm-4.5"
+}

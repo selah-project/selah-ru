@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "exodus 18:6",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "и сказал он Моше: я, твой тесть Итро, пришёл к тебе, и ⟨твоя⟩ жена, и два сына её с ней.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "חתנך",
+      "gloss": "тесть твой"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Итро"
+    },
+    {
+      "surface": "בא",
+      "gloss": "пришёл"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "к тебе"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "и жена твоя"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "и два"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "сына её"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "с ней"
+    }
+  ],
+  "timestamp": "2026-08-03T17:52:32.272184842Z",
+  "model": "glm-4.5"
+}

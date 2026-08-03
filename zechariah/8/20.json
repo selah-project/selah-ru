@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "zechariah 8:20",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Так сказал ЯХВЕ Цеваот: ещё придут народы и жители ⟨многих⟩ городов",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ещё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "придут"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народы"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "и жители"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "городов"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "⟨многих⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T06:14:33.925841996Z",
+  "model": "glm-4.5"
+}

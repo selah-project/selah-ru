@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "А ⟨жители⟩ Гивеона услышали ⟨את⟩ то, что сделал Иегошуа Иерихону и Гаю",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "А ⟨жители⟩"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Гивеона"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "услышали"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "то, что"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "то, что"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Иегошуа"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "Иерихону"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "и Гаю"
+    }
+  ],
+  "timestamp": "2026-08-02T22:32:23.320884501Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "jeremiah 36:25",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "Также Эльнатан и Делаия и Гемария умоляли царя не сжигать ⟨את⟩ свиток, но он не послушал их",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Также"
+    },
+    {
+      "surface": "אלנתן",
+      "gloss": "Эльнатан"
+    },
+    {
+      "surface": "ודליהו",
+      "gloss": "и Делаия"
+    },
+    {
+      "surface": "וגמריהו",
+      "gloss": "и Гемария"
+    },
+    {
+      "surface": "הפגעו",
+      "gloss": "умоляли"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "не"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "сжигать"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "свиток"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "свиток"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "послушал"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "их"
+    }
+  ],
+  "timestamp": "2026-08-03T03:51:10.610912954Z",
+  "model": "glm-4.5"
+}

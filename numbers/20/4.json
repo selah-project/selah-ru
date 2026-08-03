@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И зачем привели вы ⟨את⟩ собрание ЯХВЕ в эту пустыню, чтобы умереть там, мы и наш скот?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "и зачем"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "привели вы"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "собрание"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "собрание"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "пустыню"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "эту"
+    },
+    {
+      "surface": "למות",
+      "gloss": "чтобы умереть"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "мы"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "и наш скот"
+    }
+  ],
+  "timestamp": "2026-08-02T21:33:01.567029305Z",
+  "model": "glm-4.5"
+}

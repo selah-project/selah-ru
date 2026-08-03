@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "job 10:22",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "земля мрака и тени смерти, где ⟨нет⟩ порядка и ⟨свет⟩ как мрак",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "עיפתה",
+      "gloss": "мрака"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "и"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "мрак"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "тени смерти"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "где ⟨нет⟩"
+    },
+    {
+      "surface": "סדרים",
+      "gloss": "порядка"
+    },
+    {
+      "surface": "ותפע",
+      "gloss": "и ⟨свет⟩"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "как"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "мрак"
+    }
+  ],
+  "timestamp": "2026-08-03T10:18:39.820098852Z",
+  "model": "glm-4.5"
+}

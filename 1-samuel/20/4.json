@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И сказал Ионафан Давиду: что скажет твоя нефеш, ⟨я⟩ сделаю для тебя",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Ионафан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давиду"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "скажет"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "твоя нефеш"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "сделаю"
+    },
+    {
+      "surface": "לך",
+      "gloss": "для тебя"
+    }
+  ],
+  "timestamp": "2026-08-02T23:35:28.031775390Z",
+  "model": "glm-4.5"
+}

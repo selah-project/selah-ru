@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "Голос ЯХВЕ над водами, Эль славы сотрясает ⟨громом⟩, ЯХВЕ над многими водами.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Голос"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "המים",
+      "gloss": "водами"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эль"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "славы"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "сотрясает ⟨громом⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "מים",
+      "gloss": "водами"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многими"
+    }
+  ],
+  "timestamp": "2026-08-03T07:05:02.396627951Z",
+  "model": "glm-4.5"
+}

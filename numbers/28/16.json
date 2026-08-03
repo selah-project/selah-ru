@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "И в ⟨месяце⟩ первом, в ⟨четырнадцать⟩ день ⟨месяца⟩ — Песах для ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "И в ⟨месяце⟩"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "первом"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "в ⟨четырнадцать⟩"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "⟨месяца⟩"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Песах"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "для ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T21:41:09.407893796Z",
+  "model": "glm-4.5"
+}

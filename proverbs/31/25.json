@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "proverbs 31:25",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "Сила и халет — её одеяние, и она смеётся ⟨над⟩ днём грядущим.",
+  "tokens": [
+    {
+      "surface": "עז",
+      "gloss": "сила"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "и халет"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "её одеяние"
+    },
+    {
+      "surface": "ותשחק",
+      "gloss": "и она смеётся"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "⟨над⟩ днём"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "грядущим"
+    }
+  ],
+  "timestamp": "2026-08-03T10:08:28.003906295Z",
+  "model": "glm-4.5"
+}

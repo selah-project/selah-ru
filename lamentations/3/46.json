@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Раскрыли ⟨против нас⟩ рот свой — все ⟨враги наши⟩.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "Раскрыли"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "⟨против нас⟩"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "рот свой"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "⟨враги наши⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T11:10:07.928471396Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "genesis 19:21",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "И сказал он ему: вот, я lifted лицо твоё также ⟨для⟩ слова этого, не推翻ить ⟨את⟩ город, о котором ты говорил.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "я lifted"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лицо твоё"
+    },
+    {
+      "surface": "גם",
+      "gloss": "также"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "⟨для⟩ слова"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "этого"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "не"
+    },
+    {
+      "surface": "הפכי",
+      "gloss": "опрокинуть\/разрушить"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "город"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "город"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "о котором"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ты говорил"
+    }
+  ],
+  "timestamp": "2026-08-03T17:44:39.217086574Z",
+  "model": "glm-4.5"
+}

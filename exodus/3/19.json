@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "exodus 3:19",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И я знаю, что не ⟨даст⟩ вам царь Египта уйти, и не ⟨по⟩ руке крепкой",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "и я"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знаю"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "даст"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вам"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Египта"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "уйти"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "по руке"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "крепкой"
+    }
+  ],
+  "timestamp": "2026-08-02T19:57:36.465918204Z",
+  "model": "glm-4.5"
+}

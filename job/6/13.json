@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "job 6:13",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Ведь ⟨не⟩ ⟨есть⟩ помощь во мне, и поддержка отогнана от меня",
+  "tokens": [
+    {
+      "surface": "האם",
+      "gloss": "ведь"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "помощь"
+    },
+    {
+      "surface": "בי",
+      "gloss": "во мне"
+    },
+    {
+      "surface": "ותשיה",
+      "gloss": "и поддержка"
+    },
+    {
+      "surface": "נדחה",
+      "gloss": "отогнана"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "от меня"
+    }
+  ],
+  "timestamp": "2026-08-03T10:15:00.380992504Z",
+  "model": "glm-4.5"
+}

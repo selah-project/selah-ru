@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "isaiah 24:12",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Осталась в ⟨городе⟩ пустошь, и ⟨ворота⟩ побиты разрушением.",
+  "tokens": [
+    {
+      "surface": "נשאר",
+      "gloss": "Осталась"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "в ⟨городе⟩"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "пустошь"
+    },
+    {
+      "surface": "ושאיה",
+      "gloss": "и"
+    },
+    {
+      "surface": "יכת",
+      "gloss": "побиты"
+    },
+    {
+      "surface": "שער",
+      "gloss": "⟨ворота⟩ разрушением"
+    }
+  ],
+  "timestamp": "2026-08-03T02:08:05.793581555Z",
+  "model": "glm-4.5"
+}

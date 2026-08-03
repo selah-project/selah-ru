@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 44,
+  "translation": "И взойдут ⟨они⟩ среди травы, как ивы ⟨по⟩ потокам вод",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "И взойдут ⟨они⟩"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "среди"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "травы"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "как ивы"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨по⟩"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "потокам"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вод"
+    }
+  ],
+  "timestamp": "2026-08-03T02:31:29.647047239Z",
+  "model": "glm-4.5"
+}

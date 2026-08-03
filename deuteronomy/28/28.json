@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "deuteronomy 28:28",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "поразит тебя ЯХВЕ ⟨с⟩ безумием и ⟨с⟩ слепотою и ⟨с⟩ изумлением сердца",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "поразит тебя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "⟨с⟩ безумием"
+    },
+    {
+      "surface": "ובעורון",
+      "gloss": "и ⟨с⟩ слепотою"
+    },
+    {
+      "surface": "ובתמהון",
+      "gloss": "и ⟨с⟩ изумлением"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "сердца"
+    }
+  ],
+  "timestamp": "2026-08-02T22:17:42.872962217Z",
+  "model": "glm-4.5"
+}

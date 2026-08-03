@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "proverbs 7:18",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Подойди, ⟨мы⟩ насытимся дарами любви до утра,⟨мы⟩ упреемся в ласках.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Подойди"
+    },
+    {
+      "surface": "נרוה",
+      "gloss": "⟨мы⟩ насытимся"
+    },
+    {
+      "surface": "דדים",
+      "gloss": "дарами любви"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "утра"
+    },
+    {
+      "surface": "נתעלסה",
+      "gloss": "⟨мы⟩ упреемся"
+    },
+    {
+      "surface": "באהבים",
+      "gloss": "в ласках"
+    }
+  ],
+  "timestamp": "2026-08-03T09:29:12.371996149Z",
+  "model": "glm-4.5"
+}

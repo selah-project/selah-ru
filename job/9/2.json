@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "job 9:2",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Истинно, я знаю, что это ⟨так⟩, но ⟨как⟩ оправдается человек с Эль?",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Истинно"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "я знаю"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "כן",
+      "gloss": "это ⟨так⟩"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "но ⟨как⟩"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "оправдается"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "человек"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эль"
+    }
+  ],
+  "timestamp": "2026-08-03T10:17:24.730167468Z",
+  "model": "glm-4.5"
+}

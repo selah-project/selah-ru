@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "возле ⟨ворот⟩, при входе ⟨город⟩, при входе ⟨дверей⟩ взывает",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "возле"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "⟨ворот⟩"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "при входе"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "⟨город⟩"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "при входе"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "⟨дверей⟩"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "взывает"
+    }
+  ],
+  "timestamp": "2026-08-03T09:29:45.134454266Z",
+  "model": "glm-4.5"
+}

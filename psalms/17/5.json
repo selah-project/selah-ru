@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "Утверди шаги мои на путях Твоих, да не поколеблются стопы мои",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "Утверди"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "шаги"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "на путях Твоих"
+    },
+    {
+      "surface": "בל",
+      "gloss": "да не"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "поколеблются"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "стопы мои"
+    }
+  ],
+  "timestamp": "2026-08-03T18:38:08.891534763Z",
+  "model": "glm-4.5"
+}

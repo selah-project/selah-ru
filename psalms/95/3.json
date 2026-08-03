@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 95,
+  "translation": "Ибо великий Эль — ЯХВЕ, и великий царь над всеми ⟨богами⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "великий Эль"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "великий"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "и великий царь"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "великий"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всеми"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "⟨богами⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T08:23:44.300831899Z",
+  "model": "glm-4.5"
+}

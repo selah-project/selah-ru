@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "и когда приносите ⟨את⟩ жертву мирную ЯХВЕ, по воле вашей приносите её",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "и когда"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "приносите"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "⟨את⟩ жертву",
+      "marks": "жертву"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "мирную"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "по воле вашей"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "приносите её"
+    }
+  ],
+  "timestamp": "2026-08-02T20:59:29.526961596Z",
+  "model": "glm-4.5"
+}

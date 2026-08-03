@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "И поразил ЯХВЕ ⟨את⟩ народ, за то, что сделали ⟨את⟩ тельца, которого сделал Аарон",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "И поразил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "על",
+      "gloss": "за то, что"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשו",
+      "gloss": "сделали"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тельца"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "тельца"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которого"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    }
+  ],
+  "timestamp": "2026-08-02T20:30:30.249665403Z",
+  "model": "glm-4.5"
+}

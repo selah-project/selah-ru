@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Бремя, которое видел Хаваккук, пророк.",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "Бремя"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "увидел"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "Хаваккук"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророк"
+    }
+  ],
+  "timestamp": "2026-08-03T05:56:47.911003840Z",
+  "model": "glm-4.5"
+}

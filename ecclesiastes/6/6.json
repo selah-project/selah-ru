@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Даже если ⟨он⟩ живёт две тысячи лет, ⟨но⟩ блага не видит: не ⟨ли⟩ все ⟨они⟩ идут в одно место?",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "Даже если"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "живёт"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тысячу"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "лет"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "дважды"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "⟨но⟩ блага"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "видит"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "не ⟨ли⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одно"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "все ⟨они⟩"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "идут"
+    }
+  ],
+  "timestamp": "2026-08-03T11:21:12.864348788Z",
+  "model": "glm-4.5"
+}

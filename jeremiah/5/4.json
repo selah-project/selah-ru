@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "jeremiah 5:4",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И я сказал: только бедные они, foolish, потому что не знают путь ЯХВЕ, judgment их Элохим.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "И я"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "אך",
+      "gloss": "только"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "бедные"
+    },
+    {
+      "surface": "הם",
+      "gloss": "они"
+    },
+    {
+      "surface": "נואלו",
+      "gloss": "foolish"
+    },
+    {
+      "surface": "כי",
+      "gloss": "потому что"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знают"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "путь"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "judgment"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "их Элохим"
+    }
+  ],
+  "timestamp": "2026-08-03T03:03:37.424452338Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И сказал Авимелех Аврааму: что ты ⟨видел⟩, что ⟨ты⟩ сделал ⟨את⟩ это дело?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авимелех"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврааму"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "⟨видел⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "⟨ты⟩ сделал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "это дело"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "дело"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "это"
+    }
+  ],
+  "timestamp": "2026-08-02T19:17:23.600274239Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "2-kings 25:28",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "и spoke to him good things, and put ⟨את⟩ throne his from upon throne ⟨the⟩ kings who with him in Вавилоне",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "и spoke"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "to him"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "good things"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "throne his"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "throne his"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "from upon"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "throne"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "⟨the⟩ kings"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "who"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "with him"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "in Вавилоне"
+    }
+  ],
+  "timestamp": "2026-08-03T18:34:01.931917392Z",
+  "model": "glm-4.5"
+}

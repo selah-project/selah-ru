@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "2-chronicles 17:10",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И был страх ЯХВЕ на всех царствах земель, которые вокруг Йехуды, и не воевали с Иегошафатом.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И был"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "страх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "царствах"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "земель"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "вокруг"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуды"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "воевали"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Иегошафатом"
+    }
+  ],
+  "timestamp": "2026-08-03T13:47:20.589285398Z",
+  "model": "glm-4.5"
+}

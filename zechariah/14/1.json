@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "zechariah 14:1",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Вот, идёт день к ЯХВЕ, и распределена ⟨будет⟩ добыча твоя среди тебя",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Вот"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "בא",
+      "gloss": "идёт"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "к ЯХВЕ"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "и распределена"
+    },
+    {
+      "surface": "שללך",
+      "gloss": "добыча твоя"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "среди тебя"
+    }
+  ],
+  "timestamp": "2026-08-03T18:35:24.091571760Z",
+  "model": "glm-4.5"
+}

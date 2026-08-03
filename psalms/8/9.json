@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Птица неба и рыбы ⟨этого⟩ моря, проходящая ⟨по⟩ тропам морей.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "птица"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "неба"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "и рыбы"
+    },
+    {
+      "surface": "הים",
+      "gloss": "⟨этого⟩ моря"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "проходящая"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "⟨по⟩ тропам"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "морей"
+    }
+  ],
+  "timestamp": "2026-08-03T06:38:15.615874556Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "⟨Без⟩ причины выслеживали меня мои враги, ⟨как⟩ птицу.",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "выслеживали"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "меня"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "⟨как⟩ птицу"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "мои враги"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "⟨Без⟩ причины"
+    }
+  ],
+  "timestamp": "2026-08-03T11:12:53.964554936Z",
+  "model": "glm-4.5"
+}

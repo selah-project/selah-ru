@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Праведность непорочного выпрямит ⟨его⟩ путь, а ⟨по⟩ своей wickedness упадёт нечестивый",
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "Праведность"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "непорочного"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "выпрямит"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "⟨его⟩ путь",
+      "marks": "путь"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "а ⟨по⟩ своей wickedness",
+      "marks": "wickedness"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "упадёт"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "нечестивый"
+    }
+  ],
+  "timestamp": "2026-08-03T09:34:07.001080145Z",
+  "model": "glm-4.5"
+}

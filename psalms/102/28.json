@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 102,
+  "translation": "Но Ты — Тот же, и годы Твои не кончатся.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Но Ты"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "— Тот же"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "и годы Твои"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "кончатся"
+    }
+  ],
+  "timestamp": "2026-08-03T08:30:51.514370206Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Слушайте слово ЯХВЕ, дом Яакова, и ⟨все⟩ семейства дома Израиля:",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Слушайте"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яакова"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "семейства"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-03T02:58:49.374995643Z",
+  "model": "glm-4.5"
+}

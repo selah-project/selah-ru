@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "ezra 5:13",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Однако в первом году Кира, царя Вавилона, Кир, царь, постановил указ: ⟨чтобы⟩ rebuilding этот дом Элохим.",
+  "tokens": [
+    {
+      "surface": "ברם",
+      "gloss": "однако"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "в году"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "первом"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "Кира"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "царя"
+    },
+    {
+      "surface": "די",
+      "gloss": "который"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилона"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Кир"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "царь"
+    },
+    {
+      "surface": "שם",
+      "gloss": "постановил"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "указ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "этот"
+    },
+    {
+      "surface": "לבנא",
+      "gloss": "строить"
+    }
+  ],
+  "timestamp": "2026-08-03T12:03:32.611973156Z",
+  "model": "glm-4.5"
+}

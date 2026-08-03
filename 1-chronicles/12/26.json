@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "1-chronicles 12:26",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Из сыновей Шимона, ⟨эти⟩ герои силы для армии, семь тысяч и сто",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Из"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимона"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "герои"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "силы"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "для армии"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "семь"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "тысяч"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "и сто"
+    }
+  ],
+  "timestamp": "2026-08-03T12:54:54.475209216Z",
+  "model": "glm-4.5"
+}

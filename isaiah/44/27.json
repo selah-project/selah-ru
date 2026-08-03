@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "isaiah 44:27",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 44,
+  "translation": "Говорящий ⟨к⟩ бездне: иссохни, и потоки твои иссушу",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "Говорящий"
+    },
+    {
+      "surface": "לצולה",
+      "gloss": "⟨к⟩ бездне"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "иссохни"
+    },
+    {
+      "surface": "ונהרתיך",
+      "gloss": "и потоки твои"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "иссушу"
+    }
+  ],
+  "timestamp": "2026-08-03T02:31:57.549808405Z",
+  "model": "glm-4.5"
+}

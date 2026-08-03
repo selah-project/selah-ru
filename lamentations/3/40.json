@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "lamentations 3:40",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "⟨Давай⟩ поищем ⟨наши⟩ пути и исследуем, и вернёмся ⟨к⟩ ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "נחפשה",
+      "gloss": "поищем"
+    },
+    {
+      "surface": "דרכינו",
+      "gloss": "⟨наши⟩ пути"
+    },
+    {
+      "surface": "ונחקרה",
+      "gloss": "и исследуем"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "и вернёмся"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨к⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T11:10:04.114714044Z",
+  "model": "glm-4.5"
+}

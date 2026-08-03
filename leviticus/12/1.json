@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "leviticus 12:1",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И spoke ЯХВЕ to Моше, saying:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И spoke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "saying:"
+    }
+  ],
+  "timestamp": "2026-08-02T20:51:17.350360927Z",
+  "model": "glm-4.5"
+}

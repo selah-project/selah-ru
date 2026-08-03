@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "isaiah 3:19",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "подвески ⟨и⟩ браслеты ⟨и⟩ накидки",
+  "tokens": [
+    {
+      "surface": "הנטיפות",
+      "gloss": "подвески"
+    },
+    {
+      "surface": "והשירות",
+      "gloss": "⟨и⟩ браслеты"
+    },
+    {
+      "surface": "והרעלות",
+      "gloss": "⟨и⟩ накидки"
+    }
+  ],
+  "timestamp": "2026-08-03T01:43:32.408147965Z",
+  "model": "glm-4.5"
+}

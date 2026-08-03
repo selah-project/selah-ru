@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "1-chronicles 12:5",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "и Ирмиях и Яхазиэль и Йоханан и Йозавад, гдератитянин",
+  "tokens": [
+    {
+      "surface": "וירמיה",
+      "gloss": "и Ирмиях"
+    },
+    {
+      "surface": "ויחזיאל",
+      "gloss": "и Яхазиэль"
+    },
+    {
+      "surface": "ויוחנן",
+      "gloss": "и Йоханан"
+    },
+    {
+      "surface": "ויוזבד",
+      "gloss": "и Йозавад"
+    },
+    {
+      "surface": "הגדרתי",
+      "gloss": "гдератитянин"
+    }
+  ],
+  "timestamp": "2026-08-03T12:54:40.988034734Z",
+  "model": "glm-4.5"
+}

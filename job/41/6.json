@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "job 41:6",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 41,
+  "translation": "Двери лица его ⟨את⟩ кто откроет? круг зубов его — ужас",
+  "tokens": [
+    {
+      "surface": "דלתי",
+      "gloss": "двери"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лица его"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "откроет"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "круг"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "зубов его"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "ужас"
+    }
+  ],
+  "timestamp": "2026-08-03T10:52:05.469911735Z",
+  "model": "glm-4.5"
+}

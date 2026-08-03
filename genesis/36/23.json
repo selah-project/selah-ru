@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "genesis 36:23",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "А вот сыновья Шовала: Алван, и Манахат, и Эйваль, Шефо и Онам.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "а вот"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Шовала"
+    },
+    {
+      "surface": "עלון",
+      "gloss": "Алван"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "и Манахат"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "и Эйваль"
+    },
+    {
+      "surface": "שפו",
+      "gloss": "Шефо"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "и Онам"
+    }
+  ],
+  "timestamp": "2026-08-02T19:38:45.772645354Z",
+  "model": "glm-4.5"
+}

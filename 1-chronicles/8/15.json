@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-chronicles 8:15",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "и Зевадия, и Арад, и Эдер",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "и Зевадия"
+    },
+    {
+      "surface": "וערד",
+      "gloss": "и Арад"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "и Эдер"
+    }
+  ],
+  "timestamp": "2026-08-03T12:48:55.940699851Z",
+  "model": "glm-4.5"
+}

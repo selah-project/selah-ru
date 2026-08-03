@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "и я поставил там ⟨את⟩ Ковчег, в котором ⟨есть⟩ завет ЯХВЕ, который Он заключил с сынами Израиля",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "и я поставил"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ковчег"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "Ковчег"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "в котором"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨есть⟩"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "завет"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "Он заключил"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынами"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-03T13:27:53.066418494Z",
+  "model": "glm-4.5"
+}

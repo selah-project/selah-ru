@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "job 38:31",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 38,
+  "translation": "Можешь ли ты связать узы Кима, или расторгнуть связи Кесиль?",
+  "tokens": [
+    {
+      "surface": "התקשר",
+      "gloss": "связать"
+    },
+    {
+      "surface": "מעדנות",
+      "gloss": "узы"
+    },
+    {
+      "surface": "כימה",
+      "gloss": "Кима"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "משכות",
+      "gloss": "связи"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "Кесиль"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "расторгнуть"
+    }
+  ],
+  "timestamp": "2026-08-03T10:49:36.030913818Z",
+  "model": "glm-4.5"
+}

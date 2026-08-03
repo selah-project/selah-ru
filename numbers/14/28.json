@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "numbers 14:28",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Скажи им: жив Я, слово ЯХВЕ, если ⟨не⟩ так, как вы говорили ⟨в⟩ ушах ⟨моих⟩, так сделаю ⟨вам⟩",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Скажи"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жив"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "так, как"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "вы говорили"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "⟨в⟩ ушах ⟨моих⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "сделаю"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨вам⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T21:26:25.282684314Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 105,
+  "translation": "Возвеселился Мицраим при их выходе, ибо упал страх их на них",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "возвеселился"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "при их выходе"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "упал"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "страх их"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "на них"
+    }
+  ],
+  "timestamp": "2026-08-03T08:35:39.721717231Z",
+  "model": "glm-4.5"
+}

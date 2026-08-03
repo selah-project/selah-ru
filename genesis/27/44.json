@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 44,
+  "ref": "genesis 27:44",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "И посиди ⟨с⟩ ним ⟨несколько⟩ дней, доколе не отступит ярость брата твоего",
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "И посиди"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨с⟩ ним",
+      "marks": "с ним"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дней"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "⟨несколько⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "доколе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "не отступит"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ярость"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "брата твоего"
+    }
+  ],
+  "timestamp": "2026-08-02T19:27:48.578544352Z",
+  "model": "glm-4.5"
+}

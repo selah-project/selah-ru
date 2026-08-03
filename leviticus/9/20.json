@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И положили ⟨את⟩ жир на груди, и воскурил жир на алтаре",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "и положили"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жир"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "жир"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "груди"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "и воскурил"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "жир"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "на алтаре"
+    }
+  ],
+  "timestamp": "2026-08-02T20:48:19.275091736Z",
+  "model": "glm-4.5"
+}

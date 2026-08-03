@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 119:18",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Открой глаза мои, и я увижу чудеса ⟨из⟩ Торы Твоей",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Открой"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "глаза мои"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "и я увижу"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "чудеса"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "⟨из⟩ Торы Твоей"
+    }
+  ],
+  "timestamp": "2026-08-03T08:49:41.096840905Z",
+  "model": "glm-4.5"
+}

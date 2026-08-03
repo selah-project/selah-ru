@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 5:4",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Но ⟨её⟩ конец горек, как полынь, ⟨и⟩ остра, как меч с ⟨устами⟩;",
+  "tokens": [
+    {
+      "surface": "ואחריתה",
+      "gloss": "Но ⟨её⟩ конец"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "горек"
+    },
+    {
+      "surface": "כלענה",
+      "gloss": "как полынь"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "остра"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "как меч"
+    },
+    {
+      "surface": "פיות",
+      "gloss": "с ⟨устами⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T09:25:55.410217137Z",
+  "model": "glm-4.5"
+}

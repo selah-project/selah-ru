@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 47,
+  "ref": "numbers 1:47",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "А левиты, ⟨по⟩ колену отцов их, не были исчислены среди ⟨них⟩",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "А левиты"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "⟨по⟩ колену"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "отцов их"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "התפקדו",
+      "gloss": "были исчислены"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "среди ⟨них⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T21:10:35.322528799Z",
+  "model": "glm-4.5"
+}

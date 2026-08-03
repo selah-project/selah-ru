@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "proverbs 2:6",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Ибо ЯХВЕ даёт хохму; из уст Его — даат и твуна.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "даёт"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "хохму"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "из уст Его"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "даат"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "и твуна"
+    }
+  ],
+  "timestamp": "2026-08-03T09:22:00.422144448Z",
+  "model": "glm-4.5"
+}

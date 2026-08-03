@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "Пастыри, слушайте ⟨את⟩ слово ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Пастыри"
+    },
+    {
+      "surface": "רעים",
+      "gloss": ""
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "слушайте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слово"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T04:58:21.477184663Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "nehemiah 11:29",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "и в Эйн-Римон, и в Цара, и в Ярмут",
+  "tokens": [
+    {
+      "surface": "ובעין",
+      "gloss": "и в Эйн-Римон"
+    },
+    {
+      "surface": "רמון",
+      "gloss": ""
+    },
+    {
+      "surface": "ובצרעה",
+      "gloss": "и в Цара"
+    },
+    {
+      "surface": "ובירמות",
+      "gloss": "и в Ярмут"
+    }
+  ],
+  "timestamp": "2026-08-03T12:30:13.186126203Z",
+  "model": "glm-4.5"
+}

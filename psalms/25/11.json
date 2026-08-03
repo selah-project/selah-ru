@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "Ради имени Твоего, ЯХВЕ, прости ⟨и⟩ беззаконие моё, ибо оно велико",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Ради"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "имени Твоего"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "прости"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "⟨и⟩ беззаконие моё"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "רב",
+      "gloss": "оно велико"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "оно"
+    }
+  ],
+  "timestamp": "2026-08-03T07:00:46.294454518Z",
+  "model": "glm-4.5"
+}

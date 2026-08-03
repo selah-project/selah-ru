@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "job 27:3",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "Пока ⟨ещё⟩ дыхание моё во мне и Руах Элога в ноздрях моих",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Пока"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨ещё⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "пока"
+    },
+    {
+      "surface": "נשמתי",
+      "gloss": "дыхание моё"
+    },
+    {
+      "surface": "בי",
+      "gloss": "во мне"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "и Руах"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Элога"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "в ноздрях моих"
+    }
+  ],
+  "timestamp": "2026-08-03T10:32:59.548158195Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "proverbs 8:35",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Ибо, находящий ⟨меня⟩, находит жизнь, и вызывает благоволение от ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "находящий"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "находит"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "жизнь"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "и вызывает"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "благоволение"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "от ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T09:31:12.534413355Z",
+  "model": "glm-4.5"
+}

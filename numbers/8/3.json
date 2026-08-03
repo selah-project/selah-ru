@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "numbers 8:3",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И сделал так Аарон: ⟨к⟩ лицевой стороне меноры возжёг ⟨её⟩ лампы, как ⟨повелел⟩ ЯХВЕ ⟨את⟩ Моше",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "и сделал"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "מול",
+      "gloss": "лицевая сторона"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицо"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "меноры"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "возжёг"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "её лампы"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "повелел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-08-02T21:20:08.130056029Z",
+  "model": "glm-4.5"
+}

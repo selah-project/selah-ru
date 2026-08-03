@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И ходил Ханок ⟨с⟩ Элохим, и его не ⟨было⟩, ибо ⟨את⟩ взял ⟨את⟩ Элохим",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "и ходил"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Ханок"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элохим"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "и его не"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "⟨את⟩ взял"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Элохим"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-08-02T17:49:02.481186900Z",
+  "model": "glm-4.5"
+}

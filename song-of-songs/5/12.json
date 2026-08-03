@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "song-of-songs 5:12",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Его глаза — как голуби ⟨на⟩ ручьях вод, омываемые ⟨в⟩ молоке, восседающие ⟨на⟩ полноте",
+  "tokens": [
+    {
+      "surface": "עיניו",
+      "gloss": "Его глаза"
+    },
+    {
+      "surface": "כיונים",
+      "gloss": "как голуби"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "ручьях"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вод"
+    },
+    {
+      "surface": "רחצות",
+      "gloss": "омываемые"
+    },
+    {
+      "surface": "בחלב",
+      "gloss": "⟨в⟩ молоке"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "восседающие"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "полноте"
+    }
+  ],
+  "timestamp": "2026-08-03T10:57:22.471838509Z",
+  "model": "glm-4.5"
+}

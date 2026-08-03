@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "proverbs 4:22",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Ибо жизнь ⟨они⟩ для находящих ⟨их⟩, и исцеление для всей их плоти",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "жизнь"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨они⟩"
+    },
+    {
+      "surface": "למצאיהם",
+      "gloss": "для находящих ⟨их⟩"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "и для всей"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "их плоти"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "исцеление"
+    }
+  ],
+  "timestamp": "2026-08-03T09:25:18.585464722Z",
+  "model": "glm-4.5"
+}

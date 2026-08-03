@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "2-kings 19:33",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Путём, которым придёт, ⟨он⟩ вернётся, и в этот город не войдёт, — слово ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "путём"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которым"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "придёт"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨в нём⟩"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "вернётся"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и в"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "город"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "этот"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "войдёт"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T01:30:39.377806493Z",
+  "model": "glm-4.5"
+}

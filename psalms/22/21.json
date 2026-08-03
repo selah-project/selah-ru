@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Избавь мою нефеш от меча, ⟨мою единственную⟩ от силы пса",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "Избавь"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "от меча"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "мою нефеш"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "от силы"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "пса"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "⟨мою единственную⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T06:55:06.299273743Z",
+  "model": "glm-4.5"
+}

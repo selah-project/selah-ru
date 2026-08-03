@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "десятина, десятина ⟨за⟩ каждого ⟨из⟩ семи агнцев",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "десятина"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "десятина"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "⟨за⟩ каждого"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨из⟩"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "семи"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "агнцев"
+    }
+  ],
+  "timestamp": "2026-08-02T21:41:54.136044805Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Не perviráй ⟨суд⟩ гера и сироты, и не брать ⟨в залог⟩ одежду вдовы:",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "perviráй"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "⟨суд⟩"
+    },
+    {
+      "surface": "גר",
+      "gloss": "гера"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "и сироты"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "брать"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "⟨в залог⟩ одежду"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "вдовы:"
+    }
+  ],
+  "timestamp": "2026-08-02T22:14:22.302410066Z",
+  "model": "glm-4.5"
+}

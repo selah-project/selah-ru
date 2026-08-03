@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Сыновья Азгада: две тысячи триста двадцать два.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "Азгада"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "две тысячи"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сто"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцать"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "два"
+    }
+  ],
+  "timestamp": "2026-08-03T12:21:58.931772953Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "job 35:12",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "Там они возопиют, и не ⟨Он⟩ ответит, от лица гордыни злых",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Там"
+    },
+    {
+      "surface": "יצעקו",
+      "gloss": "они возопиют"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "⟨Он⟩ ответит"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "от лица"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "гордыни"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "злых"
+    }
+  ],
+  "timestamp": "2026-08-03T10:46:09.322711383Z",
+  "model": "glm-4.5"
+}

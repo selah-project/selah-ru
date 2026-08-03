@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 98,
+  "translation": "Играйте ЯХВЕ на киннóре, на киннóре и с гласом пéсни",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Играйте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "на киннóре"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "на киннóре"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "и с гласом"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "пéсни"
+    }
+  ],
+  "timestamp": "2026-08-03T08:28:06.718101554Z",
+  "model": "glm-4.5"
+}

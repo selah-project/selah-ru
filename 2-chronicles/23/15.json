@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "2-chronicles 23:15",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "И подали ⟨ей⟩ руки, и вошла она во вход конных ворот, дома царя, и умертвили её там",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "и подали"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨ей⟩"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "руки"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "и вошла"
+    },
+    {
+      "surface": "אל",
+      "gloss": "во"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "вход"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ворот"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "конных"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "וימיתוה",
+      "gloss": "и умертвили её"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    }
+  ],
+  "timestamp": "2026-08-03T13:56:28.410371109Z",
+  "model": "glm-4.5"
+}

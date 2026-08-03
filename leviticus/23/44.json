@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "И возвестил Моше ⟨את⟩ праздники ЯХВЕ сынам Исраэля",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И возвестил"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "праздники"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "праздники"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "сынам"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынам"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраэля"
+    }
+  ],
+  "timestamp": "2026-08-02T21:04:04.409880874Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "job 34:2",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "Послушайте ⟨мои⟩ слова, мудрые, и внемлите мне, знающие",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "послушайте"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудрые"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "⟨мои⟩ слова"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "и"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "внемлите"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    }
+  ],
+  "timestamp": "2026-08-03T18:29:48.027967084Z",
+  "model": "glm-4.5"
+}

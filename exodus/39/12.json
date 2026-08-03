@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 39,
+  "translation": "и ⟨в⟩ третьем ряду — лигур, агат и аметист",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "и ⟨в⟩ ряду"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "третьем"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "лигур"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "агат"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "и аметист"
+    }
+  ],
+  "timestamp": "2026-08-02T20:37:48.156313326Z",
+  "model": "glm-4.5"
+}

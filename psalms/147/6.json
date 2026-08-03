@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 147,
+  "translation": "ЯХВЕ поддерживает смирённых, низводит ⟨и⟩ нечестивых до земли",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "поддерживает"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "смирённых"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "низводит"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивых"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "до"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земли"
+    }
+  ],
+  "timestamp": "2026-08-03T09:17:10.920635945Z",
+  "model": "glm-4.5"
+}

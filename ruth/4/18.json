@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "ruth 4:18",
+  "book": "ruth",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "А вот родословие Переца: Перец родил ⟨את⟩ Хецрона",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "А вот"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "родословие"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Переца"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перец"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "родил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хецрона"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Хецрона"
+    }
+  ],
+  "timestamp": "2026-08-03T11:04:06.224403575Z",
+  "model": "glm-4.5"
+}

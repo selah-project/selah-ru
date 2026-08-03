@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "genesis 36:16",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "алуф Корах, алуф Гатам, алуф Амалек: эти алуфы, вышедшие от Элифаза, в земле Эдом; это сыновья Ады",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "алуф"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "алуф"
+    },
+    {
+      "surface": "געתם",
+      "gloss": "Гатам"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "алуф"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Амалек"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "эти"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "алуфы"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Элифаза"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земле"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "это"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ады"
+    }
+  ],
+  "timestamp": "2026-08-02T19:38:35.959109712Z",
+  "model": "glm-4.5"
+}

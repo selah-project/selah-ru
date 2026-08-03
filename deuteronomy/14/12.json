@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "а вот те, из которых ⟨не⟩ будете есть: орлан, и гриф, и орлан-скоморох",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "а вот те"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "будете есть"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "из них"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "орлан"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "и гриф"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "и орлан-скоморох"
+    }
+  ],
+  "timestamp": "2026-08-02T22:05:38.156050231Z",
+  "model": "glm-4.5"
+}

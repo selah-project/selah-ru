@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Я хожу ⟨по⟩ пути праведности, ⟨среди⟩ троп ⟨правосудия⟩",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "по пути"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "праведности"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "я хожу"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "среди"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "троп"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "правосудия"
+    }
+  ],
+  "timestamp": "2026-08-03T09:29:42.084852953Z",
+  "model": "glm-4.5"
+}

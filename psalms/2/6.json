@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "А я помазал царя Моего над Сионом, горой святынею Моею",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "А я"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "помазал"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "царя Моего"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Сионом"
+    },
+    {
+      "surface": "הר",
+      "gloss": "горой"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "святынею Моею"
+    }
+  ],
+  "timestamp": "2026-08-03T06:27:40.639065282Z",
+  "model": "glm-4.5"
+}

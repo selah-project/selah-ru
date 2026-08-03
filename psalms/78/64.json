@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 78,
+  "translation": "Его священники пали от меча, и ⟨их⟩ вдовы не оплакивали.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "Его священники"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "от меча"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "пали"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "и ⟨их⟩ вдовы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "оплакивали"
+    }
+  ],
+  "timestamp": "2026-08-03T08:04:47.665829040Z",
+  "model": "glm-4.5"
+}

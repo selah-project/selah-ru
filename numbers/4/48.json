@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 48,
+  "ref": "numbers 4:48",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И было ⟨их⟩ исчисленных: восемь тысяч и пятьсот и восемьдесят",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И было"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "⟨их⟩ исчисленных"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "восемь"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "тысяч"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "и пять"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотен"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "и восемьдесят"
+    }
+  ],
+  "timestamp": "2026-08-02T21:15:10.635506528Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "1-chronicles 8:25",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И Ипхедиях, и Пенуэль, сыновья Шашака;",
+  "tokens": [
+    {
+      "surface": "ויפדיה",
+      "gloss": "и Ипхедиях"
+    },
+    {
+      "surface": "ופניאל",
+      "gloss": "и Пенуэль"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "Шашака"
+    }
+  ],
+  "timestamp": "2026-08-03T12:49:14.872624044Z",
+  "model": "glm-4.5"
+}

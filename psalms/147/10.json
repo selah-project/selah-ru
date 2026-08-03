@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 147,
+  "translation": "Не в силе коня Он благоволит, не в голенях мужа Он доволен",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "в силе"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "коня"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "Он благоволит"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "в голенях"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "мужа"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "Он доволен"
+    }
+  ],
+  "timestamp": "2026-08-03T09:17:10.884123667Z",
+  "model": "glm-4.5"
+}

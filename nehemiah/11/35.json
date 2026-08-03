@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "nehemiah 11:35",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Лод и Оно, ⟨в⟩ долине ⟨הַחֲרָשִׁים⟩ Гехарашим",
+  "tokens": [
+    {
+      "surface": "לד",
+      "gloss": "Лод"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "и Оно"
+    },
+    {
+      "surface": "גי",
+      "gloss": "⟨в⟩ долине ⟨הַחֲרָשִׁים⟩"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "Гехарашим"
+    }
+  ],
+  "timestamp": "2026-08-03T12:30:36.342731791Z",
+  "model": "glm-4.5"
+}

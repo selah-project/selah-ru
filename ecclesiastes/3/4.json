@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "время плакать и время смеяться; время оплакивать и время плясать;",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "время"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "плакать"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и время"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "смеяться"
+    },
+    {
+      "surface": "עת",
+      "gloss": "время"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "оплакивать"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и время"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "плясать"
+    }
+  ],
+  "timestamp": "2026-08-03T11:17:42.920206157Z",
+  "model": "glm-4.5"
+}

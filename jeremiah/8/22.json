@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "jeremiah 8:22",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Нет ли бальзама в Галааде? Нет ли там врача? ⟨Ибо⟩ почему не поднялось здоровье дочери народа моего?",
+  "tokens": [
+    {
+      "surface": "הצרי",
+      "gloss": "бальзам"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "в Галааде"
+    },
+    {
+      "surface": "אם",
+      "gloss": "нет ли"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "врач"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ибо⟩"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "почему"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "поднялось"
+    },
+    {
+      "surface": "ארכת",
+      "gloss": "здоровье"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочери"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народа моего"
+    }
+  ],
+  "timestamp": "2026-08-03T03:09:13.096296585Z",
+  "model": "glm-4.5"
+}

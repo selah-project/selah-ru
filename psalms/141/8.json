@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 141,
+  "translation": "Ибо к Тебе, ЯХВЕ Адонай, очи мои; в Тебе я укрылся, не обнажай душу мою.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "к Тебе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "очи мои"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "в Тебе"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "я укрылся"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תער",
+      "gloss": "обнажай"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душу мою"
+    }
+  ],
+  "timestamp": "2026-08-03T09:11:42.169406826Z",
+  "model": "glm-4.5"
+}

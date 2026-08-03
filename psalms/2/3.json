@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Разорвем ⟨את⟩ узы их и сбросим с себя канаты их",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "разорвём"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "узы их"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "узы их"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "и сбросим"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "с себя"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "канаты их"
+    }
+  ],
+  "timestamp": "2026-08-03T06:27:36.259693555Z",
+  "model": "glm-4.5"
+}

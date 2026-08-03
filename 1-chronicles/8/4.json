@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-chronicles 8:4",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "и Авишуа, и Нааман, и Ахох",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "и Авишуа"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "и Нааман"
+    },
+    {
+      "surface": "ואחוח",
+      "gloss": "и Ахох"
+    }
+  ],
+  "timestamp": "2026-08-03T12:48:49.560671524Z",
+  "model": "glm-4.5"
+}

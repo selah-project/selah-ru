@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И если ⟨будет⟩ в человеке грех ⟨судный⟩ к смерти, и он будет умерщвлён, и повесишь ⟨את⟩ его на дереве",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "и если"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨будет⟩"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "в человеке"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "грех"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "⟨судный⟩"
+    },
+    {
+      "surface": "מות",
+      "gloss": "к смерти"
+    },
+    {
+      "surface": "והומת",
+      "gloss": "и он будет умерщвлён"
+    },
+    {
+      "surface": "ותלית",
+      "gloss": "и повесишь"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "его"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дереве"
+    }
+  ],
+  "timestamp": "2026-08-02T22:11:10.061255793Z",
+  "model": "glm-4.5"
+}

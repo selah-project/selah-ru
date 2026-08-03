@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "genesis 29:21",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "И сказал Яаков Лавану: дай ⟨את⟩ мою жену, ибо ⟨исполнились⟩ дни мои, и ⟨я⟩ войду к ней.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лавану"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "дай"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мою жену"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "мою жену"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "⟨исполнились⟩"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дни мои"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "и ⟨я⟩ войду"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "к ней"
+    }
+  ],
+  "timestamp": "2026-08-02T19:30:13.532132006Z",
+  "model": "glm-4.5"
+}

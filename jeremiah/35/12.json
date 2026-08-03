@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "jeremiah 35:12",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "И было слово ЯХВЕ к Ирмея́ху, говоря:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмея́ху"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря:"
+    }
+  ],
+  "timestamp": "2026-08-03T03:49:15.777394319Z",
+  "model": "glm-4.5"
+}

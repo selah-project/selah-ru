@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 84,
+  "translation": "Они идут от силы ⟨к⟩ сил⟨е⟩, явится ⟨к⟩ Элохим в Сионе.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "Они идут"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "от силы"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "сил⟨е⟩"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "явится"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "в Сионе"
+    }
+  ],
+  "timestamp": "2026-08-03T08:09:54.499029512Z",
+  "model": "glm-4.5"
+}

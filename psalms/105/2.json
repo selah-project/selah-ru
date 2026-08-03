@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 105,
+  "translation": "Пойте Ему, воспевайте Ему, рассуждайте о всех ⟨чудесах⟩ Его",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Пойте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ему"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "воспевайте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ему"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "рассуждайте"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "о всех"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "⟨чудесах⟩ Его"
+    }
+  ],
+  "timestamp": "2026-08-03T08:34:20.690722262Z",
+  "model": "glm-4.5"
+}

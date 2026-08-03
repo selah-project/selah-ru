@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "genesis 18:27",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И ответил Авраам и сказал: вот, вот, ⟨я⟩ осмелился говорить к Адонай, а ⟨я⟩ — прах и пепел.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "и ответил"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "נא",
+      "gloss": "вот"
+    },
+    {
+      "surface": "הואלתי",
+      "gloss": "⟨я⟩ осмелился"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "говорить"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "а ⟨я⟩"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "прах"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "и пепел"
+    }
+  ],
+  "timestamp": "2026-08-02T19:15:00.143875893Z",
+  "model": "glm-4.5"
+}

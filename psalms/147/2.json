@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 147,
+  "translation": "Строит ЯХВЕ Иерусалим, изгнанных Израиля ⟨Он⟩ собирает",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "Строит"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Иерусалим"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "изгнанных"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "собирает"
+    }
+  ],
+  "timestamp": "2026-08-03T09:17:14.047579217Z",
+  "model": "glm-4.5"
+}

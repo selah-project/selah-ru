@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 139,
+  "translation": "Куда пойду от духа Твоего, и куда от лица Твоего убегу?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Куда"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "пойду"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "от духа Твоего"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "и куда"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "от лица Твоего"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "убегу"
+    }
+  ],
+  "timestamp": "2026-08-03T09:09:48.138918753Z",
+  "model": "glm-4.5"
+}

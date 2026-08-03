@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "job 29:15",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "глазами ⟨я был⟩ слепому и ногами хромому — я.",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "глазами"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "⟨я был⟩"
+    },
+    {
+      "surface": "לעור",
+      "gloss": "слепому"
+    },
+    {
+      "surface": "ורגלים",
+      "gloss": "и ногами"
+    },
+    {
+      "surface": "לפסח",
+      "gloss": "хромому"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    }
+  ],
+  "timestamp": "2026-08-03T10:34:51.246891815Z",
+  "model": "glm-4.5"
+}

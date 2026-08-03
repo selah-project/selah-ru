@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "jeremiah 22:1",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Так сказал ЯХВЕ: сойди в дом царя Иудеи и говори там ⟨את⟩ это слово",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "רד",
+      "gloss": "сойди"
+    },
+    {
+      "surface": "בית",
+      "gloss": "в дом"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иудеи"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "и говори"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "это слово"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "это"
+    }
+  ],
+  "timestamp": "2026-08-03T03:26:18.646420395Z",
+  "model": "glm-4.5"
+}

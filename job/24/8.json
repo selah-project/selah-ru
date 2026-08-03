@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "job 24:8",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "От ливня гор они мокнут, и без убежища обнимают ⟨скалу⟩.",
+  "tokens": [
+    {
+      "surface": "מזרם",
+      "gloss": "От ливня"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "гор"
+    },
+    {
+      "surface": "ירטבו",
+      "gloss": "они мокнут"
+    },
+    {
+      "surface": "ומבלי",
+      "gloss": "и без"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "убежища"
+    },
+    {
+      "surface": "חבקו",
+      "gloss": "обнимают"
+    },
+    {
+      "surface": "צור",
+      "gloss": "скалу"
+    }
+  ],
+  "timestamp": "2026-08-03T10:31:15.899643156Z",
+  "model": "glm-4.5"
+}

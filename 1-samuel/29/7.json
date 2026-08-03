@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "Итак теперь возвратись и иди в мире, и не сделай зла в глазах сарнов Плиштим.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "и теперь"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "возвратись"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "и иди"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "в мире"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "сделаешь"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зла"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в глазах"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "сарнов"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштим"
+    }
+  ],
+  "timestamp": "2026-08-02T23:45:40.571453693Z",
+  "model": "glm-4.5"
+}

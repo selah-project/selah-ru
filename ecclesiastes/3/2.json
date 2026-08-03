@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "время родить и время умереть; время Plant и время Вырывать посаженное;",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "время"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "родить"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и время"
+    },
+    {
+      "surface": "למות",
+      "gloss": "умереть"
+    },
+    {
+      "surface": "עת",
+      "gloss": "время"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "Plant"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и время"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "Вырывать"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "посаженное"
+    }
+  ],
+  "timestamp": "2026-08-03T11:17:32.515301868Z",
+  "model": "glm-4.5"
+}

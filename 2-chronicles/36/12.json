@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "2-chronicles 36:12",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "И он сделал злое ⟨в⟩ глазах ЯХВЕ, Эlohim своего, ⟨не⟩ смирился ⟨перед⟩ лицом Ирмеяу, ⟨пророка⟩, ⟨из⟩ уст ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И он сделал"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "злое"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "⟨в⟩ глазах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Эlohim своего"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "נכנע",
+      "gloss": "смирился"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "⟨перед⟩ лицом"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмеяу"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "⟨пророка⟩"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "⟨из⟩ уст"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T14:16:03.808719934Z",
+  "model": "glm-4.5"
+}

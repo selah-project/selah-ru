@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "proverbs 4:24",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Удали от себя ⟨⟩ кривизну рта и отклонение губ да ⟨будет⟩ далеко от тебя",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "Удали"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "от себя"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "кривизну"
+    },
+    {
+      "surface": "פה",
+      "gloss": "рта"
+    },
+    {
+      "surface": "ולזות",
+      "gloss": "и отклонение"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "губ"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "да ⟨будет⟩ далеко"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "от тебя"
+    }
+  ],
+  "timestamp": "2026-08-03T09:25:05.429539827Z",
+  "model": "glm-4.5"
+}

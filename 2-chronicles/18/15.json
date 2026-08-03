@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "2-chronicles 18:15",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И сказал ему царь: «До скольких раз я adjure тебя, чтобы ты говорил ⟨ко⟩ мне только ⟨истину⟩ во имя ЯХВЕ»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "скольких"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "раз"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "משביעך",
+      "gloss": "adjure тебя"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "чтобы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "говорил"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨ко⟩ мне"
+    },
+    {
+      "surface": "רק",
+      "gloss": "только"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "⟨истину⟩"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "во имя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T13:48:52.138828372Z",
+  "model": "glm-4.5"
+}

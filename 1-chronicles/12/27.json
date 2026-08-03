@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Из сыновей Леви четыре тысячи ⟨и⟩ шестьсот",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Из"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Леви"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "четыре"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "тысячи"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "⟨и⟩ шесть"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотен"
+    }
+  ],
+  "timestamp": "2026-08-03T12:55:15.003676492Z",
+  "model": "glm-4.5"
+}

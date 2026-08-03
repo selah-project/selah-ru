@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "proverbs 31:23",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "Её муж известен ⟨в⟩ воротах, когда ⟨он⟩ сидит со старейшинами земли",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "известен"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "⟨в⟩ воротах"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "её муж"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "когда ⟨он⟩ сидит"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "старейшинами"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земли"
+    }
+  ],
+  "timestamp": "2026-08-03T10:08:15.945030538Z",
+  "model": "glm-4.5"
+}

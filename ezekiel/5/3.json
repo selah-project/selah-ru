@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И возьми оттуда немного по счёту, и свяжи ⟨את⟩ их в краях одежды твоей",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "И возьми"
+    },
+    {
+      "surface": "משם",
+      "gloss": "оттуда"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "немного"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "по счёту"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "и свяжи"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "их"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "в краях одежды твоей"
+    }
+  ],
+  "timestamp": "2026-08-03T04:20:34.644673030Z",
+  "model": "glm-4.5"
+}

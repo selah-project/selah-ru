@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Не округляйте ⟨углы⟩ головы вашей и не портите ⟨угол⟩ бороды вашей",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "округляйте"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "⟨углы⟩",
+      "marks": "головы вашей"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "головы вашей"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "портите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨угол⟩ бороды вашей"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "⟨угол⟩"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "бороды вашей"
+    }
+  ],
+  "timestamp": "2026-08-02T20:59:35.724307997Z",
+  "model": "glm-4.5"
+}

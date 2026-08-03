@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Тора уст Твоих лучше для меня, нежели тысячи золота и серебра.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "лучше"
+    },
+    {
+      "surface": "לי",
+      "gloss": "для меня"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "уст Твоих"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "тысячи"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золота"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "и серебра"
+    }
+  ],
+  "timestamp": "2026-08-03T08:52:07.979523307Z",
+  "model": "glm-4.5"
+}

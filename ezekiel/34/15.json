@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "ezekiel 34:15",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "Я буду пасти ⟨своё⟩ стадо и Я уложу их, — слово Адоная ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "буду пасти"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "⟨своё⟩ стадо"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "и Я"
+    },
+    {
+      "surface": "ארביצם",
+      "gloss": "уложу их"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "— слово"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адоная"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T04:58:32.062123147Z",
+  "model": "glm-4.5"
+}

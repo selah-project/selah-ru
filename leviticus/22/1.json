@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "leviticus 22:1",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И говорил ЯХВЕ Моше, ⟨сказав⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨сказав⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T21:01:58.380493207Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 139,
+  "translation": "Знание ⟨моё⟩ слишком чудесно для меня; оно высоко — не могу ⟨я⟩ ⟨его⟩.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "чудесно"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знание"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "для меня"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "высоко"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "могу"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨к нему⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T09:09:33.541108095Z",
+  "model": "glm-4.5"
+}

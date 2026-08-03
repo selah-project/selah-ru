@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "jeremiah 22:27",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И на землю, к которой ⟨את⟩ поднимают свою нефеш, чтобы вернуться туда, — туда они не вернутся",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "И на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которую"
+    },
+    {
+      "surface": "הם",
+      "gloss": "они"
+    },
+    {
+      "surface": "מנשאים",
+      "gloss": "поднимают"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "свою нефеш"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "нефеш"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "чтобы вернуться"
+    },
+    {
+      "surface": "שם",
+      "gloss": "туда"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "туда"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "вернутся"
+    }
+  ],
+  "timestamp": "2026-08-03T03:27:16.749881087Z",
+  "model": "glm-4.5"
+}

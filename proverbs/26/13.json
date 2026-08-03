@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Сказал ленивец: лев ⟨на⟩ дороге; лев ⟨на⟩ площадях.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Сказал"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ленивец"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "лев"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "⟨на⟩ дороге"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "лев"
+    },
+    {
+      "surface": "בין",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "площадях"
+    }
+  ],
+  "timestamp": "2026-08-03T10:01:53.005302910Z",
+  "model": "glm-4.5"
+}

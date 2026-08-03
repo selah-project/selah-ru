@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "Не muzzle ⟨ты⟩ вола, ⟨когда⟩ он ⟨в⟩ тернии ⟨его⟩",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "muzzle"
+    },
+    {
+      "surface": "שור",
+      "gloss": "вола"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "в тернии его"
+    }
+  ],
+  "timestamp": "2026-08-02T22:14:45.866000668Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "Храни меня как зеницу ока, в тени крыльев Твоих скрой меня",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Храни меня"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "как зеницу"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочь"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ока"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "в тени"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "крыльев Твоих"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "скрой меня"
+    }
+  ],
+  "timestamp": "2026-08-03T18:38:39.463151218Z",
+  "model": "glm-4.5"
+}

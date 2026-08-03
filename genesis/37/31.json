@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "И взяли ⟨את⟩ хитон Иосифа, и закололи козла, и окунули ⟨את⟩ хитон в крови",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "и взяли"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хитон Иосифа"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "хитон"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Иосифа"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "и закололи"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "козла"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "коз"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "и окунули"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хитон"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "хитон"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "в крови"
+    }
+  ],
+  "timestamp": "2026-08-02T19:40:22.873363288Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И пожалел ЯХВЕ, что сотворил ⟨את⟩ человека на земле, и опечалился в сердце Своём",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "и пожалел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сотворил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "человека"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на земле"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "и опечалился"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "сердце Своём"
+    }
+  ],
+  "timestamp": "2026-08-02T17:49:40.835450309Z",
+  "model": "glm-4.5"
+}

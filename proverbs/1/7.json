@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "proverbs 1:7",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Страх ЯХВЕ — начало знания, Хохма и мушар — глупцы презирают ⟨их⟩",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "Страх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "начало"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знания"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Хохма"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "и мушар"
+    },
+    {
+      "surface": "אוילים",
+      "gloss": "глупцы"
+    },
+    {
+      "surface": "בזו",
+      "gloss": "презирают"
+    }
+  ],
+  "timestamp": "2026-08-03T09:20:45.574043155Z",
+  "model": "glm-4.5"
+}

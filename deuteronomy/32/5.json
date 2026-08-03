@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "deuteronomy 32:5",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "Повредили ⟨себя⟩ Ему, не сыновья их — ⟨их⟩ порок; поколение извращённое и кривое.",
+  "tokens": [
+    {
+      "surface": "שחת",
+      "gloss": "Повредили"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ему"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "сыновья их"
+    },
+    {
+      "surface": "מומם",
+      "gloss": "⟨их⟩ порок"
+    },
+    {
+      "surface": "דור",
+      "gloss": "поколение"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "извращённое"
+    },
+    {
+      "surface": "ופתלתל",
+      "gloss": "и кривое"
+    }
+  ],
+  "timestamp": "2026-08-02T22:22:31.105279563Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Божественное решение ⟨на⟩ губах царя; его уста ⟨не⟩ преступят ⟨в⟩ суде.",
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "Божественное решение"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩",
+      "marks": "губах"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "губах"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "⟨в⟩ суде"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "преступят"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "уста"
+    }
+  ],
+  "timestamp": "2026-08-03T09:41:29.663716710Z",
+  "model": "glm-4.5"
+}

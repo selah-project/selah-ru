@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И взяли ⟨את⟩ всё имущество Содома и Аморы и ⟨את⟩ всю пищу их, и ушли",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "И взяли"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всё имущество"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "имущество"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Содома"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "и Аморы"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "всю пищу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всю"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "пищу их"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "и ушли"
+    }
+  ],
+  "timestamp": "2026-08-02T19:10:59.295950352Z",
+  "model": "glm-4.5"
+}

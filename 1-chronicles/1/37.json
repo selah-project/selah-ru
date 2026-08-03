@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "1-chronicles 1:37",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Сыновья Реуэла: Нафах, Зерах, Шамма и Мицца.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Реуэла"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "Нафах"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Зерах"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Шамма"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "и Мицца"
+    }
+  ],
+  "timestamp": "2026-08-03T12:36:11.172594443Z",
+  "model": "glm-4.5"
+}

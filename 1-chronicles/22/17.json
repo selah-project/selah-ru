@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "1-chronicles 22:17",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И повелел Давид всем начальникам Израиля помогать Шеломо, сыну своему",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "И повелел"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "всем"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "начальникам"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "помогать"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "сыну своему"
+    }
+  ],
+  "timestamp": "2026-08-03T13:08:34.200435571Z",
+  "model": "glm-4.5"
+}

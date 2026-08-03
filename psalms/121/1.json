@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 121,
+  "translation": "Песнь восхождения. Подниму я глаза мои к горам: оттуда придёт помощь моя?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Песнь"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "восхождения"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "подниму"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "глаза мои"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "горам"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "оттуда"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "придёт"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "помощь моя"
+    }
+  ],
+  "timestamp": "2026-08-03T08:56:43.613078497Z",
+  "model": "glm-4.5"
+}

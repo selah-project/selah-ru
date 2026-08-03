@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 46,
+  "translation": "Начальнику над певицами — сынам Краха — песнь.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Начальнику"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "сынам"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Краха"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "певицами"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "песнь"
+    }
+  ],
+  "timestamp": "2026-08-03T07:24:29.014329452Z",
+  "model": "glm-4.5"
+}

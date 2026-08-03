@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Не заключай ⟨ты⟩ с ними завета и ⟨с⟩ Элохим их",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "заключай"
+    },
+    {
+      "surface": "להם",
+      "gloss": "с ними"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "и ⟨с⟩ Элохим их"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "завета"
+    }
+  ],
+  "timestamp": "2026-08-03T18:37:53.331066067Z",
+  "model": "glm-4.5"
+}

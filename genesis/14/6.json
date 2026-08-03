@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "и ⟨את⟩ хорреев в горе их Сеир до Эль-Парана, который ⟨есть⟩ над пустыней",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "хорреев"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "хорреев"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "в горе их"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "איל",
+      "gloss": "Эль"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Паран"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "пустыней"
+    }
+  ],
+  "timestamp": "2026-08-02T19:10:47.135333480Z",
+  "model": "glm-4.5"
+}

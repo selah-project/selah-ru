@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 58,
+  "translation": "Возрадуется праведник, когда увидит возмездие; ⟨свои⟩ ноги омоет он в крови wicked.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "Возрадуется"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведник"
+    },
+    {
+      "surface": "כי",
+      "gloss": "когда"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "увидит"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "возмездие"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "⟨свои⟩ ноги"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "омоет"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "в крови"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "wicked"
+    }
+  ],
+  "timestamp": "2026-08-03T07:35:36.119406661Z",
+  "model": "glm-4.5"
+}

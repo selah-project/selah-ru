@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Всё ⟨э́да⟩ Израиля ⟨יעשו⟩ ⟨את⟩ оное.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Всё"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "⟨э́да⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "⟨יעשו⟩"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "оное"
+    }
+  ],
+  "timestamp": "2026-08-02T20:06:49.008119095Z",
+  "model": "glm-4.5"
+}

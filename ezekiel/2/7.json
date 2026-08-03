@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И говори ⟨את⟩ слова Мои им, если услышат, и если воспрепятствуют, ибо мятежники они",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "и говори"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слова Мои"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова Мои"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "услышат"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "и если"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "воспрепятствуют"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "мятежники"
+    },
+    {
+      "surface": "המה",
+      "gloss": "они"
+    }
+  ],
+  "timestamp": "2026-08-03T04:17:55.095282586Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "ибо есть ⟨будущее⟩, и надежда твоя не ⟨будет⟩ отсечена",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ведь⟩"
+    },
+    {
+      "surface": "יש",
+      "gloss": "есть"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "⟨будущее⟩"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "и надежда твоя"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "⟨будет⟩ отсечена"
+    }
+  ],
+  "timestamp": "2026-08-03T18:26:52.386757319Z",
+  "model": "glm-4.5"
+}

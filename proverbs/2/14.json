@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "proverbs 2:14",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Радующиеся ⟨делать⟩ зло, восторжествуют ⟨в⟩ извращениях зла",
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "Радующиеся"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "делать"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "восторжествуют"
+    },
+    {
+      "surface": "בתהפכות",
+      "gloss": "в извращениях"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зла"
+    }
+  ],
+  "timestamp": "2026-08-03T09:22:17.808144779Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "haggai 1:5",
+  "book": "haggai",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И теперь так сказал ЯХВЕ Цеваот: положите ⟨своё⟩ сердце ⟨на⟩ ⟨ваши⟩ пути",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "И теперь"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "положите"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "⟨своё⟩ сердце"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "⟨ваши⟩ пути"
+    }
+  ],
+  "timestamp": "2026-08-03T06:06:26.346650932Z",
+  "model": "glm-4.5"
+}

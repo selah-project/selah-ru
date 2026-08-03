@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "jeremiah 10:6",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Нет подобного Тебе, ЯХВЕ, велик Ты и велико имя Твоё в могуществе",
+  "tokens": [
+    {
+      "surface": "מאין",
+      "gloss": "Нет подобного Тебе"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "Тебе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "и велико"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "имя Твоё"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "в могуществе"
+    }
+  ],
+  "timestamp": "2026-08-03T03:10:44.347729277Z",
+  "model": "glm-4.5"
+}

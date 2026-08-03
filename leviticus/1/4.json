@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "leviticus 1:4",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "и возложит руку свою на ⟨голову⟩ о́лы и ⟨он⟩ принят будет ему для покрытия над ним",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "и возложит"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "руку свою"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "⟨голову⟩"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "о́лы"
+    },
+    {
+      "surface": "ונרצה",
+      "gloss": "и ⟨он⟩ принят будет"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "для покрытия"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "над ним"
+    }
+  ],
+  "timestamp": "2026-08-02T20:40:06.011703089Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Подлинно, вы ⟨и⟩ народ, и с вами умрёт хохма",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "подлинно"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вы"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "и с вами"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "умрёт"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "хохма"
+    }
+  ],
+  "timestamp": "2026-08-03T10:20:14.143199559Z",
+  "model": "glm-4.5"
+}

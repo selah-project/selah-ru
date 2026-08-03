@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 39,
+  "ref": "jeremiah 49:39",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 49,
+  "translation": "И будет в конце дней, возвращу ⟨את⟩ плен Элама, — изречение ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И будет"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "в конце"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дней"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "верну"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "плен Элама"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "плен"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Элама"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изречение"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T04:09:50.704939632Z",
+  "model": "glm-4.5"
+}

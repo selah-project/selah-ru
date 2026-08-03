@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "2-chronicles 14:5",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И построил он города укреплённые в Иудее, ибо утихла ⟨the⟩ земля и ⟨нет⟩ с ним войны ⟨в⟩ годы эти, ибо дал покой ЯХВЕ ему",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "и построил"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "города"
+    },
+    {
+      "surface": "מצורה",
+      "gloss": "укреплённые"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "в Иудее"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "утихла"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ земля"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и ⟨нет⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с ним"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "войны"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "⟨в⟩ годы"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "эти"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "дал покой"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    }
+  ],
+  "timestamp": "2026-08-03T13:41:28.802134361Z",
+  "model": "glm-4.5"
+}

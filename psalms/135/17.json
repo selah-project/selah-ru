@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 135,
+  "translation": "Уши у них, и не слышат; ⟨даже⟩ нет ⟨никакого⟩ дыхания в устах их.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "Уши"
+    },
+    {
+      "surface": "להם",
+      "gloss": "у них"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "слышат"
+    },
+    {
+      "surface": "אף",
+      "gloss": "⟨даже⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨никакого⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дыхания"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "в устах их"
+    }
+  ],
+  "timestamp": "2026-08-03T09:05:50.495943756Z",
+  "model": "glm-4.5"
+}

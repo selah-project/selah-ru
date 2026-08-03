@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Не вернётся ⟨он⟩ в землю Мицраим, а Ашшур — он ⟨его⟩ царь, ибо отказались вернуться",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "вернётся"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "а Ашшур"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "⟨его⟩ царь"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "отказались"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "вернуться"
+    }
+  ],
+  "timestamp": "2026-08-03T05:28:00.064511216Z",
+  "model": "glm-4.5"
+}

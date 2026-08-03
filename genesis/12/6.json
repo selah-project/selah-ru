@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 12:6",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И прошёл Аврам по земле ⟨до⟩ места Шхем, ⟨до⟩ дуба Море; и ханаанеянин ⟨тогда⟩ ⟨был⟩ в земле",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "и прошёл"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "по земле"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "места"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Шхем"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "дуба"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "Море"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "и ханаанеянин"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тогда"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земле"
+    }
+  ],
+  "timestamp": "2026-08-02T19:09:18.349379961Z",
+  "model": "glm-4.5"
+}

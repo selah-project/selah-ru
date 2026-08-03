@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Желание ⟨⟩ ленивца убьёт его, ибо руки его отказались ⟨⟩ делать",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Желание"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "⟨⟩ ленивца"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "убьёт его"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "отказались"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "руки его"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "⟨⟩ делать"
+    }
+  ],
+  "timestamp": "2026-08-03T09:48:48.215107426Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "proverbs 10:12",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Ненависть поднимает распри, ⟨но⟩ любовь покрывает ⟨все⟩ преступления",
+  "tokens": [
+    {
+      "surface": "שנאה",
+      "gloss": "ненависть"
+    },
+    {
+      "surface": "תעורר",
+      "gloss": "поднимает"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "распри"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "⟨но⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨все⟩"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "преступления"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "покрывает"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "любовь"
+    }
+  ],
+  "timestamp": "2026-08-03T09:32:47.926491596Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "и сжёг ⟨את⟩ дом ЯХВЕ и ⟨את⟩ дом царя и ⟨את⟩ все дома Иерусалима и ⟨את⟩ всякий большой дом сжёг огнём",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "и сжёг"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дом"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "дом"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "все"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "дома"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Иерусалима"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "всякий"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всякий"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "большой"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "сжёг"
+    },
+    {
+      "surface": "באש",
+      "gloss": "огнём"
+    }
+  ],
+  "timestamp": "2026-08-03T01:39:08.933481138Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И поразил ЯХВЕ ⟨את⟩ cushim перед Асой и перед Иудой, и побежали cushim.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "И поразил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cushim"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "cushim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Асой"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "и перед"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иудой"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "и побежали"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "cushim"
+    }
+  ],
+  "timestamp": "2026-08-03T13:41:39.199701573Z",
+  "model": "glm-4.5"
+}

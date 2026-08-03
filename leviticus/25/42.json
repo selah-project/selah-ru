@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "Ибо рабы ⟨они⟩, которых Я вывел ⟨את⟩ их из земли Мицраим, не будут продаваемы продажей раба.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "рабы"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨они⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которых"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "Я вывел"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "из земли"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "из земли"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "будут продаваемы"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "продажей"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "раба"
+    }
+  ],
+  "timestamp": "2026-08-02T21:06:22.939231972Z",
+  "model": "glm-4.5"
+}

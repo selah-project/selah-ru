@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Я возлюбленному моему, а на мне — влечение ⟨его⟩",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "возлюбленному моему"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "а на мне"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "влечение ⟨его⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T10:58:34.378456591Z",
+  "model": "glm-4.5"
+}

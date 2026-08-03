@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "И встал Ионафан, сын Шауля, и пошёл к Давиду в лес, и укрепил ⟨את⟩ его руку в Элохим",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "и встал"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Ионафан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шауля"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и пошёл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давиду"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "в лес"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "и укрепил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "его руку"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "его руку"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "в Элохим"
+    }
+  ],
+  "timestamp": "2026-08-02T23:39:36.812914336Z",
+  "model": "glm-4.5"
+}

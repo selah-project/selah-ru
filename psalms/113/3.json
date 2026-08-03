@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 113,
+  "translation": "От восхождения солнца до захода его ⟨будет⟩ восславляемо имя ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "От восхождения"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "солнца"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "захода его"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "восславляемо"
+    },
+    {
+      "surface": "שם",
+      "gloss": "имя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T08:44:20.261564476Z",
+  "model": "glm-4.5"
+}

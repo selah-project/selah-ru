@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 73,
+  "translation": "Ибо я завидовал ⟨болтунам⟩: мир ⟨для⟩ нечестивых ⟨я⟩ вижу.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "я завидовал"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "⟨болтунам⟩"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "⟨для⟩ нечестивых"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "⟨я⟩ вижу"
+    }
+  ],
+  "timestamp": "2026-08-03T07:53:20.325794785Z",
+  "model": "glm-4.5"
+}

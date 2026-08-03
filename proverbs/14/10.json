@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Сердце знает горечь своей нефеш, и ⟨с⟩ радостью его не смешивается чужой.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Сердце"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "знает"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "горечь"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "своей нефеш"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "и ⟨с⟩ радостью его"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יתערב",
+      "gloss": "смешивается"
+    },
+    {
+      "surface": "זר",
+      "gloss": "чужой"
+    }
+  ],
+  "timestamp": "2026-08-03T09:38:15.095284451Z",
+  "model": "glm-4.5"
+}

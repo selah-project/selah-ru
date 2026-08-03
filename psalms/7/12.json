@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Элохим — судья праведный, и Эль с негодованием ⟨в⟩ каждый день",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "судья"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведный"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и Эль"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "с негодованием"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "⟨в⟩"
+    },
+    {
+      "surface": "יום",
+      "gloss": "каждый день"
+    }
+  ],
+  "timestamp": "2026-08-03T06:37:28.226829279Z",
+  "model": "glm-4.5"
+}

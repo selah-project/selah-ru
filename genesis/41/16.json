@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 41,
+  "translation": "И ответил Иосиф ⟨את⟩ фараона, говоря: без меня Элохим ответит ⟨את⟩ мир фараона",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И ответил"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Иосиф"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "фараона"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "фараона"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "без меня"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ответит"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мир"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "фараона"
+    }
+  ],
+  "timestamp": "2026-08-02T19:44:50.642703660Z",
+  "model": "glm-4.5"
+}

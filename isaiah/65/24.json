@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "isaiah 65:24",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 65,
+  "translation": "И будет: прежде чем они воззовут, Я отвечу; ещё ⟨они⟩ говорят, а Я уже слышу.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И будет"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "прежде чем"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "воззовут"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "отвечу"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ещё"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨они⟩",
+      "marks": "они"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "говорят"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "услышу"
+    }
+  ],
+  "timestamp": "2026-08-03T02:55:48.933427637Z",
+  "model": "glm-4.5"
+}

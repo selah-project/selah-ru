@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "Ибо без вины скрыли для меня ⟨в⟩ яму и сеть свою; без вины выкопали для души моей ⟨яму⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "без вины"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "скрыли"
+    },
+    {
+      "surface": "לי",
+      "gloss": "для меня"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "в"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "яму"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "сеть свою"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "без вины"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "выкопали"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "для души моей"
+    }
+  ],
+  "timestamp": "2026-08-03T07:11:24.422906181Z",
+  "model": "glm-4.5"
+}

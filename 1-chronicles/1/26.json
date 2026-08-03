@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "1-chronicles 1:26",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Шеруг, Нахор, Терах",
+  "tokens": [
+    {
+      "surface": "שרוג",
+      "gloss": "Шеруг"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Нахор"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Терах"
+    }
+  ],
+  "timestamp": "2026-08-03T12:35:51.079338208Z",
+  "model": "glm-4.5"
+}

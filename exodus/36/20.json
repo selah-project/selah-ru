@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "И сделал ⟨את⟩ доски для мишкана — деревья шиттима — стоящие",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И сделал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "доски"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "доски"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "для мишкана"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "деревья"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "шиттима"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "стоящие"
+    }
+  ],
+  "timestamp": "2026-08-02T20:34:24.177039365Z",
+  "model": "glm-4.5"
+}

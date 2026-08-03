@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 94,
+  "translation": "Вдову и пришельца убивают, и сирот ⟨они⟩ убивают",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "вдову"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "и пришельца"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "убивают"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "и сирот"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "убивают"
+    }
+  ],
+  "timestamp": "2026-08-03T08:22:37.637778749Z",
+  "model": "glm-4.5"
+}

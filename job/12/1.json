@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "job 12:1",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И ответил Ийов и сказал:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И ответил"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ийов"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    }
+  ],
+  "timestamp": "2026-08-03T10:19:44.441751825Z",
+  "model": "glm-4.5"
+}

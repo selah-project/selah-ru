@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Хорошо человеку, ⟨потому что⟩ он несёт ⟨את⟩ ярмо в юности своей",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Хорошо"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "человеку"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨потому что⟩"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "он несёт"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨את⟩ ярмо",
+      "marks": "ярмо"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "в юности своей"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:33.512824961Z",
+  "model": "glm-4.5"
+}

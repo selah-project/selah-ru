@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "proverbs 14:12",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Есть ⟨путь⟩, ⟨который⟩ прям пред ⟨человеком⟩, а ⟨конец⟩ его — ⟨пути⟩ смерти",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Есть"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "путь"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "прям"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человеком"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "а ⟨конец⟩"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "пути"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смерти"
+    }
+  ],
+  "timestamp": "2026-08-03T09:38:45.768084066Z",
+  "model": "glm-4.5"
+}

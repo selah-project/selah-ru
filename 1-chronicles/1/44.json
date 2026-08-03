@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 44,
+  "ref": "1-chronicles 1:44",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И умер Бела, и царствовал ⟨за⟩ ним Йовав, сын Зерах, из Боцры",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "И умер"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Бела"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "и царствовал"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "⟨за⟩ ним"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Йовав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Зерах"
+    },
+    {
+      "surface": "מבצרה",
+      "gloss": "из Боцры"
+    }
+  ],
+  "timestamp": "2026-08-03T12:36:29.675220575Z",
+  "model": "glm-4.5"
+}

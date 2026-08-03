@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И уничтожил Йегу ⟨את⟩ Бааля из Израиля",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "и уничтожил"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Йегу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бааля"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Бааля"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "из Израиля"
+    }
+  ],
+  "timestamp": "2026-08-03T01:16:39.157311440Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 92,
+  "translation": "А Ты — высок навеки, ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "А Ты"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "высоко"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "навеки"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T08:21:25.718258094Z",
+  "model": "glm-4.5"
+}

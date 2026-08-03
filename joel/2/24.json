@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "joel 2:24",
+  "book": "joel",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И наполнятся ⟨гумна⟩ зерном, и overflowing ⟨точила⟩ вином и елеем",
+  "tokens": [
+    {
+      "surface": "וּמָלְאוּ",
+      "gloss": "и наполнатся"
+    },
+    {
+      "surface": "הַגֳּרָנוֹת",
+      "gloss": "⟨гумна⟩"
+    },
+    {
+      "surface": "בָּר",
+      "gloss": "зерном"
+    },
+    {
+      "surface": "וְהֵשִׁיקוּ",
+      "gloss": "и overflowing"
+    },
+    {
+      "surface": "הַיְקָבִים",
+      "gloss": "⟨точила⟩"
+    },
+    {
+      "surface": "תִּירוֹשׁ",
+      "gloss": "вином"
+    },
+    {
+      "surface": "וְיִצְהָר",
+      "gloss": "и елеем"
+    }
+  ],
+  "timestamp": "2026-08-03T05:32:12.270943965Z",
+  "model": "glm-4.5"
+}

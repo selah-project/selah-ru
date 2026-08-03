@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 107,
+  "ref": "psalms 119:107",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Я крайне стеснён: о ЯХВЕ, оживи меня по слову Твоему.",
+  "tokens": [
+    {
+      "surface": "נעניתי",
+      "gloss": "Я стеснён"
+    },
+    {
+      "surface": "עד",
+      "gloss": "крайне"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "очень"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "оживи меня"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "по слову Твоему"
+    }
+  ],
+  "timestamp": "2026-08-03T08:52:59.753949880Z",
+  "model": "glm-4.5"
+}

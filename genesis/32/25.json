@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "И остался Яаков ⟨сам⟩, и боролся ⟨некий⟩ муж с ним до восхода ⟨света⟩.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "и остался"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "⟨сам⟩"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "и боролся"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨некий⟩ муж"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с ним"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "восхода"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "⟨света⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T19:34:13.093084592Z",
+  "model": "glm-4.5"
+}

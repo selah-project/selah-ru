@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Только если день или два ⟨постоянет⟩, не ⟨будет отмщено⟩, ибо ⟨это⟩ его серебро.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Только"
+    },
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "два"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "⟨постоянет⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "⟨будет отмщено⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "его серебро"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨это⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T20:15:06.048613005Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И услышал ЯХВЕ ⟨את⟩ голос слов ваших, и воспылал гневом, и поклялся, говоря:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "и услышал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "голос слов ваших"
+    },
+    {
+      "surface": "קול",
+      "gloss": "голос"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "слов ваших"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "и воспылал гневом"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "и поклялся"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-02T21:51:35.245809900Z",
+  "model": "glm-4.5"
+}

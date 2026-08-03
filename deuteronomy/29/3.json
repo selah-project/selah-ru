@@ -1,0 +1,68 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "И не дал ЯХВЕ вам ⟨сердце⟩ знать, и ⟨глаза⟩ видеть, и ⟨уши⟩ слышать, ⟨до⟩ дня ⟨сего⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И не"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "לב",
+      "gloss": "⟨сердце⟩",
+      "marks": "знать"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "знать"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "и ⟨глаза⟩",
+      "marks": "видеть"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "видеть"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "и ⟨уши⟩",
+      "marks": "слышать"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "слышать"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨до⟩"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дня"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨сего⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T22:19:28.228758556Z",
+  "model": "glm-4.5"
+}

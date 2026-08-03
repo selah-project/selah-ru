@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "Камень и камень, эйфа и эйфа — мерзость ⟨пред⟩ ЯХВЕ даже ⟨оба они⟩.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "камень"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "и камень"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "эйфа"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "и эйфа"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "мерзость"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "даже"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "оба они"
+    }
+  ],
+  "timestamp": "2026-08-03T09:47:01.167575966Z",
+  "model": "glm-4.5"
+}

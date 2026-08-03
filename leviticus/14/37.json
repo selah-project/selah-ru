@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "leviticus 14:37",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "и увидит ⟨את⟩ поражение и вот поражение в стенах дома впадины желтоватые или reddish и вид их ниже ⟨чем⟩ стена",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "и увидит"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "поражение"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "поражение"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "поражение"
+    },
+    {
+      "surface": "בקירת",
+      "gloss": "в стенах"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "שקערורת",
+      "gloss": "впадины"
+    },
+    {
+      "surface": "ירקרקת",
+      "gloss": "желтоватые"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "reddish"
+    },
+    {
+      "surface": "ומראיהן",
+      "gloss": "и вид их"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "ниже"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨чем⟩"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "стена"
+    }
+  ],
+  "timestamp": "2026-08-02T20:54:39.111077634Z",
+  "model": "glm-4.5"
+}

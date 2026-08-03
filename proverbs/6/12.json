@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Человек Белиал, человек беззакония, ходит ⟨с⟩ извращённым ртом",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Человек"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Белиал"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человек"
+    },
+    {
+      "surface": "און",
+      "gloss": "беззакония"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ходит"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "извращённым"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ртом"
+    }
+  ],
+  "timestamp": "2026-08-03T09:27:43.444284996Z",
+  "model": "glm-4.5"
+}

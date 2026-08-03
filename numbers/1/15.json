@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "для Нефтали: Ахира, ⟨сын⟩ Энана.",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "для Нефтали"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "Ахира"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨сын⟩"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Энана"
+    }
+  ],
+  "timestamp": "2026-08-02T21:09:40.433725193Z",
+  "model": "glm-4.5"
+}

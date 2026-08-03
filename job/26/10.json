@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "job 26:10",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Он очертил круг ⟨на⟩ поверхности вод до завершения света ⟨с⟩ тьмою.",
+  "tokens": [
+    {
+      "surface": "חק",
+      "gloss": "очертил"
+    },
+    {
+      "surface": "חג",
+      "gloss": "круг"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩",
+      "marks": "поверхности вод"
+    },
+    {
+      "surface": "פני",
+      "gloss": "поверхности"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вод"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "завершения"
+    },
+    {
+      "surface": "אור",
+      "gloss": "света"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨с⟩",
+      "marks": "тьмою"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "тьмою"
+    }
+  ],
+  "timestamp": "2026-08-03T10:32:39.963381133Z",
+  "model": "glm-4.5"
+}

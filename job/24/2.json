@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "job 24:2",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Межи ⟨они⟩ сдвигают, стада ⟨они⟩ грабят и ⟨они⟩ пасут ⟨их⟩.",
+  "tokens": [
+    {
+      "surface": "גבלות",
+      "gloss": "межи"
+    },
+    {
+      "surface": "ישיגו",
+      "gloss": "сдвигают"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "стада"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "грабят"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "и пасут"
+    }
+  ],
+  "timestamp": "2026-08-03T10:31:00.522388948Z",
+  "model": "glm-4.5"
+}

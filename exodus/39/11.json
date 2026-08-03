@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "exodus 39:11",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 39,
+  "translation": "и ⟨в⟩ ряду втором, но́фех, саппи́р и яхало́м",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "и ⟨в⟩ ряду"
+    },
+    {
+      "surface": "השני",
+      "gloss": "втором"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "но́фех"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "саппи́р"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "и яхало́м"
+    }
+  ],
+  "timestamp": "2026-08-02T20:37:40.973515734Z",
+  "model": "glm-4.5"
+}

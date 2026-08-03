@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 105,
+  "translation": "Он сказал, и пришёл рой [мошки], и воши во всех ⟨их⟩ пределах",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Он сказал"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и пришёл"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "рой [мошки]"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "и воши"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "во всех"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "⟨их⟩ пределах"
+    }
+  ],
+  "timestamp": "2026-08-03T08:35:07.175370350Z",
+  "model": "glm-4.5"
+}

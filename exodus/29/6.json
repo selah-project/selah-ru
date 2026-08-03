@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "и возложишь кидар на голову его, и возложишь ⟨את⟩ венец святой на кидар",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "и возложишь"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "кидар"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "голову его"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "и возложишь"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "венец святой"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "венец"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "святой"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "кидар"
+    }
+  ],
+  "timestamp": "2026-08-02T20:25:25.673765413Z",
+  "model": "glm-4.5"
+}

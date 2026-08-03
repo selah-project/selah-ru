@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "job 30:19",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Он бросил меня в грязь, и я стал как прах и пепел.",
+  "tokens": [
+    {
+      "surface": "הרני",
+      "gloss": "Он бросил меня"
+    },
+    {
+      "surface": "לחמר",
+      "gloss": "в грязь"
+    },
+    {
+      "surface": "ואתמשל",
+      "gloss": "и я стал"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "как прах"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "и пепел"
+    }
+  ],
+  "timestamp": "2026-08-03T10:35:49.212785038Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И пошёл я, и спрятал ⟨את⟩ его у Евфрата, как повелел ЯХВЕ ⟨את⟩ мне.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "И пошёл я"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "и спрятал ⟨את⟩ его"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "у Евфрата"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "повелел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ мне",
+      "marks": "мне"
+    }
+  ],
+  "timestamp": "2026-08-03T03:14:13.053894993Z",
+  "model": "glm-4.5"
+}

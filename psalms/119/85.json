@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Вырыли мне гордые ямы, ⟨которые⟩ не ⟨согласно⟩ Твоей Торе",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "Вырыли"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "гордые"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "ямы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "согласно Твоей Торе"
+    }
+  ],
+  "timestamp": "2026-08-03T08:52:26.927146735Z",
+  "model": "glm-4.5"
+}

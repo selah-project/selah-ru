@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Ола́ шабба́т вэ-шаббато́ ⟨на⟩ ола́т га-тами́д у-нисха́h.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "Ола́"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "шабба́т"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "вэ-шаббато́"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ола́т"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "га-тами́д"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "у-нисха́h"
+    }
+  ],
+  "timestamp": "2026-08-02T21:41:04.430276986Z",
+  "model": "glm-4.5"
+}

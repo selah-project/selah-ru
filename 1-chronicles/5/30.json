@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Элазар породил ⟨את⟩ Пинхас, Пинхас породил ⟨את⟩ Авишуа",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Элазар"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Пинхас"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Пинхас"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Пинхас"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авишуа"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Авишуа"
+    }
+  ],
+  "timestamp": "2026-08-03T12:43:01.420060383Z",
+  "model": "glm-4.5"
+}

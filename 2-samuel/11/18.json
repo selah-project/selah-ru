@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И послал Йоав и сообщил Давиду ⟨את⟩ все ⟨слова⟩ о войне",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "И послал"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоав"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "и сообщил"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "все слова"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "о войне"
+    }
+  ],
+  "timestamp": "2026-08-02T23:57:39.511223511Z",
+  "model": "glm-4.5"
+}

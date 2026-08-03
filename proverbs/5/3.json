@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 5:3",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Ибо губы чужой женщины капают мёдом, и ⟨её⟩ речь гладкая ⟨чем⟩ масло,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "капают мёдом"
+    },
+    {
+      "surface": "תטפנה",
+      "gloss": "⟨капают⟩"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "губы"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "чужой женщины"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "и гладкая"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "⟨чем⟩ масло"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "речь"
+    }
+  ],
+  "timestamp": "2026-08-03T09:26:21.638075143Z",
+  "model": "glm-4.5"
+}

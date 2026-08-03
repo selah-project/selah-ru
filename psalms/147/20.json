@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 147,
+  "translation": "Не сделал так ⟨Он⟩ ни с одним народом, и судов Его они не познали. Аллилуйя!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ни с одним"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "народом"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "и судов Его"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "познали"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Аллилуйя"
+    },
+    {
+      "surface": "יה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T09:17:40.870258550Z",
+  "model": "glm-4.5"
+}

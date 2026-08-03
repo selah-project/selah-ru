@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 76,
+  "translation": "Там Он сокрушил стрелы лука, ⟨и⟩ щит, ⟨и⟩ меч, ⟨и⟩ битву. Села.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Там"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "сокрушил"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "стрелы"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "лука"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "⟨и⟩ щит"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "⟨и⟩ меч"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "⟨и⟩ битву"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-08-03T07:58:06.782719250Z",
+  "model": "glm-4.5"
+}

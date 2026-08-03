@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Я говорю: соблюдай ⟨повеление⟩ целя из-за ⟨клятвы⟩ Элохим",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Я говорю"
+    },
+    {
+      "surface": "פי",
+      "gloss": "⟨повеление⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "целя"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "соблюдай"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "из-за"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "⟨клятвы⟩"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "⟨клятвы⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-08-03T11:22:41.876158842Z",
+  "model": "glm-4.5"
+}

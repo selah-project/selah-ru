@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "jeremiah 25:35",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "И пропадает ⟨беженство⟩ от пастухов и ⟨спасение⟩ от знатных стада",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "И пропадает"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "⟨беженство⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "пастухов"
+    },
+    {
+      "surface": "ופליטה",
+      "gloss": "и ⟨спасение⟩"
+    },
+    {
+      "surface": "מאדירי",
+      "gloss": "от знатных"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "стада"
+    }
+  ],
+  "timestamp": "2026-08-03T03:32:40.737167664Z",
+  "model": "glm-4.5"
+}

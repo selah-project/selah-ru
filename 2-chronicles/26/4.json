@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "2-chronicles 26:4",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "И делал ⟨он⟩ прямое в глазах ЯХВЕ, согласно всему, что делал Амцияу, отец его",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И делал"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "прямое"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в глазах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "согласно всему"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "делал"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Амцияу"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "отец его"
+    }
+  ],
+  "timestamp": "2026-08-03T14:00:15.642362213Z",
+  "model": "glm-4.5"
+}

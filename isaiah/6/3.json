@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "isaiah 6:3",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И взывал этот к тому и говорил: свят, свят, свят ЯХВЕ Цеваот, полнота всей земли ⟨есть⟩ слава Его",
+  "tokens": [
+    {
+      "surface": "וקרא",
+      "gloss": "и взывал"
+    },
+    {
+      "surface": "זה",
+      "gloss": "этот"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "זה",
+      "gloss": "тому"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и говорил"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "свят"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "свят"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "свят"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "полнота"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всей"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земли"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "слава Его"
+    }
+  ],
+  "timestamp": "2026-08-03T01:50:11.696639821Z",
+  "model": "glm-4.5"
+}

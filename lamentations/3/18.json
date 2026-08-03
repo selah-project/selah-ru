@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "lamentations 3:18",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И сказал я: пропала ⟨сила⟩ моя и ⟨надежда⟩ моя от ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "И сказал я"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "пропала"
+    },
+    {
+      "surface": "נצחי",
+      "gloss": "⟨сила⟩ моя"
+    },
+    {
+      "surface": "ותוחלתי",
+      "gloss": "и ⟨надежда⟩ моя"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "от ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:34.185289980Z",
+  "model": "glm-4.5"
+}

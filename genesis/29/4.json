@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "genesis 29:4",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "И сказал Яаков им: братья мои, ⟨откуда⟩ вы? И сказали они: из Харана ⟨мы⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "братья мои"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "откуда"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вы"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "И сказали"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "из Харана"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "мы"
+    }
+  ],
+  "timestamp": "2026-08-02T19:29:15.425321722Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "song-of-songs 7:8",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Этот твой рост подобен пальме, и ⟨твои⟩ груди — ⟨как⟩ гроздья ⟨винограда⟩.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Этот"
+    },
+    {
+      "surface": "קומתך",
+      "gloss": "твой рост"
+    },
+    {
+      "surface": "דמתה",
+      "gloss": "подобен"
+    },
+    {
+      "surface": "לתמר",
+      "gloss": "пальме"
+    },
+    {
+      "surface": "ושדיך",
+      "gloss": "и ⟨твои⟩ груди"
+    },
+    {
+      "surface": "לאשכלות",
+      "gloss": "⟨как⟩ гроздья"
+    }
+  ],
+  "timestamp": "2026-08-03T10:58:30.955648099Z",
+  "model": "glm-4.5"
+}

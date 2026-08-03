@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "1-samuel 6:16",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И пять сарнов плиштим увидели, и вернулись в Экрон в день тот.",
+  "tokens": [
+    {
+      "surface": "וחמשה",
+      "gloss": "И пять"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "сарнов"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "плиштим"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "увидели"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "и вернулись"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "в Экрон"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в день"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тот"
+    }
+  ],
+  "timestamp": "2026-08-02T23:18:06.378385089Z",
+  "model": "glm-4.5"
+}

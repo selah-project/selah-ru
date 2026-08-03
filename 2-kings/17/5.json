@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "2-kings 17:5",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И взошёл царь Ашшура на всю землю и взошел в Шомрон и осадил её три года",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "и взошёл"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшура"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "на всю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "и взошел"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "в Шомрон"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "и осадил"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "её"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "года"
+    }
+  ],
+  "timestamp": "2026-08-03T01:25:35.012810187Z",
+  "model": "glm-4.5"
+}

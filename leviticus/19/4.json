@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Не обращайтесь к идолам и литых богов ⟨את⟩ не делайте себе: Я — ЯХВЕ, Элохим ваш",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "обращайтесь"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "идолам"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "и"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "литых богов"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "делайте"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "себе"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элохим ваш"
+    }
+  ],
+  "timestamp": "2026-08-02T20:59:28.350259942Z",
+  "model": "glm-4.5"
+}

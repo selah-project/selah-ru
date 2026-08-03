@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "job 37:22",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "От севера ⟨приходит⟩ золото, у Элога — грозная слава.",
+  "tokens": [
+    {
+      "surface": "מצפון",
+      "gloss": "от севера"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золото"
+    },
+    {
+      "surface": "יאתה",
+      "gloss": "⟨приходит⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "у"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Элога"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "грозная"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "слава"
+    }
+  ],
+  "timestamp": "2026-08-03T10:48:33.137806151Z",
+  "model": "glm-4.5"
+}

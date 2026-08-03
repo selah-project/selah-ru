@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "job 35:1",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "И отвечал Элиѓу и сказал:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И отвечал"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Элиѓу"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    }
+  ],
+  "timestamp": "2026-08-03T10:45:52.860870625Z",
+  "model": "glm-4.5"
+}

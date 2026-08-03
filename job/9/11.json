@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "job 9:11",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Вот, пройдёт ⟨Он⟩ мимо меня, и я не увижу; и скроется, и не замечу ⟨Его⟩",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "вот"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "пройдёт"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "мимо меня"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "я не увижу"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "и скроется"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "не замечу"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨Его⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T10:17:23.645395803Z",
+  "model": "glm-4.5"
+}

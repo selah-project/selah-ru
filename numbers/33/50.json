@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 50,
+  "ref": "numbers 33:50",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "И говорил ЯХВЕ ⟨с⟩ Моше на равнинах Моава, ⟨у⟩ Йардена ⟨против⟩ Иерихо, говоря",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "на равнинах"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨у⟩"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Йардена"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "⟨против⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "Иерихо, говоря"
+    }
+  ],
+  "timestamp": "2026-08-02T21:47:48.401479261Z",
+  "model": "glm-4.5"
+}

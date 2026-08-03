@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Истончилась моя нефеш в желании к твоим решениям в ⟨любое⟩ время",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "истончилась"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "нефеш"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "в желании"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "твоим решениям"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "в"
+    },
+    {
+      "surface": "עת",
+      "gloss": "любое"
+    }
+  ],
+  "timestamp": "2026-08-03T08:50:07.583620257Z",
+  "model": "glm-4.5"
+}

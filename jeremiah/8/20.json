@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Прошел жатву, кончил ⟨это⟩ лето, а мы не спасены.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "прошел"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "жатву"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "кончил"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "лето"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "а мы"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "спасены"
+    }
+  ],
+  "timestamp": "2026-08-03T03:08:53.276633615Z",
+  "model": "glm-4.5"
+}

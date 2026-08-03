@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И обручу тебя Мне в верности, и ты познаешь ⟨את⟩ ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "И обручу тебя"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мне"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "в верности"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "и ты познаешь"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T05:21:06.743299261Z",
+  "model": "glm-4.5"
+}

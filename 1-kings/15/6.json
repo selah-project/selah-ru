@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "1-kings 15:6",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "И война была между Рехавамом и между Йаровамом все дни ⟨его⟩ жизни",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "И война"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "была"
+    },
+    {
+      "surface": "בין",
+      "gloss": "между"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Рехавамом"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и между"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Йаровамом"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дни"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "жизни"
+    }
+  ],
+  "timestamp": "2026-08-03T00:47:00.192693153Z",
+  "model": "glm-4.5"
+}

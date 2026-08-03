@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "И пошлют старейшины города его и возьмут ⟨את⟩ его оттуда, и предадут ⟨את⟩ его в руку гоэля крови, и умрёт",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "и пошлют"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "старейшины"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "города его"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "и возьмут"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "его"
+    },
+    {
+      "surface": "משם",
+      "gloss": "оттуда"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "и предадут"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "его"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "в руку"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "гоэля"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "крови"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "и умрёт"
+    }
+  ],
+  "timestamp": "2026-08-02T22:10:06.578715499Z",
+  "model": "glm-4.5"
+}

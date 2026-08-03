@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "2-chronicles 25:2",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "И делал ⟨он⟩ правое в глазах ЯХВЕ, только не с сердцем целым",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И делал"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "правое"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в глазах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "только"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "с сердцем"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "целым"
+    }
+  ],
+  "timestamp": "2026-08-03T13:58:40.022315184Z",
+  "model": "glm-4.5"
+}

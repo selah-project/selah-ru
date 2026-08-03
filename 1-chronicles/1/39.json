@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 39,
+  "ref": "1-chronicles 1:39",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И сыновья Лотана: Хори и Гомам, и сестра Лотана — Тимна.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И сыновья"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотана"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "Хори"
+    },
+    {
+      "surface": "והומם",
+      "gloss": "и Гомам"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "и сестра"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотана"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Тимна"
+    }
+  ],
+  "timestamp": "2026-08-03T12:36:12.670825554Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "и ⟨את⟩ Баалат, и ⟨את⟩ Тамор, в пустыне, в ⟨the⟩ земле,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Баалат"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Баалат"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Тамор"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Тамор"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "в пустыне"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в ⟨the⟩ земле"
+    }
+  ],
+  "timestamp": "2026-08-03T00:35:17.863161874Z",
+  "model": "glm-4.5"
+}

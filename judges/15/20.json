@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "И он судил ⟨את⟩ Израэля во дни Филистимлян двадцать лет.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "И он судил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Израэля"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израэля"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "во дни"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Филистимлян"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцать"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    }
+  ],
+  "timestamp": "2026-08-02T23:05:40.498202090Z",
+  "model": "glm-4.5"
+}

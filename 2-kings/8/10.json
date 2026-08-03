@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И сказал ему Элиша: иди, скажи: «жив будешь», ⟨и⟩ показал мне ЯХВЕ, что ⟨он⟩ умертвлён будет",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Элиша"
+    },
+    {
+      "surface": "לך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "скажи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "жив"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "будешь"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "показал мне"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "מות",
+      "gloss": "умертвлён"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "будет"
+    }
+  ],
+  "timestamp": "2026-08-03T01:13:26.756685016Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И нефеш моя сильно встревожена, а ты, ЯХВЕ, ⟨до⟩ когда?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "и нефеш моя"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "встревожена"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "сильно"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "а ты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "когда"
+    }
+  ],
+  "timestamp": "2026-08-03T06:36:25.457237507Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "и возложил ⟨את⟩ руки свои на него и заповедал ему, как говорил ЯХВЕ рукою Моше",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "и возложил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "руки свои"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "руки свои"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на него"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "и заповедал ему"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "рукою"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-08-02T21:40:38.247524445Z",
+  "model": "glm-4.5"
+}

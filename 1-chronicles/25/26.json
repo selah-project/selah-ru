@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "1-chronicles 25:26",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "Девятнадцатый — Мелlothи, его сыновья и его братья — двенадцать:",
+  "tokens": [
+    {
+      "surface": "לתשעה",
+      "gloss": "к девятнадцати"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "למלותי",
+      "gloss": "Мелlothи"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "его сыновья"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "и его братья"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "двенадцать"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T13:13:00.789317709Z",
+  "model": "glm-4.5"
+}

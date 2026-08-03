@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "и Ахитуб породил ⟨את⟩ Цадока, и Цадок породил ⟨את⟩ Шаллума;",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "и Ахитуб"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Цадока"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Цадока"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "и Цадок"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шаллума"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Шаллума"
+    }
+  ],
+  "timestamp": "2026-08-03T12:43:31.127006723Z",
+  "model": "glm-4.5"
+}

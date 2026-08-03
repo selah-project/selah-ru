@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "deuteronomy 11:30",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Разве они не ⟨за⟩ Ярденом, по пути захождения солнца, в земле Кнаани, ⟨в⟩ Араве, напротив Гилгала, у дубов Море?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Разве"
+    },
+    {
+      "surface": "המה",
+      "gloss": "они"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "⟨за⟩"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Ярденом"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "по"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "пути"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "захождения"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "солнца"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земле"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Кнаани"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "⟨в⟩"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "Араве"
+    },
+    {
+      "surface": "מול",
+      "gloss": "напротив"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Гилгала"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "у"
+    },
+    {
+      "surface": "אלוני",
+      "gloss": "дубов"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "Море"
+    }
+  ],
+  "timestamp": "2026-08-02T22:02:58.309976103Z",
+  "model": "glm-4.5"
+}

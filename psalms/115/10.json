@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 115,
+  "translation": "Дом Аарона, уповайте на ЯХВЕ: Он — ⟨их⟩ помощь и ⟨их⟩ щит",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Дом"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарона"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "уповайте"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "на ЯХВЕ"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "помощь"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "и ⟨их⟩ щит"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Он"
+    }
+  ],
+  "timestamp": "2026-08-03T08:45:31.212788089Z",
+  "model": "glm-4.5"
+}

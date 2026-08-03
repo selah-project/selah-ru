@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "ezra 2:25",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Сыновья Кириат-Арима, Кефиры и Беерота ⟨את⟩, семьсот сорок три",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Кириат-Арим"
+    },
+    {
+      "surface": "ערים",
+      "gloss": ""
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "Кефиры"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "и Беерота"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семьсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "сорок"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "и три"
+    }
+  ],
+  "timestamp": "2026-08-03T11:58:14.766947517Z",
+  "model": "glm-4.5"
+}

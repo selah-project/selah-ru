@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И продолжил ЯХВЕ говорить со мной ещё, чтобы сказать:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "и продолжил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорить"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "со мной"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ещё"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "чтобы сказать"
+    }
+  ],
+  "timestamp": "2026-08-03T01:51:48.113559527Z",
+  "model": "glm-4.5"
+}

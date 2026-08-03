@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Твой я, спаси меня, ибо повелений Твоих взыскивал я.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Твой"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "спаси меня"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "повелений Твоих"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "взыскивал я"
+    }
+  ],
+  "timestamp": "2026-08-03T08:52:19.217074888Z",
+  "model": "glm-4.5"
+}

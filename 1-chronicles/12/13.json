@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "1-chronicles 12:13",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Йоханан восьмой, Элзавад девятый",
+  "tokens": [
+    {
+      "surface": "יוחנן",
+      "gloss": "Йоханан"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "восьмой"
+    },
+    {
+      "surface": "אלזבד",
+      "gloss": "Элзавад"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "девятый"
+    }
+  ],
+  "timestamp": "2026-08-03T12:55:07.457616301Z",
+  "model": "glm-4.5"
+}

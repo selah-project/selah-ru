@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "ezekiel 48:30",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 48,
+  "translation": "И вот выходы города ⟨с⟩ севера: пятьсот и ⟨из⟩ четырёх тысяч мер",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "תוצאת",
+      "gloss": "выходы"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "города"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "севера"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пятьсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "и ⟨из⟩"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "четырёх тысяч"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "мер"
+    }
+  ],
+  "timestamp": "2026-08-03T05:19:43.863268380Z",
+  "model": "glm-4.5"
+}

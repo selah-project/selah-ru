@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 47,
+  "translation": "И сказал Паро Иосифу, говоря: отец твой и братья твои пришли к тебе.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Иосифу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "отец твой"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "и братья твои"
+    },
+    {
+      "surface": "באו",
+      "gloss": "пришли"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "к тебе"
+    }
+  ],
+  "timestamp": "2026-08-02T19:51:31.494374248Z",
+  "model": "glm-4.5"
+}

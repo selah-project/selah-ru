@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Он ⟨את⟩ меня прогнал и заставил идти во тьму, а не ⟨в⟩ свет.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "меня",
+      "marks": "прогнал"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "прогнал"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и заставил идти"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "во тьму"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "אור",
+      "gloss": "свет"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:04.104981367Z",
+  "model": "glm-4.5"
+}

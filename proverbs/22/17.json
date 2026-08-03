@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "proverbs 22:17",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Склони ⟨своё⟩ ухо и услышь слова мудрых, и сердце ⟨своё⟩ приложи к моему знанию,",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "склони"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ухо"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "и услышь"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудрых"
+    },
+    {
+      "surface": "ולבך",
+      "gloss": "и сердце"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "приложи"
+    },
+    {
+      "surface": "לדעתי",
+      "gloss": "к моему знанию"
+    }
+  ],
+  "timestamp": "2026-08-03T09:49:58.910822979Z",
+  "model": "glm-4.5"
+}

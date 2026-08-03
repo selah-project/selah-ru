@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 44,
+  "ref": "deuteronomy 32:44",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "И пришёл Моше и ⟨он⟩ говорил ⟨את⟩ все слова этой песни в ушах народа: он и Осия, сын Нуна.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И пришёл"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "и ⟨он⟩ говорил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "все слова"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "этой песни"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "этой"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "в ушах"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народа"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "והושע",
+      "gloss": "и Осия"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Нуна"
+    }
+  ],
+  "timestamp": "2026-08-02T22:23:07.432381338Z",
+  "model": "glm-4.5"
+}

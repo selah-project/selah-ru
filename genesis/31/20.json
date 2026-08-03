@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "И украл Яаков ⟨את⟩ сердце Лавана ⟨את⟩ Арамеянина, так как не сказал ему, что он ⟨бег⟩",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "И украл"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сердце Лавана"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сердце"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лавана"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "Арамеянина"
+    },
+    {
+      "surface": "על",
+      "gloss": "так как"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "не"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "он ⟨бег⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-02T19:32:29.160586947Z",
+  "model": "glm-4.5"
+}

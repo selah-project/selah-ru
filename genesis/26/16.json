@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "И сказал Авимелех Ицхаку: уйди от нас, ибо ты стал ⟨очень⟩ могущественнее нас.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авимелех"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхаку"
+    },
+    {
+      "surface": "לך",
+      "gloss": "уйди"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "от нас"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "стал могущественнее"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "нас"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨очень⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T19:26:01.466202457Z",
+  "model": "glm-4.5"
+}

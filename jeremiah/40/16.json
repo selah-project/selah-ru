@@ -1,0 +1,90 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "jeremiah 40:16",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "И сказал Гедалья́ху сын Ахикама Иоханану сыну Кореаха: не делай ⟨этого⟩ ⟨את⟩ слово, ибо ложь ты говоришь об Ишмаэле.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Гедалья́ху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Ахикама"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Иоханану"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "сыну"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Кореаха"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "не делай"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨этого⟩"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "⟨את⟩",
+      "marks": "слово"
+    },
+    {
+      "surface": "את",
+      "gloss": "слово"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ложь"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ты"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "говоришь"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "об"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Ишмаэле"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T18:36:03.474637457Z",
+  "model": "glm-4.5"
+}

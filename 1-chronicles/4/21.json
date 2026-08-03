@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "1-chronicles 4:21",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Сыновья Шелы, сына Йехуды: Эр, отец Лехи, и Лаада, отец Маши, и семьи ⟨дома⟩ ⟨работы⟩ с челноками, дома Ашбеа,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Шелы"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуды"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Эр"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отец"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Лехи"
+    },
+    {
+      "surface": "ולעדה",
+      "gloss": "и Лаада"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отец"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Маши"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "и семьи"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨дома⟩"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "⟨работы⟩"
+    },
+    {
+      "surface": "הבץ",
+      "gloss": "с челноками"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "Ашбеа"
+    }
+  ],
+  "timestamp": "2026-08-03T12:40:50.260299394Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "2-chronicles 1:7",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "В ту ночь Элохим явился Шломо и сказал ему: проси, что ⟨я⟩ дам тебе",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "В ту ночь"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ту"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "явился"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "проси"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "⟨я⟩ дам"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    }
+  ],
+  "timestamp": "2026-08-03T13:20:29.874211919Z",
+  "model": "glm-4.5"
+}

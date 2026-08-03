@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "deuteronomy 16:8",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Шесть дней будешь есть мацу, а ⟨в⟩ день седьмой — священное собрание ЯХВЕ, Элоhim твоего; не делай работы",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "шесть"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дней"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "будешь есть"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "мацу"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "а ⟨в⟩ день"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "седьмой"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "священное собрание"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоhim твоего"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "делай"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "работы"
+    }
+  ],
+  "timestamp": "2026-08-02T22:07:20.213360231Z",
+  "model": "glm-4.5"
+}

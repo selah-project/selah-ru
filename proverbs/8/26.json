@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "proverbs 8:26",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "пока ⟨Он⟩ не сотворил землю, и ⟨её⟩ пустыни, и начало пыли мира",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "пока"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сотворил"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "וחוצות",
+      "gloss": "и ⟨её⟩ пустыни"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "и начало"
+    },
+    {
+      "surface": "עפרות",
+      "gloss": "пыли"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "мира"
+    }
+  ],
+  "timestamp": "2026-08-03T09:30:50.545822078Z",
+  "model": "glm-4.5"
+}

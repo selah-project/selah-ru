@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 64,
+  "ref": "lamentations 3:64",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Ты вернёшь им ⟨отплату⟩, ЯХВЕ, по делу ⟨их⟩ рук.",
+  "tokens": [
+    {
+      "surface": "תשיב",
+      "gloss": "ты вернёшь"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "отплату"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "по делу"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "⟨их⟩ рук"
+    }
+  ],
+  "timestamp": "2026-08-03T11:12:56.938066335Z",
+  "model": "glm-4.5"
+}

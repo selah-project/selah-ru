@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 98,
+  "translation": "С трубами и голосом шофара гремите перед Царём, ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "С трубами"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "и голосом"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "шофара"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "гремите"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Царём"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T08:28:08.460119476Z",
+  "model": "glm-4.5"
+}

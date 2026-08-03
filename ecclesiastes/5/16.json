@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Ведь все дни свои во тьме ⟨он⟩ ест, и ⟨с великим⟩ гневом, и болезнями его, и яростью",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ведь"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "дни свои"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "во тьме"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ест"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "и гневом"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "с великим"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "и болезнями его"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "и яростью"
+    }
+  ],
+  "timestamp": "2026-08-03T11:19:50.789492346Z",
+  "model": "glm-4.5"
+}

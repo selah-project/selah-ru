@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "numbers 13:14",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "для колена Неффалима Нахби, сын Вопси;",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "для колена"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Неффалима"
+    },
+    {
+      "surface": "נחבי",
+      "gloss": "Нахби"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "ופסי",
+      "gloss": "Вопси"
+    }
+  ],
+  "timestamp": "2026-08-02T21:24:47.207716238Z",
+  "model": "glm-4.5"
+}

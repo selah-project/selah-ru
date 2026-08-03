@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 5:5",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Её ноги сходят к смерти; её шаги — к Шеолу ⟨устремляются⟩",
+  "tokens": [
+    {
+      "surface": "רגליה",
+      "gloss": "Её ноги"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "сходят"
+    },
+    {
+      "surface": "מות",
+      "gloss": "к смерти"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "к Шеолу"
+    },
+    {
+      "surface": "צעדיה",
+      "gloss": "её шаги"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "— ⟨устремляются⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T09:25:52.181815357Z",
+  "model": "glm-4.5"
+}

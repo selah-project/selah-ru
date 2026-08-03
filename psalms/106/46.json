@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 106,
+  "translation": "И дал ⟨את⟩ их милости перед ⟨the⟩ всеми, ⟨the⟩ кто ⟨are⟩ пленял их",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "И дал"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "их"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "милости"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всеми"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "кто пленял их"
+    }
+  ],
+  "timestamp": "2026-08-03T08:37:57.398746204Z",
+  "model": "glm-4.5"
+}

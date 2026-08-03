@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "proverbs 11:13",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Ходит сплетник и раскрывает ⟨את⟩ секрет, но верный духом скрывает ⟨את⟩ дело",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "Ходит"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "сплетник"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "и раскрывает"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "секрет"
+    },
+    {
+      "surface": "ונאמן",
+      "gloss": "но верный"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "духом"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "скрывает"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "дело"
+    }
+  ],
+  "timestamp": "2026-08-03T09:34:26.495183939Z",
+  "model": "glm-4.5"
+}

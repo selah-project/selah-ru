@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "1-chronicles 16:21",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Он ⟨не⟩ позволил никому притеснять их, и ⟨Он⟩ обличал царей ради них:",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "позволил"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "никому"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "притеснять их"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "и ⟨Он⟩ обличал"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ради них"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "царей"
+    }
+  ],
+  "timestamp": "2026-08-03T13:00:36.924683022Z",
+  "model": "glm-4.5"
+}

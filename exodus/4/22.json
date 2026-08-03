@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "и скажешь ты фараону: так говорит ЯХВЕ: ⟨мой⟩ сын, ⟨мой⟩ первенец — Израиль",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "и скажешь ты"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "фараону"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "говорит"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сын"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "первенец"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    }
+  ],
+  "timestamp": "2026-08-02T19:58:47.067975997Z",
+  "model": "glm-4.5"
+}

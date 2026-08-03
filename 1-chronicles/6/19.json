@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "1-chronicles 6:19",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "сын Элканы, сын Иерохама, сын Элиэля, сын Тоха",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Элкана"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Иерохам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "Элиэль"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "תוח",
+      "gloss": "Тох"
+    }
+  ],
+  "timestamp": "2026-08-03T12:44:16.626872302Z",
+  "model": "glm-4.5"
+}

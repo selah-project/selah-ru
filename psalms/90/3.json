@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 90:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 90,
+  "translation": "Ты обращаешь человека в прах, и говоришь: «Вернитесь, сыновья Адама».",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "обращаешь"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "человека"
+    },
+    {
+      "surface": "עד",
+      "gloss": "в"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "прах"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "и говоришь"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "«Вернитесь»"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Адама"
+    }
+  ],
+  "timestamp": "2026-08-03T08:18:24.960237251Z",
+  "model": "glm-4.5"
+}

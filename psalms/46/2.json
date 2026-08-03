@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 46,
+  "translation": "Элохим ⟨для⟩ нас убежище и сила, помощь в бедах, находящаяся весьма.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨для⟩ нас"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "убежище"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "и сила"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "помощь"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "в бедах"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "находящаяся"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "весьма"
+    }
+  ],
+  "timestamp": "2026-08-03T07:24:28.546366536Z",
+  "model": "glm-4.5"
+}

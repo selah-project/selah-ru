@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "и Шаллум породил ⟨את⟩ Хелкию, и Хелкия породил ⟨את⟩ Азарию",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "и Шаллум"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хелкию"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Хелкию"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "и Хелкия"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Азарию"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азарию"
+    }
+  ],
+  "timestamp": "2026-08-03T12:43:32.751225456Z",
+  "model": "glm-4.5"
+}

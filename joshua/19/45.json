@@ -1,0 +1,35 @@
+{
+  "tier": "bulk",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "и Йегуд, и Бней-Брак, и Гат-Риммон",
+  "tokens": [
+    {
+      "surface": "ויהד",
+      "gloss": "и Йегуд"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Бней-Брак",
+      "marks": "Бней-Брак"
+    },
+    {
+      "surface": "וגת",
+      "gloss": "и"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Гат-Риммон",
+      "marks": "Гат-Риммон"
+    }
+  ],
+  "timestamp": "2026-08-02T22:42:52.783467958Z",
+  "model": "glm-4.5"
+}

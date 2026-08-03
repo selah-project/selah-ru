@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "⟨для⟩ Гада Элиасаф ⟨сын⟩ Деуэла",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "⟨для⟩ Гада"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Элиасаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨сын⟩"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Деуэл"
+    }
+  ],
+  "timestamp": "2026-08-02T21:09:50.414300381Z",
+  "model": "glm-4.5"
+}

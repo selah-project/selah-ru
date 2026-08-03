@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "ЯХВЕ, ⟨Твой⟩ хесед в небесах, ⟨Твоя⟩ верность — до облаков",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "в небесах"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "⟨Твой⟩ хесед"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "⟨Твоя⟩ верность"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "облаков"
+    }
+  ],
+  "timestamp": "2026-08-03T07:14:07.070383183Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "1-chronicles 23:22",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "И умер Эльазар, и не было ⟨ему⟩ сыновей, но ⟨только⟩ дочери, и взяли ⟨их⟩ сыновья Киша, братья их.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "и умер"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Эльазар"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "היו",
+      "gloss": "было"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ему⟩"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "כי",
+      "gloss": "но"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨только⟩"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "дочери"
+    },
+    {
+      "surface": "וישאום",
+      "gloss": "и взяли ⟨их⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Киша"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "братья их"
+    }
+  ],
+  "timestamp": "2026-08-03T13:09:53.551478092Z",
+  "model": "glm-4.5"
+}

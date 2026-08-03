@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "jeremiah 4:24",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Я увидел горы, и вот, они трясутся, и все холмы вздрагивают",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Я увидел"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "горы"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "רעשים",
+      "gloss": "они трясутся"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и все"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "холмы"
+    },
+    {
+      "surface": "התקלקלו",
+      "gloss": "вздрагивают"
+    }
+  ],
+  "timestamp": "2026-08-03T03:02:26.711125454Z",
+  "model": "glm-4.5"
+}

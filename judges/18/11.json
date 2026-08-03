@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "judges 18:11",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И отправились оттуда из ⟨мispéxaṭ⟩ ⟨Ha-Dani⟩, из Цорá и из Эштаóла, шесть сотен ⟨иш⟩, препоясанных орудием войны.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И отправились"
+    },
+    {
+      "surface": "משם",
+      "gloss": "оттуда"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "из ⟨мispéxaṭ⟩"
+    },
+    {
+      "surface": "הדני",
+      "gloss": "⟨Ha-Dani⟩"
+    },
+    {
+      "surface": "מצרעה",
+      "gloss": "из Цорá"
+    },
+    {
+      "surface": "ומאשתאל",
+      "gloss": "и из Эштаóла"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шесть"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотен"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨иш⟩"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "препоясанных"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "орудием"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "войны"
+    }
+  ],
+  "timestamp": "2026-08-02T23:08:23.784968679Z",
+  "model": "glm-4.5"
+}

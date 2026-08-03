@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "proverbs 25:22",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "ибо угли ты ⟨складываешь⟩ на его голову, и ЯХВЕ воздаст тебе",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "угли"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "⟨складываешь⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "его голову"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "и ЯХВЕ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "воздаст"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    }
+  ],
+  "timestamp": "2026-08-03T10:00:06.609226803Z",
+  "model": "glm-4.5"
+}

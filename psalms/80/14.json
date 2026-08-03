@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 80,
+  "translation": "Вепрь ⟨из⟩ леса губит её, и зверь поля ⟨её⟩ поедает.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "губит"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "вепрь"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "⟨из⟩ леса"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "и зверь"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "поля"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "⟨её⟩ поедает"
+    }
+  ],
+  "timestamp": "2026-08-03T08:06:50.259828626Z",
+  "model": "glm-4.5"
+}

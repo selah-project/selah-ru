@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "jeremiah 17:17",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "Не будь ⟨для меня⟩ ужасом; Ты ⟨моё⟩ убежище в день бедствия",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "будь"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨для меня⟩"
+    },
+    {
+      "surface": "למחתה",
+      "gloss": "ужасом"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "Ты ⟨моё⟩ убежище"
+    },
+    {
+      "surface": "אתה",
+      "gloss": ""
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в день"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "бедствия"
+    }
+  ],
+  "timestamp": "2026-08-03T03:19:24.095450796Z",
+  "model": "glm-4.5"
+}

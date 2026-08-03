@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И позвал ЯХВЕ Элохим к Адаму и сказал ему: где ⟨ты⟩?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "и позвал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Адаму"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "где"
+    }
+  ],
+  "timestamp": "2026-08-02T17:46:30.766973405Z",
+  "model": "glm-4.5"
+}

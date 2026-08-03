@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "job 24:19",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Засуха и ⟨же⟩ жар похищают воды снега, ⟨так⟩ Шеол согрешивших.",
+  "tokens": [
+    {
+      "surface": "ציה",
+      "gloss": "Засуха"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨же⟩"
+    },
+    {
+      "surface": "חם",
+      "gloss": "жар"
+    },
+    {
+      "surface": "יגזלו",
+      "gloss": "похищают"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "воды"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "снега"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "согрешивших"
+    }
+  ],
+  "timestamp": "2026-08-03T10:31:22.761867500Z",
+  "model": "glm-4.5"
+}

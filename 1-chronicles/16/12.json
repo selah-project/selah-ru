@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-chronicles 16:12",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Помните Его чудеса, которые ⟨Он⟩ сделал, ⟨Его⟩ знамения и суды уст Его",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Помните"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "Его чудеса"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨Он⟩ сделал"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "⟨Его⟩ знамения"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "и суды"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "уст Его"
+    }
+  ],
+  "timestamp": "2026-08-03T13:00:25.155473756Z",
+  "model": "glm-4.5"
+}

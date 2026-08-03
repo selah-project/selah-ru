@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 136,
+  "translation": "И Ог, царь Башана, ибо навек хесед Его.",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "И Ог"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Башана"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навек"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хесед Его"
+    }
+  ],
+  "timestamp": "2026-08-03T09:07:03.359138877Z",
+  "model": "glm-4.5"
+}

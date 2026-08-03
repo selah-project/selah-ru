@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "numbers 34:22",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "и для колена сынов Дана — правитель Букки, сын Йогли;",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "и для колена"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дана"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "правитель"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Букки"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "יגלי",
+      "gloss": "Йогли"
+    }
+  ],
+  "timestamp": "2026-08-02T21:48:47.373831320Z",
+  "model": "glm-4.5"
+}

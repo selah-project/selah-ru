@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "1-chronicles 5:28",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И сыновья Кехата: Амрам, Ицхар, Хеврон и Уззиэль.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И сыновья"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кехата"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Амрам"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Ицхар"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "Хеврон"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "Уззиэль"
+    }
+  ],
+  "timestamp": "2026-08-03T12:42:59.660789887Z",
+  "model": "glm-4.5"
+}

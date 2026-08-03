@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "И сделал ⟨את⟩ доски для мишкана: двадцать досок к стороне юга, к югу,",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И сделал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "доски"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "доски"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "для мишкана"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцать"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "досок"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "к стороне"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "юга"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "к югу"
+    }
+  ],
+  "timestamp": "2026-08-02T20:34:51.059936925Z",
+  "model": "glm-4.5"
+}

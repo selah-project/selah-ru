@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Пожалел ЯХВЕ ⟨поэтому⟩: ⟨это⟩ не ⟨будет⟩, сказал ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "Пожалел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "поэтому"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "это"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "будет"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T05:40:51.649796647Z",
+  "model": "glm-4.5"
+}

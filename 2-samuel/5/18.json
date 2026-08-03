@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "2-samuel 5:18",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И пришли Пелиштим и ⟨разбились⟩ в долине Рефаим.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Пелиштим"
+    },
+    {
+      "surface": "באו",
+      "gloss": "пришли"
+    },
+    {
+      "surface": "וינטשו",
+      "gloss": "и разбились"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "в долине"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Рефаим"
+    }
+  ],
+  "timestamp": "2026-08-02T23:52:45.230918569Z",
+  "model": "glm-4.5"
+}

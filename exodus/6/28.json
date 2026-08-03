@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "exodus 6:28",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И было в день, когда ЯХВЕ говорил Моше в земле Египетской,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в день"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "когда говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земле"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Египетской"
+    }
+  ],
+  "timestamp": "2026-08-02T20:00:49.742574427Z",
+  "model": "glm-4.5"
+}

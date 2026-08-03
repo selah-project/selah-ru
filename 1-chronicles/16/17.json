@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "1-chronicles 16:17",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "И утвердил ⟨это⟩ Яакову в ⟨как⟩ устав, Израилю — ⟨как⟩ завет вечный",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "И утвердил"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яакову"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "в ⟨как⟩ устав"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Израилю"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "завет"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечный"
+    }
+  ],
+  "timestamp": "2026-08-03T12:59:52.339905828Z",
+  "model": "glm-4.5"
+}

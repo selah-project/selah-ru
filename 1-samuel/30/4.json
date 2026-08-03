@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "И поднял Давид и ⟨ people⟩, который ⟨with⟩ him, ⟨את⟩ голос их и плакали, пока ⟨that⟩ нет в них силы плакать",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "И поднял"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "и ⟨the⟩ people"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨with⟩ him"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "голос их"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "голос их"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "и плакали"
+    },
+    {
+      "surface": "עד",
+      "gloss": "пока"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨that⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "в них"
+    },
+    {
+      "surface": "כח",
+      "gloss": "силы"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "плакать"
+    }
+  ],
+  "timestamp": "2026-08-02T23:46:11.680657956Z",
+  "model": "glm-4.5"
+}

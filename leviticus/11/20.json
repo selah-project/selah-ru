@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Всякое летающее ⟨и⟩ ползающее, ходящее на четырёх, — мерзость ⟨эта⟩ вам.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Всякое"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "летающее ⟨и⟩ ползающее"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "⟨крылатое⟩"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ходящее"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четырёх"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "мерзость"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨эта⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    }
+  ],
+  "timestamp": "2026-08-02T20:50:07.740895433Z",
+  "model": "glm-4.5"
+}

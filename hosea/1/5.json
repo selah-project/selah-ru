@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И будет в тот день, Я сокрушу ⟨את⟩ лук Израиля в долине Изреэля",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И будет"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в тот день"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "—"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "Я сокрушу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лук Израиля"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "лук"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "в долине"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Изреэля"
+    }
+  ],
+  "timestamp": "2026-08-03T05:20:10.849409945Z",
+  "model": "glm-4.5"
+}

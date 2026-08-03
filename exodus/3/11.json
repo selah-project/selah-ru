@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И сказал Моше Элохим: кто я, что я пойду к Паро и что выведу ⟨את⟩ сынов Исраэля из Египта?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Эlohим"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "пойду"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "и что"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "выведу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сынов Исраэля"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраэля"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "из Египта"
+    }
+  ],
+  "timestamp": "2026-08-02T19:57:29.790890625Z",
+  "model": "glm-4.5"
+}

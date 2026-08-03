@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Сыновья Сенаа: три тысячи ⟨и⟩ шестьсот ⟨и⟩ тридцать",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "Сенаа"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "тысячи"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "⟨и⟩ шесть"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотен"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "⟨и⟩ тридцать"
+    }
+  ],
+  "timestamp": "2026-08-03T11:59:15.560124352Z",
+  "model": "glm-4.5"
+}

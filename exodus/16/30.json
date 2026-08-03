@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "И успокоился народ ⟨в⟩ день седьмой",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "и успокоились"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "⟨в⟩ день"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "седьмой"
+    }
+  ],
+  "timestamp": "2026-08-02T20:10:50.096393894Z",
+  "model": "glm-4.5"
+}

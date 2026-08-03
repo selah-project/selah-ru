@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "isaiah 20:3",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И сказал ЯХВЕ: как ходил раб Мой Йешаяу нагой и босый три года, ⟨это⟩ знак и чудо над Египтом и над Кушем",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ходил"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "раб Мой"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Йешаяу"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "нагой"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "и босый"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "года"
+    },
+    {
+      "surface": "אות",
+      "gloss": "знак"
+    },
+    {
+      "surface": "ומופת",
+      "gloss": "и чудо"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Египтом"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и над"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Кушем"
+    }
+  ],
+  "timestamp": "2026-08-03T02:03:21.957367493Z",
+  "model": "glm-4.5"
+}

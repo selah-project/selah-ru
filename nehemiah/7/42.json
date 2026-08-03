@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "nehemiah 7:42",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Сыновья Харима: тысяча и семнадцать.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Харима"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тысяча"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "и"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "семнадцать"
+    }
+  ],
+  "timestamp": "2026-08-03T12:23:21.406174243Z",
+  "model": "glm-4.5"
+}

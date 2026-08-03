@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Ибо ⟨я⟩ был сыном у отца моего, нежным и единственным пред лицем матери моей",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "⟨я⟩ был"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "у отца моего"
+    },
+    {
+      "surface": "רך",
+      "gloss": "нежным"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "и единственным"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред лицем"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "матери моей"
+    }
+  ],
+  "timestamp": "2026-08-03T09:24:44.330864837Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 38,
+  "translation": "И сделал ⟨את⟩ двор на сторону юга, к югу завесы двора — виссон кручёный, сто локтей",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И сделал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "двор"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "двор"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "на сторону"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "юга"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "к югу"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "завесы"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "двора"
+    },
+    {
+      "surface": "שש",
+      "gloss": "виссон"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "кручёный"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "локтей"
+    }
+  ],
+  "timestamp": "2026-08-02T20:36:55.916538030Z",
+  "model": "glm-4.5"
+}

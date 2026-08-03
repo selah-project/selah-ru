@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Реувен, Шимон, Леви и Иехуда",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Реувен"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимон"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леви"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "и Иехуда"
+    }
+  ],
+  "timestamp": "2026-08-02T19:55:39.062579802Z",
+  "model": "glm-4.5"
+}

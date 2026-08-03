@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 109,
+  "translation": "Ибо я беден и нищ, и сердце моё ранено внутри меня.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "עני",
+      "gloss": "беден"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "и нищ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "и сердце моё"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ранено"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "внутри меня"
+    }
+  ],
+  "timestamp": "2026-08-03T08:42:01.732270451Z",
+  "model": "glm-4.5"
+}

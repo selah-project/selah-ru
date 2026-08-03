@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "2-samuel 19:24",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "И сказал царь Шимэи: не умрёшь, и поклялся ⟨ему⟩ царь",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шимэи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "умрёшь"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "и поклялся"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ему⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    }
+  ],
+  "timestamp": "2026-08-03T00:07:25.533652656Z",
+  "model": "glm-4.5"
+}

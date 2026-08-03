@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "jeremiah 8:8",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Как скажете: «мы мудры, и Тора ЯХВЕ с нами»? Ведь, вот, ложь сделал стило ложи писцов.",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Как"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "скажете"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мы мудры"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "⟨мы⟩"
+    },
+    {
+      "surface": "ותורת",
+      "gloss": "и Тора"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "с нами"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "Ведь"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "⟨к⟩ ложи"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "עט",
+      "gloss": "стило"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ложи"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "писцов"
+    }
+  ],
+  "timestamp": "2026-08-03T03:08:33.572291540Z",
+  "model": "glm-4.5"
+}

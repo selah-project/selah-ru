@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "numbers 10:27",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "и ⟨над⟩ войском колена сыновей Нафтали — Ахира, ⟨сын⟩ Энана.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и ⟨над⟩"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "войском"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "колена"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафтали"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "Ахира"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨сын⟩"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Энана"
+    }
+  ],
+  "timestamp": "2026-08-02T21:22:09.373318302Z",
+  "model": "glm-4.5"
+}

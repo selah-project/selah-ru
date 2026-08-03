@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "1-chronicles 6:29",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "А сыновья Мерари, их братья по левую сторону: Эйтан, сын Киши, сын Авди, сын Маллуха",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А сыновья"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мерари"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "их братья"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "השמאול",
+      "gloss": "левую сторону"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "Эйтан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "קישי",
+      "gloss": "Киши"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Авди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "Маллуха"
+    }
+  ],
+  "timestamp": "2026-08-03T12:44:50.610510910Z",
+  "model": "glm-4.5"
+}

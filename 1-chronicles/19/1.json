@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-chronicles 19:1",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "И было после этого: умер Нахаш, царь сынов Аммона, и царствовал его сын ⟨вместо⟩ него",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "после"
+    },
+    {
+      "surface": "כן",
+      "gloss": "этого"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "умер"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Нахаш"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммона"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "и царствовал"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "его сын"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "⟨вместо⟩ него"
+    }
+  ],
+  "timestamp": "2026-08-03T13:04:21.089781456Z",
+  "model": "glm-4.5"
+}

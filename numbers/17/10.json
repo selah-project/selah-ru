@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "Восстаньте из среды ⟨этого⟩ собрания ⟨את⟩ ⟨их⟩ в миг, и пали на лица свои",
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "восстаньте"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "из среды"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "⟨этого⟩ собрания"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": ""
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨их⟩",
+      "marks": "в миг"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "в миг"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "и пали"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "лица свои"
+    }
+  ],
+  "timestamp": "2026-08-02T21:30:13.365348187Z",
+  "model": "glm-4.5"
+}

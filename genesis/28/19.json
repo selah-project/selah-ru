@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "genesis 28:19",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "И назвал ⟨он⟩ ⟨את⟩ имя места того Бет-Эль, а [прежнее] имя города [было] Луз ⟨вначале⟩",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "и назвал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "имя"
+    },
+    {
+      "surface": "שם",
+      "gloss": "имя"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "места"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "того"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эль"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "а"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "Луз"
+    },
+    {
+      "surface": "שם",
+      "gloss": "имя"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "города"
+    },
+    {
+      "surface": "לראשנה",
+      "gloss": "⟨вначале⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T19:28:34.622729925Z",
+  "model": "glm-4.5"
+}

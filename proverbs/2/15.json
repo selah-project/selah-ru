@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "proverbs 2:15",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "чьи пути извилисты, ⟨они⟩ извращены ⟨на⟩ ⟨своих⟩ дорожках",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "чьи"
+    },
+    {
+      "surface": "ארחתיהם",
+      "gloss": "пути"
+    },
+    {
+      "surface": "עקשים",
+      "gloss": "извилисты"
+    },
+    {
+      "surface": "ונלוזים",
+      "gloss": "извращены"
+    },
+    {
+      "surface": "במעגלותם",
+      "gloss": "⟨на⟩ ⟨своих⟩ дорожках"
+    }
+  ],
+  "timestamp": "2026-08-03T09:22:26.527890766Z",
+  "model": "glm-4.5"
+}

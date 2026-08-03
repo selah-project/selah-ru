@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "proverbs 9:11",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "ибо ⟨во⟩ мне умножатся дни твои, и прибавятся тебе годы хайим",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "בי",
+      "gloss": "⟨во⟩ мне"
+    },
+    {
+      "surface": "ירבו",
+      "gloss": "умножатся"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "дни твои"
+    },
+    {
+      "surface": "ויוסיפו",
+      "gloss": "и прибавятся"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "годы"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "хайим"
+    }
+  ],
+  "timestamp": "2026-08-03T09:31:56.947895477Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "jeremiah 44:20",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 44,
+  "translation": "И сказал Ирмея́ху всему народу, ⟨о⟩ мужчинах и ⟨о⟩ женщинах и ⟨о⟩ всём народе, отвечающих ⟨את⟩ ему, слово:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмея́ху"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всему"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народу"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨о⟩"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "мужчинах"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и ⟨о⟩"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "женщинах"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и ⟨о⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всём"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народе"
+    },
+    {
+      "surface": "הענים",
+      "gloss": "отвечающих"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ему"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T04:03:51.171838325Z",
+  "model": "glm-4.5"
+}

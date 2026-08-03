@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "и ⟨во⟩ втором ряду но́фех саппи́р и яхало́м",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "и ⟨во⟩ втором ряду"
+    },
+    {
+      "surface": "השני",
+      "gloss": "втором"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "но́фех"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "саппи́р"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "и яхало́м"
+    }
+  ],
+  "timestamp": "2026-08-02T20:22:55.847584545Z",
+  "model": "glm-4.5"
+}

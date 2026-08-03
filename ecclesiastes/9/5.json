@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Ибо живые знают, что ⟨они⟩ умрут, а мёртвые не знают ничего, и нет ⟨у них⟩ уже награды, ибо забыта память о ⟨них⟩",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "живые"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "знают"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "что ⟨они⟩ умрут"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "а мёртвые"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "не"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "знают"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ничего"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нет"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "уже"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨у них⟩"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "награды"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "забыта"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "память о ⟨них⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T11:24:03.076647808Z",
+  "model": "glm-4.5"
+}

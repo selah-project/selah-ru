@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "ezekiel 44:26",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 44,
+  "translation": "И после очищения его ⟨им⟩ сосчитают семь дней ⟨для⟩ него",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "И после"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "очищения его"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "семь"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дней"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "сосчитают"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    }
+  ],
+  "timestamp": "2026-08-03T05:12:20.867140933Z",
+  "model": "glm-4.5"
+}

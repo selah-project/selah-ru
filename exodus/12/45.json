@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Живущий ⟨и⟩ наёмник не ⟨будут⟩ есть ⟨את⟩ него.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "Живущий"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "⟨и⟩ наёмник"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "⟨будут⟩ есть"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨את⟩ него",
+      "marks": "его"
+    }
+  ],
+  "timestamp": "2026-08-02T20:06:59.405575130Z",
+  "model": "glm-4.5"
+}

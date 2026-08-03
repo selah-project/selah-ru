@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "и я хвалил ⟨את⟩ мёртвых, которые уже умерли, более чем живых, которые ⟨есть⟩ живы доселе",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "и я хвалил"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мёртвых"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "мёртвых"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "уже"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "умерли"
+    },
+    {
+      "surface": "מן",
+      "gloss": "более чем"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "живых"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨они⟩"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живы"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "доселе"
+    }
+  ],
+  "timestamp": "2026-08-03T11:18:52.741877358Z",
+  "model": "glm-4.5"
+}

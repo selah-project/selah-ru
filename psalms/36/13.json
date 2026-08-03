@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 36:13",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "Там пали делатели беззакония: низвергнуты и ⟨не⟩ в силах встать",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Там"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "пали"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "делатели"
+    },
+    {
+      "surface": "און",
+      "gloss": "беззакония"
+    },
+    {
+      "surface": "דחו",
+      "gloss": "низвергнуты"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и ⟨не⟩"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "в силах"
+    },
+    {
+      "surface": "קום",
+      "gloss": "встать"
+    }
+  ],
+  "timestamp": "2026-08-03T07:14:37.352891972Z",
+  "model": "glm-4.5"
+}

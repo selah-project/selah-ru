@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "1-chronicles 17:13",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "Я буду ему отцом, и он будет Мне сыном; и хесед Мой не отниму от него, как Я отнял от того, кто был пред тобою",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "буду"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "отцом"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "и он"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "будет"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мне"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "сыном"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "и хесед Мой"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "отниму"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "от него"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "הסירותי",
+      "gloss": "Я отнял"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "от того, ⟨кто⟩"
+    },
+    {
+      "surface": "היה",
+      "gloss": "был"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "пред тобою"
+    }
+  ],
+  "timestamp": "2026-08-03T13:01:54.009519089Z",
+  "model": "glm-4.5"
+}

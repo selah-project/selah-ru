@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 141,
+  "translation": "Поставь, ЯХВЕ, охрану устам моим — стереги ⟨дверь⟩ губ моих.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Поставь"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "охрану"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "устам моим"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "стереги"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "דל",
+      "gloss": "⟨дверь⟩"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "губ моих"
+    }
+  ],
+  "timestamp": "2026-08-03T09:11:52.922951547Z",
+  "model": "glm-4.5"
+}

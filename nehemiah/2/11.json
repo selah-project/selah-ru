@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И пришёл я в Иерушалаим и был там три дня",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "И пришёл я"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Иерушалаим"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "и был я"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    }
+  ],
+  "timestamp": "2026-08-03T12:14:20.521964088Z",
+  "model": "glm-4.5"
+}

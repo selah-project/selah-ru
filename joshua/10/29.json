@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "joshua 10:29",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И прошёл Йегошуа и весь Израиль с ним от Македы к Ливне и воевал с Ливной",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "и прошёл"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йегошуа"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и весь"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с ним"
+    },
+    {
+      "surface": "ממקדה",
+      "gloss": "от Македы"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "к Ливне"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "и воевал"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Ливной"
+    }
+  ],
+  "timestamp": "2026-08-02T22:34:27.719736278Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "daniel 3:11",
+  "book": "daniel",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "и кто не падёт и не поклонится, тот будет брошен внутрь ⟨⟩ furnace огня пылающей.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "и кто"
+    },
+    {
+      "surface": "די",
+      "gloss": "который"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "падёт"
+    },
+    {
+      "surface": "ויסגד",
+      "gloss": "и поклонится"
+    },
+    {
+      "surface": "יתרמא",
+      "gloss": "брошен будет"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "внутрь"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "печи"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "огня"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "пылающей"
+    }
+  ],
+  "timestamp": "2026-08-03T11:41:52.839486466Z",
+  "model": "glm-4.5"
+}

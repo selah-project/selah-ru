@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "2-chronicles 25:20",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "И не послушал Амцйаху, ибо от Элогим это, ⟨чтобы⟩ отдать их в руку, ибо взыскали ⟨את⟩ Элогим Эдома.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И не"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "послушал"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Амцйаху"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "מהאלהים",
+      "gloss": "от Элогим"
+    },
+    {
+      "surface": "היא",
+      "gloss": "это"
+    },
+    {
+      "surface": "למען",
+      "gloss": "⟨чтобы⟩"
+    },
+    {
+      "surface": "תתם",
+      "gloss": "отдать"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "в руку"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "взыскали"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элогим Эдома"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элогим"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдома"
+    }
+  ],
+  "timestamp": "2026-08-03T13:58:43.518556105Z",
+  "model": "glm-4.5"
+}

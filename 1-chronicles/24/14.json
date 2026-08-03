@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "1-chronicles 24:14",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "пятнадцатый — Билге, шестнадцатый — Иммер, לאמр говорить:",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "Билге"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пятнадцатый"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨לאמר⟩",
+      "marks": "говорить"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "шестнадцатый"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T13:11:02.313683653Z",
+  "model": "glm-4.5"
+}

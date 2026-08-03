@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "2-kings 8:27",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "и шёл он путём дома Ахава, и делал злое в глазах ЯХВЕ, как дом Ахава, ибо зять ⟨он⟩ дома Ахава",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "и шёл"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "путём"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахава"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "и делал"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "злое"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в глазах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "как дом"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахава"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "зять"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахава"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T01:13:47.452405090Z",
+  "model": "glm-4.5"
+}

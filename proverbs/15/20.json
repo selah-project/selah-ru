@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "Мудрый сын радует отца, а глупец человек презирает мать свою",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудрый"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "радует"
+    },
+    {
+      "surface": "אב",
+      "gloss": "отца"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "а глупец"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человек"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "презирает"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "мать свою"
+    }
+  ],
+  "timestamp": "2026-08-03T09:40:15.856290170Z",
+  "model": "glm-4.5"
+}

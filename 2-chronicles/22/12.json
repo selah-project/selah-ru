@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "2-chronicles 22:12",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И был он с ними скрыт в доме Элохима шесть лет; и Аталия царствовала над ⟨землёй⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И был"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "с ними"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "в доме"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохима"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "скрыт"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шесть"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "лет"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "и Аталия"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "царствовала"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землёй"
+    }
+  ],
+  "timestamp": "2026-08-03T13:54:51.453001865Z",
+  "model": "glm-4.5"
+}

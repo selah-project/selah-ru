@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 132,
+  "translation": "Восстань, ЯХВЕ, ⟨в⟩ место покоя Твоё, Ты и ковчег силы Твоей.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Восстань"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "⟨в⟩ место покоя Твоё"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "и ковчег"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "силы Твоей"
+    }
+  ],
+  "timestamp": "2026-08-03T09:03:20.398046246Z",
+  "model": "glm-4.5"
+}

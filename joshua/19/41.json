@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 41,
+  "ref": "joshua 19:41",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "И был ⟨предел⟩ наследия их: Цора и Эштаол, и Ир-Шемеш",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И был"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "⟨предел⟩"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "наследия их"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Цора"
+    },
+    {
+      "surface": "ואשתאול",
+      "gloss": "и Эштаол"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "и Ир-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Шемеш"
+    }
+  ],
+  "timestamp": "2026-08-02T22:42:45.710038605Z",
+  "model": "glm-4.5"
+}

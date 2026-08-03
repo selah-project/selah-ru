@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Череды из золота сделаем ⟨для тебя⟩ с ⟨точками⟩ из серебра",
+  "tokens": [
+    {
+      "surface": "תורי",
+      "gloss": "Череды"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "из золота"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "сделаем"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨для тебя⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "נקדות",
+      "gloss": "⟨точками⟩"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "из серебра"
+    }
+  ],
+  "timestamp": "2026-08-03T10:54:12.881448048Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И сыновья Михы: Пифон и Мелек и Тахреа",
+  "tokens": [
+    {
+      "surface": "וּבְנֵי",
+      "gloss": "и сыновья"
+    },
+    {
+      "surface": "מִיכָה",
+      "gloss": "Михы"
+    },
+    {
+      "surface": "פִּיתוֹן",
+      "gloss": "Пифон"
+    },
+    {
+      "surface": "וָמֶלֶךְ",
+      "gloss": "и Мелек"
+    },
+    {
+      "surface": "וְתַחְרֵעַ",
+      "gloss": "и Тахреа"
+    }
+  ],
+  "timestamp": "2026-08-03T12:51:13.944936704Z",
+  "model": "glm-4.5"
+}

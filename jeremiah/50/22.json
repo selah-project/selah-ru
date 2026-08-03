@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 50,
+  "translation": "Голос битвы в стране, и великий ⟨разрушение⟩",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Голос"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "битвы"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в стране"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "и",
+      "marks": "великий ⟨разрушение⟩"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "великий"
+    }
+  ],
+  "timestamp": "2026-08-03T04:11:05.779948445Z",
+  "model": "glm-4.5"
+}

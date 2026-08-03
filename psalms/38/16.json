@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 38,
+  "translation": "Ибо на Тебя, ЯХВЕ, я надеюсь; Ты ответишь, Адонай, Элохи мой.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "לך",
+      "gloss": "на Тебя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "я надеюсь"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ответишь"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохи мой"
+    }
+  ],
+  "timestamp": "2026-08-03T07:16:44.441293843Z",
+  "model": "glm-4.5"
+}

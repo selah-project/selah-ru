@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И сказал Моше к ⟨общине⟩: «Вот ⟨это⟩ слово, которое ЯХВЕ повелел ⟨делать⟩».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "⟨общине⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Вот ⟨это⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "повелел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "⟨делать⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T20:47:21.097347098Z",
+  "model": "glm-4.5"
+}

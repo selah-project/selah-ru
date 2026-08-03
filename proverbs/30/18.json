@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "proverbs 30:18",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Три вещи ⟨они⟩ слишком ⟨удивительны⟩ для меня, и четыре — ⟨я⟩ не знаю ⟨их⟩:",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "Три"
+    },
+    {
+      "surface": "המה",
+      "gloss": "они"
+    },
+    {
+      "surface": "נפלאו",
+      "gloss": "слишком ⟨удивительны⟩"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "для меня"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "и четыре"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעתים",
+      "gloss": "знаю ⟨их⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T10:07:38.211801106Z",
+  "model": "glm-4.5"
+}

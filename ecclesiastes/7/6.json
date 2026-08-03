@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Ибо как треск את терний под котлом, так ⟨смеется⟩ глупец; и это — הֶבֶל.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "как треск"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "терний"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "котлом"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "⟨смеется⟩"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "глупец"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и"
+    },
+    {
+      "surface": "זה",
+      "gloss": "это"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "הֶבֶל"
+    }
+  ],
+  "timestamp": "2026-08-03T11:21:39.953245466Z",
+  "model": "glm-4.5"
+}

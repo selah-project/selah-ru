@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Все вещи утомительны; человек не в силах ⟨их⟩ изречь; не насытится глаз ⟨от⟩ зрения, и не наполнится ухо ⟨от⟩ слышания.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Все"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "вещи"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "утомительны"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "в силах"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человек"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "изречь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "насытится"
+    },
+    {
+      "surface": "עין",
+      "gloss": "глаз"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "⟨от⟩ зрения"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "наполнится"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ухо"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "⟨от⟩ слышания"
+    }
+  ],
+  "timestamp": "2026-08-03T11:15:23.451117977Z",
+  "model": "glm-4.5"
+}

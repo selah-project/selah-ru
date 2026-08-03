@@ -1,0 +1,98 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "ecclesiastes 7:14",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "В день блага будь в благе, а в день зла смотри: ⟨את⟩ это напротив этого сделал Элохим, чтобы человек не нашёл после него ничего",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "В день"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "блага"
+    },
+    {
+      "surface": "היה",
+      "gloss": "будь"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "в благе"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "а в день"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зла"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "смотри"
+    },
+    {
+      "surface": "גם",
+      "gloss": "вот\/даже"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "это"
+    },
+    {
+      "surface": "זה",
+      "gloss": "это"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "напротив"
+    },
+    {
+      "surface": "זה",
+      "gloss": "этого"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "על",
+      "gloss": "чтобы"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "из-за того что"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "нашёл"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "человек"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "после него"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ничего"
+    }
+  ],
+  "timestamp": "2026-08-03T11:21:53.421531777Z",
+  "model": "glm-4.5"
+}

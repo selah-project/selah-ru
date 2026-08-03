@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "1-samuel 21:11",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И встал Давид и сбежал в тот день от ⟨лица⟩ Шаула, и пришёл к Акишу, царю Гата",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "И встал"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "и сбежал"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в ⟨тот⟩ день"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨тот⟩"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "от ⟨лица⟩"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаула"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и пришёл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Акишу"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Гата"
+    }
+  ],
+  "timestamp": "2026-08-02T23:37:14.309137525Z",
+  "model": "glm-4.5"
+}

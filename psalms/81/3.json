@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 81,
+  "translation": "Воспойте песнь, и подайте бубен, приятную киннор с невелом",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "воспойте"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "песнь"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "и подайте"
+    },
+    {
+      "surface": "תף",
+      "gloss": "бубен"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "киннор"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "приятную"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "невелом"
+    }
+  ],
+  "timestamp": "2026-08-03T08:07:31.987532217Z",
+  "model": "glm-4.5"
+}

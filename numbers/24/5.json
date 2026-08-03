@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "numbers 24:5",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Как хороши ⟨את⟩ шатры твои, Яаков, ⟨את⟩ жилища твои, Израиль!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Как"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "хороши"
+    },
+    {
+      "surface": "אהליך",
+      "gloss": "шатры твои"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "משכנתיך",
+      "gloss": "жилища твои"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    }
+  ],
+  "timestamp": "2026-08-02T21:36:58.316073325Z",
+  "model": "glm-4.5"
+}

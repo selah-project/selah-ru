@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "hosea 13:12",
+  "book": "hosea",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "Связана беззаконность Эфраима, сокрыта ⟨его⟩ вина.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "Связана"
+    },
+    {
+      "surface": "עון",
+      "gloss": "беззаконность"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраима"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "сокрыта"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "вина"
+    }
+  ],
+  "timestamp": "2026-08-03T05:29:20.933006072Z",
+  "model": "glm-4.5"
+}

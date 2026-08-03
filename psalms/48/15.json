@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 48,
+  "translation": "Ибо ⟨это⟩ Элохим, Элохим наш — на веки и вечно; Он поведёт нас сквозь смерть.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨это⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элохим наш"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "на веки"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и вечно"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Он"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "поведёт нас"
+    },
+    {
+      "surface": "על",
+      "gloss": "сквозь"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смерть"
+    }
+  ],
+  "timestamp": "2026-08-03T07:26:34.050388359Z",
+  "model": "glm-4.5"
+}

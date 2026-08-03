@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 66,
+  "translation": "которое уста мои открыли, и мой рот говорил в моём стеснении",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "открыли"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "уста мои"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "и"
+    },
+    {
+      "surface": "פי",
+      "gloss": "мой рот"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "говорил"
+    },
+    {
+      "surface": "לי",
+      "gloss": "в моём стеснении"
+    }
+  ],
+  "timestamp": "2026-08-03T07:45:19.259650718Z",
+  "model": "glm-4.5"
+}

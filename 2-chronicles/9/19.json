@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "2-chronicles 9:19",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "и двенадцать львов стояли там на шести ступенях, отсюда и оттуда — не сделано так ⟨ни для какого⟩ царства.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "и двенадцать"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אריות",
+      "gloss": "львов"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "стояли"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шести"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ступенях"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "отсюда"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "и оттуда"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "сделано"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "⟨ни для какого⟩"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "царства"
+    }
+  ],
+  "timestamp": "2026-08-03T13:34:16.732732299Z",
+  "model": "glm-4.5"
+}

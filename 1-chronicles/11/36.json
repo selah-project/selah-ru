@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "1-chronicles 11:36",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Хефер Мехерати, Ахия Пелони",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "Хефер"
+    },
+    {
+      "surface": "המכרתי",
+      "gloss": "Мехерати"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ахия"
+    },
+    {
+      "surface": "הפלני",
+      "gloss": "Пелони"
+    }
+  ],
+  "timestamp": "2026-08-03T12:54:07.238267394Z",
+  "model": "glm-4.5"
+}

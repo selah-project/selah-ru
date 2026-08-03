@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "и ⟨את⟩ весь жир его поднимет от него и воскурит ⟨на⟩ жертвеннике",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "весь жир"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "жир его"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "поднимет"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "от него"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "и воскурит"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "⟨на⟩ жертвеннике"
+    }
+  ],
+  "timestamp": "2026-08-02T20:42:31.615899132Z",
+  "model": "glm-4.5"
+}

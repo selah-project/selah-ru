@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 43,
+  "translation": "И сделал человек, как повелел Йосеф, и привёл человек ⟨את⟩ мужей в дом Йосефа",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И сделал"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "человек"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "повелел"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и привёл"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "человек"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мужей"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "мужей"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "в дом"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефа"
+    }
+  ],
+  "timestamp": "2026-08-02T19:47:21.835418571Z",
+  "model": "glm-4.5"
+}

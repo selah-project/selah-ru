@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 39,
+  "translation": "Согласно всему, что ЯХВЕ ⟨את⟩ Моше приказал, так ⟨את⟩ всю работу сделали сыны Израиля",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "Согласно всему"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "приказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "сделали"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всю работу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всю"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "работу"
+    }
+  ],
+  "timestamp": "2026-08-02T20:38:36.905753688Z",
+  "model": "glm-4.5"
+}

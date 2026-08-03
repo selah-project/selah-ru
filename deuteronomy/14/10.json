@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И вся ⟨את⟩, что не имеет ей плавника и чешуи, не ешьте; нечист он для вас.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "и вся"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "אין",
+      "gloss": "не имеет"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ей"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "плавника"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "и чешуи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ешьте"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечист"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "для вас"
+    }
+  ],
+  "timestamp": "2026-08-02T22:05:23.741525968Z",
+  "model": "glm-4.5"
+}

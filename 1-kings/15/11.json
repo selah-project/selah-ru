@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "1-kings 15:11",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "И делал Аса прямое в глазах ЯХВЕ, как Давид, отец его",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И делал"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Аса"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "прямое"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в глазах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "как Давид"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "отец его"
+    }
+  ],
+  "timestamp": "2026-08-03T00:47:00.734699739Z",
+  "model": "glm-4.5"
+}

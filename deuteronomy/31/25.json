@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "И приказал Моше ⟨את⟩ левитам, несущим ковчег завета ЯХВЕ, говоря:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "И приказал"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "левитам"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левитам"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "несущим"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "завета"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-02T22:21:35.744775125Z",
+  "model": "glm-4.5"
+}

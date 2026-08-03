@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "1-chronicles 11:26",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "и храбрецы ⟨силы⟩: Асаэл брат Йоава, Элханан сын Додо из Бейт-Лехема",
+  "tokens": [
+    {
+      "surface": "וְגִבּוֹרֵי",
+      "gloss": "и храбрецы"
+    },
+    {
+      "surface": "הַחֲיָלִים",
+      "gloss": "⟨силы⟩"
+    },
+    {
+      "surface": "עֲשָׂה",
+      "gloss": "Асаэл"
+    },
+    {
+      "surface": "אֵל",
+      "gloss": ""
+    },
+    {
+      "surface": "אֲחִי",
+      "gloss": "брат"
+    },
+    {
+      "surface": "יוֹאָב",
+      "gloss": "Йоава"
+    },
+    {
+      "surface": "אֶלְחָנָן",
+      "gloss": "Элханан"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "דּוֹדוֹ",
+      "gloss": "Додо"
+    },
+    {
+      "surface": "מִבֵּית",
+      "gloss": "из Бейт"
+    },
+    {
+      "surface": "לָֽחֶם",
+      "gloss": "-Лехема"
+    }
+  ],
+  "timestamp": "2026-08-03T12:54:12.008358887Z",
+  "model": "glm-4.5"
+}

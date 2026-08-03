@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "и ни к какой nefesh мёртвой ⟨он⟩ не войдёт, ⟨для⟩ отца своего и ⟨для⟩ матери своей — ⟨не⟩ осквернит ⟨себя⟩",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и ни к"
+    },
+    {
+      "surface": "כל",
+      "gloss": "какой"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "מת",
+      "gloss": "мёртвой"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "войдёт"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "⟨для⟩ отца своего"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "и ⟨для⟩ матери своей"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "осквернит ⟨себя⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T21:01:37.581892072Z",
+  "model": "glm-4.5"
+}

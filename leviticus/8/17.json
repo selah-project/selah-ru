@@ -1,0 +1,86 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "а ⟨את⟩ быка и ⟨את⟩ его шкуру и ⟨את⟩ его плоть и ⟨את⟩ его помёт сжёг ⟨את⟩ огнём вне ⟨את⟩ стана, как ⟨את⟩ повелел ЯХВЕ ⟨את⟩ Моше",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "быка"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "быка"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "его шкуру"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "его шкуру"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "его плоть"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "его плоть"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "его помёт"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "его помёт"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "сжёг"
+    },
+    {
+      "surface": "באש",
+      "gloss": "⟨огнём⟩"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "вне"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "стана"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "повелел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-08-02T20:47:18.587673517Z",
+  "model": "glm-4.5"
+}

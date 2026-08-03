@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Прекратилась радость сердца нашего, превратился в плач танец наш",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "прекратилась"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "радость"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "сердца нашего"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "превратился"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "в плач"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "танец наш"
+    }
+  ],
+  "timestamp": "2026-08-03T11:14:34.506256382Z",
+  "model": "glm-4.5"
+}

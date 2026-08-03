@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "Он хранит все ⟨его⟩ кости: одна из них не сокрушена",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "хранит"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "кости"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "одна"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "из них"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "сокрушена"
+    }
+  ],
+  "timestamp": "2026-08-03T07:10:07.183074531Z",
+  "model": "glm-4.5"
+}

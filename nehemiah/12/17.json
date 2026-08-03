@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "nehemiah 12:17",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "от Ави́и, Зихри; от Миньями́на, и от Моадии, Пелтаи:",
+  "tokens": [
+    {
+      "surface": "לאביה",
+      "gloss": "от Ави́и"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Зихри"
+    },
+    {
+      "surface": "למנימין",
+      "gloss": "от Миньями́на"
+    },
+    {
+      "surface": "למועדיה",
+      "gloss": "от Моадии"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "Пелтаи"
+    }
+  ],
+  "timestamp": "2026-08-03T12:31:03.770361067Z",
+  "model": "glm-4.5"
+}

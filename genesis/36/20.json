@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "Это сыновья Сеира Хоррея, ⟨живущие в⟩ ⟨земле⟩: Лотан и Шовал и Цивон и Ана",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Это"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеира"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "Хоррея"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "живущие"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земле"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотан"
+    },
+    {
+      "surface": "וְשׁוֹבָל",
+      "gloss": "и Шовал"
+    },
+    {
+      "surface": "וְצִבְעוֹן",
+      "gloss": "и Цивон"
+    },
+    {
+      "surface": "וַעֲנָה",
+      "gloss": "и Ана"
+    }
+  ],
+  "timestamp": "2026-08-02T19:38:11.968780973Z",
+  "model": "glm-4.5"
+}

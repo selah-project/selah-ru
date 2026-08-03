@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "numbers 7:36",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "В ⟨пятый⟩ день Шелумиэль, сын Цуришаддая, правитель сынов Шимона,",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "В день"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "⟨пятый⟩"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "правитель"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимона"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "Шелумиэль"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "Цуришаддая"
+    }
+  ],
+  "timestamp": "2026-08-02T21:18:34.766525686Z",
+  "model": "glm-4.5"
+}

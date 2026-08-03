@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И не ⟨было⟩ воды для общины, и собрались они против Моше и против Агарона.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨было⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воды"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "для общины"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "и собрались"
+    },
+    {
+      "surface": "על",
+      "gloss": "против"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и против"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Агарона"
+    }
+  ],
+  "timestamp": "2026-08-02T21:32:44.868098870Z",
+  "model": "glm-4.5"
+}

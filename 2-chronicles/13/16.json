@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "2-chronicles 13:16",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И сыновья Исраэля бежали от лица Йехуды, и Элохим предал их в руки ⟨их⟩",
+  "tokens": [
+    {
+      "surface": "וינוסו",
+      "gloss": "и бежали"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраэля"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "от лица"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуды"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "и предал"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "в руки ⟨их⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T13:40:31.639521924Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "proverbs 20:14",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "Плохо, плохо, говорит покупающий, а ⟨как⟩ уйдёт, тогда хвалится",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "плохо"
+    },
+    {
+      "surface": "רע",
+      "gloss": "плохо"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "говорит"
+    },
+    {
+      "surface": "הקונה",
+      "gloss": "покупающий"
+    },
+    {
+      "surface": "ואזל",
+      "gloss": "а уйдёт"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨как⟩",
+      "marks": "уходя"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тогда"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "хвалится"
+    }
+  ],
+  "timestamp": "2026-08-03T09:47:02.056545158Z",
+  "model": "glm-4.5"
+}

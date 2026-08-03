@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 52,
+  "translation": "Ты возлюбил ⟨все⟩ слова пожирающие, ⟨о⟩ язык обмана!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "возлюбил"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨все⟩"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "пожирающие"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "⟨о⟩ язык"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "обмана"
+    }
+  ],
+  "timestamp": "2026-08-03T07:30:38.777091832Z",
+  "model": "glm-4.5"
+}

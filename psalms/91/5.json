@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 91,
+  "translation": "Не бойся ⟨увы⟩ ночного, ⟨от⟩ стрелы, ⟨что⟩ летит ⟨днём⟩",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "бойся"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "⟨увы⟩"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ночного"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "⟨от⟩ стрелы"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "⟨что⟩ летит"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "⟨днём⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T08:20:36.367217087Z",
+  "model": "glm-4.5"
+}

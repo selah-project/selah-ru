@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 102:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 102,
+  "translation": "Побит как трава, и иссохло сердце моё, ибо я забыл ⟨есть⟩ хлеб мой",
+  "tokens": [
+    {
+      "surface": "הוכה",
+      "gloss": "побит"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "как трава"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "и иссохло"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "сердце моё"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "я забыл"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "⟨есть⟩"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "хлеб мой"
+    }
+  ],
+  "timestamp": "2026-08-03T08:30:16.364205463Z",
+  "model": "glm-4.5"
+}

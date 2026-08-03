@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И услышал Тои, царь Хамата, что поразил Давид ⟨את⟩ всё войско Ададэзера.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "И услышал"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Тои"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамата"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "поразил"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всё войско"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "войско"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Ададэзера"
+    }
+  ],
+  "timestamp": "2026-08-02T23:55:11.674510924Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "genesis 41:38",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 41,
+  "translation": "И сказал Паро слугам своим: найдётся ли ⟨такой⟩ муж, в котором ⟨есть⟩ дух Элохим?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "слугам своим"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "найдётся ли"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "⟨такой⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "муж"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "в котором"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дух"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨есть⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T19:45:05.737394692Z",
+  "model": "glm-4.5"
+}

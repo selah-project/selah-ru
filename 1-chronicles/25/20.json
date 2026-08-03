@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "1-chronicles 25:20",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "Тринадцатый ⟨ выпал ⟩ Шуваюэлю, его сыновьям и братьям — двенадцать:",
+  "tokens": [
+    {
+      "surface": "לשלשה",
+      "gloss": "тринадцатый"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨выпал⟩"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "Шуваюэлю"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "его сыновьям"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "и братьям"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "двенадцать"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨выпал⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T13:12:52.136110836Z",
+  "model": "glm-4.5"
+}

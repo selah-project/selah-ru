@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "proverbs 5:10",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "чтобы ⟨не⟩ насытились чужие ⟨את⟩ силой твоей, и труды твои — в доме чужого",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "чтобы ⟨не⟩"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "насытились"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "чужие"
+    },
+    {
+      "surface": "כחך",
+      "gloss": "⟨את⟩",
+      "marks": "силой твоей"
+    },
+    {
+      "surface": "ועצביך",
+      "gloss": "и труды твои"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "в доме"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "чужого"
+    }
+  ],
+  "timestamp": "2026-08-03T09:25:59.137997950Z",
+  "model": "glm-4.5"
+}

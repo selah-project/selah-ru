@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Но Ноах нашёл хэсэд ⟨в⟩ глазах ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "Но Ноах"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "нашёл"
+    },
+    {
+      "surface": "חן",
+      "gloss": "хэсэд"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "⟨в⟩ глазах",
+      "marks": "⟨в⟩ глазах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T17:49:40.494208815Z",
+  "model": "glm-4.5"
+}

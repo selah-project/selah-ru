@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И взял Моше ⟨את⟩ жезл от лица ЯХВЕ, как Он повелел ему",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "И взял"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жезл"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "жезл"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "от лица"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "Он повелел ему"
+    }
+  ],
+  "timestamp": "2026-08-02T21:33:03.664974201Z",
+  "model": "glm-4.5"
+}

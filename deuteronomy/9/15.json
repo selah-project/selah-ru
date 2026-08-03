@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "deuteronomy 9:15",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И я обратился и спустился с горы, а ⟨эта⟩ гора горела огнём, и две скрижали завета ⟨были⟩ на двух моих руках",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "и я обратился"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "и спустился"
+    },
+    {
+      "surface": "מן",
+      "gloss": "с"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "горы"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "а ⟨эта⟩ гора"
+    },
+    {
+      "surface": "בער",
+      "gloss": "горела"
+    },
+    {
+      "surface": "באש",
+      "gloss": "огнём"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "и две"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "скрижали"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "завета"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "двух"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "моих руках"
+    }
+  ],
+  "timestamp": "2026-08-02T22:00:33.770213867Z",
+  "model": "glm-4.5"
+}

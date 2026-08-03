@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "numbers 17:18",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "и ⟨את⟩ имя Аарона ты напиши на жезле Леви, ибо ⟨один⟩ жезл для главы дома отцов их",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "имя Аарона"
+    },
+    {
+      "surface": "שם",
+      "gloss": "имя"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарона"
+    },
+    {
+      "surface": "תכתב",
+      "gloss": "ты напиши"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "жезле"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леви"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "жезл"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨один⟩"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "для главы"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "отцов их"
+    }
+  ],
+  "timestamp": "2026-08-02T21:30:23.665065386Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Песнь песен, которая Шеломо",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Песнь"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "песен"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которая"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Шеломо"
+    }
+  ],
+  "timestamp": "2026-08-03T10:54:19.813822512Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "isaiah 33:7",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "Вот, герои их кричат снаружи, вестники шалома горько плачут.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "вот"
+    },
+    {
+      "surface": "אראלם",
+      "gloss": "герои их"
+    },
+    {
+      "surface": "צעקו",
+      "gloss": "кричат"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "снаружи"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "вестники"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "шалома"
+    },
+    {
+      "surface": "מר",
+      "gloss": "горько"
+    },
+    {
+      "surface": "יבכיון",
+      "gloss": "плачут"
+    }
+  ],
+  "timestamp": "2026-08-03T02:17:51.141681608Z",
+  "model": "glm-4.5"
+}

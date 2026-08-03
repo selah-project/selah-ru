@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "job 27:9",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "Будет ли Эль слышать ⟨את⟩ вопль его, когда придёт на него беда?",
+  "tokens": [
+    {
+      "surface": "הצעקתו",
+      "gloss": "вопль его"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "слышать"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эль"
+    },
+    {
+      "surface": "כי",
+      "gloss": "когда"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "придёт"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на него"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "беда"
+    }
+  ],
+  "timestamp": "2026-08-03T10:33:08.118379719Z",
+  "model": "glm-4.5"
+}

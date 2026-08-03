@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И ⟨את⟩ башню Пнуэля разрушил, и ⟨את⟩ мужей города убил",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "башню"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "башню"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Пнуэля"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "разрушил"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "и ⟨את⟩ ... убил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мужей"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "мужей"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "города"
+    }
+  ],
+  "timestamp": "2026-08-02T22:58:00.820533176Z",
+  "model": "glm-4.5"
+}

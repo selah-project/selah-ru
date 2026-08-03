@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "judges 20:24",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И подошли сыны Израиля к сынам Биньямина ⟨во⟩ второй день",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "и подошли"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынам"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Биньямина"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "⟨во⟩ день"
+    },
+    {
+      "surface": "השני",
+      "gloss": "второй"
+    }
+  ],
+  "timestamp": "2026-08-02T23:11:12.512461578Z",
+  "model": "glm-4.5"
+}

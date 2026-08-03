@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "и засвидетельствовал ⟨את⟩ малах ЯХВЕ Йехошуе, говоря:",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "и засвидетельствовал"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "малах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "⟨את⟩",
+      "marks": "Йехошуе"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-03T06:10:41.390513539Z",
+  "model": "glm-4.5"
+}

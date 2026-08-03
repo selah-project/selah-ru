@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 66,
+  "ref": "nehemiah 7:66",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Всё собрание вместе — сорок две тысячи триста ⟨и⟩ шестьдесят",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Всё"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "собрание"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "вместе"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "сорок"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "тысячи"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "две"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "триста"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "וששים",
+      "gloss": "⟨и⟩ шестьдесят"
+    }
+  ],
+  "timestamp": "2026-08-03T12:23:50.930051524Z",
+  "model": "glm-4.5"
+}

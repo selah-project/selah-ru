@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "exodus 7:21",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И рыба, которая в Ниле, умерла, и Нил зловонил, и не могли Mitsrayim пить воду из Нила, и кровь была во всей земле Mitsrayim",
+  "tokens": [
+    {
+      "surface": "וְהַדָּגָה",
+      "gloss": "И рыба"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "которая"
+    },
+    {
+      "surface": "בַּיְאֹר",
+      "gloss": "в Ниле"
+    },
+    {
+      "surface": "מֵתָה",
+      "gloss": "умерла"
+    },
+    {
+      "surface": "וַיִּבְאַשׁ",
+      "gloss": "и Нил зловонил"
+    },
+    {
+      "surface": "הַיְאֹר",
+      "gloss": "Нил"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יָכְלוּ",
+      "gloss": "могли"
+    },
+    {
+      "surface": "מִצְרַיִם",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לִשְׁתּוֹת",
+      "gloss": "пить"
+    },
+    {
+      "surface": "מַיִם",
+      "gloss": "воду"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "из"
+    },
+    {
+      "surface": "הַיְאֹר",
+      "gloss": "Нила"
+    },
+    {
+      "surface": "וַיְהִי",
+      "gloss": "и была"
+    },
+    {
+      "surface": "הַדָּם",
+      "gloss": "кровь"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "во всей"
+    },
+    {
+      "surface": "אֶרֶץ",
+      "gloss": "земле"
+    },
+    {
+      "surface": "מִצְרָֽיִם",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-02T20:01:29.081883687Z",
+  "model": "glm-4.5"
+}

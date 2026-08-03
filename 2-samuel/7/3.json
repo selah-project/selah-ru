@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И сказал Нафан царю: иди, делай всё, что в сердце твоём, ибо ЯХВЕ с тобой",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Нафан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "в сердце твоём"
+    },
+    {
+      "surface": "לך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "делай"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "с тобой"
+    }
+  ],
+  "timestamp": "2026-08-02T23:54:12.186374645Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "genesis 43:31",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 43,
+  "translation": "И он омыл лицо своё, и вышел, и сдержался, и сказал: подайте ⟨лехем⟩.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "и омыл"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лицо своё"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "и вышел"
+    },
+    {
+      "surface": "ויתאפק",
+      "gloss": "и сдержался"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "подайте"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "⟨лехем⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T19:47:42.998679112Z",
+  "model": "glm-4.5"
+}

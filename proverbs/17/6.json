@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "proverbs 17:6",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "Венец старцев — сыновья сыновей, и слава сыновей — их отцы",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "Венец"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "старцев"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "и слава"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "их отцы"
+    }
+  ],
+  "timestamp": "2026-08-03T09:43:03.363357765Z",
+  "model": "glm-4.5"
+}

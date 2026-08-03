@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "isaiah 40:28",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "Разве ты не знаешь? Разве ты не слышал ⟨that⟩ Элохи вечности, ЯХВЕ, сотворивший ⟨the⟩ концы земли, не утомится и не устанет? ⟨There is⟩ ⟨no⟩ исследования ⟨of⟩ ⟨His⟩ понимания.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Разве"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ты не знаешь"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Разве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ты слышал"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохи"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечности"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "сотворивший"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "концы"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земли"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ייעף",
+      "gloss": "утомится"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ייגע",
+      "gloss": "устанет"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨There is⟩ ⟨no⟩"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "исследования"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "⟨of⟩ ⟨His⟩ понимания"
+    }
+  ],
+  "timestamp": "2026-08-03T02:27:18.319728439Z",
+  "model": "glm-4.5"
+}

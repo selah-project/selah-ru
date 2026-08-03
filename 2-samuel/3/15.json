@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "2-samuel 3:15",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И послал Иш-Бошет и взял её от ⟨мужа⟩, от Палтиэля, сына Луиша",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "И послал"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Иш-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Бошет"
+    },
+    {
+      "surface": "וקחה",
+      "gloss": "и взял"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "от"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨мужа⟩",
+      "marks": "Палтиэля"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "от"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "Палтиэля"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "לוש",
+      "gloss": "Луиша"
+    }
+  ],
+  "timestamp": "2026-08-02T23:50:38.703384094Z",
+  "model": "glm-4.5"
+}

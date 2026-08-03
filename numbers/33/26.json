@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "numbers 33:26",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "И двинулись они из Махелота, и разбили лагерь в Тахате",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И двинулись они"
+    },
+    {
+      "surface": "ממקהלת",
+      "gloss": "из Махелота"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и разбили лагерь"
+    },
+    {
+      "surface": "בתחת",
+      "gloss": "в Тахате"
+    }
+  ],
+  "timestamp": "2026-08-02T21:47:15.046098195Z",
+  "model": "glm-4.5"
+}

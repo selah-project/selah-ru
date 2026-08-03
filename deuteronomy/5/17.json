@@ -1,0 +1,21 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "deuteronomy 5:17",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "не убивай",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "убивай"
+    }
+  ],
+  "timestamp": "2026-08-02T21:55:58.479960967Z",
+  "model": "glm-4.5"
+}

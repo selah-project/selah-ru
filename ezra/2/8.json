@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Сыновья Затту, девятьсот сорок пять",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "Затту"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "девятьсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "сорок"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "пять"
+    }
+  ],
+  "timestamp": "2026-08-03T11:57:54.562394333Z",
+  "model": "glm-4.5"
+}

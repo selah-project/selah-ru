@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Здоровое сердце — жизнь для плоти, а зависть — гниение костей",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "Жизнь"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "плоти"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сердце"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "здоровое"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "а"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "костей"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "зависть"
+    }
+  ],
+  "timestamp": "2026-08-03T09:37:59.866228528Z",
+  "model": "glm-4.5"
+}

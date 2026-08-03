@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "proverbs 7:24",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И теперь, сыны, слушайте меня и внимайте ⟨את⟩ речам уст моих",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "И теперь"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "слушайте"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "внимайте"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "⟨את⟩",
+      "marks": "речам"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уст"
+    }
+  ],
+  "timestamp": "2026-08-03T09:28:51.291259642Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 88,
+  "translation": "ЯХВЕ, Элохи моего спасения, днём взывал я, ночью пред Тобою,",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохи"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "моего спасения"
+    },
+    {
+      "surface": "יום",
+      "gloss": "днём"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "взывал я"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ночью"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "пред Тобою"
+    }
+  ],
+  "timestamp": "2026-08-03T08:13:22.975703693Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Труд глупцов утомит его, ⟨потому что⟩ не знает он, как идти ⟨в⟩ город.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "труд"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "глупцов"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "утомит его"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨потому что⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знает"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "как идти"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨в⟩"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "город"
+    }
+  ],
+  "timestamp": "2026-08-03T11:24:39.396717596Z",
+  "model": "glm-4.5"
+}

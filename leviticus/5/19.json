@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "это жертва повинная; он ⟨действительно⟩ виновен перед ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "жертва повинная"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "виновен"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "⟨действительно⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "перед ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T20:43:37.161545747Z",
+  "model": "glm-4.5"
+}

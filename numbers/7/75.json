@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 75,
+  "ref": "numbers 7:75",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "один бык, сын ⟨стада⟩, один баран, один агнец, сын ⟨его⟩ года, для всесожжения",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "бык"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "⟨стада⟩"
+    },
+    {
+      "surface": "איל",
+      "gloss": "баран"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "агнец"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "⟨его⟩ года"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "для всесожжения"
+    }
+  ],
+  "timestamp": "2026-08-02T21:19:31.382913299Z",
+  "model": "glm-4.5"
+}

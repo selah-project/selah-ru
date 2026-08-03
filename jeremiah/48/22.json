@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 48,
+  "translation": "и на Дивон, и на Нево, и на Бет-Диблафаим",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "Дивон"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Нево"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "דבלתים",
+      "gloss": "Диблафаим"
+    }
+  ],
+  "timestamp": "2026-08-03T04:07:18.194489235Z",
+  "model": "glm-4.5"
+}

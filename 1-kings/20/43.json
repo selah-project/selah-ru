@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 43,
+  "ref": "1-kings 20:43",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И пошёл царь Израиля в свой дом мрачен и разгневан, и пришёл в Шомрон",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "И пошёл"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "על",
+      "gloss": "в"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "свой дом"
+    },
+    {
+      "surface": "סר",
+      "gloss": "мрачен"
+    },
+    {
+      "surface": "וזעף",
+      "gloss": "и разгневан"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и пришёл"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "в Шомрон"
+    }
+  ],
+  "timestamp": "2026-08-03T00:57:53.662146528Z",
+  "model": "glm-4.5"
+}

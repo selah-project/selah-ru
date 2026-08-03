@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "lamentations 4:21",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Радуйся и веселись, дочь Эдома, живущая ⟨в⟩ стране Уц; ⟨и⟩ на тебя пройдёт чаша, опьянеешь и обнажишься",
+  "tokens": [
+    {
+      "surface": "שישי",
+      "gloss": "Радуйся"
+    },
+    {
+      "surface": "ושמחי",
+      "gloss": "и веселись"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочь"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдома"
+    },
+    {
+      "surface": "יושבתי",
+      "gloss": "живущая"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨в⟩ стране"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Уц"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨и⟩"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "на тебя"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "пройдёт"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "чаша"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "опьянеешь"
+    },
+    {
+      "surface": "ותתערי",
+      "gloss": "и обнажишься"
+    }
+  ],
+  "timestamp": "2026-08-03T11:13:57.606954557Z",
+  "model": "glm-4.5"
+}

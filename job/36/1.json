@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "job 36:1",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "И продолжил Элиу и сказал:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "и продолжил"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "Элиу"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    }
+  ],
+  "timestamp": "2026-08-03T10:46:29.123565893Z",
+  "model": "glm-4.5"
+}

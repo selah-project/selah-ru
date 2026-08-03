@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "В год смерти царя Ахаза ⟨было⟩ ⟨это⟩ пророчество.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "В год"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смерти"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ахаза"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨было⟩"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "⟨это⟩ пророчество"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T01:58:15.558980502Z",
+  "model": "glm-4.5"
+}

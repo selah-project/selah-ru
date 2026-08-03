@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "nehemiah 10:23",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Пелатья, Ханан, Анаия",
+  "tokens": [
+    {
+      "surface": "פלטיה",
+      "gloss": "Пелатья"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Ханан"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "Анаия"
+    }
+  ],
+  "timestamp": "2026-08-03T12:28:12.288689846Z",
+  "model": "glm-4.5"
+}

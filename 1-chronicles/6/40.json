@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "и дали им ⟨את⟩ Хеврон в земле Иуды и ⟨את⟩ её окрестности вокруг неё",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "и дали"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хеврон"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Хеврон"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земле"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иуды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "её окрестности"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "её окрестности"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "вокруг неё"
+    }
+  ],
+  "timestamp": "2026-08-03T12:44:56.831619757Z",
+  "model": "glm-4.5"
+}

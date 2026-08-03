@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "и возложит руку свою на голову козла, и заколет его ⟨את⟩ в месте, где заколют ⟨את⟩ олу перед ЯХВЕ: хаттат это",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "и возложит"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "руку свою"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "голову"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "козла"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "и заколет"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "его",
+      "marks": "в месте"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "в месте, где"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "заколют"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "олу"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "олу"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "хаттат"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "это"
+    }
+  ],
+  "timestamp": "2026-08-03T17:55:36.712191797Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Сыновья Йефета: Гомер, и Магог, и Мадай, и Йаван, и Тувал, и Мешех, и Тирас.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Йефета"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Гомер"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "и Магог"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "и Мадай"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "и Йаван"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "и Тувал"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "и Мешех"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "и Тирас"
+    }
+  ],
+  "timestamp": "2026-08-02T17:53:29.546356818Z",
+  "model": "glm-4.5"
+}

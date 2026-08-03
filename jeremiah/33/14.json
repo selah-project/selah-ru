@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "jeremiah 33:14",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "Вот, идут дни, изречение ЯХВЕ, и исполню ⟨את⟩ доброе слово, которое Я говорил к дому Израиля и к дому Иуды",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Вот"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "באים",
+      "gloss": "идут"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изречение"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "и исполню"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "доброе слово"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "доброе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "Я говорил"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и к"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иуды"
+    }
+  ],
+  "timestamp": "2026-08-03T03:47:26.802322683Z",
+  "model": "glm-4.5"
+}

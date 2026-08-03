@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И сказал ему ЯХВЕ: «Что ⟨это⟩ в руке твоей?» И он сказал: «Посох».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "Что ⟨это⟩"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "в руке твоей"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "Посох"
+    }
+  ],
+  "timestamp": "2026-08-02T19:58:07.198432229Z",
+  "model": "glm-4.5"
+}

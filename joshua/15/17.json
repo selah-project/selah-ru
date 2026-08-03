@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "joshua 15:17",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "И взял её Отниэль, сын Кеназа, брат Калева, и он дал ему ⟨את⟩ Аксу, дочь его, в жёны",
+  "tokens": [
+    {
+      "surface": "וילכדה",
+      "gloss": "И взял её"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "Отниэль"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Кеназа"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брат"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калева"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и он дал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аксу"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Аксу"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "дочь его"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "в жёны"
+    }
+  ],
+  "timestamp": "2026-08-02T22:38:56.572631844Z",
+  "model": "glm-4.5"
+}

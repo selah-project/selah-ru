@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 68,
+  "translation": "гора Элохима — гора Башана, гора вершин — гора Башана",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "гора"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохима"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гора"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Башана"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гора"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "вершин"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гора"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Башана"
+    }
+  ],
+  "timestamp": "2026-08-03T07:47:31.768471956Z",
+  "model": "glm-4.5"
+}

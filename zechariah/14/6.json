@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "zechariah 14:6",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И будет в тот день: не будет ⟨свет⟩, ⟨редкий⟩ и густой.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И будет"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в тот день"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "будет"
+    },
+    {
+      "surface": "אור",
+      "gloss": "⟨свет⟩"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "⟨редкий⟩"
+    },
+    {
+      "surface": "יקפאון",
+      "gloss": "и густой"
+    }
+  ],
+  "timestamp": "2026-08-03T06:21:09.365076404Z",
+  "model": "glm-4.5"
+}

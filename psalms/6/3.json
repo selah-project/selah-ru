@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Пожалей меня, ЯХВЕ, ⟨ибо⟩ я изнемог; исцели меня, ЯХВЕ, ⟨ибо⟩ потрясены кости мои",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "пожалей меня"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "изнемог"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "исцели меня"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "потрясены"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "кости мои"
+    }
+  ],
+  "timestamp": "2026-08-03T06:36:30.350884314Z",
+  "model": "glm-4.5"
+}

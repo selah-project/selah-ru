@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "proverbs 3:29",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Не замышляй ⟨зла⟩ против ближнего ⟨твоего⟩, когда он ⟨безопасно⟩ живёт ⟨у⟩ тебя",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "замышляй"
+    },
+    {
+      "surface": "על",
+      "gloss": "против"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ближнего ⟨твоего⟩"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "⟨зла⟩"
+    },
+    {
+      "surface": "ו הוא",
+      "gloss": "когда"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "живёт ⟨безопасно⟩"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "⟨у⟩"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "тебя"
+    }
+  ],
+  "timestamp": "2026-08-03T09:24:01.979628425Z",
+  "model": "glm-4.5"
+}

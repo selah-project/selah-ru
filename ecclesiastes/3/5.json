@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "время метать ⟨את⟩ камни и время собирать ⟨את⟩ камни; время обнимать и время быть далёким от объятий",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "время"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "метать"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "камни",
+      "marks": "⟨את⟩"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и время"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "собирать"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "камни",
+      "marks": "⟨את⟩"
+    },
+    {
+      "surface": "עת",
+      "gloss": "время"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "обнимать"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и время"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "быть далёким"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "от объятий"
+    }
+  ],
+  "timestamp": "2026-08-03T11:17:28.099934032Z",
+  "model": "glm-4.5"
+}

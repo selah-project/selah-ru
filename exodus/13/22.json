@@ -1,0 +1,56 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "Не удалялся ⟨את⟩ столп облака днём и ⟨את⟩ столп огня ночью от ⟨את⟩ лица народа",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "удалялся"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "столп"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "⟨את⟩",
+      "marks": "облака"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "днём"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "и ⟨את⟩ столп",
+      "marks": "огня"
+    },
+    {
+      "surface": "האש",
+      "gloss": "огня"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ночью"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "от"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨את⟩",
+      "marks": "лица народа"
+    }
+  ],
+  "timestamp": "2026-08-02T20:07:47.790521280Z",
+  "model": "glm-4.5"
+}

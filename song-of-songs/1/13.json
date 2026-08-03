@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Пучок мирры, возлюбленный мой, мне — между грудями моими заночует.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "Пучок"
+    },
+    {
+      "surface": "המר",
+      "gloss": "мирры"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "возлюбленный мой"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "בין",
+      "gloss": "между"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "грудями моими"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "заночует"
+    }
+  ],
+  "timestamp": "2026-08-03T10:54:00.844667015Z",
+  "model": "glm-4.5"
+}

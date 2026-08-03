@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "jeremiah 32:6",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "И сказал Ирмея́ху: было слово ЯХВЕ ко мне, чтобы ⟨сказать⟩:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмея́ху"
+    },
+    {
+      "surface": "היה",
+      "gloss": "было"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ко мне"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "чтобы ⟨сказать⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T03:44:28.470396065Z",
+  "model": "glm-4.5"
+}

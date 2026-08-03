@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "1-chronicles 7:6",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Сыновья Биньямина: Бэла, и Бэкэр, и Йедиаэль, трое.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "Биньямин"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Бэла"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "и Бэкэр"
+    },
+    {
+      "surface": "וידיעאל",
+      "gloss": "и Йедиаэль"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "трое"
+    }
+  ],
+  "timestamp": "2026-08-03T12:46:48.384370095Z",
+  "model": "glm-4.5"
+}

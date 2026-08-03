@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "1-chronicles 24:27",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Сыновья Мрари от Йаазиииу, ⟨его⟩ сына: ⟨и⟩ Шохам, ⟨и⟩ Захур, ⟨и⟩ Иври.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мрари"
+    },
+    {
+      "surface": "ליעזיהו",
+      "gloss": "от Йаазиииу"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨его⟩ сына"
+    },
+    {
+      "surface": "ושהם",
+      "gloss": "⟨и⟩ Шохам"
+    },
+    {
+      "surface": "וזכור",
+      "gloss": "⟨и⟩ Захур"
+    },
+    {
+      "surface": "ועברי",
+      "gloss": "⟨и⟩ Иври"
+    }
+  ],
+  "timestamp": "2026-08-03T13:11:21.346310764Z",
+  "model": "glm-4.5"
+}

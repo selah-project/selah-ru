@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 54,
+  "translation": "Элохим, услышь мою молитву, внемли словам ⟨моего⟩ уст.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "услышь"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "мою молитву"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "внемли"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "словам"
+    },
+    {
+      "surface": "פי",
+      "gloss": "⟨моего⟩ уст"
+    }
+  ],
+  "timestamp": "2026-08-03T07:31:44.189634940Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Храни ⟨את⟩ день шаббата, чтобы освятить его, как заповедал тебе ЯХВЕ, твой Элохим",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Храни"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "день шаббата"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "шаббата"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "чтобы освятить его"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "заповедал тебе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твой Элохим"
+    }
+  ],
+  "timestamp": "2026-08-02T21:56:02.351276305Z",
+  "model": "glm-4.5"
+}

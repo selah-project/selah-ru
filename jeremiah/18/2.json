@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Встань и сойди в дом ⟨эт⟩ гончара, и там Я дам тебе услышать слова Мои.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Встань"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "и сойди"
+    },
+    {
+      "surface": "בית",
+      "gloss": "в дом"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "⟨эт⟩ гончара",
+      "marks": "гончара"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "и там"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "Я дам тебе услышать"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слова"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова Мои"
+    }
+  ],
+  "timestamp": "2026-08-03T03:21:10.895003060Z",
+  "model": "glm-4.5"
+}

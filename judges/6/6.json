@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "judges 6:6",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И был Израиль очень истощён ⟨из-за⟩ Мидьяна, и воззвали сыны Израиля к ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "וידל",
+      "gloss": "и был"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "очень"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "⟨из-за⟩"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мидьяна"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "и воззвали"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T22:54:49.070846301Z",
+  "model": "glm-4.5"
+}

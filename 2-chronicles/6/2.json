@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "2-chronicles 6:2",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Но я построил ⟨את⟩ дом обители для Тебя, и место для dwelling Твоего на веки",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Но я"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "построил"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "обители"
+    },
+    {
+      "surface": "לך",
+      "gloss": "для Тебя"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "и место"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "для dwelling Твоего"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "на века"
+    }
+  ],
+  "timestamp": "2026-08-03T13:27:36.634393423Z",
+  "model": "glm-4.5"
+}

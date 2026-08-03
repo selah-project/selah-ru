@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "2-chronicles 29:33",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "И посвящённых ⟨были⟩: крупный скот шестьсот, и мелкий скот три тысячи.",
+  "tokens": [
+    {
+      "surface": "והקדשים",
+      "gloss": "и посвящённых"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "крупный скот"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шесть"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотен"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "и мелкий скот"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "тысячи"
+    }
+  ],
+  "timestamp": "2026-08-03T14:05:40.648301588Z",
+  "model": "glm-4.5"
+}

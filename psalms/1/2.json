@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Но в Торе ЯХВЕ ⟨его⟩ влечение, и в Торе Его ⟨он⟩ размышляет днём и ночью.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Но"
+    },
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "в Торе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "влечение"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "и в Торе Его"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "размышляет"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "днём"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "и ночью"
+    }
+  ],
+  "timestamp": "2026-08-03T06:26:39.499186779Z",
+  "model": "glm-4.5"
+}

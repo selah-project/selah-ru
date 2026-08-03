@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-chronicles 5:4",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Сыновья Йоэля: Шемайя, сын его, Гог, сын его, Шими, сын ⟨его⟩;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Йоэля"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемайя"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "сын его"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "Гог"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "сын его"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шими"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "сын ⟨его⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T12:42:34.176805905Z",
+  "model": "glm-4.5"
+}

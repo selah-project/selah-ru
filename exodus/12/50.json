@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И сделали все сыновья Израиля, как повелел ЯХВЕ ⟨את⟩ Моше и ⟨את⟩ Аарона, так ⟨они⟩ и сделали.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "И сделали"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "повелел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Аарона"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарона"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "сделали"
+    }
+  ],
+  "timestamp": "2026-08-02T20:07:13.867871305Z",
+  "model": "glm-4.5"
+}

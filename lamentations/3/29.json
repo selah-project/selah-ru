@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Пусть он даст ⟨свой⟩ рот ⟨в⟩ пыль, если ⟨есть⟩ надежда",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "даст"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "⟨в⟩ пыль"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "⟨свой⟩ рот"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "если"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨есть⟩"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "надежда"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:35.265456934Z",
+  "model": "glm-4.5"
+}

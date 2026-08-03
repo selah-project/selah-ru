@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "И сошёл ЯХВЕ в облаке, и встал с ним там, и призвал именем ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "И сошёл"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "в облаке"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "и встал"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с ним"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и призвал"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "именем"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T20:31:48.567651458Z",
+  "model": "glm-4.5"
+}

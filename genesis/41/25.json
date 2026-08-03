@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 41,
+  "translation": "И сказал Иосиф Паро: сон Паро ⟨есть⟩ один; ⟨את⟩ то, что Элохим делает, Он открыл Паро",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Иосиф"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "сон"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨есть⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "то, что Элохим делает"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "то, что"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "делает"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "Он открыл"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Паро"
+    }
+  ],
+  "timestamp": "2026-08-02T19:44:21.504382175Z",
+  "model": "glm-4.5"
+}

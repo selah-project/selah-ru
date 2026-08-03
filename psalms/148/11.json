@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 148,
+  "translation": "Цари земли и ⟨все⟩ народы; князья и ⟨все⟩ судьи земли",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "Цари"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земли"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и ⟨все⟩"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "народы"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "князья"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и ⟨все⟩"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "судьи"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земли"
+    }
+  ],
+  "timestamp": "2026-08-03T09:18:00.985067110Z",
+  "model": "glm-4.5"
+}

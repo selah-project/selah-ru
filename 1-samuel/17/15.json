@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "А Давид ходил и возвращался от Шаула, чтобы пасти ⟨את⟩ овец отца его в Вифлееме.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "А Давид"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ходил"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "и возвращался"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "от"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаула"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "чтобы пасти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "овец"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "овец"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "отца его"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Вифлееме"
+    },
+    {
+      "surface": "לחם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-02T23:32:07.375452869Z",
+  "model": "glm-4.5"
+}

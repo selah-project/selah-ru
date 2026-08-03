@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "1-chronicles 9:28",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И из них — над utensils служения, ибо по счёту внесут их, и по счёту вынесут их.",
+  "tokens": [
+    {
+      "surface": "וּמֵהֶם",
+      "gloss": "И из них"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "над"
+    },
+    {
+      "surface": "כְּלֵי",
+      "gloss": "utensils"
+    },
+    {
+      "surface": "הָעֲבוֹדָה",
+      "gloss": "служения"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "בְמִסְפָּר",
+      "gloss": "по счёту"
+    },
+    {
+      "surface": "יְבִיאוּם",
+      "gloss": "внесут их"
+    },
+    {
+      "surface": "וּבְמִסְפָּר",
+      "gloss": "и по счёту"
+    },
+    {
+      "surface": "יוֹצִיאוּם",
+      "gloss": "вынесут их"
+    }
+  ],
+  "timestamp": "2026-08-03T12:51:10.959262885Z",
+  "model": "glm-4.5"
+}

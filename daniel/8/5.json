@@ -1,0 +1,97 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "daniel 8:5",
+  "book": "daniel",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И я ⟨был⟩ discerning, и вот, козёл (самец) коз пришёл с запада на лицо всей земли, и ⟨не⟩ касаясь земли, и козёл ⟨имел⟩ рог видения меж глазами его",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "И я"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "⟨был⟩"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "discerning"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "צפיר",
+      "gloss": "козёл (самец)"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "коз"
+    },
+    {
+      "surface": "בא",
+      "gloss": "пришёл"
+    },
+    {
+      "surface": "מן",
+      "gloss": "с"
+    },
+    {
+      "surface": "המערב",
+      "gloss": "запада"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всей"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земли"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и ⟨не⟩"
+    },
+    {
+      "surface": "נוגע",
+      "gloss": "касаясь"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "земли"
+    },
+    {
+      "surface": "והצפיר",
+      "gloss": "и козёл"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "рог"
+    },
+    {
+      "surface": "חזות",
+      "gloss": "видения"
+    },
+    {
+      "surface": "בין",
+      "gloss": "меж"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "глазами его"
+    }
+  ],
+  "timestamp": "2026-08-03T11:50:33.986126187Z",
+  "model": "glm-4.5"
+}

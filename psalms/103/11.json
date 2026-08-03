@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 103,
+  "translation": "Ибо как высоко небо над землёй, так велико ⟨Его⟩ хесед над боящимися ⟨Им⟩",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "как высоко"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небо"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землёй"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "велико"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "⟨Его⟩ хесед"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "боящимися ⟨Им⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T08:32:03.582869060Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "job 8:1",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И отвечал Билдад ⟨הַשּׁוּחִי⟩, и сказал:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И отвечал"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "Билдад"
+    },
+    {
+      "surface": "השוחי",
+      "gloss": "⟨הַשּׁוּחִי⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    }
+  ],
+  "timestamp": "2026-08-03T10:16:20.701779823Z",
+  "model": "glm-4.5"
+}

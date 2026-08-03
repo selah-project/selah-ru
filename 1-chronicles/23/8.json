@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Сыновья Лаадана: главный — Йехиэль, и Зетам, и Йоэль, трое.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "Лаадана"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "главный"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "Йехиэль"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "и Зетам"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "и Йоэль"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "трое"
+    }
+  ],
+  "timestamp": "2026-08-03T13:09:27.226318783Z",
+  "model": "glm-4.5"
+}

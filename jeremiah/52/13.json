@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "jeremiah 52:13",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 52,
+  "translation": "И сожёг ⟨он⟩ ⟨את⟩ дом ЯХВЕ и ⟨את⟩ дом царя, и ⟨את⟩ все дома Иерусалима, и ⟨את⟩ каждый великий дом сожёг огнём",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "И сожёг"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дом"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "дом"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "все"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "дома"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Иерусалима"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "каждый"
+    },
+    {
+      "surface": "כל",
+      "gloss": "каждый"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "великий"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "сожёг"
+    },
+    {
+      "surface": "באש",
+      "gloss": "огнём"
+    }
+  ],
+  "timestamp": "2026-08-03T04:15:13.807547466Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "jeremiah 34:4",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "Однако слушай слово ЯХВЕ, Цидкияху, царь Иуды: так сказал ЯХВЕ о тебе: не умрешь ты ⟨от⟩ меча",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "однако"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слушай"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Цидкияху"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иуды"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "о тебе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "умрешь"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "⟨от⟩ меча",
+      "marks": "меча"
+    }
+  ],
+  "timestamp": "2026-08-03T03:48:04.734127836Z",
+  "model": "glm-4.5"
+}

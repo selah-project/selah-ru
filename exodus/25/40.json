@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "и смотри, и делай ⟨по⟩ образцу их, который показан тебе на горе",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "и смотри"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "и делай"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "⟨по⟩ образцу их"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "показан"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "на горе"
+    }
+  ],
+  "timestamp": "2026-08-02T20:19:33.839598035Z",
+  "model": "glm-4.5"
+}

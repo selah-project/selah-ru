@@ -1,0 +1,108 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "numbers 7:1",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И было в день завершения Моше ставить ⟨את⟩ мишкан и помазать его и освятить его и ⟨את⟩ все его utensils и ⟨את⟩ мизбеах и ⟨את⟩ все его utensils и помазать их и освятить их",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в день"
+    },
+    {
+      "surface": "כלות",
+      "gloss": "завершения"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "ставить"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мишкан"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "мишкан"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "и помазать"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "его"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "и освятить"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "его"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "все"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "его utensils"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "мизбеах"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "мизбеах"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "все"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "его utensils"
+    },
+    {
+      "surface": "וימשחם",
+      "gloss": "и помазать их"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "и освятить"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "их"
+    }
+  ],
+  "timestamp": "2026-08-02T21:17:55.547186246Z",
+  "model": "glm-4.5"
+}

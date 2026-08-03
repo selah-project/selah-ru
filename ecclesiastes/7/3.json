@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Лучше досада, ⟨чем⟩ смех, ибо при печали ⟨с лица⟩ сердце ⟨становится⟩ лучше.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "лучше"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "досада"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "смех"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "при печали"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "с лица"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "становится лучше"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сердце"
+    }
+  ],
+  "timestamp": "2026-08-03T11:21:34.890444622Z",
+  "model": "glm-4.5"
+}

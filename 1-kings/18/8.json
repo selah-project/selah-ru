@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И сказал он ему: я; пойди, скажи твоему господину: вот, Элийahu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "לך",
+      "gloss": "пойди"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "скажи"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "твоему господину"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Элийahu"
+    }
+  ],
+  "timestamp": "2026-08-03T00:53:02.749581924Z",
+  "model": "glm-4.5"
+}

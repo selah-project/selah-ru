@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "В то время заболел Авия, сын Иеровоама.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "В то время"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "⟨то⟩"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "заболел"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Авия"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Иеровоама"
+    }
+  ],
+  "timestamp": "2026-08-03T00:45:33.110970791Z",
+  "model": "glm-4.5"
+}

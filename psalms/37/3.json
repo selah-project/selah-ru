@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "Надейся на ЯХВЕ и делай добро, живи в земле и питайся верностью",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "надейся"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "на ЯХВЕ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "и делай"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "живи"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "в земле"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "и питайся"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "верностью"
+    }
+  ],
+  "timestamp": "2026-08-03T07:15:19.122701451Z",
+  "model": "glm-4.5"
+}

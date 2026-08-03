@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "joshua 19:28",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "и Эврон, и Рехов, и Хаммон, и Кана, до Цидона ⟨великого⟩",
+  "tokens": [
+    {
+      "surface": "ועברן",
+      "gloss": "и Эврон"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "и Рехов"
+    },
+    {
+      "surface": "וחמון",
+      "gloss": "и Хаммон"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "и Кана"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Цидона"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "⟨великого⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T22:42:27.878947914Z",
+  "model": "glm-4.5"
+}

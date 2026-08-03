@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "1-chronicles 24:13",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "тринадцатый — Хуппе, четырнадцатый — Йешеваву",
+  "tokens": [
+    {
+      "surface": "לחפה",
+      "gloss": "Хуппе"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "тринадцатый"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לישבאב",
+      "gloss": "Йешеваву"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "четырнадцатый"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T13:11:22.783852406Z",
+  "model": "glm-4.5"
+}

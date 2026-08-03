@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 103,
+  "ref": "psalms 119:103",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Как сладки речи Твои для нёба моего, — мёд — для уст моих!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Как"
+    },
+    {
+      "surface": "נמלצו",
+      "gloss": "сладки"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "для нёба моего"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "речи Твои"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "мёд"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "для уст моих"
+    }
+  ],
+  "timestamp": "2026-08-03T08:53:09.252849538Z",
+  "model": "glm-4.5"
+}

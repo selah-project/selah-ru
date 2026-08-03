@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "isaiah 42:18",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 42,
+  "translation": "Глухие, слушайте и слепые, смотрите, чтобы увидеть",
+  "tokens": [
+    {
+      "surface": "החרשים",
+      "gloss": "глухие"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "слушайте"
+    },
+    {
+      "surface": "והעורים",
+      "gloss": "и слепые"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "смотрите"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "чтобы увидеть"
+    }
+  ],
+  "timestamp": "2026-08-03T02:29:37.438394610Z",
+  "model": "glm-4.5"
+}

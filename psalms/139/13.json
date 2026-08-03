@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 139,
+  "translation": "Ибо Ты создал мои почки; Ты оплёл меня ⟨в⟩ чреве матери моей",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "создал"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "мои почки"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "Ты оплёл меня"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "⟨в⟩ чреве"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "матери моей"
+    }
+  ],
+  "timestamp": "2026-08-03T09:09:55.537058201Z",
+  "model": "glm-4.5"
+}

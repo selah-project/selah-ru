@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "isaiah 24:11",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Крик ⟨над⟩ вином на улицах, померкла вся радость, изгнан ⟨שש⟩ земли.",
+  "tokens": [
+    {
+      "surface": "צוחה",
+      "gloss": "крик"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "היין",
+      "gloss": "вином"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "на улицах"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "померкла"
+    },
+    {
+      "surface": "כל",
+      "gloss": "вся"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "радость"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "изгнан"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "⟨שש⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земли"
+    }
+  ],
+  "timestamp": "2026-08-03T02:08:18.122207052Z",
+  "model": "glm-4.5"
+}

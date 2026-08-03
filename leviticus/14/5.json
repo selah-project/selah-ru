@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И поручит коэн и зарежет ⟨את⟩ птицу ту в сосуд глиняный над водой живой",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "И поручит"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коэн"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "и зарежет"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "птицу ту"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "птицу"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ту"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "сосуд"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "глиняный"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "מים",
+      "gloss": "водой"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живой"
+    }
+  ],
+  "timestamp": "2026-08-02T20:53:36.492532298Z",
+  "model": "glm-4.5"
+}

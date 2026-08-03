@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "2-chronicles 31:9",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "И спросил Хизки́йаху коэнов и леви́тов об ⟨этих⟩ кучах",
+  "tokens": [
+    {
+      "surface": "וידרש",
+      "gloss": "И спросил"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Хизки́йаху"
+    },
+    {
+      "surface": "על",
+      "gloss": "ко"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "коэнов"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "и леви́тов"
+    },
+    {
+      "surface": "על",
+      "gloss": "об"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "⟨этих⟩ кучах"
+    }
+  ],
+  "timestamp": "2026-08-03T14:07:31.222052012Z",
+  "model": "glm-4.5"
+}

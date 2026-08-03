@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И сказал: назови имя его Не-мой-народ, ибо вы не Мой народ, и Я не буду для вас.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "позови"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "имя его"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "мой-народ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "мой-народ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "а я"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "буду"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "для вас"
+    }
+  ],
+  "timestamp": "2026-08-03T05:20:09.931023475Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 146,
+  "translation": "Хвалите ЯХВЕ, хвали, о душа моя, ⟨את⟩ ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "хвалите"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "хвали"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душа моя"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T09:16:21.872245769Z",
+  "model": "glm-4.5"
+}

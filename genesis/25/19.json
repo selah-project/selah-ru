@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "И вот происхождение Ицхака, сына Авраама: Авраам породил ⟨את⟩ Ицхака.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "происхождение"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхака"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраама"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ицхака"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхака"
+    }
+  ],
+  "timestamp": "2026-08-02T19:23:43.548454237Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "И сказал Лаван: Хорошо ⟨⟩ ⟨את⟩ тебе, ⟨чем⟩ дать ⟨את⟩ другому мужу; живи со мной.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "хорошо"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "⟨дам⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "тебе"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "⟨чем⟩ дать"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "другому мужу"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "другому мужу"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "другому"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "живи"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "со мной"
+    }
+  ],
+  "timestamp": "2026-08-02T19:29:45.261711414Z",
+  "model": "glm-4.5"
+}

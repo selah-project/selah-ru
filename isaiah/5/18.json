@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "isaiah 5:18",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Горе тем, кто притягивает беззаконие верёвками vanity и ⟨как⟩ канатами повозки — грех:",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Горе"
+    },
+    {
+      "surface": "משכי",
+      "gloss": "кто притягивает"
+    },
+    {
+      "surface": "העון",
+      "gloss": "беззаконие"
+    },
+    {
+      "surface": "בחבלי",
+      "gloss": "верёвками"
+    },
+    {
+      "surface": "השוא",
+      "gloss": "vanity"
+    },
+    {
+      "surface": "וכעבות",
+      "gloss": "и ⟨как⟩ канатами"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "повозки"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "грех"
+    }
+  ],
+  "timestamp": "2026-08-03T01:49:20.992387361Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 94,
+  "translation": "Ибо не отринет ЯХВЕ ⟨Своего⟩ народа и ⟨Своего⟩ наследия не оставит",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "отринет"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨Своего⟩ народа",
+      "marks": "народа"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "и ⟨Своего⟩ наследия",
+      "marks": "наследия"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "оставит"
+    }
+  ],
+  "timestamp": "2026-08-03T08:23:06.991979018Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "ruth 3:17",
+  "book": "ruth",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И сказала: ⟨эти⟩ шесть мер ячменя ⟨он⟩ дал ⟨את⟩ мне, ибо сказал: не ходи пустою к твоей тёще",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "И сказала"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шесть"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "мер"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "⟨эти⟩"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "⟨он⟩ дал"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨את⟩ мне",
+      "marks": "меня"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבואי",
+      "gloss": "ходи"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "пустою"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "חמותך",
+      "gloss": "твоей тёще"
+    }
+  ],
+  "timestamp": "2026-08-03T11:02:59.154222999Z",
+  "model": "glm-4.5"
+}

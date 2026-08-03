@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "и ⟨את⟩ дочь страуса, и ⟨את⟩ ночницу, и ⟨את⟩ чайку, и ⟨את⟩ ястреба по роду его",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "дочь страуса"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочь"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "страуса"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "ночницу"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "ночницу"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "чайку"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "чайку"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "ястреба"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "ястреба"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "по роду его"
+    }
+  ],
+  "timestamp": "2026-08-02T20:50:29.246930792Z",
+  "model": "glm-4.5"
+}

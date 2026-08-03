@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "genesis 11:25",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И жил Нахор после того, как родил ⟨את⟩ Фару, сто девятнадцать лет, и родил сыновей и дочерей",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "и жил"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Нахор"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "после"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "того, как родил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Фару"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Фару"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "девять"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десять"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "и сто"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и родил"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "и дочерей"
+    }
+  ],
+  "timestamp": "2026-08-02T19:08:57.107762502Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 48,
+  "ref": "numbers 7:48",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "В седьмой день Элишама, сын Амиуда, начальник сынов Эфраима,",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "В день"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "седьмой"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "начальник"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраима"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Элишама"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Амиуда"
+    }
+  ],
+  "timestamp": "2026-08-02T21:18:49.627369799Z",
+  "model": "glm-4.5"
+}

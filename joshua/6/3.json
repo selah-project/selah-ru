@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "joshua 6:3",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И вы обойдёте ⟨את⟩ ⟨город⟩, все люди войны, обойдя ⟨את⟩ ⟨город⟩ раз один, так сделай ⟨шесть⟩ дней",
+  "tokens": [
+    {
+      "surface": "וסבתם",
+      "gloss": "И вы обойдёте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "город"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "город"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "люди"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "войны"
+    },
+    {
+      "surface": "הקיף",
+      "gloss": "обойдя"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "город"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "город"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "раз"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "один"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "сделай"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "шесть"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дней"
+    }
+  ],
+  "timestamp": "2026-08-02T22:28:59.578235451Z",
+  "model": "glm-4.5"
+}

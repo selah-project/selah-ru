@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "1-kings 4:11",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Бен-Авинадав — ⟨над⟩ всем Нафат-Дором, Тафать, дочь Шломо, ⟨стала⟩ ему женою",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Бен"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Авинадав"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨над⟩ всем"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "Нафат-"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Дором"
+    },
+    {
+      "surface": "טפת",
+      "gloss": "Тафать"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочь"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨стала⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "женою"
+    }
+  ],
+  "timestamp": "2026-08-03T00:23:57.556246879Z",
+  "model": "glm-4.5"
+}

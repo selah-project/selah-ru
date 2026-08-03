@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "job 19:16",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Слуге моему я звал, ⟨он⟩ не отвечает; устами своими ⟨я⟩ умоляю его",
+  "tokens": [
+    {
+      "surface": "לעבדי",
+      "gloss": "Слуге моему"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "я звал"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "отвечает"
+    },
+    {
+      "surface": "במו",
+      "gloss": "с"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устами"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "⟨я⟩ умоляю"
+    },
+    {
+      "surface": "לו",
+      "gloss": "его"
+    }
+  ],
+  "timestamp": "2026-08-03T10:26:28.601022790Z",
+  "model": "glm-4.5"
+}

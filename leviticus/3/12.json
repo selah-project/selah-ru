@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "leviticus 3:12",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И если ⟨его⟩ приношение ⟨есть⟩ коза, и он приблизит ⟨её⟩ пред лицем ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "И если"
+    },
+    {
+      "surface": "עז",
+      "gloss": "коза"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "приношение ⟨его⟩"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "и он приблизит ⟨её⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред лицем"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T20:41:38.768403731Z",
+  "model": "glm-4.5"
+}

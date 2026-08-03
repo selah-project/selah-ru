@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "job 11:11",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Ибо Он знает людей суеты и видит нечестие — неужели Он не вникнет?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Он"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знает"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "людей"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "суеты"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "и видит"
+    },
+    {
+      "surface": "און",
+      "gloss": "нечестие"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "неужели"
+    },
+    {
+      "surface": "יתבונן",
+      "gloss": "вникнет"
+    }
+  ],
+  "timestamp": "2026-08-03T10:19:14.564190642Z",
+  "model": "glm-4.5"
+}

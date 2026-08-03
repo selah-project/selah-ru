@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Ибо ⟨את⟩ всё дело Элохим приведёт на суд над каждым скрытым, хорошим ли или злым",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всё дело"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "дело"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "приведёт"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "на суд"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "каждым"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "скрытым"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ли"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "хорошим"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "или"
+    },
+    {
+      "surface": "רע",
+      "gloss": "злым"
+    }
+  ],
+  "timestamp": "2026-08-03T11:27:31.501027780Z",
+  "model": "glm-4.5"
+}

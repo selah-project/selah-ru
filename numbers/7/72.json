@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 72,
+  "ref": "numbers 7:72",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "В ⟨одиннадцатый⟩ день Пагиил ⟨эт⟩ сын Окрана, князь сынов Ашера, ⟨принёс⟩:",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "В ⟨одиннадцатый⟩"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "одиннадцатый"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "день"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "князь"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашера"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "Пагиил"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨эт⟩ сын"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "Окрана"
+    }
+  ],
+  "timestamp": "2026-08-02T21:19:26.323044647Z",
+  "model": "glm-4.5"
+}

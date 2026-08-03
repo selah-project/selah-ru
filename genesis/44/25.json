@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 44,
+  "translation": "И сказал отец наш: вернитесь и купите нам немного пищи",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "отец наш"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "вернитесь"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "и купите"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "немного"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "пищи"
+    }
+  ],
+  "timestamp": "2026-08-02T19:48:58.979672674Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И воссел ⟨Он⟩ на керуб, и полетел, и понёсся на крыльях Руах",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "и воссел"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "керуб"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "и полетел"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "и понёсся"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "крыльях"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Руах"
+    }
+  ],
+  "timestamp": "2026-08-03T06:49:26.539514971Z",
+  "model": "glm-4.5"
+}

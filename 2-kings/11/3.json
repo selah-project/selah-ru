@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "2-kings 11:3",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И был он с ней скрываемся в доме ЯХВЕ шесть лет, и Аталия царила над ⟨землёй⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И был"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "он"
+    },
+    {
+      "surface": "בית",
+      "gloss": "доме"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "скрываемся"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шесть"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "лет"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "и Аталия"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "царила"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨землёй⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T01:17:18.609734722Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "jeremiah 30:22",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "И будете вы Мне ⟨как⟩ народ, и Я буду вам Элохим",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "И будете вы"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мне"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "⟨как⟩ народ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "и Я"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "буду"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-08-03T03:40:59.614859917Z",
+  "model": "glm-4.5"
+}

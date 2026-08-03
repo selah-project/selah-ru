@@ -1,0 +1,76 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "joshua 5:7",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И ⟨את⟩ сыновей их поднял Он вместо их, ⟨את⟩ них circumcised Йехошуа, ибо необрезанными были они, ибо не circumcised ⟨את⟩ их ⟨в⟩ пути.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "сыновей их"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "сыновей их"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "поднял"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "вместо их"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "них"
+    },
+    {
+      "surface": "מל",
+      "gloss": "circumcised"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йехошуа"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "необрезанными"
+    },
+    {
+      "surface": "היו",
+      "gloss": "были"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "circumcised"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "их"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "⟨в⟩ пути"
+    }
+  ],
+  "timestamp": "2026-08-02T22:28:22.543214745Z",
+  "model": "glm-4.5"
+}

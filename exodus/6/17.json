@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "exodus 6:17",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Сыновья Гершона: Ливни и Шими, по их семействам.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Гершона"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Ливни"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "и Шими"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "по их семействам"
+    }
+  ],
+  "timestamp": "2026-08-02T20:00:31.796356481Z",
+  "model": "glm-4.5"
+}

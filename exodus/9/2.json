@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "ибо ⟨ты⟩ отказываешься отпустить ⟨их⟩ и ⟨ещё⟩ удерживаешь ⟨их⟩",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "отказываешься"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ты⟩"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "отпустить"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "и ⟨ещё⟩"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "удерживаешь"
+    },
+    {
+      "surface": "בם",
+      "gloss": "⟨их⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T20:03:12.931478141Z",
+  "model": "glm-4.5"
+}

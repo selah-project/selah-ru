@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-samuel 8:4",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И собрались все старейшины Израиля, и пришли к Шемуэлю в Раму",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "и собрались"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "старейшины"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "и пришли"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэлю"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "в Раму"
+    }
+  ],
+  "timestamp": "2026-08-02T23:19:28.475067700Z",
+  "model": "glm-4.5"
+}

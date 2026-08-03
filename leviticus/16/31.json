@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "шаббат шаббатон ⟨он⟩ для вас, и смирите вы ⟨את⟩ души ваши, устав вечный",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "шаббат"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "шаббатон"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "для вас"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "и смирите вы"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "души ваши"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "души ваши"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "устав"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечный"
+    }
+  ],
+  "timestamp": "2026-08-02T20:56:25.826392050Z",
+  "model": "glm-4.5"
+}

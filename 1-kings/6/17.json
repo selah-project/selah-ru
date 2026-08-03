@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "А сорок ⟨амма⟩ был Дом этот — Храм, ⟨паним⟩",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "А сорок"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "⟨амма⟩"
+    },
+    {
+      "surface": "היה",
+      "gloss": "был"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "Дом"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "этот"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "— Храм"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨паним⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T00:27:11.723481703Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "deuteronomy 12:8",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Не делайте ⟨всего⟩ того, что ⟨мы⟩ делаем здесь сегодня, каждый — ⟨всё⟩, что ⟨прямое⟩ в глазах его,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "делайте"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "⟨всего⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "того, что"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "⟨мы⟩"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "делаем"
+    },
+    {
+      "surface": "פה",
+      "gloss": "здесь"
+    },
+    {
+      "surface": "היום",
+      "gloss": "сегодня"
+    },
+    {
+      "surface": "איש",
+      "gloss": "каждый"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨всё⟩"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "⟨прямое⟩"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "в глазах его"
+    }
+  ],
+  "timestamp": "2026-08-02T22:03:58.386511184Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 101,
+  "translation": "Лукавое сердце да отступит от меня; зло я не буду знать.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "сердце"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "лукавое"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "да отступит"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "от меня"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "буду знать"
+    }
+  ],
+  "timestamp": "2026-08-03T08:29:33.650316538Z",
+  "model": "glm-4.5"
+}

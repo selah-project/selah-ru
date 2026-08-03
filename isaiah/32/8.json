@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "Но щедрый придумывает щедрые ⟨замыслы⟩, и он на щедрых ⟨делах⟩ устоит.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "Но щедрый"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "щедрые"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "придумывает"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "и он"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "щедрых"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "устоит"
+    }
+  ],
+  "timestamp": "2026-08-03T02:16:44.109107234Z",
+  "model": "glm-4.5"
+}

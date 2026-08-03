@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "numbers 34:20",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "и для колена сыновей Шимона: Шемуэль, бен Амиhуд;",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "и для колена"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимона"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэль"
+    },
+    {
+      "surface": "בן",
+      "gloss": "бен"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Амиhуд"
+    }
+  ],
+  "timestamp": "2026-08-02T21:48:39.598156992Z",
+  "model": "glm-4.5"
+}

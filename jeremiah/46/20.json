@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "jeremiah 46:20",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 46,
+  "translation": "Прекрасная телка — Египет, истребление ⟨на⟩ севере приходит, приходит",
+  "tokens": [
+    {
+      "surface": "עגלה",
+      "gloss": "телка"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "прекрасная"
+    },
+    {
+      "surface": "פיה",
+      "gloss": ""
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Египет"
+    },
+    {
+      "surface": "קרץ",
+      "gloss": "истребление"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "⟨на⟩ севере",
+      "marks": "севере"
+    },
+    {
+      "surface": "בא",
+      "gloss": "приходит"
+    },
+    {
+      "surface": "בא",
+      "gloss": "приходит"
+    }
+  ],
+  "timestamp": "2026-08-03T04:05:34.936679498Z",
+  "model": "glm-4.5"
+}

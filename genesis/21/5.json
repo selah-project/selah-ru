@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И Авраам ⟨был⟩ сыном ста лет, когда родился ему ⟨את⟩ Ицхак, сын его",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "И Авраам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ста"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "когда родился"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ицхак"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхак"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "сын его"
+    }
+  ],
+  "timestamp": "2026-08-02T19:18:48.759507984Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "ожог ⟨за⟩ ожог, рану ⟨за⟩ рану, синяк ⟨за⟩ синяк",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "ожог"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨за⟩",
+      "marks": "ожог"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "ожог"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "рану"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨за⟩",
+      "marks": "рану"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "рану"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "синяк"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨за⟩",
+      "marks": "синяк"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "синяк"
+    }
+  ],
+  "timestamp": "2026-08-02T20:15:09.618604503Z",
+  "model": "glm-4.5"
+}

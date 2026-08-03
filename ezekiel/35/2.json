@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "ezekiel 35:2",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "Сын человеческий, обрати лицо своё ⟨на⟩ гору Сеир и пророчествуй против неё",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Сын"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человеческий"
+    },
+    {
+      "surface": "שים",
+      "gloss": "обрати"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лицо своё"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "и пророчествуй"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "против неё"
+    }
+  ],
+  "timestamp": "2026-08-03T04:59:47.527842386Z",
+  "model": "glm-4.5"
+}

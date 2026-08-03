@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "1-chronicles 12:7",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Элкана, и Йишияху, и Азраэль, и Йоэцэр, и Йашовеам, Корахиты",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Элкана"
+    },
+    {
+      "surface": "וישיהו",
+      "gloss": "и Йишияху"
+    },
+    {
+      "surface": "ועזראל",
+      "gloss": "и Азраэль"
+    },
+    {
+      "surface": "ויועזר",
+      "gloss": "и Йоэцэр"
+    },
+    {
+      "surface": "וישבעם",
+      "gloss": "и Йашовеам"
+    },
+    {
+      "surface": "הקרחים",
+      "gloss": "Корахиты"
+    }
+  ],
+  "timestamp": "2026-08-03T12:54:42.088629494Z",
+  "model": "glm-4.5"
+}

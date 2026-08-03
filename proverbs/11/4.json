@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Не поможет богатство в день гнева, а праведность спасёт от смерти",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "поможет"
+    },
+    {
+      "surface": "הון",
+      "gloss": "богатство"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в день"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "гнева"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "а праведность"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "спасёт"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "от смерти"
+    }
+  ],
+  "timestamp": "2026-08-03T09:33:39.098609490Z",
+  "model": "glm-4.5"
+}

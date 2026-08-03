@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "proverbs 23:14",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Ударь его ⟨жезлом⟩, и ⟨ты⟩ избавишь его нефеш от Шеола.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ударь"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "⟨жезлом⟩"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "его"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "и ⟨ты⟩ избавишь его нефеш"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "от Шеола"
+    },
+    {
+      "surface": "תציל",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T18:27:19.324369123Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "job 39:30",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 39,
+  "translation": "И ⟨её⟩ птенцы сосут кровь, и где ⟨прободённые⟩, там ⟨он⟩",
+  "tokens": [
+    {
+      "surface": "ואפרחו",
+      "gloss": "и ⟨её⟩ птенцы"
+    },
+    {
+      "surface": "יעלעו",
+      "gloss": "сосут"
+    },
+    {
+      "surface": "דם",
+      "gloss": "кровь"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "и где"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "⟨прободённые⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T10:50:46.465964437Z",
+  "model": "glm-4.5"
+}

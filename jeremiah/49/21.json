@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "jeremiah 49:21",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 49,
+  "translation": "От голоса падения их поколебалась ⟨земля⟩; крик ⟨в⟩ Ям-Суф услышан голос её.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "От голоса"
+    },
+    {
+      "surface": "נפלם",
+      "gloss": "падения их"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "поколебалась"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨земля⟩"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "крик"
+    },
+    {
+      "surface": "בים",
+      "gloss": "⟨в⟩"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Ям-Суф"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "услышан"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "голос её"
+    }
+  ],
+  "timestamp": "2026-08-03T04:09:26.212055171Z",
+  "model": "glm-4.5"
+}

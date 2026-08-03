@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 88:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 88,
+  "translation": "Я сочтён с нисходящими в яму; ⟨я⟩ стал как муж без силы:",
+  "tokens": [
+    {
+      "surface": "נחשבתי",
+      "gloss": "Я сочтён"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "нисходящими"
+    },
+    {
+      "surface": "בור",
+      "gloss": "в яму"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "⟨я⟩ стал"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "как муж"
+    },
+    {
+      "surface": "אין",
+      "gloss": "без"
+    },
+    {
+      "surface": "איל",
+      "gloss": "силы"
+    }
+  ],
+  "timestamp": "2026-08-03T08:13:02.257828525Z",
+  "model": "glm-4.5"
+}

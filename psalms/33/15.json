@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "Кто образует единым сердца их, ⟨Кто⟩ понимает все дела их",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "Кто образует"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "единым"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "сердца их"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "⟨Кто⟩ понимает"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "дела их"
+    }
+  ],
+  "timestamp": "2026-08-03T07:09:11.768229935Z",
+  "model": "glm-4.5"
+}

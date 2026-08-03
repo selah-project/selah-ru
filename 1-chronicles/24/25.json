@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "1-chronicles 24:25",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Брат Михи — Иши́я; из сыновей Иши́и — Зехарьяу.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "брат"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Михи"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Иши́я"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "из сыновей"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Иши́и"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Зехарьяу"
+    }
+  ],
+  "timestamp": "2026-08-03T13:10:55.769123148Z",
+  "model": "glm-4.5"
+}

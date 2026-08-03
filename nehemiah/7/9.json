@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "nehemiah 7:9",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "сыновья Шефатии: триста семьдесят ⟨и⟩ два",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Шефатии"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "триста"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "семьдесят"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "⟨и⟩ два"
+    }
+  ],
+  "timestamp": "2026-08-03T12:21:53.086889916Z",
+  "model": "glm-4.5"
+}

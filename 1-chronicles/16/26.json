@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "1-chronicles 16:26",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Ибо все элохим народов — элили́м, а ЯХВЕ ⟨создал⟩ небеса.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "элохим"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "народов"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "элили́м"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "а"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨создал⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T13:00:18.670436347Z",
+  "model": "glm-4.5"
+}

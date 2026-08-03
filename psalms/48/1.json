@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 48,
+  "translation": "Песнь, мизмор, ⟨для⟩ сыновей Кореаха",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Песнь"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨для⟩ сыновей"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Кореаха"
+    }
+  ],
+  "timestamp": "2026-08-03T07:26:13.493749582Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И сказал я ангелу, говорящему со мной: «Куда ⟨они⟩ несут ⟨את⟩ эфу?»",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ангелу"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "говорящему"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "со мной"
+    },
+    {
+      "surface": "בי",
+      "gloss": "«Куда"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "⟨они⟩"
+    },
+    {
+      "surface": "המה",
+      "gloss": "несут"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эфу"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "эфа»"
+    }
+  ],
+  "timestamp": "2026-08-03T06:12:40.338133026Z",
+  "model": "glm-4.5"
+}

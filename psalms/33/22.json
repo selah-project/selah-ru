@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "Да будет хесед Твой, ЯХВЕ, на ⟨нас⟩, как ⟨мы⟩ уповали на Тебя",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Да будет"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хесед Твой"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "на ⟨нас⟩",
+      "marks": "на ⟨нас⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "⟨мы⟩ уповали"
+    },
+    {
+      "surface": "לך",
+      "gloss": "на Тебя"
+    }
+  ],
+  "timestamp": "2026-08-03T07:09:09.622682881Z",
+  "model": "glm-4.5"
+}

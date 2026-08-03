@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "2-chronicles 32:2",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "И увидел Хизкиягу, что пришёл Сенхериб и ⟨его⟩ лицо к войне на Иерушалаим.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "и увидел"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Хизкиягу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "בא",
+      "gloss": "пришёл"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Сенхериб"
+    },
+    {
+      "surface": "ופניו",
+      "gloss": "и ⟨его⟩ лицо"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "к войне"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Иерушалаим"
+    }
+  ],
+  "timestamp": "2026-08-03T14:08:49.306468522Z",
+  "model": "glm-4.5"
+}

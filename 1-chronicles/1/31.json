@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Йетур, Нафиш и Кедема; ⟨они⟩ сыновья Измаила",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "Йетур"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "Нафиш"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "и"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Кедема",
+      "marks": "Кедема"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨они⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Измаила"
+    }
+  ],
+  "timestamp": "2026-08-03T12:36:04.309508406Z",
+  "model": "glm-4.5"
+}

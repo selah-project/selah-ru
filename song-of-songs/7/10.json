@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "song-of-songs 7:10",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Твой palate ⟨как⟩ вино лучшее, ⟨идёт⟩ к моему возлюбленному ⟨прямо⟩, glide сквозь губы спящих.",
+  "tokens": [
+    {
+      "surface": "וְחִכֵּ֕ךְ",
+      "gloss": "Твой palate"
+    },
+    {
+      "surface": "כְּיֵ֥ין",
+      "gloss": "⟨как⟩ вино"
+    },
+    {
+      "surface": "הַטּ֛וֹב",
+      "gloss": "лучшее"
+    },
+    {
+      "surface": "הֹלֵ֥ךְ",
+      "gloss": "⟨идёт⟩"
+    },
+    {
+      "surface": "לְדוֹדִ֖י",
+      "gloss": "к моему возлюбленному"
+    },
+    {
+      "surface": "לְמֵישָׁרִ֑ים",
+      "gloss": "⟨прямо⟩"
+    },
+    {
+      "surface": "דּוֹבֵ֖ב",
+      "gloss": "glide"
+    },
+    {
+      "surface": "שִׂפְתֵ֥י",
+      "gloss": "сквозь губы"
+    },
+    {
+      "surface": "יְשֵׁנִֽים",
+      "gloss": "спящих"
+    }
+  ],
+  "timestamp": "2026-08-03T10:58:37.319696432Z",
+  "model": "glm-4.5"
+}

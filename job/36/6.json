@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "job 36:6",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "Не ⟨будет⟩ жить нечестивый, и ⟨суд⟩ бедным ⟨даёт⟩",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "⟨будет⟩ жить"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "нечестивый"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "и ⟨суд⟩"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "бедным"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "⟨даёт⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T10:46:35.221204274Z",
+  "model": "glm-4.5"
+}

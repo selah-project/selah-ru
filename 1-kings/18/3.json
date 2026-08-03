@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И призвал Ахав Одавию, который над домом. А Одавия боялся ⟨את⟩ ЯХВЕ очень",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И призвал"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахав"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Одавию"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "домом"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "А Одавия"
+    },
+    {
+      "surface": "היה",
+      "gloss": "был"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "боялся"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "очень"
+    }
+  ],
+  "timestamp": "2026-08-03T00:53:14.957148947Z",
+  "model": "glm-4.5"
+}

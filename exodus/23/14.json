@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Три раза в году ⟨ты будешь⟩ праздновать празднество ⟨את⟩ Мне",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "Три"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "раза"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "праздновать"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мне"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "в году"
+    }
+  ],
+  "timestamp": "2026-08-02T20:17:17.790038589Z",
+  "model": "glm-4.5"
+}

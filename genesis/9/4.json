@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Однако плоть ⟨с⟩ ⟨её⟩ душою, кровью её, не ешьте",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "однако"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "плоть"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "⟨с⟩ ⟨её⟩ душою"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "кровью её"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ешьте"
+    }
+  ],
+  "timestamp": "2026-08-02T17:52:32.611120021Z",
+  "model": "glm-4.5"
+}

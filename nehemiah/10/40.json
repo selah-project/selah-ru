@@ -1,0 +1,115 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "nehemiah 10:40",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Ибо сыны Израиля и сыны Леви принесут ⟨את⟩ возношение зерна, ⟨и⟩ нового вина, и масла, в кладовые, ⟨где⟩ utensils of the sanctuary, и священники, служащие, и привратники, и певцы; и не оставим ⟨את⟩ House of our Elohim",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "кладовые"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "принесут"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и сыны"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Леви"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "возношение зерна, и нового вина, и масла"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "возношение"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "зерна"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "⟨и⟩ нового вина"
+    },
+    {
+      "surface": "והיצהר",
+      "gloss": "и масла"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "⟨где⟩"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "utensils"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "святилища"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "и священники"
+    },
+    {
+      "surface": "המשרתים",
+      "gloss": "служащие"
+    },
+    {
+      "surface": "והשוערים",
+      "gloss": "и привратники"
+    },
+    {
+      "surface": "והמשררים",
+      "gloss": "и певцы"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "оставим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "House of our Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "House"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "of our Elohim"
+    }
+  ],
+  "timestamp": "2026-08-03T12:29:08.612101479Z",
+  "model": "glm-4.5"
+}

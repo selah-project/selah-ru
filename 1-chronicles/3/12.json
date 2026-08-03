@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-chronicles 3:12",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Амацья его сын, Азарья его сын, Йотам его сын",
+  "tokens": [
+    {
+      "surface": "אֲמַצְיָ֧הוּ",
+      "gloss": "Амацья"
+    },
+    {
+      "surface": "בְנ֛וֹ",
+      "gloss": "его сын"
+    },
+    {
+      "surface": "עֲזַרְיָ֥ה",
+      "gloss": "Азарья"
+    },
+    {
+      "surface": "בְנ֖וֹ",
+      "gloss": "его сын"
+    },
+    {
+      "surface": "יוֹתָ֥ם",
+      "gloss": "Йотам"
+    },
+    {
+      "surface": "בְּנֽוֹ",
+      "gloss": "его сын"
+    }
+  ],
+  "timestamp": "2026-08-03T12:39:07.245814051Z",
+  "model": "glm-4.5"
+}

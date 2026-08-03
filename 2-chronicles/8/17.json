@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "2-chronicles 8:17",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Тогда Шеломо пошёл в Эцион-Гевер и в Эйлат, ⟨на⟩ берегу моря, ⟨в⟩ земле Эдом",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "тогда"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "пошёл"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "לעציון",
+      "gloss": "в Эцион-Гевер"
+    },
+    {
+      "surface": "גבר",
+      "gloss": ""
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и в"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Эйлат"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "берегу"
+    },
+    {
+      "surface": "הים",
+      "gloss": "моря"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨в⟩ земле"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    }
+  ],
+  "timestamp": "2026-08-03T13:32:14.365962549Z",
+  "model": "glm-4.5"
+}

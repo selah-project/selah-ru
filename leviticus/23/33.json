@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "leviticus 23:33",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "И говорил ЯХВЕ Моше, чтобы сказать:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "чтобы сказать"
+    }
+  ],
+  "timestamp": "2026-08-02T21:03:55.810435171Z",
+  "model": "glm-4.5"
+}

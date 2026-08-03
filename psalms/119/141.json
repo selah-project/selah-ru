@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Мал я и презираем, ⟨но⟩ повеления Твои ⟨я⟩ не забыл",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "Мал"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "и презираем"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "повеления Твои"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "забыл"
+    }
+  ],
+  "timestamp": "2026-08-03T08:54:36.088756487Z",
+  "model": "glm-4.5"
+}

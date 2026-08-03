@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "haggai 1:7",
+  "book": "haggai",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Так сказал ЯХВЕ Цеваот: обратите сердце ⟨на⟩ пути ваши.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "обратите"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "сердце"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩",
+      "marks": "пути ваши"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "пути ваши"
+    }
+  ],
+  "timestamp": "2026-08-03T06:06:17.920675278Z",
+  "model": "glm-4.5"
+}

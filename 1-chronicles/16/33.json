@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "1-chronicles 16:33",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Тогда возрадуются деревья леса пред лицом ЯХВЕ, ибо пришёл судить ⟨את⟩ землю.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тогда"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "возрадуются"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "деревья"
+    },
+    {
+      "surface": "היער",
+      "gloss": "леса"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "пред лицом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "בא",
+      "gloss": "пришёл"
+    },
+    {
+      "surface": "לשפוט",
+      "gloss": "судить"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    }
+  ],
+  "timestamp": "2026-08-03T13:00:53.140154754Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 107,
+  "translation": "Он превращает пустыню в ⟨озеро⟩ воды, и землю сухую — в источники вод.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "Он превращает"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "пустыню"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "в ⟨озеро⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воды"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "и землю"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "сухую"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "в источники"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вод"
+    }
+  ],
+  "timestamp": "2026-08-03T08:39:43.105827593Z",
+  "model": "glm-4.5"
+}

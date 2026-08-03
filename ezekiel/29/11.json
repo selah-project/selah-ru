@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "ezekiel 29:11",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "Не пройдёт по ней нога человека, и нога скота не пройдёт по ней, и не будет ⟨она⟩ населена сорок лет.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "пройдёт"
+    },
+    {
+      "surface": "בה",
+      "gloss": "по ней"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "нога"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "ורגל",
+      "gloss": "и нога"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "скота"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "пройдёт"
+    },
+    {
+      "surface": "בה",
+      "gloss": "по ней"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "будет ⟨она⟩ населена"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "сорок"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    }
+  ],
+  "timestamp": "2026-08-03T04:52:47.611275159Z",
+  "model": "glm-4.5"
+}

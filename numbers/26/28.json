@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "numbers 26:28",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Сыновья Йосефа ⟨по⟩ семействам их: Менаше и Эфраим.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "⟨по⟩ семействам их"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "и Эфраим"
+    }
+  ],
+  "timestamp": "2026-08-02T21:39:14.113410468Z",
+  "model": "glm-4.5"
+}

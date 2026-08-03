@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 104,
+  "translation": "Ты ставишь ⟨את⟩ тьму, и ⟨есть⟩ ночь; в ней рыщет ⟨את⟩ всякий зверь леса.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "ставишь"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "тьму"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и ⟨есть⟩"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ночь"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в ней"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "рыщет"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨את⟩ всякий"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "зверь"
+    },
+    {
+      "surface": "יער",
+      "gloss": "леса"
+    }
+  ],
+  "timestamp": "2026-08-03T08:33:16.670937097Z",
+  "model": "glm-4.5"
+}

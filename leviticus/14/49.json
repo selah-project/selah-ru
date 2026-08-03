@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И возьмет, чтобы очистить ⟨את⟩ дом, двух птиц, и дерево кедра, и червленицу, и иссоп",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "И возьмет"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "чтобы очистить"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дом"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "двух"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "птиц"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "и дерево"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "кедра"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "и червленицу"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "иссоп"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-02T20:54:46.991947347Z",
+  "model": "glm-4.5"
+}

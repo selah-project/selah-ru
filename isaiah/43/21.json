@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "isaiah 43:21",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 43,
+  "translation": "Этот народ Я сотворил для Себя, мою хвалу ⟨они⟩ поведают",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "זו",
+      "gloss": "этот"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "Я сотворил"
+    },
+    {
+      "surface": "לי",
+      "gloss": "для Себя"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "мою хвалу"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "поведают"
+    }
+  ],
+  "timestamp": "2026-08-03T02:30:49.273612176Z",
+  "model": "glm-4.5"
+}

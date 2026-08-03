@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 48,
+  "ref": "leviticus 13:48",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "или в основе, или в утке ⟨из⟩ льна, или ⟨из⟩ шерсти, или в коже, или во всяком изделии кожи",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "в основе"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "в утке"
+    },
+    {
+      "surface": "לפשתים",
+      "gloss": "⟨из⟩ льна"
+    },
+    {
+      "surface": "ולצמר",
+      "gloss": "или ⟨из⟩ шерсти"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "в коже"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "во всяком"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "изделии"
+    },
+    {
+      "surface": "עור",
+      "gloss": "кожи"
+    }
+  ],
+  "timestamp": "2026-08-02T20:53:08.033747907Z",
+  "model": "glm-4.5"
+}

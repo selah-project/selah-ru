@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 41,
+  "ref": "1-kings 20:41",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И он поспешил и отстранил ⟨את⟩ прах с ⟨eyes⟩ его, и узнал его царь Израиля, потому что из пророков ⟨he⟩",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "И он поспешил"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "и отстранил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "прах"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "прах"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "с"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "⟨eyes⟩ его"
+    },
+    {
+      "surface": "ויכר",
+      "gloss": "и узнал"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "царя"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "כי",
+      "gloss": "потому что"
+    },
+    {
+      "surface": "מהנבאים",
+      "gloss": "из пророков"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨he⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T00:58:06.233451213Z",
+  "model": "glm-4.5"
+}

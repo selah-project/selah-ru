@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "ezekiel 18:4",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Вот, все нефашот — Мои; как нефеш отца, так и нефеш сына — Мои. ⟨הנפש⟩ грешащая, она умрёт.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Вот"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "הנפשות",
+      "gloss": "нефашот"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мои"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "как"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "нефеш"
+    },
+    {
+      "surface": "האב",
+      "gloss": "отца"
+    },
+    {
+      "surface": "וכנפש",
+      "gloss": "и нефеш"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мои"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "как"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "нефеш"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "грешащая"
+    },
+    {
+      "surface": "היא",
+      "gloss": "она"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "умрёт"
+    }
+  ],
+  "timestamp": "2026-08-03T04:37:20.349442671Z",
+  "model": "glm-4.5"
+}

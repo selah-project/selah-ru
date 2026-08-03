@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И пал Аврам на ⟨своё⟩ лицо, и разговаривал ⟨את⟩ ним Элохим, говоря:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "И пал"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "⟨своё⟩ лицо"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "и разговаривал"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ним"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-02T19:13:49.965366197Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 137,
+  "translation": "На реках Вавилона, там мы сидели, также плакали мы, вспоминая ⟨את⟩ Цион.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "На"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "реках"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилона"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "мы сидели"
+    },
+    {
+      "surface": "גם",
+      "gloss": "также"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "плакали мы"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "вспоминая"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Цион"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    }
+  ],
+  "timestamp": "2026-08-03T09:08:10.458312811Z",
+  "model": "glm-4.5"
+}

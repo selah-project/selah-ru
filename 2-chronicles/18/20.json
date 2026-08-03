@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "2-chronicles 18:20",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И выступил дух и предстал пред ЯХВЕ и сказал я прельщу его и сказал ЯХВЕ ему чем",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "И выступил"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "дух"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "и предстал"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "אפתנו",
+      "gloss": "прельщу ⟨его⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "במה",
+      "gloss": "чем"
+    }
+  ],
+  "timestamp": "2026-08-03T13:48:02.368578061Z",
+  "model": "glm-4.5"
+}

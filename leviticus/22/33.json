@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Выводящий ⟨אет⟩ вас из земли Египетской, чтобы быть вам Элохим, Я — ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "Выводящий"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אет⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "из земли"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Египетской"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "чтобы быть"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я —"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T21:02:51.343515375Z",
+  "model": "glm-4.5"
+}

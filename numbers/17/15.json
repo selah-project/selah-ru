@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "numbers 17:15",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "и вернулся Агарон к Моше, к ⟨ opening את⟩ шатра собрания, и ⟨the⟩ мор прекращена",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "и вернулся"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Агарон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "opening"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатра"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "собрания"
+    },
+    {
+      "surface": "והמגפה",
+      "gloss": "и мор"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "прекращена"
+    }
+  ],
+  "timestamp": "2026-08-02T21:30:23.650681310Z",
+  "model": "glm-4.5"
+}

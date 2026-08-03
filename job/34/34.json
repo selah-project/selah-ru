@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "job 34:34",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "Мужи сердца скажут мне, и муж мудрый, слушающий мне",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Мужи"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "сердца"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "скажут"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "и муж"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудрый"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слушающий"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    }
+  ],
+  "timestamp": "2026-08-03T10:45:33.380267021Z",
+  "model": "glm-4.5"
+}

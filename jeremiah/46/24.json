@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "jeremiah 46:24",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 46,
+  "translation": "Постыжена дочь Египта; она ⟨будет⟩ дана в руку народу севера",
+  "tokens": [
+    {
+      "surface": "הבישה",
+      "gloss": "Постыжена"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочь"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Египта"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "дана"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "в руку"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народу"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "севера"
+    }
+  ],
+  "timestamp": "2026-08-03T04:05:39.263209119Z",
+  "model": "glm-4.5"
+}

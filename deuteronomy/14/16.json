@@ -1,0 +1,35 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "⟨את⟩ ку́качку, и ⟨את⟩ сову́, и и́биса",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ку́качку"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "ку́качку"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "сову́"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "сову́"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "и и́биса"
+    }
+  ],
+  "timestamp": "2026-08-02T22:05:22.225341857Z",
+  "model": "glm-4.5"
+}

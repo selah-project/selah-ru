@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "И вышел Лот к ним ⟨в⟩ ⟨проём⟩, ⟨а⟩ ⟨дверь⟩ затворил за ⟨собою⟩",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "И вышел"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "к ним"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Лот"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "⟨в⟩ ⟨проём⟩"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "⟨а⟩ ⟨дверь⟩"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "затворил"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "за ⟨собою⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T19:16:35.337907259Z",
+  "model": "glm-4.5"
+}

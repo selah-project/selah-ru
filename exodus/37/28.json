@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "И сделал ⟨он⟩ ⟨את⟩ шесты ⟨из⟩ древесины шиттим, и покрыл ⟨את⟩ их золотом",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И сделал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "шесты"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "шесты"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "⟨из⟩ древесины"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "шиттим"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "и покрыл"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "золотом"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золотом"
+    }
+  ],
+  "timestamp": "2026-08-02T20:35:20.944419259Z",
+  "model": "glm-4.5"
+}

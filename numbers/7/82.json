@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 82,
+  "ref": "numbers 7:82",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "один козлёнок ⟨из⟩ коз ⟨для⟩ жертвы за грех",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "козлёнок"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "коз"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "⟨для⟩ жертвы за грех"
+    }
+  ],
+  "timestamp": "2026-08-02T21:19:34.253878189Z",
+  "model": "glm-4.5"
+}

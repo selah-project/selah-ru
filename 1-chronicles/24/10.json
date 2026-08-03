@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "седьмой Хакоцу, восьмой Авижаю;",
+  "tokens": [
+    {
+      "surface": "להקוץ",
+      "gloss": "Хакоцу"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "седьмой"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "Авижаю"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "восьмой"
+    }
+  ],
+  "timestamp": "2026-08-03T13:10:45.201252486Z",
+  "model": "glm-4.5"
+}

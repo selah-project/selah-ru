@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 14:3",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Во рту безумного — жезл гордыни, а губы мудрых сохранят их.",
+  "tokens": [
+    {
+      "surface": "בפי",
+      "gloss": "во рту"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "безумного"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "жезл"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "гордыни"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "а губы"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудрых"
+    },
+    {
+      "surface": "תשמורם",
+      "gloss": "сохранят их"
+    }
+  ],
+  "timestamp": "2026-08-03T09:37:57.169727565Z",
+  "model": "glm-4.5"
+}

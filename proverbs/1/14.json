@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "proverbs 1:14",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Брось жребий ⟨твой⟩ среди нас, кошелёк ⟨будет⟩ один у всех нас",
+  "tokens": [
+    {
+      "surface": "גורלך",
+      "gloss": "жребий ⟨твой⟩"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "брось"
+    },
+    {
+      "surface": "בתוכנו",
+      "gloss": "среди нас"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "кошелёк"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨будет⟩"
+    },
+    {
+      "surface": "לכלנו",
+      "gloss": "у всех нас"
+    }
+  ],
+  "timestamp": "2026-08-03T09:21:06.679023321Z",
+  "model": "glm-4.5"
+}

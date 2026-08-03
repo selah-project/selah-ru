@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И сказал Авраам: «Я клянусь».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "клянусь"
+    }
+  ],
+  "timestamp": "2026-08-02T19:18:17.973140039Z",
+  "model": "glm-4.5"
+}

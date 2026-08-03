@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "Сегодня вы выходите, в месяце Авив",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Сегодня"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вы"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "выходите"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "в месяце"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Авив"
+    }
+  ],
+  "timestamp": "2026-08-02T20:07:31.224200151Z",
+  "model": "glm-4.5"
+}

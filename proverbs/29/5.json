@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 29:5",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "Человек ⟨который⟩ льстит своему ближнему расстилает сеть ⟨по⟩ его стопам",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "Человек"
+    },
+    {
+      "surface": "מחליק",
+      "gloss": "⟨который⟩ льстит"
+    },
+    {
+      "surface": "על",
+      "gloss": "своему"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ближнему"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "расстилает сеть"
+    },
+    {
+      "surface": "פורש",
+      "gloss": "⟨по⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "стопам"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "его"
+    }
+  ],
+  "timestamp": "2026-08-03T10:06:07.160397060Z",
+  "model": "glm-4.5"
+}

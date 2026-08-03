@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Слушайте ⟨את⟩ слово это, которое я поднимаю над вами, плач — дом Йисраэля",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "слушайте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слово это"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "это"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "поднимаю"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "над вами"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "плач"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэля"
+    }
+  ],
+  "timestamp": "2026-08-03T05:39:00.876192295Z",
+  "model": "glm-4.5"
+}

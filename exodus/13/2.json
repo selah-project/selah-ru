@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "exodus 13:2",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "Освяти Мне ⟨את⟩ every firstborn, opening every womb среди сынов Израиля, от человека и от скота: Мой ⟨он⟩.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "Освяти"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мне"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "every firstborn",
+      "marks": "первенца"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "opening"
+    },
+    {
+      "surface": "כל",
+      "gloss": "every"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "womb"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "among"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "сынов Израиля"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "от человека"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "и от скота"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мой"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T20:07:36.815658149Z",
+  "model": "glm-4.5"
+}

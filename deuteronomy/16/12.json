@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "И вспомни, что ⟨ты⟩ был рабом в Египте, и ⟨ты⟩ соблюдал и исполнял ⟨את⟩ эти уставы",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "И вспомни"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "рабом"
+    },
+    {
+      "surface": "היית",
+      "gloss": "был"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "в Египте"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "и ⟨ты⟩ соблюдал"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "и исполнял"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эти уставы"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "эти уставы"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "эти"
+    }
+  ],
+  "timestamp": "2026-08-02T22:07:38.085289818Z",
+  "model": "glm-4.5"
+}

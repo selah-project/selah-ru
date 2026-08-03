@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "1-chronicles 21:6",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "А Леви и Вениамин ⟨он⟩ не счёл среди них, ибо ⟨было⟩ омерзительно слово царя ⟨את⟩ Иоаву",
+  "tokens": [
+    {
+      "surface": "ולוי",
+      "gloss": "А Леви"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "и Вениамин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨он⟩ не"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "счёл"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "среди них"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "⟨было⟩ омерзительно"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Иоаву"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Иоаву"
+    }
+  ],
+  "timestamp": "2026-08-03T13:06:10.682319169Z",
+  "model": "glm-4.5"
+}

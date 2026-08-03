@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "nehemiah 7:37",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Сыновья Лода, Хадида и Оно: ⟨их⟩ семьсот двадцать и ⟨один⟩",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Лода"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "Хадида"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "и Оно"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семьсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "⟨их⟩"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "двадцать"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "и ⟨один⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T12:22:47.511574287Z",
+  "model": "glm-4.5"
+}

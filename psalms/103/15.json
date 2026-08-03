@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 103,
+  "translation": "Дни смертного — как трава; как цветок поля, так он расцветает",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "смертного"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "как траву"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "дни"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "как цветок"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "поля"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "он расцветает"
+    }
+  ],
+  "timestamp": "2026-08-03T08:31:52.498697950Z",
+  "model": "glm-4.5"
+}

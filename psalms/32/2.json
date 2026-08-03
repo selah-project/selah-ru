@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "Блажен человек, которому ЯХВЕ не вменяет ⟨вину⟩, и в чьём руах нет коварства",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Блажен"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человек"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "вменяет"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "עון",
+      "gloss": "⟨вину⟩"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нет"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "в чьём руах"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "коварства"
+    }
+  ],
+  "timestamp": "2026-08-03T07:08:21.492307486Z",
+  "model": "glm-4.5"
+}

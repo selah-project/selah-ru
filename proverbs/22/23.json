@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "proverbs 22:23",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Ибо ЯХВЕ будет вести их тяжбу и ⟨את⟩ душу грабителей их ограбит",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "будет вести тяжбу"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "их"
+    },
+    {
+      "surface": "וקבע",
+      "gloss": "и ограбит"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "душу"
+    },
+    {
+      "surface": "קבעיהם",
+      "gloss": "грабителей их"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душу"
+    }
+  ],
+  "timestamp": "2026-08-03T09:49:48.171666715Z",
+  "model": "glm-4.5"
+}

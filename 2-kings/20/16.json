@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "2-kings 20:16",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И сказал Ишая к Хизкияху: услышь слово ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Ишая"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкияху"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "услышь"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T01:31:13.763005320Z",
+  "model": "glm-4.5"
+}

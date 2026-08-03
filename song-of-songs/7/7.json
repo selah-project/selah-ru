@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "song-of-songs 7:7",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Как прекрасна ты и как приятна, о любовь, в услаждениях!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Как"
+    },
+    {
+      "surface": "יפית",
+      "gloss": "прекрасна"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и"
+    },
+    {
+      "surface": "נעמת",
+      "gloss": "приятна"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "о любовь"
+    },
+    {
+      "surface": "בתענוגים",
+      "gloss": "в услаждениях"
+    }
+  ],
+  "timestamp": "2026-08-03T10:58:33.336506643Z",
+  "model": "glm-4.5"
+}

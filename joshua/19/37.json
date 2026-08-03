@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "joshua 19:37",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "и Кедеш, и Эдреи, и Эйн-Хацор",
+  "tokens": [
+    {
+      "surface": "וְקֶ֥דֶשׁ",
+      "gloss": "и Кедеш"
+    },
+    {
+      "surface": "וְאֶדְרֶ֖עִי",
+      "gloss": "и Эдреи"
+    },
+    {
+      "surface": "וְעֵ֥ין",
+      "gloss": "и Эйн"
+    },
+    {
+      "surface": "חָצֽוֹר",
+      "gloss": "Хацор"
+    }
+  ],
+  "timestamp": "2026-08-02T22:42:50.296566954Z",
+  "model": "glm-4.5"
+}

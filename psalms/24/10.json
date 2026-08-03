@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Кто этот Царь славы? ЯХВЕ Цеваот — ⟨это Он⟩ Царь славы. Села.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кто"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "этот"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨это Он⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Царь"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "славы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "—"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Царь"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "славы"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-08-03T06:57:54.030341633Z",
+  "model": "glm-4.5"
+}

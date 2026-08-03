@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "ezekiel 28:10",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Смертьми необрезанных умрёшь ⟨в⟩ руке чужих, ибо Я говорил, — слово Адоная ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "מותי",
+      "gloss": "смертьми"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "необрезанных"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "умрёшь"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "руке"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "чужих"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "говорил"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адоная"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T04:51:26.939288691Z",
+  "model": "glm-4.5"
+}

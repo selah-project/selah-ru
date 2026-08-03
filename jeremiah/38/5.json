@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "jeremiah 38:5",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 38,
+  "translation": "И сказал царь Цидкияху: вот, он в руке вашей, ибо нет царя способного ⟨את⟩ вам слово",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Цидкияху"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "в руке вашей"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "способного"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вам"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    }
+  ],
+  "timestamp": "2026-08-03T03:53:05.792724540Z",
+  "model": "glm-4.5"
+}

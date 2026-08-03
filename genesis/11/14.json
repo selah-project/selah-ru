@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И Шёлах жил тридцать лет и породил ⟨את⟩ Эвера",
+  "tokens": [
+    {
+      "surface": "וְשֶׁלַח",
+      "gloss": "И Шёлах"
+    },
+    {
+      "surface": "חַי",
+      "gloss": "жил"
+    },
+    {
+      "surface": "שְׁלֹשִׁים",
+      "gloss": "тридцать"
+    },
+    {
+      "surface": "שָׁנָה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "וַיּוֹלֶד",
+      "gloss": "и породил"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Эвера"
+    },
+    {
+      "surface": "עֵֽבֶר",
+      "gloss": "Эвера"
+    }
+  ],
+  "timestamp": "2026-08-02T19:08:56.443915228Z",
+  "model": "glm-4.5"
+}

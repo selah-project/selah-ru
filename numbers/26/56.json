@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 56,
+  "ref": "numbers 26:56",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "По ⟨жребию⟩ разделится ⟨наследие его⟩ между ⟨многим⟩ и ⟨малом⟩",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "פי",
+      "gloss": "⟨жребию⟩"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "жребий"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "разделится"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "⟨наследие его⟩"
+    },
+    {
+      "surface": "בין",
+      "gloss": "между"
+    },
+    {
+      "surface": "רב",
+      "gloss": "⟨многим⟩"
+    },
+    {
+      "surface": "למעט",
+      "gloss": "⟨малом⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T21:39:46.328803430Z",
+  "model": "glm-4.5"
+}

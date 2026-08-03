@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "numbers 2:28",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "и ⟨их⟩ войско и ⟨их⟩ счисленные: сорок одна тысяча и пять сотен",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "и ⟨их⟩ войско"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "и ⟨их⟩ счисленные"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "сорок"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тысяча"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "пять"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотен"
+    }
+  ],
+  "timestamp": "2026-08-02T21:11:32.080448451Z",
+  "model": "glm-4.5"
+}

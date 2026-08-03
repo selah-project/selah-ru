@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 120,
+  "translation": "Я — шалом, но когда я говорю, они — к войне.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "шалом"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "но"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "я говорю"
+    },
+    {
+      "surface": "המה",
+      "gloss": "они"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "к войне"
+    }
+  ],
+  "timestamp": "2026-08-03T08:56:11.352756449Z",
+  "model": "glm-4.5"
+}

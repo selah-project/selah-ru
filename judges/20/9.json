@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "judges 20:9",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "А теперь вот ⟨то, что⟩ мы сделаем Гиве: ⟨против неё⟩ по жребию.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "А теперь"
+    },
+    {
+      "surface": "זה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨то, что⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "мы"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "сделаем"
+    },
+    {
+      "surface": "לגבעה",
+      "gloss": "Гиве"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "⟨против неё⟩"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "по жребию"
+    }
+  ],
+  "timestamp": "2026-08-02T23:10:51.395944951Z",
+  "model": "glm-4.5"
+}

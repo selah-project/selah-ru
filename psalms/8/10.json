@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "ЯХВЕ, Адонай наш, как ⟨велико⟩ Имя Твоё по всей земле!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Адонай наш"
+    },
+    {
+      "surface": "מה",
+      "gloss": "как"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "велико"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Имя Твоё"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "по всей"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земле"
+    }
+  ],
+  "timestamp": "2026-08-03T06:38:21.806471776Z",
+  "model": "glm-4.5"
+}

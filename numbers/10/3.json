@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "и подуйте в них, и соберутся к тебе всё ⟨собрание⟩ ко входу Шатра Свидения",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "и подуйте"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "в них"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "и соберутся"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "к тебе"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "⟨собрание⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ко"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "входу"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Шатра"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Свидения"
+    }
+  ],
+  "timestamp": "2026-08-02T21:21:58.494364690Z",
+  "model": "glm-4.5"
+}

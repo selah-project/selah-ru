@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "genesis 26:17",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "И ушёл оттуда Ицхак, и ⟨был⟩ в долине Герара, и поселился там.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "и ушёл"
+    },
+    {
+      "surface": "משם",
+      "gloss": "оттуда"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхак"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "и ⟨был⟩"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "в долине"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "Герара"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и поселился"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    }
+  ],
+  "timestamp": "2026-08-02T19:26:06.143036427Z",
+  "model": "glm-4.5"
+}

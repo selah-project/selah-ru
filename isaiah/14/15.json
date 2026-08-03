@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Только в Шеол низведён ⟨ты⟩, к бокам ямы",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Только"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "низведён"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "бокам"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ямы"
+    }
+  ],
+  "timestamp": "2026-08-03T01:57:50.842411899Z",
+  "model": "glm-4.5"
+}

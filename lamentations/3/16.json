@@ -1,0 +1,35 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Он ⟨и⟩ измельчил ⟨את⟩ зубы мои ⟨гравием⟩, ⟨и⟩ покрыл меня ⟨את⟩ пеплом",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "⟨и⟩ измельчил"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "⟨гравием⟩",
+      "marks": "зубы мои"
+    },
+    {
+      "surface": "שני",
+      "gloss": "зубы мои"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "⟨и⟩ покрыл меня",
+      "marks": "пеплом"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "⟨את⟩ пеплом"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:07.351862758Z",
+  "model": "glm-4.5"
+}

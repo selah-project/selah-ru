@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И Коз породил ⟨את⟩ Анува и ⟨את⟩ Цовеву, и семьи Аархела, сына Харума.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "И Коз"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Анува"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Анува"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Цовеву"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "Цовеву"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "и семьи"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "Аархела"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "Харума"
+    }
+  ],
+  "timestamp": "2026-08-03T12:40:11.402339105Z",
+  "model": "glm-4.5"
+}

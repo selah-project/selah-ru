@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Это также я видел: хохму под ⟨солнцем⟩, и она велика мне.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "также"
+    },
+    {
+      "surface": "זה",
+      "gloss": "это"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "я видел"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "хохму"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "⟨солнцем⟩"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "и она велика"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨она⟩"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мне"
+    }
+  ],
+  "timestamp": "2026-08-03T11:23:48.077143215Z",
+  "model": "glm-4.5"
+}

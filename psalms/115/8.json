@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 115,
+  "translation": "Как они ⟨будут⟩ таковы делающие их, ⟨таков⟩ всякий, кто уповает на ⟨них⟩.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "как они"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "будут"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "делающие их"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всякий"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кто"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "уповает"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "на ⟨них⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T08:45:40.932355760Z",
+  "model": "glm-4.5"
+}

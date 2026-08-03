@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "proverbs 21:22",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Мудрый ⟨восходит⟩ в город сильных, и ниспровергает опору ⟨их⟩ надежды.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "город"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "сильных"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "⟨восходит⟩"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "Мудрый"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "и ниспровергает"
+    },
+    {
+      "surface": "עז",
+      "gloss": "опору"
+    },
+    {
+      "surface": "מבטחה",
+      "gloss": "⟨их⟩ надежды"
+    }
+  ],
+  "timestamp": "2026-08-03T09:48:52.389348417Z",
+  "model": "glm-4.5"
+}

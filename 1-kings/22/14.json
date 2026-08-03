@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И сказал Михей: жив ЯХВЕ, ⟨что⟩ скажет ЯХВЕ мне, ⟨это⟩ я буду говорить",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Михей"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "что"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "скажет"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "мне"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨את⟩",
+      "marks": "это"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "я буду говорить"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T01:01:19.334192628Z",
+  "model": "glm-4.5"
+}

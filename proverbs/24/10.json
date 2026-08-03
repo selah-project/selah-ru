@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Если ты ослабел в день бедствия, ⟨твоя⟩ сила мала.",
+  "tokens": [
+    {
+      "surface": "התרפית",
+      "gloss": "ослабел"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в день"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "бедствия"
+    },
+    {
+      "surface": "צר",
+      "gloss": "мала"
+    },
+    {
+      "surface": "כחכה",
+      "gloss": "⟨твоя⟩ сила"
+    }
+  ],
+  "timestamp": "2026-08-03T09:55:30.152944620Z",
+  "model": "glm-4.5"
+}

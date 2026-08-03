@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 38,
+  "translation": "Сердце моё бьётся, сила моя покинула меня, и свет глаз моих — даже его нет со мной",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "Сердце моё"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "бьётся"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "покинула меня"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "сила моя"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "и свет"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "глаз моих"
+    },
+    {
+      "surface": "גם",
+      "gloss": "даже"
+    },
+    {
+      "surface": "הם",
+      "gloss": "он"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "со мной"
+    }
+  ],
+  "timestamp": "2026-08-03T07:16:54.840843875Z",
+  "model": "glm-4.5"
+}

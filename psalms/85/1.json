@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 85,
+  "translation": "Начальнику [музыкантов]. Сыновьям Кораха. Псалом.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Начальнику"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Сыновьям"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Кораха"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Псалом"
+    }
+  ],
+  "timestamp": "2026-08-03T08:10:42.432700645Z",
+  "model": "glm-4.5"
+}

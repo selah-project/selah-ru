@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "proverbs 9:6",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Оставьте глупость, и живите, и идите ⟨по⟩ пути Бины.",
+  "tokens": [
+    {
+      "surface": "עזבו",
+      "gloss": "оставьте"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "глупость"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "и живите"
+    },
+    {
+      "surface": "ואשרו",
+      "gloss": "и идите"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "⟨по⟩ пути"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "Бины"
+    }
+  ],
+  "timestamp": "2026-08-03T09:31:36.146047994Z",
+  "model": "glm-4.5"
+}

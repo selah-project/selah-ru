@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "а если самка ⟨это⟩, и будет оценка твоя тридцать шекелей",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а если"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "самка"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨это⟩"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и будет"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "оценка твоя"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "тридцать"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "шекелей"
+    }
+  ],
+  "timestamp": "2026-08-02T21:08:32.914162741Z",
+  "model": "glm-4.5"
+}

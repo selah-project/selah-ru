@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "genesis 41:37",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 41,
+  "translation": "И ⟨это⟩ дело ⟨было⟩ хорошо в глазах Фараона и в глазах всех слуг его.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "было хорошо"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "дело"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в глазах"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараона"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "и в глазах"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "слуг его"
+    }
+  ],
+  "timestamp": "2026-08-03T17:48:08.979277343Z",
+  "model": "glm-4.5"
+}

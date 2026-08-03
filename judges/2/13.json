@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "и оставили ⟨את⟩ ЯХВЕ и служили Ваалу и Ашторет",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "и оставили"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "и служили"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Ваалу"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "и Ашторет"
+    }
+  ],
+  "timestamp": "2026-08-02T22:50:59.085285527Z",
+  "model": "glm-4.5"
+}

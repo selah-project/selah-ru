@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "jeremiah 17:9",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "Коварно ⟨сердце⟩ ⟨от⟩ всего, и неизлечимо оно; кто познает его?",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "коварно"
+    },
+    {
+      "surface": "הלב",
+      "gloss": "⟨сердце⟩"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "⟨от⟩ всего"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "и неизлечимо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "оно"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "познает его"
+    }
+  ],
+  "timestamp": "2026-08-03T18:36:21.929732279Z",
+  "model": "glm-4.5"
+}

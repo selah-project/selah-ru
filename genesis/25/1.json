@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "И добавил Авраам и взял ⟨ещё⟩ женщину, и имя её Ктура",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "И добавил"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "и взял"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "женщину"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "и имя её"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Ктура"
+    }
+  ],
+  "timestamp": "2026-08-02T19:23:29.604219831Z",
+  "model": "glm-4.5"
+}

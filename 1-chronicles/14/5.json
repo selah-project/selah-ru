@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "1-chronicles 14:5",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "и Йивхар и Элишуа и Элфалет",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "и Йивхар"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "и Элишуа"
+    },
+    {
+      "surface": "ואלפלט",
+      "gloss": "и Элфалет"
+    }
+  ],
+  "timestamp": "2026-08-03T12:57:32.118473869Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 56,
+  "translation": "В день, когда я устрашусь, ⟨я⟩ буду уповать на Тебя.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "В день"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "когда я устрашусь"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨я⟩"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "на Тебя"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "буду уповать"
+    }
+  ],
+  "timestamp": "2026-08-03T07:33:37.545723034Z",
+  "model": "glm-4.5"
+}

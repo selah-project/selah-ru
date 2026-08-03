@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "nehemiah 7:38",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "сыновья Сенаа: три тысячи девятьсот и тридцать",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "Сенаа"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "тысячи"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "девять"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотен"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "и тридцать"
+    }
+  ],
+  "timestamp": "2026-08-03T12:22:41.898191831Z",
+  "model": "glm-4.5"
+}

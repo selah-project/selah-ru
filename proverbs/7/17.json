@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Я обрызгала ложе моё миррой, алоэ и корицей.",
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "обрызгала"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "ложе моё"
+    },
+    {
+      "surface": "מר",
+      "gloss": "миррой"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "алоэ"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "и корицей"
+    }
+  ],
+  "timestamp": "2026-08-03T09:28:32.434765131Z",
+  "model": "glm-4.5"
+}

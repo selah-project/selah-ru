@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "и напишишь их на косяках дома твоего и на воротах ⟨твоих⟩",
+  "tokens": [
+    {
+      "surface": "וּכְתַבְתָּ֛ם",
+      "gloss": "и напишишь их"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "на"
+    },
+    {
+      "surface": "מְזוּזֹ֥ת",
+      "gloss": "косяках"
+    },
+    {
+      "surface": "בֵּיתֶ֖ךָ",
+      "gloss": "дома твоего"
+    },
+    {
+      "surface": "וּבִשְׁעָרֶֽיךָ",
+      "gloss": "и на воротах"
+    }
+  ],
+  "timestamp": "2026-08-02T21:57:06.485068156Z",
+  "model": "glm-4.5"
+}

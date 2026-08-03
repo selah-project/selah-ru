@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "jeremiah 50:1",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 50,
+  "translation": "Слово, ⟨которое⟩ говорил ЯХВЕ о Вавилоне, о земле халдеев, ⟨через⟩ Ирмеяу ⟨пророка⟩",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Слово"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "о"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилоне"
+    },
+    {
+      "surface": "אל",
+      "gloss": "о"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земле"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "халдеев"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "через"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмеяу"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророка"
+    }
+  ],
+  "timestamp": "2026-08-03T04:10:37.038963315Z",
+  "model": "glm-4.5"
+}

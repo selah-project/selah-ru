@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "2-kings 19:5",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "И пришли слуги царя Хизкиягу к Йешаягу",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "И пришли"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слуги"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкиягу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Йешаягу"
+    }
+  ],
+  "timestamp": "2026-08-03T01:29:22.152396594Z",
+  "model": "glm-4.5"
+}

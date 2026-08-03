@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И начал Ноах, муж ⟨את⟩ земли, и посадил виноградник",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "и начал"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "איש",
+      "gloss": "муж"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "⟨את⟩ земли",
+      "marks": "земли"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "и посадил"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "виноградник"
+    }
+  ],
+  "timestamp": "2026-08-02T17:52:34.337493221Z",
+  "model": "glm-4.5"
+}

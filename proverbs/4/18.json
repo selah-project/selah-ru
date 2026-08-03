@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "proverbs 4:18",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Но путь праведных — как свет сияния, ⟨он⟩ идёт и светит до ⟨того⟩ дня установленного.",
+  "tokens": [
+    {
+      "surface": "וארח",
+      "gloss": "путь"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведных"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "как свет"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "сияния"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "идёт"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "и светит"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "установленного"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дня"
+    }
+  ],
+  "timestamp": "2026-08-03T09:25:08.853153331Z",
+  "model": "glm-4.5"
+}

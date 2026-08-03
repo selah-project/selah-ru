@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "proverbs 4:20",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Сын мой, внимай словам моим; наклони ухо твое к речам моим",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сын мой"
+    },
+    {
+      "surface": "לדברי",
+      "gloss": "к словам моим"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "внимай"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "к речам моим"
+    },
+    {
+      "surface": "הט",
+      "gloss": "наклони"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ухо твое"
+    }
+  ],
+  "timestamp": "2026-08-03T09:25:04.691343742Z",
+  "model": "glm-4.5"
+}

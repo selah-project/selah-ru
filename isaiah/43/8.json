@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 43,
+  "translation": "Выведи ⟨народ⟩ слепой и ⟨есть⟩ глаза, и ⟨глухие⟩ и ⟨есть⟩ уши им",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "выведи"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨народ⟩"
+    },
+    {
+      "surface": "עור",
+      "gloss": "слепой"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "и ⟨есть⟩ глаза"
+    },
+    {
+      "surface": "יש",
+      "gloss": "и"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "⟨глухие⟩"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "и ⟨есть⟩ уши"
+    },
+    {
+      "surface": "למו",
+      "gloss": "им"
+    }
+  ],
+  "timestamp": "2026-08-03T02:30:39.035732380Z",
+  "model": "glm-4.5"
+}

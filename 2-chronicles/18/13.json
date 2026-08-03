@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "2-chronicles 18:13",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И сказал Михей: жив ЯХВЕ, ⟨את⟩ что скажет Элоhim — ⟨את⟩ то буду говорить.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Михей"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "что скажет Элоhim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "скажет"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоhim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "то буду говорить"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "буду говорить"
+    }
+  ],
+  "timestamp": "2026-08-03T13:48:28.653808494Z",
+  "model": "glm-4.5"
+}

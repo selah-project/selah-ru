@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "2-chronicles 34:15",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "И отвечал Хелкия и сказал Шафану писцу: «Книгу Торы я нашёл в доме ЯХВЕ». И дал Хелкия ⟨את⟩ книгу Шафану.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И отвечал"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Хелкия"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Шафану"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "писцу"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Книгу"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Торы"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "я нашёл"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "в доме"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "И дал"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Хелкия"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "книгу"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "книгу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Шафану"
+    },
+    {
+      "surface": "שפן",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T14:12:24.650132905Z",
+  "model": "glm-4.5"
+}

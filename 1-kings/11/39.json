@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "и Я смирю ⟨את⟩ семя Давида ради этого, только не во все дни",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "и Я смирю"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "семя Давида"
+    },
+    {
+      "surface": "зרע",
+      "gloss": "семя"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ради этого"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "этого"
+    },
+    {
+      "surface": "אך",
+      "gloss": "только"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כל",
+      "gloss": "во все"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дни"
+    }
+  ],
+  "timestamp": "2026-08-03T00:41:08.676445519Z",
+  "model": "glm-4.5"
+}

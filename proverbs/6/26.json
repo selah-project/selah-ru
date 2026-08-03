@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "proverbs 6:26",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Ибо ради женщины блудящей ⟨он⟩ доведён до ломтя хлеба, а чужая жена ⟨алчет⟩ драгоценную душу.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ради"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "женщины"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "блудящей"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ломтя"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеба"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "а чужая жена"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨человека⟩"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душу"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "драгоценную"
+    },
+    {
+      "surface": "תצוד",
+      "gloss": "⟨алчет⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T09:27:06.911778566Z",
+  "model": "glm-4.5"
+}

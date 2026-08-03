@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "job 34:15",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "Издохнет ⟨вся⟩ плоть ⟨вместе⟩, и человек возвратится на прах.",
+  "tokens": [
+    {
+      "surface": "יגוע",
+      "gloss": "издохнет"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨вся⟩"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "плоть"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "⟨вместе⟩"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "и человек"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "прах"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "возвратится"
+    }
+  ],
+  "timestamp": "2026-08-03T18:29:52.706362906Z",
+  "model": "glm-4.5"
+}

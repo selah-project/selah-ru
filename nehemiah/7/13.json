@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "nehemiah 7:13",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Сыновья Затту: восемьсот сорок и ⟨пять⟩",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "Затту"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "восемьсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "⟨сотен⟩"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "сорок"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "и ⟨пять⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T12:21:58.167570599Z",
+  "model": "glm-4.5"
+}

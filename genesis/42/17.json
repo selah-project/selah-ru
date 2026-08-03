@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 42,
+  "translation": "И собрал ⟨את⟩ ⟨их⟩ под стражу на три дня;",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "И собрал"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "⟨их⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "под"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "стражу"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дня"
+    }
+  ],
+  "timestamp": "2026-08-02T19:45:57.126574365Z",
+  "model": "glm-4.5"
+}

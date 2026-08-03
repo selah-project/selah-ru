@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 102,
+  "translation": "Он обратится к молитве истощённого и не презрел ⟨את⟩ молитву их",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "обратится"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "молитве"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "истощённого"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "презрел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "молитву их"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "молитву их"
+    }
+  ],
+  "timestamp": "2026-08-03T08:30:44.177128138Z",
+  "model": "glm-4.5"
+}

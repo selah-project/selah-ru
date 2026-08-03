@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 103,
+  "translation": "Благослови, о душа моя, ЯХВЕ, и не забывай всех ⟨את⟩ Его благодеяний",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Благослови"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "о душа моя"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "забывай"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "Его благодеяний"
+    }
+  ],
+  "timestamp": "2026-08-03T08:31:37.834891692Z",
+  "model": "glm-4.5"
+}

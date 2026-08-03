@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "2-chronicles 15:7",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "А вы крепитесь, и пусть не ослабевают руки ваши, ибо есть награда за дело ваше",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "А вы"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "крепитесь"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и пусть не"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "ослабевают"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "руки ваши"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "יש",
+      "gloss": "есть"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "награда"
+    },
+    {
+      "surface": "לפעלתכם",
+      "gloss": "за дело ваше"
+    }
+  ],
+  "timestamp": "2026-08-03T13:44:29.072816476Z",
+  "model": "glm-4.5"
+}

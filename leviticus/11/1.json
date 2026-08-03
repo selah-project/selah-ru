@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И говорил ЯХВЕ ⟨с⟩ Моше и ⟨с⟩ Аароном, чтобы сказать им:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и ⟨с⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аароном"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "чтобы сказать"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им:"
+    }
+  ],
+  "timestamp": "2026-08-02T20:49:52.355854453Z",
+  "model": "glm-4.5"
+}

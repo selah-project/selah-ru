@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "ezekiel 8:13",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И сказал мне: ещё повернёшь, ⟨ты⟩ увидишь большие мерзости, которые они делают",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ещё"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "повернёшь"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "увидишь"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "мерзости"
+    },
+    {
+      "surface": "гדלות",
+      "gloss": "большие"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "המה",
+      "gloss": "они"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "делают"
+    }
+  ],
+  "timestamp": "2026-08-03T04:23:35.882574734Z",
+  "model": "glm-4.5"
+}

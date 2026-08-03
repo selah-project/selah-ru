@@ -1,0 +1,87 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "numbers 27:18",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "И сказал ЯХВЕ Моше: возьми себе ⟨את⟩ Йехошуа, сына Нуна, мужа, в котором ⟨руах⟩, и возложи ⟨את⟩ руку твою на него",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "קח",
+      "gloss": "возьми"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йехошуа"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йехошуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Нуна"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мужа"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "в котором"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "⟨руах⟩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в нём"
+    },
+    {
+      "surface": "וסמכת",
+      "gloss": "и возложи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "руку твою"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "руку твою"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на него"
+    }
+  ],
+  "timestamp": "2026-08-02T21:40:48.582654828Z",
+  "model": "glm-4.5"
+}

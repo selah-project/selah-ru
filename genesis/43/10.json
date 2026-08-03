@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 43,
+  "translation": "ибо если бы ⟨мы⟩ не медлили, то уже теперь мы вернулись бы ⟨во⟩ ⟨второй⟩ раз",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "если бы"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "не медлили"
+    },
+    {
+      "surface": "כי",
+      "gloss": "то"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "уже теперь"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "мы вернулись бы"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨этот⟩"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "раз"
+    }
+  ],
+  "timestamp": "2026-08-02T19:47:07.935330073Z",
+  "model": "glm-4.5"
+}

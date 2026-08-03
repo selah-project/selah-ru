@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "leviticus 13:38",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И муж ⟨или⟩ женщина, когда будет в коже плоти их пятна, ⟨пятна⟩ белые",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "И муж"
+    },
+    {
+      "surface": "או",
+      "gloss": "⟨или⟩",
+      "marks": "женщина"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "женщина"
+    },
+    {
+      "surface": "כי",
+      "gloss": "когда"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "будет"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "в коже"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "плоти их"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "пятна"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "⟨пятна⟩"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "белые"
+    }
+  ],
+  "timestamp": "2026-08-02T20:52:38.516335177Z",
+  "model": "glm-4.5"
+}

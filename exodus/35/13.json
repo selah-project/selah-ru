@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "⟨את⟩ стол и ⟨את⟩ шесты его и ⟨את⟩ все сосуды его и ⟨את⟩ хлеб лица",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "стол"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "стол"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "шесты его"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "шесты его"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "все"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "сосуды его"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "хлеб"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "лица"
+    }
+  ],
+  "timestamp": "2026-08-02T20:33:09.165619798Z",
+  "model": "glm-4.5"
+}

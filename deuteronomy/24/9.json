@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Помни ⟨то⟩, что сделал ЯХВЕ Элохим твой ⟨את⟩ Мирйам, на пути, при выходе вашем из Египта",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Помни"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "то, что (אשер)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохим твой"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "Мирйам"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "на пути"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "при выходе вашем"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "из Египта"
+    }
+  ],
+  "timestamp": "2026-08-02T22:14:05.786473518Z",
+  "model": "glm-4.5"
+}

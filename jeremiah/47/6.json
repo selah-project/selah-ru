@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "jeremiah 47:6",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 47,
+  "translation": "Горе мечу ЯХВЕ, доколе ⟨ты⟩ не успокоишься? Войди в ⟨своё⟩ чехол, опустись и замри.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Горе"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мечу"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "доколе"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "⟨ты⟩ не"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "תשקטי",
+      "gloss": "успокоишься"
+    },
+    {
+      "surface": "האספי",
+      "gloss": "Войди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "תערך",
+      "gloss": "⟨своё⟩ чехол"
+    },
+    {
+      "surface": "הרגעי",
+      "gloss": "опустись"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "и замри"
+    }
+  ],
+  "timestamp": "2026-08-03T18:35:53.002363824Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И воззвал вестник ЯХВЕ к Аврааму второй раз ⟨с⟩ небес",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И воззвал"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "вестник"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврааму"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "второй раз"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небес"
+    }
+  ],
+  "timestamp": "2026-08-02T19:19:22.517011081Z",
+  "model": "glm-4.5"
+}

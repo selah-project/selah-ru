@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Ибо в тени мудрости в тени серебра, и преимущество знания — мудрость оживит ⟨её⟩ обладателей",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "в тени"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "мудрости"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "в тени"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "серебра"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "преимущество"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знания"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "мудрость"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "оживит"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "обладателей"
+    }
+  ],
+  "timestamp": "2026-08-03T11:21:59.154203722Z",
+  "model": "glm-4.5"
+}

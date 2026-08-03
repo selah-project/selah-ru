@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "zechariah 14:9",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И станет ЯХВЕ царём над всей ⟨землёй⟩; в ⟨тот⟩ день ⟨будет⟩ ЯХВЕ — один, и имя Его — один.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И станет"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "царём"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всей"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨землёй⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨тот⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨будет⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "и имя Его"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    }
+  ],
+  "timestamp": "2026-08-03T06:20:44.149250255Z",
+  "model": "glm-4.5"
+}

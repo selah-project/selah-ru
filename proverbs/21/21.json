@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "proverbs 21:21",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Гонящий за праведностью и хеседом найдёт жизнь, праведность и почёт",
+  "tokens": [
+    {
+      "surface": "רדף",
+      "gloss": "гонящий"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "праведностью"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "и хеседом"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "найдёт"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "жизнь"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "праведность"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "и почёт"
+    }
+  ],
+  "timestamp": "2026-08-03T09:48:25.499134379Z",
+  "model": "glm-4.5"
+}

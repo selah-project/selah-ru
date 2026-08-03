@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 39,
+  "ref": "1-chronicles 11:39",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Целек Аммонитянин, Нарай Бееротянин, носитель оружия Йоава, сына Цруи",
+  "tokens": [
+    {
+      "surface": "צלק",
+      "gloss": "Целек"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "Аммонитянин"
+    },
+    {
+      "surface": "נחרי",
+      "gloss": "Нарай"
+    },
+    {
+      "surface": "הברתי",
+      "gloss": "Бееротянин"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "носитель"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "оружия"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоава"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Цруи"
+    }
+  ],
+  "timestamp": "2026-08-03T12:54:14.712847336Z",
+  "model": "glm-4.5"
+}

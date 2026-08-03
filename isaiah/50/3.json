@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 50,
+  "translation": "Я облекаю небеса в черноту, и вретище делаю покровом их",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "Я облекаю"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "в черноту"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "и вретище"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "делаю"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "покровом их"
+    }
+  ],
+  "timestamp": "2026-08-03T02:38:16.319123458Z",
+  "model": "glm-4.5"
+}

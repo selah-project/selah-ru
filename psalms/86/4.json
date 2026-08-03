@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 86,
+  "translation": "Весели ⟨душе⟩ раба Твоего, ибо к Тебе, Адонай, ⟨душу⟩ мою поднимаю",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Весели"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨душе⟩",
+      "marks": "раба Твоего"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "раба Твоего"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "к Тебе"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨душу⟩ мою",
+      "marks": "поднимаю"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "поднимаю"
+    }
+  ],
+  "timestamp": "2026-08-03T08:11:44.114648546Z",
+  "model": "glm-4.5"
+}

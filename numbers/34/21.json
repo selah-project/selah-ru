@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "numbers 34:21",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "от колена Биньямина: Элидад, сын Кислона;",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "от колена"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Биньямина"
+    },
+    {
+      "surface": "אלידד",
+      "gloss": "Элидад"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "כסלון",
+      "gloss": "Кислона"
+    }
+  ],
+  "timestamp": "2026-08-02T21:48:41.909662912Z",
+  "model": "glm-4.5"
+}

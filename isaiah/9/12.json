@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "и народ не вернулся ⟨до⟩ ударившего его и ⟨את⟩ ЯХВЕ Цеваот не взыскали",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "и народ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שב",
+      "gloss": "вернулся"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨до⟩"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "ударившего его"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "взыскали"
+    }
+  ],
+  "timestamp": "2026-08-03T01:53:26.932578358Z",
+  "model": "glm-4.5"
+}

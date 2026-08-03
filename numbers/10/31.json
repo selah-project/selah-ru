@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "numbers 10:31",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И он сказал: не оставляй нас, ⟨את⟩; ибо ты знаешь стоянки наши в пустыне, и будешь нам ⟨как⟩ глаза.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И он сказал"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "נא",
+      "gloss": "прошу"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "оставляй"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "нас"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаешь"
+    },
+    {
+      "surface": "חנתנו",
+      "gloss": "стоянки наши"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "в пустыне"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "и будешь"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "как глаза"
+    }
+  ],
+  "timestamp": "2026-08-02T21:22:27.476107850Z",
+  "model": "glm-4.5"
+}

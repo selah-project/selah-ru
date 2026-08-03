@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "genesis 10:21",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И Шему также ⟨родился⟩ ⟨он⟩, отец ⟨всех⟩ сынов Эвера, брат Йефета ⟨великого⟩.",
+  "tokens": [
+    {
+      "surface": "ולשם",
+      "gloss": "И Шему"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "⟨родился⟩"
+    },
+    {
+      "surface": "גם",
+      "gloss": "также"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отец"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨всех⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Эвера"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брат"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Йефета"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "⟨великого⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T17:53:32.741849075Z",
+  "model": "glm-4.5"
+}

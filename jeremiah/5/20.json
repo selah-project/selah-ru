@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "jeremiah 5:20",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Объявите это в доме Иакова, и провозгласите ⟨её⟩ в Иудее, говоря:",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "Объявите"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "это"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "в доме"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Иакова"
+    },
+    {
+      "surface": "והשמיעוה",
+      "gloss": "и провозгласите ⟨её⟩",
+      "marks": "эту весть"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "в Иудее"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-03T03:03:34.185862091Z",
+  "model": "glm-4.5"
+}

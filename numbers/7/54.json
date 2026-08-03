@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 54,
+  "ref": "numbers 7:54",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "В ⟨восьмой⟩ день Гамлиэль, сын Педацура, начальник сынов Менашше,",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "В день"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "⟨восьмой⟩"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "начальник"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менашше"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Гамлиэль"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "Педац"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ура"
+    }
+  ],
+  "timestamp": "2026-08-02T21:18:36.896780396Z",
+  "model": "glm-4.5"
+}

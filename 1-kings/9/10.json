@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И было в конце двадцати лет, которые Шеломо строил ⟨את⟩ два дома: ⟨את⟩ дом ЯХВЕ и ⟨את⟩ дом царя.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "в конце"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцати"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "строил"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "два"
+    },
+    {
+      "surface": "שני",
+      "gloss": "два"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "дома"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дом"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "дом"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    }
+  ],
+  "timestamp": "2026-08-03T00:35:34.843661355Z",
+  "model": "glm-4.5"
+}

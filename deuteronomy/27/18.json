@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "Проклят ⟨тот⟩, кто сбивает ⟨слепого⟩ с ⟨дороги⟩; и скажет весь народ: амен.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "проклят"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "сбивает"
+    },
+    {
+      "surface": "עור",
+      "gloss": "слепого"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "с ⟨дороги⟩"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и скажет"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "амен"
+    }
+  ],
+  "timestamp": "2026-08-02T22:16:50.102161359Z",
+  "model": "glm-4.5"
+}

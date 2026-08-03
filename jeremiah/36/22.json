@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "jeremiah 36:22",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "И царь сидел в зимнем доме, в девятом месяце, и ⟨את⟩ жаровня горела перед ним",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "И царь"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "сидел"
+    },
+    {
+      "surface": "בית",
+      "gloss": "в доме"
+    },
+    {
+      "surface": "החרף",
+      "gloss": "зимнем"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "в месяце"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "девятом"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "жаровня"
+    },
+    {
+      "surface": "האח",
+      "gloss": "жаровня"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "перед ним"
+    },
+    {
+      "surface": "מבערת",
+      "gloss": "горела"
+    }
+  ],
+  "timestamp": "2026-08-03T03:50:53.114034520Z",
+  "model": "glm-4.5"
+}

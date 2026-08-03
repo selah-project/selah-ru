@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "leviticus 8:34",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "как ⟨он⟩ сделал в этот ⟨день⟩, так ЯХВЕ повелел сделать, чтобы покрыть ⟨на⟩ вас.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в этот ⟨день⟩"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "этот"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "повелел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "сделать"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "чтобы покрыть"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "⟨на⟩ вас"
+    }
+  ],
+  "timestamp": "2026-08-02T20:47:56.899539252Z",
+  "model": "glm-4.5"
+}

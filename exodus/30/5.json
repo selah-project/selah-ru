@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "и сделаешь ⟨את⟩ шесты ⟨из⟩ дерева шиттим, и покроешь ⟨את⟩ их золотом",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "и сделаешь"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "шесты"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "шесты"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "дерево"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "шиттим"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "и покроешь"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "их"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золотом"
+    }
+  ],
+  "timestamp": "2026-08-02T20:27:00.516304190Z",
+  "model": "glm-4.5"
+}

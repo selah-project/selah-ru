@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 62,
+  "translation": "Только к Элохим безмолвна душа моя, ибо от Него надежда моя.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Только"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "к Элохим"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "безмолвна"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душа моя"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "от Него"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "надежда моя"
+    }
+  ],
+  "timestamp": "2026-08-03T07:40:02.536631055Z",
+  "model": "glm-4.5"
+}

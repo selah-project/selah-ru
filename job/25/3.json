@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "job 25:3",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "Есть ли число ⟨его⟩ воинствам, и на ком не встанет ⟨его⟩ свет?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "есть ли"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "число"
+    },
+    {
+      "surface": "לגדודיו",
+      "gloss": "его воинствам"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ком"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "встанет"
+    },
+    {
+      "surface": "אורהו",
+      "gloss": "его свет"
+    }
+  ],
+  "timestamp": "2026-08-03T10:31:51.283657008Z",
+  "model": "glm-4.5"
+}

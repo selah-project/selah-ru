@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 69,
+  "translation": "Начальнику ⟨на⟩ лилиях. Псалом Давида.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Начальнику"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "лилиях"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Псалом Давида"
+    }
+  ],
+  "timestamp": "2026-08-03T07:49:11.671619988Z",
+  "model": "glm-4.5"
+}

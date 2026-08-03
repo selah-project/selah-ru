@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 89,
+  "translation": "Раз поклялся Я святынею Своею: ⟨не⟩ солгу ⟨Я⟩ Давиду:",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Раз"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "поклялся Я"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "святынею Своею"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиду"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "солгу ⟨Я⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T08:17:07.140344069Z",
+  "model": "glm-4.5"
+}

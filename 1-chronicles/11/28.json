@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "1-chronicles 11:28",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Ира, сын Икеша ⟨из⟩ Текои, Авиэзер ⟨из⟩ Анафофа",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "Ира"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "Икеша"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "⟨из⟩ Текои"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Авиэзер"
+    },
+    {
+      "surface": "הענתותי",
+      "gloss": "⟨из⟩ Анафофа"
+    }
+  ],
+  "timestamp": "2026-08-03T12:53:52.775895397Z",
+  "model": "glm-4.5"
+}

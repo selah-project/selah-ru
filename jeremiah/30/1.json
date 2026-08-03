@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "jeremiah 30:1",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Слово, которое было к Ирмея́ху от ЯХВЕ, говоря:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Слово"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "היה",
+      "gloss": "было"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмея́ху"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "от"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-03T18:35:10.587558318Z",
+  "model": "glm-4.5"
+}

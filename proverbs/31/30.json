@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "proverbs 31:30",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "Ложь миловидие, и суета — красота; ⟨а⟩ женщина, боящаяся ЯХВЕ, — ей ⟨и⟩ хвалиться.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "ложь"
+    },
+    {
+      "surface": "החן",
+      "gloss": "миловидие"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "и суета"
+    },
+    {
+      "surface": "היפי",
+      "gloss": "красота"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "женщина"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "боящаяся"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "— ей"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "хвалиться"
+    }
+  ],
+  "timestamp": "2026-08-03T10:08:52.440650791Z",
+  "model": "glm-4.5"
+}

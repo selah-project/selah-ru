@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И встал, и ушёл, и Ионатан пришёл в город.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "и встал"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и ушёл"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "и Ионатан"
+    },
+    {
+      "surface": "בא",
+      "gloss": "пришёл"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "в город"
+    }
+  ],
+  "timestamp": "2026-08-02T23:37:02.518008871Z",
+  "model": "glm-4.5"
+}

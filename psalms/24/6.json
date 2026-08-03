@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Это поколение ищущих Тебя, ищущих лица Твоего, Яаков. Села.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Это"
+    },
+    {
+      "surface": "דור",
+      "gloss": "поколение"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ищущих"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ищущих"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лица Твоего"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-08-03T06:57:50.997568686Z",
+  "model": "glm-4.5"
+}

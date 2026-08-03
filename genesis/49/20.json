@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "genesis 49:20",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 49,
+  "translation": "От Ашера хлеб его масличен, и он даст изысканности царя.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "От Ашера"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "масличен"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "хлеб его"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "и он"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "даст"
+    },
+    {
+      "surface": "מעדני",
+      "gloss": "изысканности"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    }
+  ],
+  "timestamp": "2026-08-02T19:53:46.005295703Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "jeremiah 29:9",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "ибо ложью пророчат они вам именем Моим, не посылал Я их, — слово ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "ложью"
+    },
+    {
+      "surface": "הם",
+      "gloss": "они"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "пророчат"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "именем Моим"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שלחתים",
+      "gloss": "посылал Я"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T18:36:19.751895588Z",
+  "model": "glm-4.5"
+}

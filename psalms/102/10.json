@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 102,
+  "translation": "Ибо прах, как хлеб, съел я, и питьё моё смешал с плачем",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "прах"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "как хлеб"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "съел я"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "и питьё моё"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "с плачем"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "смешал"
+    }
+  ],
+  "timestamp": "2026-08-03T08:30:54.038182620Z",
+  "model": "glm-4.5"
+}

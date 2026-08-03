@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 57,
+  "ref": "genesis 41:57",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 41,
+  "translation": "И пришла вся земля в Египет — покупать ⟨ Grain ⟩ ⟨את⟩ у Иосифа, ибо силен ⟨ Was⟩ голод по всей земле.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "И пришла вся"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "באו",
+      "gloss": "пришла"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "в Египет"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "покупать"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Иосифа"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "силен"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "голод"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "по всей"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земле"
+    }
+  ],
+  "timestamp": "2026-08-02T19:45:18.541442479Z",
+  "model": "glm-4.5"
+}

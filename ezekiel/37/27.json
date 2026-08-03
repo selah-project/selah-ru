@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "ezekiel 37:27",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "И Мишкан Мой будет ⟨будет⟩ над ними, и Я буду им Элохим, а они будут Мне ⟨в⟩ народ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и будет"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "Мишкан Мой"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "над ними"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "и Я буду"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "а они"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "будут"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мне"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "⟨в⟩ народ"
+    }
+  ],
+  "timestamp": "2026-08-03T05:02:54.964783231Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Рука небрежная причиняет бедность, но рука усердная ⟨сделает⟩ богато.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "бедный"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "становится"
+    },
+    {
+      "surface": "כף",
+      "gloss": "рука"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "небрежная"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "но рука"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "усердная"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "обогатит"
+    }
+  ],
+  "timestamp": "2026-08-03T09:32:25.045273680Z",
+  "model": "glm-4.5"
+}

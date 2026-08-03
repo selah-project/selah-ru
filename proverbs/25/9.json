@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "Веди свой спор ⟨с⟩ твоим соседом и секрета ⟨другого⟩ не открывай",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "твой спор"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "веди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "с твоим соседом"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "твоим соседом"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "и секрета"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "другого"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "открывай"
+    }
+  ],
+  "timestamp": "2026-08-03T09:59:46.530436452Z",
+  "model": "glm-4.5"
+}

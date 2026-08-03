@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "jeremiah 52:34",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 52,
+  "translation": "И его паёк — ⟨это⟩ постоянный паёк, данный ему от царя Вавилона, дело дня в его день, до дня его смерти, все дни его жизни.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "и его паёк"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "пай"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "постоянный"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "данный"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "от"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилона"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "дело"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дня"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "в его день"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дня"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "его смерти"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дни"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "его жизни"
+    }
+  ],
+  "timestamp": "2026-08-03T04:16:11.449127746Z",
+  "model": "glm-4.5"
+}

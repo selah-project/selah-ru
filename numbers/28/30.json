@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "numbers 28:30",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "и один козёл ⟨את⟩ для покрытия ⟨за⟩ вас",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "козёл"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "козлов"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "для покрытия"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "⟨за⟩ вас"
+    }
+  ],
+  "timestamp": "2026-08-02T21:41:41.497075143Z",
+  "model": "glm-4.5"
+}

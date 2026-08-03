@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "время разрывать и время зашивать; время молчать и время говорить",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "время"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "разрывать"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и время"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "зашивать"
+    },
+    {
+      "surface": "עת",
+      "gloss": "время"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "молчать"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и время"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "говорить"
+    }
+  ],
+  "timestamp": "2026-08-03T11:17:29.840144437Z",
+  "model": "glm-4.5"
+}

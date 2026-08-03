@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "Тяжёл камень и ноша песка, но гнев глупца тяжелее, чем оба они.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Тяжёл"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "камень"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "и ноша"
+    },
+    {
+      "surface": "החול",
+      "gloss": "песка"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "но гнев"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "глупца"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "тяжелее"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "чем оба они"
+    }
+  ],
+  "timestamp": "2026-08-03T10:03:20.642776308Z",
+  "model": "glm-4.5"
+}

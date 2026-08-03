@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "daniel 2:20",
+  "book": "daniel",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Даниил ответил и сказал: да будет благословенно Имя Элога от века ⟨и⟩ до века, ибо хохма и гвура — ⟨Они⟩ Его",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "ответил"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Даниил"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "להוא",
+      "gloss": "да будет"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "благословенно ⟨Имя⟩"
+    },
+    {
+      "surface": "די",
+      "gloss": "—"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Элога"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "от"
+    },
+    {
+      "surface": "מן",
+      "gloss": "века"
+    },
+    {
+      "surface": "עלמא",
+      "gloss": "⟨и⟩"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עלמא",
+      "gloss": "века"
+    },
+    {
+      "surface": "די",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "חכמתא",
+      "gloss": "хохма"
+    },
+    {
+      "surface": "וגבורתא",
+      "gloss": "и гвура"
+    },
+    {
+      "surface": "די",
+      "gloss": "—"
+    },
+    {
+      "surface": "לה",
+      "gloss": "Они"
+    },
+    {
+      "surface": "היא",
+      "gloss": "Его"
+    }
+  ],
+  "timestamp": "2026-08-03T11:39:38.181783093Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "2-samuel 3:5",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "и шестой — Итрэм, от Эглы, жены Давида; эти родились Давиду в Хевроне",
+  "tokens": [
+    {
+      "surface": "והששי",
+      "gloss": "и шестой"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "Итрэм"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "от Эглы"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жены"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "эти"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "родились"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиду"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "в Хевроне"
+    }
+  ],
+  "timestamp": "2026-08-02T23:50:07.697612839Z",
+  "model": "glm-4.5"
+}

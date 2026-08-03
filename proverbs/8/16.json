@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "proverbs 8:16",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Мною князья правят, и вельможи, ⟨все⟩ судьи ⟨праведности⟩.",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "Мною"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "князья"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "правят"
+    },
+    {
+      "surface": "ונדיבים",
+      "gloss": "и вельможи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨все⟩"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "судьи"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "⟨праведности⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T09:30:48.701198920Z",
+  "model": "glm-4.5"
+}

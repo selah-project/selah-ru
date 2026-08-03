@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 48,
+  "ref": "deuteronomy 32:48",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "И сказал ЯХВЕ Моше в сам этот ⟨тот⟩ день, говоря:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "в сам этот"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨тот⟩"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "день"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-02T22:23:14.549529549Z",
+  "model": "glm-4.5"
+}

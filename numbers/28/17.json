@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "numbers 28:17",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "И в пятнадцатый день ⟨этого⟩ месяца праздник; семь дней unleavened bread ⟨должен⟩ ⟨есть⟩ся",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "и в пятнадцатый"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "⟨этого⟩ месяца"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "חג",
+      "gloss": "праздник"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "семь"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дней"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "unleavened bread"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "⟨должен⟩ ⟨есть⟩ся"
+    }
+  ],
+  "timestamp": "2026-08-02T21:41:21.226430750Z",
+  "model": "glm-4.5"
+}

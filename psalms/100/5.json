@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 100,
+  "translation": "ибо хорош ЯХВЕ навек, хесед Его ⟨и⟩ до ⟨рода⟩ и ⟨рода⟩ верность Его",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "хорош"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навек"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хесед Его"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "⟨и⟩ до",
+      "marks": "до рода и рода"
+    },
+    {
+      "surface": "דר",
+      "gloss": "⟨рода⟩"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "⟨рода⟩"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "верность Его"
+    }
+  ],
+  "timestamp": "2026-08-03T08:29:14.154395999Z",
+  "model": "glm-4.5"
+}

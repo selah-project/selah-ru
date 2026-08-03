@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "isaiah 19:7",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Нагие ⟨участки⟩ у Яора, у устья Яора, и ⟨весь⟩ посев Яора — иссох, развеян и ⟨его⟩ нет.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "нагие ⟨участки⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "у"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "Яора"
+    },
+    {
+      "surface": "על",
+      "gloss": "у"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устья"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "Яора"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и ⟨весь⟩"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "посев"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "Яора"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "иссох"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "развеян"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "и ⟨его⟩ нет"
+    }
+  ],
+  "timestamp": "2026-08-03T02:01:57.688382768Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И всякое ⟨летающее⟩ роение, у которого ⟨есть⟩ четыре ноги, скверна ⟨эта⟩ вам",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "И всякое"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "роение"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "⟨летающее⟩",
+      "marks": "роение"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "לו",
+      "gloss": "у которого"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четыре"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "ноги"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "скверна"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨эта⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    }
+  ],
+  "timestamp": "2026-08-02T20:50:00.135146934Z",
+  "model": "glm-4.5"
+}

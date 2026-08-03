@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "jeremiah 19:12",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Так Я сделаю с ⟨этим⟩ местом, — изречение ЯХВЕ, — и с живущими в нём, putting ⟨את⟩ город ⟨этот⟩ как Тофет",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Так"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "Я сделаю"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "с ⟨этим⟩ местом"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨этим⟩"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изречение"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "וליושביו",
+      "gloss": "и с живущими в нём"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "putting"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "город ⟨этот⟩"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "город"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "⟨этот⟩"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "как Тофет"
+    }
+  ],
+  "timestamp": "2026-08-03T03:21:42.095319431Z",
+  "model": "glm-4.5"
+}

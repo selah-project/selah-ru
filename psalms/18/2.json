@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И сказал: возлюблю Тебя, ЯХВЕ, ⟨моё⟩ крепость!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "возлюблю Тебя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "⟨моё⟩ крепость"
+    }
+  ],
+  "timestamp": "2026-08-03T06:49:18.268768988Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "и ⟨с⟩ вершины гор древности и ⟨с⟩ плода холмов вечности",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "и ⟨с⟩ вершины"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "гор"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "древности"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "и ⟨с⟩ плода"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "холмов"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечности"
+    }
+  ],
+  "timestamp": "2026-08-02T22:23:56.889628427Z",
+  "model": "glm-4.5"
+}

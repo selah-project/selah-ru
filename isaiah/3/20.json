@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "isaiah 3:20",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "наперсники и ankle chains и поясные перевязи и дома души и амулеты",
+  "tokens": [
+    {
+      "surface": "הפארים",
+      "gloss": "наперсники"
+    },
+    {
+      "surface": "והצעדות",
+      "gloss": "и ankle chains"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "и поясные перевязи"
+    },
+    {
+      "surface": "ובתי",
+      "gloss": "дома"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "души"
+    },
+    {
+      "surface": "והלחשים",
+      "gloss": "и амулеты"
+    }
+  ],
+  "timestamp": "2026-08-03T01:43:32.002088977Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Разве не ⟨есть⟩ тьма день ЯХВЕ, а не ⟨есть⟩ свет, и мрак, и нет ⟨в⟩ нём сияния?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Разве не"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "тьма"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "אור",
+      "gloss": "свет"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "и мрак"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нет"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "сияния"
+    },
+    {
+      "surface": "לו",
+      "gloss": "в нём"
+    }
+  ],
+  "timestamp": "2026-08-03T05:39:16.993426931Z",
+  "model": "glm-4.5"
+}

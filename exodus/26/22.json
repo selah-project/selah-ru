@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "exodus 26:22",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "И к задней ⟨части⟩ Мишкана, к ⟨морю⟩, сделаешь шесть брусьев",
+  "tokens": [
+    {
+      "surface": "ולירכתי",
+      "gloss": "И к задней"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Мишкана"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "к ⟨морю⟩"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "сделаешь"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "шесть"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "брусьев"
+    }
+  ],
+  "timestamp": "2026-08-02T20:20:34.165766122Z",
+  "model": "glm-4.5"
+}

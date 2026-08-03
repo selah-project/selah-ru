@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "ибо Йовель, он — святость для вас; ⟨с⟩ поля съедите ⟨את⟩ её приношение",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Йовель"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "святость"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "будет"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "для вас"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "поля"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "съедите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "её приношение"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "её приношение"
+    }
+  ],
+  "timestamp": "2026-08-02T21:05:34.873306267Z",
+  "model": "glm-4.5"
+}

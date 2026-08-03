@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "habakkuk 3:15",
+  "book": "habakkuk",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Ты стыл ⟨по⟩ морю ⟨с⟩ конями Твоими — ⟨в⟩ глине ⟨вод⟩ многих.",
+  "tokens": [
+    {
+      "surface": "דרכת",
+      "gloss": "Ты стыл"
+    },
+    {
+      "surface": "בים",
+      "gloss": "⟨по⟩ морю"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "⟨с⟩ конями Твоими"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "⟨в⟩ глине"
+    },
+    {
+      "surface": "מים",
+      "gloss": "⟨вод⟩"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многих"
+    }
+  ],
+  "timestamp": "2026-08-03T06:00:14.096885647Z",
+  "model": "glm-4.5"
+}

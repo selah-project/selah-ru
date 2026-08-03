@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "2-chronicles 18:22",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "А теперь, вот: ЯХВЕ вложил ⟨⟩ дух лжи в уста этих твоих пророков, и ЯХВЕ изрёк зло против тебя.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "А теперь"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "вложил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дух"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лжи"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "в уста"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "этих твоих пророков"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "этих"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "и ЯХВЕ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "изрёк"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "против тебя"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-08-03T13:48:19.127842242Z",
+  "model": "glm-4.5"
+}

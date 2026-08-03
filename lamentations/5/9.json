@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "С ⟨нефеш⟩ нашею добываем хлеб ⟨наш⟩, от ⟨лица⟩ меча ⟨в⟩ пустыне",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "с ⟨нефеш⟩ нашею"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "добываем"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "хлеб ⟨наш⟩"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "от ⟨лица⟩"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меча"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "⟨в⟩ пустыне"
+    }
+  ],
+  "timestamp": "2026-08-03T11:14:42.916850356Z",
+  "model": "glm-4.5"
+}

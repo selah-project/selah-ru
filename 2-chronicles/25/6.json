@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "2-chronicles 25:6",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "И нанял он из Израиля сто тысяч воинов могучих ⟨за⟩ сто киккарей серебра",
+  "tokens": [
+    {
+      "surface": "וישכר",
+      "gloss": "И нанял он"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "из Израиля"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тысяч"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "воинов могучих"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "сила"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "⟨за⟩ сто"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "киккарей"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "серебра"
+    }
+  ],
+  "timestamp": "2026-08-03T13:58:38.972533724Z",
+  "model": "glm-4.5"
+}

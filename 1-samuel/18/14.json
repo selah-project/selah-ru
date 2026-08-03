@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "1-samuel 18:14",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И Давид был prudent ⟨во всех⟩ путях ⟨своими⟩, и ЯХВЕ ⟨был⟩ с ним.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И был"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "⟨во всех⟩"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "путях ⟨своими⟩"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "prudent"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "и ЯХВЕ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨был⟩ с ним"
+    }
+  ],
+  "timestamp": "2026-08-02T23:34:02.377733333Z",
+  "model": "glm-4.5"
+}

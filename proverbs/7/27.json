@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Пути Шеола — ⟨её⟩ дом, сходящие к покоям смерти",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "Пути"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеола"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "⟨её⟩ дом",
+      "marks": "дом"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "сходящие"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "покоям"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смерти"
+    }
+  ],
+  "timestamp": "2026-08-03T09:29:17.941434365Z",
+  "model": "glm-4.5"
+}

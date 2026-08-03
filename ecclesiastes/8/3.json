@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Не спеши уходить от ⟨его⟩ лица, не стой ⟨в⟩ злом ⟨деле⟩, ибо всё, чего пожелает, ⟨он⟩ сделает",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "спеши"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "уходить от ⟨его⟩ лица"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "уходить"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "стой"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "⟨в⟩"
+    },
+    {
+      "surface": "רע",
+      "gloss": "злом ⟨деле⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "чего"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "пожелает"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "⟨он⟩ сделает"
+    }
+  ],
+  "timestamp": "2026-08-03T11:22:42.678191063Z",
+  "model": "glm-4.5"
+}

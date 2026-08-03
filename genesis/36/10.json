@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "Вот имена сыновей Эсава: Элифаз, сын Ады, жены Эсава, Рагуил, сын Басматы, жены Эсава",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "имена"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсава"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Элифаз"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ады"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жены"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсава"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Рагуил"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Басматы"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жены"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсава"
+    }
+  ],
+  "timestamp": "2026-08-02T19:38:13.603850266Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 49,
+  "translation": "Начальнику хоров. Сыновьям Кóраха. Псалом.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Начальнику хоров"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Сыновьям"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Кóраха"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Псалом"
+    }
+  ],
+  "timestamp": "2026-08-03T07:27:04.705675919Z",
+  "model": "glm-4.5"
+}

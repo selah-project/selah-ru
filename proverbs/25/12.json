@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "proverbs 25:12",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "Золотое кольцо и украшение из чистого золота — мудрый обличитель на слушающем ухе",
+  "tokens": [
+    {
+      "surface": "נזם",
+      "gloss": "кольцо"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золота"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "и украшение"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "чистого"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "обличитель"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудрый"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ухо"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "слушающем"
+    }
+  ],
+  "timestamp": "2026-08-03T10:00:33.414781191Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Благословен ЯХВЕ, ибо ⟨Он⟩ услышал голос ⟨моих⟩ молений",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Благословен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "услышал"
+    },
+    {
+      "surface": "קול",
+      "gloss": "голос"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "⟨моих⟩ молений"
+    }
+  ],
+  "timestamp": "2026-08-03T07:04:24.699323616Z",
+  "model": "glm-4.5"
+}

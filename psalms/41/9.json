@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 41,
+  "translation": "Дело Белиала ⟨את⟩ излито на него, и тот, кто лежит, не встанет ⟨более⟩.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Дело"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Белиала"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "излито"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨את⟩",
+      "marks": "на него"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "и"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "лежит"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "встанет"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "⟨более⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T07:20:05.460828045Z",
+  "model": "glm-4.5"
+}

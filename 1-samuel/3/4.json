@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "и позвал ЯХВЕ Шемуэля ⟨и⟩ он сказал: вот я",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "и позвал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэлю"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "⟨и⟩ он сказал"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "вот я"
+    }
+  ],
+  "timestamp": "2026-08-02T23:15:40.711836880Z",
+  "model": "glm-4.5"
+}

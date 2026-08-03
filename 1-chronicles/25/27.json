@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "1-chronicles 25:27",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "двадцатый — Элиата, его сыновья и его братья — двенадцать;",
+  "tokens": [
+    {
+      "surface": "לעשרים",
+      "gloss": "двадцатый"
+    },
+    {
+      "surface": "לאליתה",
+      "gloss": "Элиата"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "его сыновья"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "и его братья"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "двенадцать"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "[десять]"
+    }
+  ],
+  "timestamp": "2026-08-03T13:12:38.720052727Z",
+  "model": "glm-4.5"
+}

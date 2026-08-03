@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "leviticus 19:24",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "а в четвёртом году ⟨всё⟩ ⟨את⟩ плод его будет святыней, восхвалением ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "а в"
+    },
+    {
+      "surface": "הרביעת",
+      "gloss": "четвёртом"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "год"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "плод его ⟨את⟩",
+      "marks": "плод его"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "будет святыней"
+    },
+    {
+      "surface": "הלולים",
+      "gloss": "восхвалением"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T20:59:44.304532327Z",
+  "model": "glm-4.5"
+}

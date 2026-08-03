@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "proverbs 30:24",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Четыре суть малые ⟨даже⟩ земли, и они — премудры, превыше мудрых:",
+  "tokens": [
+    {
+      "surface": "ארבעה",
+      "gloss": "Четыре"
+    },
+    {
+      "surface": "הם",
+      "gloss": "суть"
+    },
+    {
+      "surface": "קטני",
+      "gloss": "малые ⟨даже⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земли"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "и они"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "премудры"
+    },
+    {
+      "surface": "מחכמים",
+      "gloss": "превыше мудрых"
+    }
+  ],
+  "timestamp": "2026-08-03T10:07:30.106390204Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,26 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "exodus 28:13",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "и ⟨ты⟩ сделаешь ⟨из⟩ узорнойsettings ⟨את⟩ золото",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "и ⟨ты⟩ сделаешь"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "⟨из⟩ узорнойsettings"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "⟨את⟩ золото",
+      "marks": "золото"
+    }
+  ],
+  "timestamp": "2026-08-02T20:22:25.300513260Z",
+  "model": "glm-4.5"
+}

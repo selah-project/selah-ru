@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 124,
+  "translation": "Благословен ЯХВЕ, Который не дал нас в добычу зубам их",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Благословен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "Который не"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "дал нас"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "в добычу"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "зубам их"
+    }
+  ],
+  "timestamp": "2026-08-03T08:58:27.343434006Z",
+  "model": "glm-4.5"
+}

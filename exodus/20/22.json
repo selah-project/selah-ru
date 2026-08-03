@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "exodus 20:22",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И сказал ЯХВЕ Моше: так скажи сынам Израиля: вы видели, что с небес Я говорил с вами",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "скажи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынам"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вы"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "видели"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "מן",
+      "gloss": "с"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "говорил"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "с вами"
+    }
+  ],
+  "timestamp": "2026-08-02T20:14:28.494461541Z",
+  "model": "glm-4.5"
+}

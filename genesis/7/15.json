@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "genesis 7:15",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И вошли к Ноаху в ковчег, двое двое ⟨от⟩ всякой плоти, в которой ⟨есть⟩ дух жизни",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "И вошли"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноаху"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "двое"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "двое"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "⟨от⟩ всякой"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "плоти"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "в которой"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨есть⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дух"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "жизни"
+    }
+  ],
+  "timestamp": "2026-08-02T17:51:02.439255429Z",
+  "model": "glm-4.5"
+}

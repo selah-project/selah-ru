@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "1-kings 16:30",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "И сделал Ахав, сын Амрия, ⟨the⟩ злое в глазах ЯХВЕ более, чем всё, что ⟨было⟩ перед ним",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И сделал"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Амрия"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "⟨the⟩ злое"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в глазах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "более, чем"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "⟨было⟩ перед ним"
+    }
+  ],
+  "timestamp": "2026-08-03T00:51:28.426055175Z",
+  "model": "glm-4.5"
+}

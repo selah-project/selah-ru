@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "genesis 26:2",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "И явился к нему ЯХВЕ и сказал: не сходи в Мицраим, живи в земле, ⟨о которой⟩ Я скажу тебе:",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "и явился"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "к нему"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "сходи"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "в Мицраим"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "живи"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земле"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "о которой"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Я скажу"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "тебе"
+    }
+  ],
+  "timestamp": "2026-08-02T19:25:13.086904739Z",
+  "model": "glm-4.5"
+}

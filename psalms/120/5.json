@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 120,
+  "translation": "Горе мне, что ⟨я⟩ пребываю в Мешехе, ⟨я⟩ живу в шатрах Кедара",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Горе мне"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "пребываю"
+    },
+    {
+      "surface": "משך",
+      "gloss": "в Мешехе"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "живу"
+    },
+    {
+      "surface": "עם",
+      "gloss": "в"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "шатрах"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Кедара"
+    }
+  ],
+  "timestamp": "2026-08-03T08:56:16.266042370Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Ибо ⟨мои⟩ уста изрекут истину, а мерзость для ⟨моих⟩ уст — зло.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "истину"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "изрекут"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "уста"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "а мерзость"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "для ⟨моих⟩ уст"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-08-03T09:29:47.057080239Z",
+  "model": "glm-4.5"
+}

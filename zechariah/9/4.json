@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "zechariah 9:4",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Вот, Адонай лишит её ⟨имущества⟩ и поразит в море её силу, и она ⟨будет⟩ съедена огнём.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Вот"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יורשנה",
+      "gloss": "лишит её ⟨имущества⟩"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "и поразит"
+    },
+    {
+      "surface": "בים",
+      "gloss": "в море"
+    },
+    {
+      "surface": "חילה",
+      "gloss": "её силу"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "и она"
+    },
+    {
+      "surface": "באש",
+      "gloss": "огнём"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "съедена"
+    }
+  ],
+  "timestamp": "2026-08-03T06:15:49.989632365Z",
+  "model": "glm-4.5"
+}

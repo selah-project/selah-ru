@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "numbers 2:22",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "и колено Биньямина, и князь сынов Бинямина — Авидан, сын Гидеони.",
+  "tokens": [
+    {
+      "surface": "ומטה",
+      "gloss": "и колено"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Биньямина"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "и князь"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Бинямина"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "Авидан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "Гидеони"
+    }
+  ],
+  "timestamp": "2026-08-02T21:11:24.373217569Z",
+  "model": "glm-4.5"
+}

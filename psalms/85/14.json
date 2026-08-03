@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 85,
+  "translation": "Праведность ⟨пред⟩ Ним пойдёт и сделает ⟨на⟩ путь шаги Его",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Праведность"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "⟨пред⟩ Ним"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "пойдёт"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "и сделает"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "⟨на⟩ путь"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "шаги Его"
+    }
+  ],
+  "timestamp": "2026-08-03T08:10:50.090237480Z",
+  "model": "glm-4.5"
+}

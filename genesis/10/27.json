@@ -1,0 +1,40 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "и ⟨את⟩ Хадорама, и ⟨את⟩ Узала, и ⟨את⟩ Диклу",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Хадорама"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Хадорама"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Узала"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Узала"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Диклу"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Диклу"
+    }
+  ],
+  "timestamp": "2026-08-02T17:53:56.618600187Z",
+  "model": "glm-4.5"
+}

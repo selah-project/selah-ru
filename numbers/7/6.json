@@ -1,0 +1,56 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И взял Моше ⟨את⟩ телеги и ⟨את⟩ волов и отдал ⟨את⟩ их левитам",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "и взял"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨את⟩ телеги"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "телеги"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "и ⟨את⟩ волов"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "волов"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и отдал"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ их",
+      "marks": "⟨את⟩ их"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левитам"
+    }
+  ],
+  "timestamp": "2026-08-02T21:17:45.739994424Z",
+  "model": "glm-4.5"
+}

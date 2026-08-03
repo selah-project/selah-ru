@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И сказал Элохим Аврааму: Сару, жену твою, не называй ⟨את⟩ имя её Сараи, ибо Сара — имя её.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврааму"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Сару"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "жену твою"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "называй"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "имя её"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "имя её"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Сараи"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сара"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "имя её"
+    }
+  ],
+  "timestamp": "2026-08-02T19:14:09.780512277Z",
+  "model": "glm-4.5"
+}

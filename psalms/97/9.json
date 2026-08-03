@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 97,
+  "translation": "ибо Ты — ЯХВЕ, Эльон, над всей землёй; очень возвышен Ты над всеми элохим.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Эльон"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всей"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землёй"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "очень"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "возвышен"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всеми"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "элохим"
+    }
+  ],
+  "timestamp": "2026-08-03T08:27:33.190484139Z",
+  "model": "glm-4.5"
+}

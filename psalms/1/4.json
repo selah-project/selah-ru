@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Не так ⟨выглядят⟩ нечестивые, ⟨но⟩ как мякина, которую ⟨сметает⟩ руах.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "нечестивые"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨но⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "как"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "мякина"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которую"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "⟨сметает⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    }
+  ],
+  "timestamp": "2026-08-03T06:26:34.125059250Z",
+  "model": "glm-4.5"
+}

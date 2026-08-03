@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "zechariah 3:3",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И Иегошуа ⟨был⟩ одет в грязные одежды и стоял пред ангелом",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "И Иегошуа"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨был⟩"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "одет"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "в одежды"
+    },
+    {
+      "surface": "צואים",
+      "gloss": "грязные"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "и стоял"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ангелом"
+    }
+  ],
+  "timestamp": "2026-08-03T06:10:41.477574712Z",
+  "model": "glm-4.5"
+}

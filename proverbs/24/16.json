@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "proverbs 24:16",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Ибо семь раз падёт праведник и встанет, а нечестивые споткнутся ⟨в⟩ беде",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семь"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "падёт"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведник"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "и встанет"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "а нечестивые"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "споткнутся"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "⟨в⟩ беде"
+    }
+  ],
+  "timestamp": "2026-08-03T18:27:32.674265430Z",
+  "model": "glm-4.5"
+}

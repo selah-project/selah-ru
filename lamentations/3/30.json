@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Он даст ⟨свою⟩ щеку бьющему его; насытится ⟨от⟩ позора.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "даст"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "бьющему его"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "⟨свою⟩ щеку"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "насытится"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "⟨от⟩ позора"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:44.779189056Z",
+  "model": "glm-4.5"
+}

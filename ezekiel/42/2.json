@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 42,
+  "translation": "к длине ⟨в⟩ сто локтей, ⟨отверстие⟩ севера, а ширина — пятьдесят локтей",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "פני",
+      "gloss": "длине"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "длина"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "локтей"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "⟨в⟩ сто"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "⟨отверстие⟩"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "севера"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "а ширина"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "пятьдесят"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "локтей"
+    }
+  ],
+  "timestamp": "2026-08-03T05:09:59.394208481Z",
+  "model": "glm-4.5"
+}

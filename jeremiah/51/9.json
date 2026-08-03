@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "jeremiah 51:9",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 51,
+  "translation": "Мы исцелили ⟨את⟩ Вавилон, но он не исцелился; оставьте его, и пойдём, каждый ⟨в⟩ свою землю, ибо judgement дошёл до небес и поднялся до облаков.",
+  "tokens": [
+    {
+      "surface": "רפאנו",
+      "gloss": "мы исцелили"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Вавилон"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилон"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но"
+    },
+    {
+      "surface": "נרפתה",
+      "gloss": "он не исцелился"
+    },
+    {
+      "surface": "עזבוה",
+      "gloss": "оставьте его"
+    },
+    {
+      "surface": "ונלך",
+      "gloss": "и пойдём"
+    },
+    {
+      "surface": "איש",
+      "gloss": "каждый"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "⟨в⟩ свою землю"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "дошёл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "משפטה",
+      "gloss": "judgement"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "и поднялся"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "облаков"
+    }
+  ],
+  "timestamp": "2026-08-03T04:12:46.470766739Z",
+  "model": "glm-4.5"
+}

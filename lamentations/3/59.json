@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Ты ⟨увидел⟩, ЯХВЕ, ⟨моё⟩ угнетение, рассуди ⟨мой⟩ суд.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Ты ⟨увидел⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עותתי",
+      "gloss": "⟨моё⟩ угнетение"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "рассуди"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "⟨мой⟩ суд"
+    }
+  ],
+  "timestamp": "2026-08-03T11:12:53.436567352Z",
+  "model": "glm-4.5"
+}

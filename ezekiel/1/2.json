@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "ezekiel 1:2",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Пятого ⟨дня⟩ месяца, ⟨это⟩ пятый год изгнания царя Йехояхина:",
+  "tokens": [
+    {
+      "surface": "בחמשה",
+      "gloss": "Пятого"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "месяца"
+    },
+    {
+      "surface": "היא",
+      "gloss": "это"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "пятый год"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "пятый"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "изгнания"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "יויכין",
+      "gloss": "Йехояхина"
+    }
+  ],
+  "timestamp": "2026-08-03T04:16:34.785495251Z",
+  "model": "glm-4.5"
+}

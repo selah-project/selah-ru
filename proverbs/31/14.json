@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "proverbs 31:14",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "Она — как торговые корабли: издалека ⟨они⟩ приносят ⟨ее⟩ хлеб.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "Она —"
+    },
+    {
+      "surface": "כאניות",
+      "gloss": "как корабли"
+    },
+    {
+      "surface": "סוחר",
+      "gloss": "торговые"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "издалека"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "приносят"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "⟨ее⟩ хлеб"
+    }
+  ],
+  "timestamp": "2026-08-03T10:08:28.693989127Z",
+  "model": "glm-4.5"
+}

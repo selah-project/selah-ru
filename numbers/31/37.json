@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "numbers 31:37",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "И было ⟨эта⟩ дань ⟨для⟩ ЯХВЕ из ⟨стада⟩ ⟨это⟩ шестьсот ⟨и⟩ семьдесят ⟨и⟩ пять",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "המכס",
+      "gloss": "⟨эта⟩ дань"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨для⟩ ЯХВЕ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "⟨стада⟩"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шестьсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "⟨и⟩"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "семьдесят"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "⟨и⟩ пять"
+    }
+  ],
+  "timestamp": "2026-08-02T21:44:46.559439673Z",
+  "model": "glm-4.5"
+}

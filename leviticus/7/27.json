@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Всякая нефеш, которая съест любую кровь, истребится та нефеш от ⟨ее⟩ народа",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Всякая"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нефеш"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которая"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "съест"
+    },
+    {
+      "surface": "כל",
+      "gloss": "любую"
+    },
+    {
+      "surface": "דם",
+      "gloss": "кровь"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "истребится"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "та нефеш"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨та⟩"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "от ⟨ее⟩ народа"
+    }
+  ],
+  "timestamp": "2026-08-02T20:46:38.958149484Z",
+  "model": "glm-4.5"
+}

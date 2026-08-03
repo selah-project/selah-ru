@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И Сегуб породил ⟨את⟩ Яира, и было у него двадцать три города в стране Гилеада",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "И Сегуб"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яира"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Яира"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и было"
+    },
+    {
+      "surface": "לו",
+      "gloss": "у него"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцать"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "три"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "города"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в стране"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Гилеада"
+    }
+  ],
+  "timestamp": "2026-08-03T12:37:22.231345865Z",
+  "model": "glm-4.5"
+}

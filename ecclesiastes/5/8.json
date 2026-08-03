@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "и преимущество земли во всем: царь для поля ⟨есть⟩ раб",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "и преимущество"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земли"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "во всем"
+    },
+    {
+      "surface": "היא",
+      "gloss": "оно"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "для поля"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "раб"
+    }
+  ],
+  "timestamp": "2026-08-03T11:19:50.613900941Z",
+  "model": "glm-4.5"
+}

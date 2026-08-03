@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "numbers 33:13",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "И выступили из Дофки, и ⟨они⟩ разбили стан в Алуше.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И выступили"
+    },
+    {
+      "surface": "מדפקה",
+      "gloss": "из Дофки"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и разбили стан"
+    },
+    {
+      "surface": "באלוש",
+      "gloss": "в Алуше"
+    }
+  ],
+  "timestamp": "2026-08-02T21:46:59.720768014Z",
+  "model": "glm-4.5"
+}

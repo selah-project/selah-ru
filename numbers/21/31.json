@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "numbers 21:31",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И ⟨так⟩ поселился Исраэль в земле ⟨ירדן⟩ Эмори.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "и ⟨так⟩ поселился"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраэль"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земле"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Эмори"
+    }
+  ],
+  "timestamp": "2026-08-02T21:33:58.059506470Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Бог ли Я ⟨близко⟩, — заявление ЯХВЕ, — а не Бог ⟨издалека⟩?",
+  "tokens": [
+    {
+      "surface": "האלהי",
+      "gloss": "Бог ли Я"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "близко"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨я⟩"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "заявление"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Бог"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "издалека"
+    }
+  ],
+  "timestamp": "2026-08-03T03:28:06.258539535Z",
+  "model": "glm-4.5"
+}

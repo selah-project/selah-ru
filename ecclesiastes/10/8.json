@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Роющий ⟨את⟩ яму упадёт в ⟨את⟩ неё, и прорывающий ограду, его ужалит змей",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "роющий"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "яму"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "яму"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "упадёт"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "неё"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "прорывающий"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "ограду"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "его ужалит"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "змей"
+    }
+  ],
+  "timestamp": "2026-08-03T11:24:24.824318529Z",
+  "model": "glm-4.5"
+}

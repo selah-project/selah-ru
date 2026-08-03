@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И убоялся Давид ЯХВЕ в тот день и сказал: как придёт ⟨את⟩ ковчег ЯХВЕ ко мне?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "и убоялся"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ковчег ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в тот"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "день"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "איך",
+      "gloss": "как"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "придёт"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ко мне"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T23:53:30.917254555Z",
+  "model": "glm-4.5"
+}

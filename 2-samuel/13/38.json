@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "2-samuel 13:38",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И Авшалом бежал и пошёл в Гешур, и был он там три года",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "И Авшалом"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "бежал"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и пошёл"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "в Гешур"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и был"
+    },
+    {
+      "surface": "שם",
+      "gloss": "он там"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "года"
+    }
+  ],
+  "timestamp": "2026-08-03T00:00:51.359669267Z",
+  "model": "glm-4.5"
+}

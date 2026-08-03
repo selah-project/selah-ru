@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "genesis 24:36",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "И родила Сара, жена господина моего, сына господину моему после старости её, и дал он ему ⟨את⟩ всё, что у него",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "и родила"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сара"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жена"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "господина"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "господину"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "после"
+    },
+    {
+      "surface": "זקנתה",
+      "gloss": "старости"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и дал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всё"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "לו",
+      "gloss": "у него"
+    }
+  ],
+  "timestamp": "2026-08-02T19:22:50.793763984Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "Ибо в Нём ликует сердце наше, ибо в Имени святом Его мы уповали",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в Нём"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ликует"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "сердце наше"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "в Имени"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "святом Его"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "мы уповали"
+    }
+  ],
+  "timestamp": "2026-08-03T07:09:05.703828724Z",
+  "model": "glm-4.5"
+}

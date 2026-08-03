@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "leviticus 25:32",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "А города левитов, дома городов их владения, ⟨это⟩ выкуп вечный для левитов",
+  "tokens": [
+    {
+      "surface": "וערי",
+      "gloss": "А города"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левитов"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "дома"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "городов"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "их владения"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "выкуп"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечный"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨это⟩"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "для левитов"
+    }
+  ],
+  "timestamp": "2026-08-02T21:05:56.817841060Z",
+  "model": "glm-4.5"
+}

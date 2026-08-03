@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "numbers 6:24",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "да благословит тебя ЯХВЕ и да ⟨будет⟩ хранить тебя",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "да благословит тебя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "וישמרך",
+      "gloss": "и да ⟨будет⟩ хранить тебя"
+    }
+  ],
+  "timestamp": "2026-08-02T21:17:28.324574759Z",
+  "model": "glm-4.5"
+}

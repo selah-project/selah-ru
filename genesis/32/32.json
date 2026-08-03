@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "И взошло ⟨ему⟩ солнце, когда он перешёл ⟨את⟩ Пнуэль, а он хромал на бедро своё",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "И взошло"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ему⟩"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "солнце"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "когда"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "перешёл"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Пнуэль"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Пнуэль"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а он"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "хромал"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "бедро своё"
+    }
+  ],
+  "timestamp": "2026-08-02T19:34:36.662484428Z",
+  "model": "glm-4.5"
+}

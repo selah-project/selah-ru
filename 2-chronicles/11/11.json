@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "и укрепил ⟨את⟩ крепости, и поставил в них правителей, и запасы еды, и масла, и вина",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "и укрепил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "крепости"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "крепости"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и поставил"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "в них"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "правителей"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "и запасы"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "еды"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "и масла"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "и вина"
+    }
+  ],
+  "timestamp": "2026-08-03T13:36:23.523868326Z",
+  "model": "glm-4.5"
+}

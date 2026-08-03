@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "deuteronomy 16:22",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "и не поставишь ты себе מַצֵּבָה ⟨которую⟩ ненавидит ЯХВЕ Элогеха",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "поставишь"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "מַצֵּבָה"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨которую⟩"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ненавидит"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элогеха"
+    }
+  ],
+  "timestamp": "2026-08-02T22:07:36.582352366Z",
+  "model": "glm-4.5"
+}

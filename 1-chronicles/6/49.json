@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 49,
+  "ref": "1-chronicles 6:49",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И дали сыны Израиля левитам ⟨את⟩ города и ⟨את⟩ их пастбища",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "и дали"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "левитам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "города"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "города"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "их пастбища"
+    },
+    {
+      "surface": "מגרשיהם",
+      "gloss": "их пастбища"
+    }
+  ],
+  "timestamp": "2026-08-03T12:45:07.917132099Z",
+  "model": "glm-4.5"
+}

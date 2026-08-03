@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Доверьтесь ЯХВЕ навечно, ибо в Йа, ЯХВЕ — скала вечностей",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "доверьтесь"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "навечно"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨вечность⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "в Йа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "скала"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "вечностей"
+    }
+  ],
+  "timestamp": "2026-08-03T18:39:55.169264008Z",
+  "model": "glm-4.5"
+}

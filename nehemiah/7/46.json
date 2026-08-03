@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 46,
+  "ref": "nehemiah 7:46",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Нетиним: сыновья Цихи, сыновья Хасуфы, сыновья Таббаофа",
+  "tokens": [
+    {
+      "surface": "הנתינים",
+      "gloss": "Нетиним"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "צחא",
+      "gloss": "Цихи"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "חשפא",
+      "gloss": "Хасуфы"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "Таббаофа"
+    }
+  ],
+  "timestamp": "2026-08-03T12:23:07.372313727Z",
+  "model": "glm-4.5"
+}

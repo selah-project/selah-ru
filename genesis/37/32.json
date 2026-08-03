@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "genesis 37:32",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "И послали ⟨את⟩ tunika passim, и привели ⟨её⟩ к отцу их, и сказали: это нашли мы, узнай, пожалуйста, tunika сына твоего ⟨она⟩ или нет",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "послали"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tunika passim"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "tunika passim"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "passim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "и привели"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "отцу их"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и сказали"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "это"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "нашли мы"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "узнай"
+    },
+    {
+      "surface": "נא",
+      "gloss": "пожалуйста"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "tunika"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "сына твоего"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨она⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "или"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нет"
+    }
+  ],
+  "timestamp": "2026-08-02T19:40:20.599372579Z",
+  "model": "glm-4.5"
+}

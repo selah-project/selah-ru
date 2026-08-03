@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 42,
+  "translation": "И узнал Иосиф ⟨את⟩ братьев своих, а они не узнали его.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "и узнал"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Иосиф"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "братьев своих"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "братьев своих"
+    },
+    {
+      "surface": "והם",
+      "gloss": "а они"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "узнали его"
+    }
+  ],
+  "timestamp": "2026-08-02T19:45:58.578514209Z",
+  "model": "glm-4.5"
+}

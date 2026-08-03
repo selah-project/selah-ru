@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Возьми ⟨את⟩ левитов из среды сынов Израиля и очисти ⟨את⟩ их",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "возьми"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "левитов"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левитов"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "из среды"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "и очисти"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "их"
+    }
+  ],
+  "timestamp": "2026-08-02T21:20:10.055227966Z",
+  "model": "glm-4.5"
+}

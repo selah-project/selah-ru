@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И поставил Авраам ⟨את⟩ семь овецок стада отдельно",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "и поставил"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "семь овецок"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семь"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "овецок"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "стада"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "отдельно"
+    }
+  ],
+  "timestamp": "2026-08-02T19:18:37.146762159Z",
+  "model": "glm-4.5"
+}

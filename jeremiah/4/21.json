@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Доколе я буду видеть знамя, ⟨и⟩ слышать голос шофара?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "доколе"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "⟨я буду⟩"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "видеть"
+    },
+    {
+      "surface": "נס",
+      "gloss": "знамя"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "⟨и⟩ слышать"
+    },
+    {
+      "surface": "קול",
+      "gloss": "голос"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "шофара"
+    }
+  ],
+  "timestamp": "2026-08-03T03:02:04.443857402Z",
+  "model": "glm-4.5"
+}

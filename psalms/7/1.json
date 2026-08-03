@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Шигайон Давида, который ⟨он⟩ воспел ЯХВЕ о словах Куша, сына Вениамина.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Шигайон"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "שר",
+      "gloss": "⟨он⟩ воспел"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "о"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "словах"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куша"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Вениамина"
+    }
+  ],
+  "timestamp": "2026-08-03T06:37:11.920800431Z",
+  "model": "glm-4.5"
+}

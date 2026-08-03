@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "Зло ⟨преследует⟩ грешников, а праведным ⟨את⟩ воздаст добром.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "грешников"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "преследует"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Зло"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "праведным"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведным"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "воздаст"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добром"
+    }
+  ],
+  "timestamp": "2026-08-03T09:36:39.301192066Z",
+  "model": "glm-4.5"
+}

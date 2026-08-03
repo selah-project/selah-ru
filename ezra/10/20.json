@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "ezra 10:20",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И из сыновей Иммера: Ханани и Завадия.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "И из сыновей"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Иммера"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Ханани"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "и Завадия"
+    }
+  ],
+  "timestamp": "2026-08-03T12:10:24.734691479Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Только в земле Гошен, где ⟨были⟩ сыны Исраэля, не было града",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Только"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земле"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Гошен"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "где"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨были⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраэля"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "было"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "града"
+    }
+  ],
+  "timestamp": "2026-08-02T20:03:55.495134389Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "numbers 10:20",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И над войском колена сынов Гада — Эльясаф, сын Реуэля.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "И над"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "войском"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "колена"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гада"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Эльясаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Реуэля"
+    }
+  ],
+  "timestamp": "2026-08-02T21:21:45.817553661Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И к жене ближнего твоего не давай ⟨своего⟩ излияния ⟨семени⟩ — для нечистоты с нею.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "и к"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жене"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "ближнего твоего"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "давай"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "⟨своего⟩ излияния ⟨семени⟩"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": ""
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "для нечистоты"
+    },
+    {
+      "surface": "בה",
+      "gloss": "с нею"
+    }
+  ],
+  "timestamp": "2026-08-02T20:58:50.687003574Z",
+  "model": "glm-4.5"
+}

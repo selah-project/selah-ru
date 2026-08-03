@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Праведен Ты, ЯХВЕ, и прямы ⟨Твои⟩ суды",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Праведен"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "и прямы"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "⟨Твои⟩ суды"
+    }
+  ],
+  "timestamp": "2026-08-03T08:54:32.349482839Z",
+  "model": "glm-4.5"
+}

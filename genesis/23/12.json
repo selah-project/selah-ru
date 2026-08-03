@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "И поклонился Авраам перед народом ⟨этой⟩ земли",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "ипоклонился"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народом"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨этой⟩ земли"
+    }
+  ],
+  "timestamp": "2026-08-02T19:20:29.617530407Z",
+  "model": "glm-4.5"
+}

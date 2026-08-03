@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "ruth 3:9",
+  "book": "ruth",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И сказал: кто ты? ⟨את⟩? И сказала: я Рут, служанка твоя; и spreadest крыло твоё на служанку твою, ибо ты гоэ́ль.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ты"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "и сказала"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Рут"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "служанка твоя"
+    },
+    {
+      "surface": "ופרשת",
+      "gloss": "и spreadest"
+    },
+    {
+      "surface": "כנפך",
+      "gloss": "крыло твоё"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "служанку твою"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "гоэ́ль"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    }
+  ],
+  "timestamp": "2026-08-03T11:02:50.105995372Z",
+  "model": "glm-4.5"
+}

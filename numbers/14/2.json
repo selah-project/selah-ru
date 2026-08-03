@@ -1,0 +1,97 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "numbers 14:2",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И возроптали все сыны Израиля на Моше и на Aharon, и сказала им вся община: о, если бы мы умерли в земле Мицраим, или в этой пустыне, о, если бы мы умерли!",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "И возроптали"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и сказала"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "כל",
+      "gloss": "вся"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "община"
+    },
+    {
+      "surface": "לו",
+      "gloss": "о, если бы"
+    },
+    {
+      "surface": "מתנו",
+      "gloss": "мы умерли"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земле"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "в пустыне"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "этой"
+    },
+    {
+      "surface": "לו",
+      "gloss": "о, если бы"
+    },
+    {
+      "surface": "מתנו",
+      "gloss": "мы умерли"
+    }
+  ],
+  "timestamp": "2026-08-02T21:26:26.674442368Z",
+  "model": "glm-4.5"
+}

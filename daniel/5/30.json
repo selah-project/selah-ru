@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "daniel 5:30",
+  "book": "daniel",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "В ту ночь убит Валтасар, царь халдеев,",
+  "tokens": [
+    {
+      "surface": "בה",
+      "gloss": "в ту"
+    },
+    {
+      "surface": "בליליא",
+      "gloss": "ночь"
+    },
+    {
+      "surface": "קטיל",
+      "gloss": "убит"
+    },
+    {
+      "surface": "בלאשצר",
+      "gloss": "Валтасар"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "царь"
+    },
+    {
+      "surface": "כשדיא",
+      "gloss": "халдеев"
+    }
+  ],
+  "timestamp": "2026-08-03T11:46:23.703110702Z",
+  "model": "glm-4.5"
+}

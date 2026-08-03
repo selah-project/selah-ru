@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "proverbs 12:19",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Губа истины утвердится навечно, но ⟨лишь⟩ на мгновение — язык лжи",
+  "tokens": [
+    {
+      "surface": "שפת",
+      "gloss": "Губа"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "истины"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "утвердится"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "навечно"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "но"
+    },
+    {
+      "surface": "ארגיעה",
+      "gloss": "⟨лишь⟩ на мгновение"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "язык"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лжи"
+    }
+  ],
+  "timestamp": "2026-08-03T09:35:18.289764360Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "В год Юбиля ⟨этого⟩ вернётесь, ⟨каждый⟩ человек ⟨к⟩ владению своему",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "В год"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "Юбиля"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "⟨этого⟩"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "вернётесь"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨каждый⟩ человек"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "владению своему"
+    }
+  ],
+  "timestamp": "2026-08-02T21:05:34.587103614Z",
+  "model": "glm-4.5"
+}

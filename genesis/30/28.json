@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "genesis 30:28",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "И сказал: назначь ⟨твою⟩ плату ⟨мне⟩, и ⟨я⟩ дам её.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "назначь"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "⟨твою⟩ плату"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨мне⟩"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "и ⟨я⟩ дам"
+    }
+  ],
+  "timestamp": "2026-08-02T19:31:26.098740599Z",
+  "model": "glm-4.5"
+}

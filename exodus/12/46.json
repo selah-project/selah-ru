@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "в одном доме ⟨он⟩ будет съеден; не вынесешь ⟨את⟩ ⟨мясо⟩ из дома наружу, и кости не сломаете в нём",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "в одном доме"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "будет съеден"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "вынесешь"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мясо"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "мясо"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "наружу"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "и кости"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "сломаете"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в нём"
+    }
+  ],
+  "timestamp": "2026-08-02T20:06:59.867640536Z",
+  "model": "glm-4.5"
+}

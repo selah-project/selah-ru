@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Ханан, сын Маахи, и Иошафат Митнит",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "Ханан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Маахи"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "и Иошафат"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "Митнит"
+    }
+  ],
+  "timestamp": "2026-08-03T12:54:21.612554011Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "proverbs 19:12",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Рев царя — как рёв молодого льва, а ⟨его⟩ благоволение — как роса на траве по ⟨его⟩ желанию.",
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "Рёв"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "молодого льва"
+    },
+    {
+      "surface": "זעף",
+      "gloss": "царя"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "—"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "а"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "траве"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "по ⟨его⟩ желанию"
+    }
+  ],
+  "timestamp": "2026-08-03T09:46:24.139696230Z",
+  "model": "glm-4.5"
+}

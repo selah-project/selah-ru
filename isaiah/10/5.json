@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "isaiah 10:5",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Горе Ашшуру, ⟨это⟩ жезл гнева моего, и посох в руке их — ярость моя.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Горе"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшуру"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "жезл"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "гнева моего"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "и посох"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨это⟩"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "в руке их"
+    },
+    {
+      "surface": "זעמי",
+      "gloss": "ярость моя"
+    }
+  ],
+  "timestamp": "2026-08-03T01:53:57.678753402Z",
+  "model": "glm-4.5"
+}

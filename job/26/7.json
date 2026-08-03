@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "job 26:7",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Простирает север ⟨над⟩ пустотой, вешает землю ⟨на⟩ ничто.",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "Простирает"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "север"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨над⟩"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "пустоту"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "вешает"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "בלי",
+      "gloss": ""
+    },
+    {
+      "surface": "מה",
+      "gloss": "ничто"
+    }
+  ],
+  "timestamp": "2026-08-03T18:29:55.208840267Z",
+  "model": "glm-4.5"
+}

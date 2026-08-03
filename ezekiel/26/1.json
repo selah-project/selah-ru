@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "ezekiel 26:1",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "И было в одиннадцатом году, в первый ⟨месяца⟩, было слово ЯХВЕ ко мне, говоря:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "в одиннадцатом"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "году"
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    },
+    {
+      "surface": "באחד",
+      "gloss": "в первый"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "⟨месяца⟩"
+    },
+    {
+      "surface": "היה",
+      "gloss": "было"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ко мне"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-03T04:48:50.427656920Z",
+  "model": "glm-4.5"
+}

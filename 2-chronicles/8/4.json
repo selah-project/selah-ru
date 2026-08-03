@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "и построил ⟨את⟩ Тадмор в пустыне и ⟨את⟩ все города запасов, которые построил в Хамате",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "и построил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Тадмор"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "Тадмор"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "в пустыне"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "все"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "города"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "запасов"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "построил"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "в Хамате"
+    }
+  ],
+  "timestamp": "2026-08-03T13:32:07.929816200Z",
+  "model": "glm-4.5"
+}

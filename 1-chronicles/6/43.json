@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "и ⟨את⟩ Хилец, и ⟨אет⟩ его пастбище, ⟨את⟩ Двир и ⟨אет⟩ его пастбище",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Хилец"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "Хилец"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨אет⟩",
+      "marks": "его пастбище"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "его пастбище"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Двир"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Двир"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨אет⟩",
+      "marks": "его пастбище"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "его пастбище"
+    }
+  ],
+  "timestamp": "2026-08-03T12:44:52.748035279Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Тогда воспел Израиль ⟨את⟩ песнь эту: «Взойди, колодец! Ответили Ему».",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тогда"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "воспел"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "песнь эту"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "песнь эту"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "эту"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Взойди"
+    },
+    {
+      "surface": "באר",
+      "gloss": "колодец"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "Ответили"
+    },
+    {
+      "surface": "לה",
+      "gloss": "Ему"
+    }
+  ],
+  "timestamp": "2026-08-02T21:34:20.872420327Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "proverbs 30:27",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "у саранчи ⟨нет⟩ царя, но ⟨она⟩ выступает ⟨всем⟩ отрядом, распределившись;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "у саранчи"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "выступает"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "распределившись"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "всем"
+    }
+  ],
+  "timestamp": "2026-08-03T10:07:12.576951164Z",
+  "model": "glm-4.5"
+}

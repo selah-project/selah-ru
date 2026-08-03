@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "proverbs 4:19",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Путь нечестивых как тьма: ⟨они⟩ не знают, ⟨о чём⟩ споткнутся",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "путь"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивых"
+    },
+    {
+      "surface": "כאפלה",
+      "gloss": "как тьма"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знают"
+    },
+    {
+      "surface": "במה",
+      "gloss": "о чём"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "споткнутся"
+    }
+  ],
+  "timestamp": "2026-08-03T09:25:24.291991594Z",
+  "model": "glm-4.5"
+}

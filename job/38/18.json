@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "job 38:18",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 38,
+  "translation": "Ты ⟨ли⟩ вник ⟨до⟩ широт земли? Объяви, если ты знаешь всю ⟨её⟩",
+  "tokens": [
+    {
+      "surface": "התבננת",
+      "gloss": "Ты ⟨ли⟩ вник"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨до⟩"
+    },
+    {
+      "surface": "רחבי",
+      "gloss": "широт"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земли"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Объяви"
+    },
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаешь"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "всю ⟨её⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T10:49:18.285551389Z",
+  "model": "glm-4.5"
+}

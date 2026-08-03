@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "1-samuel 2:26",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И отрок Шемуэль шёл ⟨и⟩ рос ⟨и был⟩ благ ⟨и⟩ с ЯХВЕ, ⟨и⟩ с людьми",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "И отрок"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэль"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "шёл"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "⟨и⟩ рос"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "⟨и был⟩ благ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨и⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "⟨и⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "людьми"
+    }
+  ],
+  "timestamp": "2026-08-02T23:15:13.514859449Z",
+  "model": "glm-4.5"
+}

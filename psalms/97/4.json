@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 97,
+  "translation": "Молнии Его осветили ⟨תבל⟩; земля увидела ⟨ее⟩ и содрогнулась.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "осветили"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "Молнии Его"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨תבל⟩"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "увидела"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "и содрогнулась"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    }
+  ],
+  "timestamp": "2026-08-03T08:27:33.300915413Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "job 40:4",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "Вот, я ничтожен; что отвечу Тебе? Я положу руку мою на уста мои.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Вот"
+    },
+    {
+      "surface": "קלתי",
+      "gloss": "я ничтожен"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "отвечу Тебе"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "руку мою"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "я положу"
+    },
+    {
+      "surface": "למו",
+      "gloss": "на"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уста мои"
+    }
+  ],
+  "timestamp": "2026-08-03T10:51:20.399529307Z",
+  "model": "glm-4.5"
+}

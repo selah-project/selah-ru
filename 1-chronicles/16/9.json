@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "1-chronicles 16:9",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Пойте Ему, воспевайте ⟨псалмы⟩ Ему, рассуждайте о всех ⟨Его⟩ чудесах",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "пойте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ему"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "воспевайте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ему"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "рассуждайте"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "о всех"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "⟨Его⟩ чудесах"
+    }
+  ],
+  "timestamp": "2026-08-03T13:00:07.879054746Z",
+  "model": "glm-4.5"
+}

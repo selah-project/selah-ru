@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "и сказал: проклят Кнаан, слуга слуг будет он братьям своим",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "проклят"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кнаан"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "слуга"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "слуг"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "будет"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "братьям своим"
+    }
+  ],
+  "timestamp": "2026-08-02T17:53:06.302021670Z",
+  "model": "glm-4.5"
+}

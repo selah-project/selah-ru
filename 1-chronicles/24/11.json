@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "1-chronicles 24:11",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "девятый Иешуа, десятый Шеханияху,",
+  "tokens": [
+    {
+      "surface": "לישוע",
+      "gloss": "Иешуа"
+    },
+    {
+      "surface": "התשעי",
+      "gloss": "девятый"
+    },
+    {
+      "surface": "לשכניהו",
+      "gloss": "Шеханияху"
+    },
+    {
+      "surface": "העשרי",
+      "gloss": "десятый"
+    }
+  ],
+  "timestamp": "2026-08-03T13:10:40.531385632Z",
+  "model": "glm-4.5"
+}

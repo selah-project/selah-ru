@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "job 17:16",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "К засовам Шеола сойдут они, не вместе ли на прахе покой ⟨наш⟩?",
+  "tokens": [
+    {
+      "surface": "בדי",
+      "gloss": "К засовам"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Шеола"
+    },
+    {
+      "surface": "תרדנה",
+      "gloss": "сойдут они"
+    },
+    {
+      "surface": "אם",
+      "gloss": "не вместе ли"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "вместе"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "прахе"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "покой"
+    }
+  ],
+  "timestamp": "2026-08-03T10:24:54.867345080Z",
+  "model": "glm-4.5"
+}

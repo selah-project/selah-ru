@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Он ввёл ⟨в⟩ внутренности мои сыновья колчана ⟨Своего⟩",
+  "tokens": [
+    {
+      "surface": "הביא",
+      "gloss": "Он ввёл"
+    },
+    {
+      "surface": "בכליותי",
+      "gloss": "⟨в⟩ внутренности мои"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "колчана ⟨Своего⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:36.749671084Z",
+  "model": "glm-4.5"
+}

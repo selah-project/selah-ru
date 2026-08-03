@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "job 30:8",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Сыны безумия, даже сыны безымянные, изгнаны ⟨были⟩ ⟨из⟩ ⟨земли⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыны"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "безумия"
+    },
+    {
+      "surface": "גם",
+      "gloss": "даже"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "безымянные"
+    },
+    {
+      "surface": "שם",
+      "gloss": "имени"
+    },
+    {
+      "surface": "נכאו",
+      "gloss": "изгнаны"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земли"
+    }
+  ],
+  "timestamp": "2026-08-03T10:35:24.516989718Z",
+  "model": "glm-4.5"
+}

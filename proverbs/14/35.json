@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "proverbs 14:35",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Воля царя — ⟨для⟩ слуги разумного, а ⟨его⟩ гнев — ⟨к⟩ позорящему.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "Воля"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "— ⟨для⟩ слуги"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "разумного"
+    },
+    {
+      "surface": "ועברתו",
+      "gloss": "а ⟨его⟩ гнев"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "—"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "⟨к⟩ позорящему"
+    }
+  ],
+  "timestamp": "2026-08-03T09:39:05.738591810Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "для Дана — Ахиэцер, ⟨сын⟩ Аммишаддая;",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "для Дана"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "Ахиэцер"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨сын⟩"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "Аммишаддая"
+    }
+  ],
+  "timestamp": "2026-08-02T21:09:38.936725264Z",
+  "model": "glm-4.5"
+}

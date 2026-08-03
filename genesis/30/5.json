@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "И зачала Била и родила Яакову сына",
+  "tokens": [
+    {
+      "surface": "וַתַּ֣הַר",
+      "gloss": "и зачала"
+    },
+    {
+      "surface": "בִּלְהָ֔ה",
+      "gloss": "Била"
+    },
+    {
+      "surface": "וַתֵּ֥לֶד",
+      "gloss": "и родила"
+    },
+    {
+      "surface": "לְיַעֲקֹ֖ב",
+      "gloss": "Яакову"
+    },
+    {
+      "surface": "בֵּֽן",
+      "gloss": "сына"
+    }
+  ],
+  "timestamp": "2026-08-02T19:30:48.124076908Z",
+  "model": "glm-4.5"
+}

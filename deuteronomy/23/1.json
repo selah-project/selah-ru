@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Не возьмёт ⟨муж⟩ ⟨את⟩ ⟨жену⟩ отца своего, и не откроет ⟨крыло⟩ отца своего",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "возьмёт"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨муж⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жену"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "⟨жену⟩"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "отца своего"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "откроет"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "⟨крыло⟩"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "отца своего"
+    }
+  ],
+  "timestamp": "2026-08-02T22:13:10.184081544Z",
+  "model": "glm-4.5"
+}

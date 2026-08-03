@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "Вот сыновья Эцера: Билхан, Зааван и Акан.",
+  "tokens": [
+    {
+      "surface": "אֵ֖לֶּה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "אֵ֑צֶר",
+      "gloss": "Эцера"
+    },
+    {
+      "surface": "בִּלְהָ֥ן",
+      "gloss": "Билхан"
+    },
+    {
+      "surface": "וְזַעֲוָ֖ן",
+      "gloss": "Зааван"
+    },
+    {
+      "surface": "וַעֲקָֽן",
+      "gloss": "и Акан"
+    }
+  ],
+  "timestamp": "2026-08-02T19:38:29.385842317Z",
+  "model": "glm-4.5"
+}

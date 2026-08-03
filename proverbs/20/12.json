@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "proverbs 20:12",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "Слышащее ухо и видящий глаз — ⟨их⟩ обоих сделал ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "ухо"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "слышащее"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "и глаз"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "видящий"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨даже⟩"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "⟨их⟩ обоих"
+    }
+  ],
+  "timestamp": "2026-08-03T09:47:32.448850747Z",
+  "model": "glm-4.5"
+}

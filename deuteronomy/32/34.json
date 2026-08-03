@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "deuteronomy 32:34",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "Не скрыто ли это со Мною, запечатано в сокровищницах Моих?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "это"
+    },
+    {
+      "surface": "כמס",
+      "gloss": "скрыто"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "со Мною"
+    },
+    {
+      "surface": "חתם",
+      "gloss": "запечатано"
+    },
+    {
+      "surface": "באוצרתי",
+      "gloss": "в сокровищницах Моих"
+    }
+  ],
+  "timestamp": "2026-08-02T22:23:08.759409613Z",
+  "model": "glm-4.5"
+}

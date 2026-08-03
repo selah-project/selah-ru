@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "1-samuel 19:19",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "И было поведано Шаулу, говоря: вот, Давид в Ноёте в Раме",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "и было поведано"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Шаулу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "в Ноёте"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "в Раме"
+    }
+  ],
+  "timestamp": "2026-08-02T23:35:07.020453987Z",
+  "model": "glm-4.5"
+}

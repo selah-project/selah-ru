@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 78:18",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 78,
+  "translation": "И искушали Эля в сердцах своих, прося еды для нефа́ш своих",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "И искушали"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эля"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "в сердцах своих"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "прося"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "еды"
+    },
+    {
+      "surface": "לנפשם",
+      "gloss": "для нефа́ш своих"
+    }
+  ],
+  "timestamp": "2026-08-03T08:00:56.499739851Z",
+  "model": "glm-4.5"
+}

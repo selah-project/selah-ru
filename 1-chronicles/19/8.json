@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "И услышал Давид, и послал ⟨את⟩ Йоава и ⟨את⟩ всё войско ⟨горят⟩",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "и услышал"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "и послал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йоава"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоава"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "всё"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "войско"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "горят"
+    }
+  ],
+  "timestamp": "2026-08-03T13:04:14.930196319Z",
+  "model": "glm-4.5"
+}

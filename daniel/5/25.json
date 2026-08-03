@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "и вот ⟨это⟩ письмо, ⟨которое⟩ начертано: МЕНЕ, МЕНЕ, ТЕКЕЛЬ, УФАРСИН",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "⟨это⟩ письмо"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨которое⟩"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "начертано"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "МЕНЕ"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "МЕНЕ"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "ТЕКЕЛЬ"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "УФАРСИН"
+    }
+  ],
+  "timestamp": "2026-08-03T11:46:17.789330805Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 78,
+  "translation": "и пролил на них ман ⟨чтобы⟩ есть, и зерно небес дал им",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "и пролил"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "на них"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ман"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "⟨чтобы⟩ есть"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "и зерно"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небес"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дал"
+    },
+    {
+      "surface": "למו",
+      "gloss": "им"
+    }
+  ],
+  "timestamp": "2026-08-03T08:03:06.168668836Z",
+  "model": "glm-4.5"
+}

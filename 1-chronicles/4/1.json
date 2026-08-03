@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Сыновья Йегуды: Пéрец, Хецрон, и Карми, и Хур, и Шувáл.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йегуды"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Пéрец"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Хецрон"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "и Карми"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "и Хур"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "и Шувáл"
+    }
+  ],
+  "timestamp": "2026-08-03T12:40:06.942025703Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И услышал Шемуил ⟨את⟩ все слова народа, и пересказал их в ушах ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "и услышал"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "все слова"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народа"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "и пересказал их"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "в ушах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T23:19:37.165366374Z",
+  "model": "glm-4.5"
+}

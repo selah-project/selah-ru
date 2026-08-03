@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И сказал Моше пред лицем ЯХВЕ: вот, я ⟨с⟩ необрезанными губами, и как услышит меня Паро?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред лицем"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "הן",
+      "gloss": "вот"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "⟨с⟩ необрезанными"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "губами"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "и как"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "услышит"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "меня"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    }
+  ],
+  "timestamp": "2026-08-02T20:00:33.388043188Z",
+  "model": "glm-4.5"
+}

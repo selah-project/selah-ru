@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "Царь ⟨в⟩ суде утвердит ⟨землю⟩, а человек взяточников разорит её",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "Царь"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "⟨в⟩ суде"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "утвердит"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨землю⟩"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "а человек"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "взяточников"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "разорит её"
+    }
+  ],
+  "timestamp": "2026-08-03T10:05:45.252911515Z",
+  "model": "glm-4.5"
+}

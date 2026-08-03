@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "genesis 27:26",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "И сказал ему Ицхак, отец его: подойди же ⟨и⟩ поцелуй меня, сын мой.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхак"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "отец его"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "подойди"
+    },
+    {
+      "surface": "נא",
+      "gloss": "же"
+    },
+    {
+      "surface": "ושקה",
+      "gloss": "⟨и⟩ поцелуй"
+    },
+    {
+      "surface": "לי",
+      "gloss": "меня"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сын мой"
+    }
+  ],
+  "timestamp": "2026-08-02T19:26:57.939552568Z",
+  "model": "glm-4.5"
+}

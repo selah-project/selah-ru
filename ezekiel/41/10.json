@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "ezekiel 41:10",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 41,
+  "translation": "и между комнатами ширина двадцать локтей вокруг дома вокруг вокруг",
+  "tokens": [
+    {
+      "surface": "ובין",
+      "gloss": "и между"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "комнатами"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ширина"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцать"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "локтей"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "вокруг"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "вокруг"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "вокруг"
+    }
+  ],
+  "timestamp": "2026-08-03T05:09:03.749406224Z",
+  "model": "glm-4.5"
+}

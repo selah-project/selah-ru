@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 47,
+  "ref": "1-chronicles 11:47",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Элиэл и Овед, и Яасиэль ⟨the⟩ Мацавитянин",
+  "tokens": [
+    {
+      "surface": "אליאל",
+      "gloss": "Элиэл"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "и Овед"
+    },
+    {
+      "surface": "ויעשיאל",
+      "gloss": "и Яасиэль"
+    },
+    {
+      "surface": "המצביה",
+      "gloss": "⟨the⟩ Мацавитянин"
+    }
+  ],
+  "timestamp": "2026-08-03T12:54:15.429828464Z",
+  "model": "glm-4.5"
+}

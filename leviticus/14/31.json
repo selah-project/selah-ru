@@ -1,0 +1,88 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "leviticus 14:31",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "⟨את⟩ что достигнет рука его, ⟨את⟩ ⟨един⟩ — за грех, и ⟨את⟩ ⟨един⟩ — ола́, с minhah; и искупит коэн ⟨над⟩ очищающимся пред лицем ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "что"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "достигнет"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "рука его"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "един"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "за грех"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "един"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ола́"
+    },
+    {
+      "surface": "על",
+      "gloss": "с"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minhah"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "и искупит"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коэн"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨над⟩"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "очищающимся"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред лицем"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T17:57:23.524527469Z",
+  "model": "glm-4.5"
+}

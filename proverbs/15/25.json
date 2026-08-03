@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "proverbs 15:25",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "ЯХВЕ срывает дом гордых, а устанавливает ⟨череду⟩ вдовы.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "гордых"
+    },
+    {
+      "surface": "יסח",
+      "gloss": "срывает"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "и устанавливает"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "⟨череду⟩"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "вдовы"
+    }
+  ],
+  "timestamp": "2026-08-03T09:40:17.943212533Z",
+  "model": "glm-4.5"
+}

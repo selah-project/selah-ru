@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 54,
+  "ref": "jeremiah 51:54",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 51,
+  "translation": "Вопль крика ⟨из⟩ Вавилона и великий перелом ⟨из⟩ земли Халдеев",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "голос"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "крик"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "из Вавилона"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "и перелом"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "великий"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "из земли"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Халдеев"
+    }
+  ],
+  "timestamp": "2026-08-03T04:14:18.228238524Z",
+  "model": "glm-4.5"
+}

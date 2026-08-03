@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "1-chronicles 24:30",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Сыновья Муши: Махли, и Эдер, и Иримоф; эти — сыновья Левитов, по дому отцов их.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "Муши"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Махли"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "и Эдер"
+    },
+    {
+      "surface": "וירימות",
+      "gloss": "и Иримоф"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "эти"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Левитов"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "по дому"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "отцов их"
+    }
+  ],
+  "timestamp": "2026-08-03T13:11:31.440991552Z",
+  "model": "glm-4.5"
+}

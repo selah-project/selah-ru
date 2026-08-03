@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "ибо много раз ⟨есть⟩ знание в сердце твоем, ⟨что⟩ и ⟨את⟩ проклятие других ты ⟨совершал⟩",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "раз"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "много"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "⟨есть⟩ знание"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "в сердце твоем"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨что⟩"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "проклятие"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "проклятие"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "других"
+    }
+  ],
+  "timestamp": "2026-08-03T11:22:04.128692235Z",
+  "model": "glm-4.5"
+}

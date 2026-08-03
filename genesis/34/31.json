@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "И сказали: как с блудницей поступит ⟨את⟩ сестру нашу?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "и сказали"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "как с блудницей"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "поступит"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сестру нашу"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "сестру нашу"
+    }
+  ],
+  "timestamp": "2026-08-02T19:36:08.908890768Z",
+  "model": "glm-4.5"
+}

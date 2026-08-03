@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "nehemiah 7:10",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Сыновья Араха: шестьсот пятьдесят два.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "Араха"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шестьсот"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "пятьдесят"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "два"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T12:22:11.149517691Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "О как я люблю Тору! ⟨Она⟩ — размышление моё весь ⟨день⟩.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "О как"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "я люблю"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Тору"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "היום",
+      "gloss": "день"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨Она⟩"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "размышление моё"
+    }
+  ],
+  "timestamp": "2026-08-03T08:52:55.882380248Z",
+  "model": "glm-4.5"
+}

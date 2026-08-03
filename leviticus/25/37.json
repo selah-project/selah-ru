@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "⟨את⟩ серебро твоё не давай ему в рост, и ⟨את⟩ продовольствие твоё не давай ради прибыли",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "серебро твоё"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "серебро твоё"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "давай"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "в рост"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "и ради прибыли"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "давай"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "продовольствие твоё"
+    }
+  ],
+  "timestamp": "2026-08-02T21:06:09.944680532Z",
+  "model": "glm-4.5"
+}

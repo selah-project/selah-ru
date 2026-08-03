@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "И было, когда завершил Моше писать ⟨את⟩ слова Торы этой на ⟨свитке⟩, ⟨до⟩ завершения ⟨их⟩",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "когда завершил"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "писать"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слова Торы этой"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Торы"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "этой"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "свитке"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "завершения"
+    }
+  ],
+  "timestamp": "2026-08-02T22:21:37.785465122Z",
+  "model": "glm-4.5"
+}

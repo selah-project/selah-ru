@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "isaiah 28:2",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Вот, сильный и мощный — у Адонай, как град бурный, как разоритель ужасный, как воды бурные, mighty, overflow, бросает на землю рукой.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Вот"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "сильный"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "и мощный"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "у Адонай"
+    },
+    {
+      "surface": "כזרם",
+      "gloss": "как град"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "бурный"
+    },
+    {
+      "surface": "שער",
+      "gloss": "как разоритель"
+    },
+    {
+      "surface": "קטב",
+      "gloss": "ужасный"
+    },
+    {
+      "surface": "כזרם",
+      "gloss": "как воды"
+    },
+    {
+      "surface": "מים",
+      "gloss": "бурные"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "mighty"
+    },
+    {
+      "surface": "שטפים",
+      "gloss": "overflow"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "бросает"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "на землю"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "рукой"
+    }
+  ],
+  "timestamp": "2026-08-03T02:12:10.202078812Z",
+  "model": "glm-4.5"
+}

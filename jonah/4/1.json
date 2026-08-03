@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И ⟨было⟩ плохо Ионе — ⟨злом⟩ великим, и разгневался он.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "и ⟨было⟩ плохо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Ионе"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "⟨злом⟩"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "великим"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "и разгневался"
+    },
+    {
+      "surface": "לו",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-08-03T05:46:30.061377510Z",
+  "model": "glm-4.5"
+}

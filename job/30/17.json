@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "job 30:17",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Ночью ⟨мои⟩ кости пронзают меня, и ⟨мои⟩ нервы не имеют покоя.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "Ночью"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "кости"
+    },
+    {
+      "surface": "נקר",
+      "gloss": "пронзают"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "меня"
+    },
+    {
+      "surface": "וערקי",
+      "gloss": "и нервы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "имеют покоя"
+    }
+  ],
+  "timestamp": "2026-08-03T10:35:42.353831027Z",
+  "model": "glm-4.5"
+}

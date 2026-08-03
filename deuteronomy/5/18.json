@@ -1,0 +1,21 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "deuteronomy 5:18",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "и не прелюбодействуй",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "прелюбодействуй"
+    }
+  ],
+  "timestamp": "2026-08-02T21:55:55.721028633Z",
+  "model": "glm-4.5"
+}

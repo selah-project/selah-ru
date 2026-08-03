@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "И сделали сыны Израиля, ⟨нашедшиеся⟩, ⟨את⟩ Песах в то время и ⟨את⟩ праздник unleavened хлеба — семь дней.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "И сделали"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "⟨нашедшиеся⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Песах"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Песах"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "в то время"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": ""
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "праздник unleavened хлеба"
+    },
+    {
+      "surface": "חג",
+      "gloss": "праздник"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "unleavened хлеба"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "семь"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дней"
+    }
+  ],
+  "timestamp": "2026-08-03T14:14:49.464234239Z",
+  "model": "glm-4.5"
+}

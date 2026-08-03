@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Сыновья Гивона: девяносто ⟨и⟩ пять.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Гивона"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "девяносто"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "⟨и⟩ пять"
+    }
+  ],
+  "timestamp": "2026-08-03T12:21:29.657646730Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "hosea 8:12",
+  "book": "hosea",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Я напишу ему ⟨много⟩ ⟨законов⟩ Моей, как ⟨чужое⟩ вменены ⟨они⟩",
+  "tokens": [
+    {
+      "surface": "אכתוב",
+      "gloss": "Я напишу"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "⟨много⟩"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "⟨законов⟩ Моей"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "как"
+    },
+    {
+      "surface": "זר",
+      "gloss": "⟨чужое⟩"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "вменены ⟨они⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T05:25:39.741641399Z",
+  "model": "glm-4.5"
+}

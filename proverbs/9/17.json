@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "proverbs 9:17",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "краденые воды сладки, и ⟨с⟩ скрытым хлебом ⟨ятно⟩",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "воды"
+    },
+    {
+      "surface": "גנובים",
+      "gloss": "краденые"
+    },
+    {
+      "surface": "ימתקו",
+      "gloss": "сладки"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "и хлеб"
+    },
+    {
+      "surface": "סתרים",
+      "gloss": "скрытым"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "ятно"
+    }
+  ],
+  "timestamp": "2026-08-03T09:31:33.638155591Z",
+  "model": "glm-4.5"
+}

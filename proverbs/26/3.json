@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Плеть — ⟨для⟩ коня, узда — ⟨для⟩ осла, а жезл — ⟨для⟩ глупцов спина.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "плеть"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "— ⟨для⟩ коня"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "узда"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "— ⟨для⟩ осла"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "а жезл"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "— ⟨для⟩ глупцов"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "спина"
+    }
+  ],
+  "timestamp": "2026-08-03T10:02:33.222248827Z",
+  "model": "glm-4.5"
+}

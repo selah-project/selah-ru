@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "daniel 3:6",
+  "book": "daniel",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "и кто не упадёт ⟨и⟩ не поклонится, в ⟨тот⟩ час будет брошен внутрь ⟨горящей⟩ печи огня.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "и кто"
+    },
+    {
+      "surface": "די",
+      "gloss": "кто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "упадёт"
+    },
+    {
+      "surface": "ויסגד",
+      "gloss": "⟨и⟩ не поклонится"
+    },
+    {
+      "surface": "בה",
+      "gloss": "в"
+    },
+    {
+      "surface": "שעתא",
+      "gloss": "⟨тот⟩ час"
+    },
+    {
+      "surface": "יתרמא",
+      "gloss": "будет брошен"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "внутрь"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "⟨горящей⟩ печи"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "огня"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T11:42:25.321759760Z",
+  "model": "glm-4.5"
+}

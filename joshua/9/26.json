@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И сделал он так, и ⟨את⟩ их спас от руки сыновей Израиля, и не убили их",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И сделал"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "и ⟨את⟩ их спас"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "их"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "от руки"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "убили их"
+    }
+  ],
+  "timestamp": "2026-08-02T22:32:37.937534815Z",
+  "model": "glm-4.5"
+}

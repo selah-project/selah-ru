@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 22:4",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "В награду за смирение и страх ЯХВЕ — богатство, и почёт, и жизнь",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "В награду за"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "смирение"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "и страх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "богатство"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "и почёт"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "и жизнь"
+    }
+  ],
+  "timestamp": "2026-08-03T09:49:26.199452536Z",
+  "model": "glm-4.5"
+}

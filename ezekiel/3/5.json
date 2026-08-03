@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "ezekiel 3:5",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Ибо не к народу ⟨с⟩ глубокою речью ⟨и⟩ тяжелым языком ты послан, к дому Израиля",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народу"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "⟨с⟩ глубокою"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "речью"
+    },
+    {
+      "surface": "וכבדי",
+      "gloss": "⟨и⟩ тяжелым"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "языком"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "послан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-03T04:18:38.941792684Z",
+  "model": "glm-4.5"
+}

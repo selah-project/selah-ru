@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "genesis 50:1",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 50,
+  "translation": "И пал Иосиф ⟨на⟩ лицо отца своего, и плакал ⟨над⟩ ним, и поцеловал его",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "и пал"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Иосиф"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицо"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "отца своего"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "и плакал"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨над⟩ ним"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "и поцеловал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "его"
+    }
+  ],
+  "timestamp": "2026-08-02T19:54:37.682277086Z",
+  "model": "glm-4.5"
+}

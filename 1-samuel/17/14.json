@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "1-samuel 17:14",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "А Давид — ⟨он⟩ ⟨младший⟩, а трое старших пошли за Шаулом.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "А Давид"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "⟨младший⟩"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "а трое"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "старших"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "пошли"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "за"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаулом"
+    }
+  ],
+  "timestamp": "2026-08-02T23:32:02.969484767Z",
+  "model": "glm-4.5"
+}

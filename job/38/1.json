@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 38,
+  "translation": "И ответил ЯХВЕ ⟨את⟩ Иову из ⟨ה⟩ бури, и сказал:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И ответил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Иова"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Иова"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "из"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "бури"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    }
+  ],
+  "timestamp": "2026-08-03T10:48:48.652151890Z",
+  "model": "glm-4.5"
+}

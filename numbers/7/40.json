@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "numbers 7:40",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "один козёл ⟨от⟩ коз ⟨для⟩ грехоочищения:",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "козёл"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "коз"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "для грехоочищения"
+    }
+  ],
+  "timestamp": "2026-08-02T21:18:55.832607490Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "zephaniah 2:10",
+  "book": "zephaniah",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Это ⟨будет⟩ им вместо их гордости, потому что они хулили и величились над народом ЯХВЕ Цеваот",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Это"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "вместо"
+    },
+    {
+      "surface": "גאונם",
+      "gloss": "их гордости"
+    },
+    {
+      "surface": "כי",
+      "gloss": "потому что"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "они хулили"
+    },
+    {
+      "surface": "ויגדלו",
+      "gloss": "и величились"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    }
+  ],
+  "timestamp": "2026-08-03T06:03:23.100917906Z",
+  "model": "glm-4.5"
+}

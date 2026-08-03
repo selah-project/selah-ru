@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "1-kings 12:19",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И Израиль отпал от дома Давидова до дня сего.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "И отпали"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "от дома"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давидова"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дня"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "сего"
+    }
+  ],
+  "timestamp": "2026-08-03T00:42:06.520976798Z",
+  "model": "glm-4.5"
+}

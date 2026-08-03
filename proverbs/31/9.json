@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "Отвори рот свой, суди праведно и ⟨защити⟩ бедного и нищего",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "отвори"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "рот свой"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "суди"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "праведно"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "и ⟨защити⟩"
+    },
+    {
+      "surface": "עני",
+      "gloss": "бедного"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "и нищего"
+    }
+  ],
+  "timestamp": "2026-08-03T10:08:21.909595435Z",
+  "model": "glm-4.5"
+}

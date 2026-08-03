@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И вышел Моше от фараона и умолял ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "и вышел"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "от"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "фараона"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "и умолял"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-02T20:02:19.967440904Z",
+  "model": "glm-4.5"
+}

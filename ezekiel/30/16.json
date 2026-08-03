@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "ezekiel 30:16",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "И дам Я огонь ⟨в⟩ Мицраиме; Син свяжется муками и Но будет ⟨разорван⟩, и Ноф —daily distresses.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "и дам Я"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огонь"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "⟨в⟩ Мицраиме"
+    },
+    {
+      "surface": "חול",
+      "gloss": "свяжется"
+    },
+    {
+      "surface": "תחיל",
+      "gloss": "муками"
+    },
+    {
+      "surface": "סין",
+      "gloss": "Син"
+    },
+    {
+      "surface": "ונא",
+      "gloss": "и Но"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "будет"
+    },
+    {
+      "surface": "להבקע",
+      "gloss": "⟨разорван⟩"
+    },
+    {
+      "surface": "ונף",
+      "gloss": "и Ноф"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "daily distresses"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "днём"
+    }
+  ],
+  "timestamp": "2026-08-03T04:53:54.179992615Z",
+  "model": "glm-4.5"
+}

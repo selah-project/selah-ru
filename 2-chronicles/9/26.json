@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "2-chronicles 9:26",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И ⟨он⟩ правил всеми царями от реки и до земли Филистимлян и до предела Мицраима",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и ⟨он⟩"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "правил"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "всеми"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "царями"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "реки"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земли"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Филистимлян"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "предела"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраима"
+    }
+  ],
+  "timestamp": "2026-08-03T13:34:04.477073437Z",
+  "model": "glm-4.5"
+}

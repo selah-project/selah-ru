@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Небеса поведают славу Эла, и дело рук Его возвещает твердь.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Небеса"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "поведают"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эла"
+    },
+    {
+      "surface": "ו",
+      "gloss": "и"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "дело"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "рук Его"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "возвещает"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "твердь"
+    }
+  ],
+  "timestamp": "2026-08-03T06:53:04.700675531Z",
+  "model": "glm-4.5"
+}

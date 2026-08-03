@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "И спустила Микаль ⟨את⟩ Давида через окно, и он ушёл, и бежал, и спасся.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "и спустила"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Микаль"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давида"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "через"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "окно"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и он ушёл"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "и бежал"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "и спасся"
+    }
+  ],
+  "timestamp": "2026-08-02T23:34:55.275624327Z",
+  "model": "glm-4.5"
+}

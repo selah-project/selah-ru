@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 76,
+  "translation": "Начальнику ⟨с⟩ на струнах; псалом Асафа; песнь.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Начальнику ⟨с⟩"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "на струнах"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "псалом"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Асафа"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "песнь"
+    }
+  ],
+  "timestamp": "2026-08-03T07:57:58.060303650Z",
+  "model": "glm-4.5"
+}

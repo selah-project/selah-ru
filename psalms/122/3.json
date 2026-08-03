@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 122,
+  "translation": "Иерусалим построен, как город ⟨ч⟩о соединён вместе:",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Иерусалим"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "построен"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "как город"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "соединён"
+    },
+    {
+      "surface": "לה",
+      "gloss": "вместе"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T08:57:08.063704701Z",
+  "model": "glm-4.5"
+}

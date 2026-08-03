@@ -1,0 +1,90 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "zechariah 13:7",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "Меч, пробудись ⟨на⟩ пастыря моего и ⟨на⟩ мужа, companion моего, — слово ЯХВЕ Цеваот: порази ⟨את⟩ пастыря, и рассеются ⟨овцы⟩, и обращу Я руку свою ⟨на⟩ малых.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "меч"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "пробудись"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "пастыря моего"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и ⟨на⟩"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "мужа"
+    },
+    {
+      "surface": "עמיתי",
+      "gloss": "companion моего"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "הך",
+      "gloss": "порази"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пастыря"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "пастыря"
+    },
+    {
+      "surface": "ותפוצין",
+      "gloss": "и рассеются"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "⟨овцы⟩"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "и обращу Я"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "руку мою"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "הצערים",
+      "gloss": "малых"
+    }
+  ],
+  "timestamp": "2026-08-03T06:20:17.283404926Z",
+  "model": "glm-4.5"
+}

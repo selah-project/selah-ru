@@ -1,0 +1,39 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "proverbs 3:17",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Пути ⟨её⟩ — пути благоволения, и все стези ⟨её⟩ — шalom",
+  "tokens": [
+    {
+      "surface": "דרכיה",
+      "gloss": "Пути ⟨её⟩",
+      "marks": "Пути ⟨её⟩"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "пути"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "благоволения"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и все"
+    },
+    {
+      "surface": "נתיבותיה",
+      "gloss": "стези ⟨её⟩",
+      "marks": "стези ⟨её⟩"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    }
+  ],
+  "timestamp": "2026-08-03T09:23:34.372670762Z",
+  "model": "glm-4.5"
+}

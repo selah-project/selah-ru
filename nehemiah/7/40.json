@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "nehemiah 7:40",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Сыновья Иммера: ⟨тысяча⟩ пятьдесят ⟨и⟩ два;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Иммера"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тысяча"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "пятьдесят"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "и два"
+    }
+  ],
+  "timestamp": "2026-08-03T12:23:00.473603279Z",
+  "model": "glm-4.5"
+}

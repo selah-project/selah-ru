@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "jeremiah 7:19",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Меня ⟨они⟩ прогневляют? — слово ЯХВЕ; ⟨не⟩ ⟨их⟩ ради позора лиц их?",
+  "tokens": [
+    {
+      "surface": "האתי",
+      "gloss": "Меня",
+      "marks": "⟨они⟩"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨они⟩"
+    },
+    {
+      "surface": "מכעסים",
+      "gloss": "прогневляют"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨их⟩",
+      "marks": "ради позора"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ради"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "позора"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "лиц их"
+    }
+  ],
+  "timestamp": "2026-08-03T03:07:08.922423185Z",
+  "model": "glm-4.5"
+}

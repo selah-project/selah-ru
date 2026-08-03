@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "zechariah 13:5",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "и он скажет: не пророк я; муж, работающий землю ⟨я⟩, потому что человек купил меня от юности моей",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "и он скажет"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "пророк"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "איש",
+      "gloss": "муж"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "работающий"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "землю"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨я⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "потому что"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человек"
+    },
+    {
+      "surface": "הקנני",
+      "gloss": "купил меня"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "от юности моей"
+    }
+  ],
+  "timestamp": "2026-08-03T06:20:08.009884141Z",
+  "model": "glm-4.5"
+}

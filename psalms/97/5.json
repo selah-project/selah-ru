@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 97,
+  "translation": "Горы, словно воск, растаяли от лица ЯХВЕ, от лица Адона всей ⟨этой⟩ земли.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "горы"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "словно воск"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "растаяли"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "от лица"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "от лица"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Адона"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всей"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земли"
+    }
+  ],
+  "timestamp": "2026-08-03T08:27:15.396098043Z",
+  "model": "glm-4.5"
+}

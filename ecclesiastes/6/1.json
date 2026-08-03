@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Есть зло, которое я видел под солнцем, и велико оно ⟨на⟩ человеке:",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Есть"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "я видел"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "солнцем"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "и велико"
+    },
+    {
+      "surface": "היא",
+      "gloss": "оно"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "человеке"
+    }
+  ],
+  "timestamp": "2026-08-03T11:21:12.112097336Z",
+  "model": "glm-4.5"
+}

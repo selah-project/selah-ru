@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "1-samuel 16:9",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "И прошёл Ишай Шаммой, и сказал: «Также ⟨את⟩ этого не избрал ЯХВЕ».",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "И прошёл"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Ишай"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Шаммой"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Также"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "этого"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "этого"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "избрал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T23:28:25.327724742Z",
+  "model": "glm-4.5"
+}

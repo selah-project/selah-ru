@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "И он сказал: ⟨я⟩ слуга Авраама, אנכי.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И он сказал"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "слуга"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраама"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "אנכי"
+    }
+  ],
+  "timestamp": "2026-08-02T19:22:07.769399928Z",
+  "model": "glm-4.5"
+}

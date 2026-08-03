@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 45,
+  "ref": "numbers 7:45",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "один телёнок, сын ⟨стада⟩, один баран, один ягнёнок, сын ⟨года⟩, для во́сход;",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "телёнок"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "⟨стада⟩"
+    },
+    {
+      "surface": "איל",
+      "gloss": "баран"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ягнёнок"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "⟨года⟩"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "для во́схода"
+    }
+  ],
+  "timestamp": "2026-08-02T21:18:48.029837139Z",
+  "model": "glm-4.5"
+}

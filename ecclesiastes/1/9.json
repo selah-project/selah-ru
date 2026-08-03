@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Что ⟨было⟩, то ⟨будет⟩; и что ⟨сделано⟩, то ⟨будет сделано⟩; и нет ничᴈ нового под солнцем.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "было"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "будет"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и что"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "сделано"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "будет сделано"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нет"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ничᴈ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "нового"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "солнцем"
+    }
+  ],
+  "timestamp": "2026-08-03T11:15:20.314434362Z",
+  "model": "glm-4.5"
+}

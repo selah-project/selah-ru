@@ -1,0 +1,98 @@
+{
+  "tier": "bulk",
+  "verse": 45,
+  "ref": "genesis 41:45",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 41,
+  "translation": "И назвал Паро имя Иосифа: Цофнат-Паанeax; и дал ему ⟨את⟩ Асенаф, дочь Поти-Феры, жреца О́на, в жёны; и вышел Иосиф по земле Египта.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "и назвал"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "שם",
+      "gloss": "имя"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Иосифа"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "Цофнат-Паанeax"
+    },
+    {
+      "surface": "פענח",
+      "gloss": "Цофнат-Паанeax"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и дал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Асенаф"
+    },
+    {
+      "surface": "אסנת",
+      "gloss": "Асенаф"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочь"
+    },
+    {
+      "surface": "פוטי",
+      "gloss": "Поти-Феры"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "Поти-Феры"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "жреца"
+    },
+    {
+      "surface": "אן",
+      "gloss": "О́на"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "в жёны"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "и вышел"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Иосиф"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земле"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Египта"
+    }
+  ],
+  "timestamp": "2026-08-02T19:45:28.045423363Z",
+  "model": "glm-4.5"
+}

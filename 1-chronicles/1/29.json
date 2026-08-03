@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "1-chronicles 1:29",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Вот их потомки: первенец Ишмаэля — Неваиоф, и Кедар, и Адбээль, и Мибсам",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Вот"
+    },
+    {
+      "surface": "תלדותם",
+      "gloss": "их потомки"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "первенец"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ишмаэль"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Неваиоф"
+    },
+    {
+      "surface": "וקדר",
+      "gloss": "и Кедар"
+    },
+    {
+      "surface": "ואדבאל",
+      "gloss": "и Адбээль"
+    },
+    {
+      "surface": "ומבשם",
+      "gloss": "и Мибсам"
+    }
+  ],
+  "timestamp": "2026-08-03T12:36:03.074787680Z",
+  "model": "glm-4.5"
+}

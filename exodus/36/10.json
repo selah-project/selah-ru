@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "И соединил ⟨את⟩ пять завес одну ⟨к⟩ одной, и пять завес соединил одну ⟨с⟩ одной",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "и соединил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пять завес"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пять"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "завес"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "одну"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "одной"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "и пять"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "завес"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "соединил"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "одну"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "одной"
+    }
+  ],
+  "timestamp": "2026-08-02T20:34:41.024587313Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Волшебницу не ⟨позволяй⟩ жить.",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "Волшебницу"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "⟨позволяй⟩ жить"
+    }
+  ],
+  "timestamp": "2026-08-02T20:16:09.506337501Z",
+  "model": "glm-4.5"
+}

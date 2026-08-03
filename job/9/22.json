@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "job 9:22",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Это одно — поэтому я сказал: ⟨он⟩ губит и цельного, и ⟨не⟩праведного.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "одно"
+    },
+    {
+      "surface": "היא",
+      "gloss": "это"
+    },
+    {
+      "surface": "על",
+      "gloss": "поэтому"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "я сказал"
+    },
+    {
+      "surface": "תם",
+      "gloss": "цельного"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "и ⟨не⟩праведного"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "מכלה",
+      "gloss": "губит"
+    }
+  ],
+  "timestamp": "2026-08-03T10:17:29.239256313Z",
+  "model": "glm-4.5"
+}

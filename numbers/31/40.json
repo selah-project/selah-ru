@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "numbers 31:40",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "а ⟨нефеш⟩ людей — шестнадцать тысяч, а вклад для ЯХВЕ — тридцать две ⟨нефеш⟩",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "а ⟨нефеш⟩"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людей"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "шесть"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "десять"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тысяч"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "а вклад"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "для ЯХВЕ",
+      "marks": "вклад"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "и тридцать"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨нефеш⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T21:45:03.756597719Z",
+  "model": "glm-4.5"
+}

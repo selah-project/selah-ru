@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "Лучше малое ⟨для⟩ праведного, чем множество ⟨ riches of⟩ многих wicked.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "лучше"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "малое"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "⟨для⟩ праведного",
+      "marks": "праведного"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "множество"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wicked"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многих"
+    }
+  ],
+  "timestamp": "2026-08-03T07:15:34.910857182Z",
+  "model": "glm-4.5"
+}

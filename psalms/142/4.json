@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 142,
+  "translation": "Когда ослабевал ⟨within⟩ меня ⟨my⟩ Руах, Ты знал ⟨my⟩ путь. На ⟨this⟩ дороге, ⟨where⟩ я шёл, скрыли ловушку ⟨for⟩ меня.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "ослабевал"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨within⟩ меня"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "⟨my⟩ Руах"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знал"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "⟨my⟩ путь"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "На дороге"
+    },
+    {
+      "surface": "זו",
+      "gloss": "⟨this⟩"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "⟨where⟩ я шёл"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "скрыли"
+    },
+    {
+      "surface": "פח",
+      "gloss": "ловушку"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨for⟩ меня"
+    }
+  ],
+  "timestamp": "2026-08-03T09:12:39.484092066Z",
+  "model": "glm-4.5"
+}

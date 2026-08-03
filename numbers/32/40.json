@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "И дал Моше ⟨את⟩ Гилеад Махиру, сыну Менашше, и он поселился в нём.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "и дал"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гилеад"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Гилеад"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "Махиру"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сыну"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менашше"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и он поселился"
+    },
+    {
+      "surface": "בה",
+      "gloss": "в нём"
+    }
+  ],
+  "timestamp": "2026-08-02T21:46:18.002566977Z",
+  "model": "glm-4.5"
+}

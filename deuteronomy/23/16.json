@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Не возвращай раба ⟨его⟩ господину, который спасся к тебе ⟨от⟩ господина своего:",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "возвращай"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "раба"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨его⟩"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "господину"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "спасся"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "к тебе"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "⟨от⟩"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "господина своего"
+    }
+  ],
+  "timestamp": "2026-08-02T22:13:13.607134772Z",
+  "model": "glm-4.5"
+}

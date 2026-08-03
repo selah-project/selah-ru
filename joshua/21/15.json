@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "и ⟨את⟩ Холон, и ⟨את⟩ его поля, и ⟨את⟩ Двир, и ⟨את⟩ его поля",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Холон"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Холон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "его поля"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "его поля"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Двир"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Двир"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "его поля"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "его поля"
+    }
+  ],
+  "timestamp": "2026-08-02T22:44:10.884121083Z",
+  "model": "glm-4.5"
+}

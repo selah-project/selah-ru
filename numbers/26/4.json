@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "numbers 26:4",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "от двадцати лет и выше, как повелел ЯХВЕ ⟨את⟩ Моше и сынов Израиля, выходящих из земли Мицраим,",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "от"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцати"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "и выше"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "повелел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и сынов"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "выходящих"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "из земли"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    }
+  ],
+  "timestamp": "2026-08-02T21:38:45.687725187Z",
+  "model": "glm-4.5"
+}

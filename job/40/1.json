@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "job 40:1",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "И ответил ЯХВЕ ⟨את⟩ Йову, и сказал:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И ответил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йову"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Йову"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    }
+  ],
+  "timestamp": "2026-08-03T10:51:00.995608403Z",
+  "model": "glm-4.5"
+}

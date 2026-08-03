@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "2-samuel 22:29",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Ибо Ты — светильник мой, ЯХВЕ, и ЯХВЕ осветит ⟨мою⟩ тьму.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "נירי",
+      "gloss": "светильник мой"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "и ЯХВЕ"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "осветит"
+    },
+    {
+      "surface": "חשכי",
+      "gloss": "⟨мою⟩ тьму"
+    }
+  ],
+  "timestamp": "2026-08-03T00:11:46.002916661Z",
+  "model": "glm-4.5"
+}

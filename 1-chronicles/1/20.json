@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И Йоктан породил ⟨את⟩ Алмодада и ⟨את⟩ Шалефа и ⟨את⟩ Хацармавета и ⟨את⟩ Йерах",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "И Йоктан"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Алмодада"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Алмодада"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Шалефа"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Шалефа"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Хацармавета"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Хацармавета"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Йерах"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Йерах"
+    }
+  ],
+  "timestamp": "2026-08-03T12:35:40.218096953Z",
+  "model": "glm-4.5"
+}

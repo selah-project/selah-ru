@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Ибо Он ⟨её⟩ основал на морях и на реках ⟨её⟩ утвердил",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Он"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "морях"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "основал"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "реках"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "утвердил"
+    }
+  ],
+  "timestamp": "2026-08-03T06:57:51.728770301Z",
+  "model": "glm-4.5"
+}

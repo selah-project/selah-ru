@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Пришелец я ⟨в⟩ земле; не скрывай от меня ⟨Твои⟩ заповеди.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Пришелец"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨в⟩ земле"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "скрывай"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "от меня"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "⟨Твои⟩ заповеди"
+    }
+  ],
+  "timestamp": "2026-08-03T08:49:21.735852552Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "jeremiah 30:13",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Нет судящего ⟨את⟩ твой приговор к увязанию; нет для тебя лекарств исцеления.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Нет"
+    },
+    {
+      "surface": "דן",
+      "gloss": "судящего"
+    },
+    {
+      "surface": "דינך",
+      "gloss": "⟨את⟩",
+      "marks": "твой приговор"
+    },
+    {
+      "surface": "למזור",
+      "gloss": "к увязанию"
+    },
+    {
+      "surface": "רפאות",
+      "gloss": "лекарств"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "исцеления"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "לך",
+      "gloss": "для тебя"
+    }
+  ],
+  "timestamp": "2026-08-03T03:40:40.129000691Z",
+  "model": "glm-4.5"
+}

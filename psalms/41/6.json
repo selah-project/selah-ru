@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 41,
+  "translation": "Враги мои говорят ⟨о⟩ мне зло: когда ⟨он⟩ умрёт и исчезнет ⟨его⟩ имя?",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "Враги мои"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "говорят"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨о⟩ мне"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "когда"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "⟨он⟩ умрёт"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "и исчезнет"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "⟨его⟩ имя"
+    }
+  ],
+  "timestamp": "2026-08-03T07:19:46.002830398Z",
+  "model": "glm-4.5"
+}

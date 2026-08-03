@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "proverbs 30:25",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Муравьи — ⟨это⟩ народ не сильный, ⟨однако⟩ они ⟨запасают⟩ ⟨את⟩ пищу свою летом:",
+  "tokens": [
+    {
+      "surface": "הנמלים",
+      "gloss": "Муравьи"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עז",
+      "gloss": "сильный"
+    },
+    {
+      "surface": "ויכינו",
+      "gloss": "приготовили"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "⟨в⟩ лете"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "пищу ⟨свою⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T10:07:08.996984363Z",
+  "model": "glm-4.5"
+}

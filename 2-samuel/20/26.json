@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "2-samuel 20:26",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И также Ира Яирит ⟨был⟩ жрецом Давиду.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "И также"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "Ира"
+    },
+    {
+      "surface": "היארי",
+      "gloss": "Яирит"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨был⟩"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "жрецом"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиду"
+    }
+  ],
+  "timestamp": "2026-08-03T00:09:52.366168568Z",
+  "model": "glm-4.5"
+}

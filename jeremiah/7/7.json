@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "jeremiah 7:7",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "и Я вселю вас в этом месте, в земле которую Я дал отцам вашим, от века ⟨и⟩ до века",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "и Я вселю"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "в этом месте"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨this⟩"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земле"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которую"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Я дал"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "отцам вашим"
+    },
+    {
+      "surface": "למן",
+      "gloss": "от"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "века"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "⟨и⟩ до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "века"
+    }
+  ],
+  "timestamp": "2026-08-03T03:07:29.931642361Z",
+  "model": "glm-4.5"
+}

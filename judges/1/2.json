@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И сказал ЯХВЕ: Иуда пойдёт ↑; вот, Я отдал ⟨את⟩ землю в руку его.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иуда"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "пойдёт ↑"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Я отдал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "в руку его"
+    }
+  ],
+  "timestamp": "2026-08-02T22:49:25.145571463Z",
+  "model": "glm-4.5"
+}

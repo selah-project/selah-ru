@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "proverbs 30:28",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Ящерицу схватить ⟨в⟩ руках, и ⟨она⟩ во дворцах царя.",
+  "tokens": [
+    {
+      "surface": "שממית",
+      "gloss": "ящерицу"
+    },
+    {
+      "surface": "בידים",
+      "gloss": "в руках"
+    },
+    {
+      "surface": "תתפש",
+      "gloss": "схватить"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "она"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "во дворцах"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    }
+  ],
+  "timestamp": "2026-08-03T10:07:23.642445462Z",
+  "model": "glm-4.5"
+}

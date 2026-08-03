@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "numbers 24:21",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "И увидел ⟨את⟩ кинеянина, и поднял притчу свою, и сказал: прочен ⟨חזק⟩ dwelling place твоё, и положил ⟨שׂים⟩ в скале гнездо ⟨קֵן⟩ твоё",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "и увидел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кинеянина"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "кинеянина"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "и поднял"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "притчу свою"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "прочен"
+    },
+    {
+      "surface": "מושבך",
+      "gloss": "dwelling place твоё"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "и положил"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "в скале"
+    },
+    {
+      "surface": "קנך",
+      "gloss": "гнездо ⟨קֵן⟩ твоё"
+    }
+  ],
+  "timestamp": "2026-08-02T21:37:31.784229917Z",
+  "model": "glm-4.5"
+}

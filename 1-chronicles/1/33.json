@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "1-chronicles 1:33",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И сыны Медиана: Эйфа, и Эфер, и Ханох, и Авида, и Эльдаа. Все эти — сыны Ктуры.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "и сыны"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Медиана"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "Эйфа"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "и Эфер"
+    },
+    {
+      "surface": "וחנוך",
+      "gloss": "и Ханох"
+    },
+    {
+      "surface": "ואבידע",
+      "gloss": "и Авида"
+    },
+    {
+      "surface": "ואלדעה",
+      "gloss": "и Эльдаа"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Все"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "эти"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Ктуры"
+    }
+  ],
+  "timestamp": "2026-08-03T12:36:17.080561724Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "и лучше ⟨את⟩ того, который ещё не был, который не видел ⟨את⟩ злодеяние, которое делается под ⟨солнцем⟩",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "и лучше"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "чем ⟨они⟩ ⟨оба⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "того, который"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ещё"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "был"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "видел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "злодеяние"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "злодеяние"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "которое"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "делается"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "под"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨солнцем⟩"
+    },
+    {
+      "surface": "השמש",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T11:18:54.089474904Z",
+  "model": "glm-4.5"
+}

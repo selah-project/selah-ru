@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Сказал я ЯХВЕ: «Адонай Ты — ⟨моё⟩ добро; не для Тебя ⟨оно⟩».",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Сказал я"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "моё добро"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "для Тебя"
+    }
+  ],
+  "timestamp": "2026-08-03T06:45:00.603391802Z",
+  "model": "glm-4.5"
+}

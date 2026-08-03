@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 45:14",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 45,
+  "translation": "Вся слава дочери царя внутри; из ⟨בְּמִשְׁבְּצוֹת⟩ золота — одежда её.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Вся"
+    },
+    {
+      "surface": "כבודה",
+      "gloss": "слава"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочери"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "внутри"
+    },
+    {
+      "surface": "ממשבצות",
+      "gloss": "⟨בְּמִשְׁבְּצוֹת⟩",
+      "marks": "из"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золота"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "одежда её"
+    }
+  ],
+  "timestamp": "2026-08-03T07:23:52.820860395Z",
+  "model": "glm-4.5"
+}

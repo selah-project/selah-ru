@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 115,
+  "translation": "Но Элохим наш ⟨на⟩ небесах; всё, что восхотел, сделал",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "Но Элохим наш"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "⟨на⟩ небесах"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "восхотел"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    }
+  ],
+  "timestamp": "2026-08-03T08:45:19.362456482Z",
+  "model": "glm-4.5"
+}

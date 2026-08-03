@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "proverbs 5:7",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И теперь, сыновья, слушайте меня и не отклоняйтесь от слов моих уст",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "И теперь"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "слушайте"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "не отклоняйтесь"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "от слов"
+    },
+    {
+      "surface": "פי",
+      "gloss": "моих уст"
+    }
+  ],
+  "timestamp": "2026-08-03T09:26:13.762739755Z",
+  "model": "glm-4.5"
+}

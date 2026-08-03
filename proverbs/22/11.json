@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Любящий чистоту сердца, по милости уст своих, царь ⟨будет⟩ его другом.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Любящий"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чистоту"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сердца"
+    },
+    {
+      "surface": "חן",
+      "gloss": "по милости"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "уст"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "другом"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    }
+  ],
+  "timestamp": "2026-08-03T09:50:03.076987986Z",
+  "model": "glm-4.5"
+}

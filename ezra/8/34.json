@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "ezra 8:34",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "по счёту, по весу всего ⟨и⟩ записано ⟨был⟩ весь вес в то время",
+  "tokens": [
+    {
+      "surface": "במספר",
+      "gloss": "по счёту"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "по весу"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "всего"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "⟨и⟩ записано"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "המשקל",
+      "gloss": "вес"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "в то время"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "⟨та⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T12:08:37.575912553Z",
+  "model": "glm-4.5"
+}

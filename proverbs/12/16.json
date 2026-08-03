@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Глупец в день ⟨свой⟩ гнев объявляет, а prudent скрывает позор.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "Глупец"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в день"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "объявляет"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "⟨свой⟩ гнев"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "а prudent скрывает"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "позор"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "prudent"
+    }
+  ],
+  "timestamp": "2026-08-03T09:35:26.967688813Z",
+  "model": "glm-4.5"
+}

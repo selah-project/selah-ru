@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Не склоняй сердце твоё к путям её, не сбивайся ⟨с⟩ троп ⟨её⟩",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "ישט",
+      "gloss": "склоняй"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "путям ⟨её⟩",
+      "marks": "путям её"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "сердце твоё"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתע",
+      "gloss": "сбивайся"
+    },
+    {
+      "surface": "בנתיבותיה",
+      "gloss": "⟨с⟩ троп ⟨её⟩",
+      "marks": "с троп её"
+    }
+  ],
+  "timestamp": "2026-08-03T09:28:56.154454790Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "nehemiah 7:28",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "мужей Бейт-Азмавет — сорок два",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "мужей"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Азмавет"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "сорок"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "два"
+    }
+  ],
+  "timestamp": "2026-08-03T12:21:41.166498889Z",
+  "model": "glm-4.5"
+}

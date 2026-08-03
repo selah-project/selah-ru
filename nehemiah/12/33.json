@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "nehemiah 12:33",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "и Азария, Эзра и Мешуллам",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "и Азария"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Эзра"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "и Мешуллам"
+    }
+  ],
+  "timestamp": "2026-08-03T12:32:13.609386411Z",
+  "model": "glm-4.5"
+}

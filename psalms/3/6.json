@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Я лёг и уснул, я пробудился, ибо ЯХВЕ поддерживает меня.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "лёг"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "и уснул"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "я пробудился"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "поддерживает меня"
+    }
+  ],
+  "timestamp": "2026-08-03T06:29:59.747639422Z",
+  "model": "glm-4.5"
+}

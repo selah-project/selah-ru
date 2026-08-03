@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "1-chronicles 7:17",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И сыновья Улама: Бдан. Это ⟨сыновья⟩ Гилеада, сын Махира, сын Менашше.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И сыновья"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "Улама"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Бдан"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Это"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨сыновья⟩",
+      "marks": "Гилеада"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилеада"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Махира"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менашше"
+    }
+  ],
+  "timestamp": "2026-08-03T12:46:21.224011175Z",
+  "model": "glm-4.5"
+}

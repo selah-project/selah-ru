@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "genesis 18:20",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И сказал ЯХВЕ: вопль Содома и Гоморры, ⟨ибо⟩ велик, и грех их, ⟨ибо⟩ очень ⟨тяжёл⟩",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "вопль"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Содома"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "и Гоморры"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ибо⟩"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "велик"
+    },
+    {
+      "surface": "וחטאתם",
+      "gloss": "и грех их"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ибо⟩"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "очень ⟨тяжёл⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "очень"
+    }
+  ],
+  "timestamp": "2026-08-02T19:15:02.444801228Z",
+  "model": "glm-4.5"
+}

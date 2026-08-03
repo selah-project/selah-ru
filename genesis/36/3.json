@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "и ⟨את⟩ Босмáт, дочь Йишмáэля, сестра Небайóта",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Босмáт"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Босмáт"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочь"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Йишмáэля"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "сестра"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Небайóта"
+    }
+  ],
+  "timestamp": "2026-08-02T19:38:08.383637909Z",
+  "model": "glm-4.5"
+}

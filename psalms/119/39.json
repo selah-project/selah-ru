@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Убери поношение моё, которого я боялся, ибо суды Твои — хороши.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "убери"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "пошение моё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которого"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "я боялся"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "суды Твои"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "хороши"
+    }
+  ],
+  "timestamp": "2026-08-03T08:51:08.274970329Z",
+  "model": "glm-4.5"
+}

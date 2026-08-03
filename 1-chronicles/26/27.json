@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "1-chronicles 26:27",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Из войн и из добычи ⟨они⟩ освятили ⟨⟨את⟩⟩ для укрепления дома ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Из"
+    },
+    {
+      "surface": "המלחמות",
+      "gloss": "войн"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и из"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "добычи"
+    },
+    {
+      "surface": "הקדישו",
+      "gloss": "⟨они⟩ освятили",
+      "marks": "добычу"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "для укрепления"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T13:13:22.924345846Z",
+  "model": "glm-4.5"
+}

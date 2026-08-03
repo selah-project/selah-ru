@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Айялон ⟨и⟩ ⟨מגרשה⟩ его, Гат-Римон ⟨и⟩ ⟨מגרשה⟩ его, — городов ⟨четыре⟩.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Айялон"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Айялон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨и⟩",
+      "marks": "מגרשה"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "⟨מגרשה⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гат-Римон"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Гат"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Римон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨и⟩",
+      "marks": "מגרשה"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "⟨מגרשה⟩"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "городов"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "⟨четыре⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T22:44:19.936209691Z",
+  "model": "glm-4.5"
+}

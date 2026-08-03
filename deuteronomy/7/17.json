@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "deuteronomy 7:17",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Если скажешь ты в сердце своём: «Много ⟨эти⟩ народы от меня; как смогу я изгнать их?»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Если"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "скажешь ты"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "в сердце своём"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Много"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "⟨эти⟩ народы",
+      "marks": "народы"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "⟨эти⟩"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "от меня"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "как"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "смогу я"
+    },
+    {
+      "surface": "להורישם",
+      "gloss": "изгнать их"
+    }
+  ],
+  "timestamp": "2026-08-02T21:58:17.970411918Z",
+  "model": "glm-4.5"
+}

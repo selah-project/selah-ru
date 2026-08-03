@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 112,
+  "translation": "Он не убоится злой вести, сердце его утверждено, уповает на ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "весть"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "злая"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "убоится"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "утверждено"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "сердце его"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "уповает"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "на ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T08:43:51.984832169Z",
+  "model": "glm-4.5"
+}

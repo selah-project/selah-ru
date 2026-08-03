@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И Элеаса породил ⟨את⟩ Сисмая, и Сисмай породил ⟨את⟩ Шаллума.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "И Элеаса"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Сисмая"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Сисмая"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "и Сисмай"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шаллума"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Шаллума"
+    }
+  ],
+  "timestamp": "2026-08-03T12:38:17.083236605Z",
+  "model": "glm-4.5"
+}

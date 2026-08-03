@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "ЯХВЕ — ⟨человек⟩ войны, ЯХВЕ — ⟨Его⟩ имя.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨человек⟩"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "войны"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "⟨Его⟩ имя"
+    }
+  ],
+  "timestamp": "2026-08-02T20:09:22.538493875Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "job 29:1",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "И продолжал Иов поднимать притчу свою, и сказал:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "И продолжал"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Иов"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "поднимать"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "притчу свою"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    }
+  ],
+  "timestamp": "2026-08-03T10:34:33.349017486Z",
+  "model": "glm-4.5"
+}

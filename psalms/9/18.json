@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Нечестивые возвратятся в Шеол, все народы, ⟨что⟩ забывают Элохим",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "возвратятся"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивые"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "в Шеол"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народы"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "забывают"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-08-03T06:39:25.309715300Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 54,
+  "ref": "leviticus 14:54",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Это Тора ⟨для⟩ всякого поражения проказы и ⟨для⟩ шелушения",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Это"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "⟨для⟩ всякого"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "поражения"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "показы"
+    },
+    {
+      "surface": "ולנתק",
+      "gloss": "и ⟨для⟩ шелушения"
+    }
+  ],
+  "timestamp": "2026-08-02T20:54:36.844706376Z",
+  "model": "glm-4.5"
+}

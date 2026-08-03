@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "nehemiah 2:2",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И сказал мне царь: почему лицо твоё печально, ⟨а⟩ ты не болен; это не что иное, как печаль сердца? И я очень устрашился",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "почему"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лицо твоё"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "печально"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "⟨а⟩ ты"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "не"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "болен"
+    },
+    {
+      "surface": "אין",
+      "gloss": "это не"
+    },
+    {
+      "surface": "זה",
+      "gloss": "что"
+    },
+    {
+      "surface": "כי",
+      "gloss": "иное"
+    },
+    {
+      "surface": "אם",
+      "gloss": "как"
+    },
+    {
+      "surface": "רע",
+      "gloss": "печаль"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сердца"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "И я... устрашился"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "очень"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "очень"
+    }
+  ],
+  "timestamp": "2026-08-03T12:14:17.000095738Z",
+  "model": "glm-4.5"
+}

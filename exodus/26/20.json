@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "И для второй стороны Мишкана, к ⟨северу⟩, ⟨двадцать⟩ ⟨досок⟩",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "и для стороны"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Мишкана"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "второй"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "к"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "⟨северу⟩"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "⟨двадцать⟩"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "⟨досок⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T20:20:39.007306044Z",
+  "model": "glm-4.5"
+}

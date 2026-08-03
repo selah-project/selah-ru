@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Гой ⟨мятежная⟩ и ⟨осквернённая⟩, ⟨город⟩ ⟨голубица⟩!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Гой"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "мятежная"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "осквернённая"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "город"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "голубица"
+    }
+  ],
+  "timestamp": "2026-08-03T06:04:53.817692492Z",
+  "model": "glm-4.5"
+}

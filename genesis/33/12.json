@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "И сказал: отпустим и пойдём, и я пойду перед тобою.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "отпустим"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "и пойдём"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "и я пойду"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "перед тобою"
+    }
+  ],
+  "timestamp": "2026-08-02T19:35:27.738239469Z",
+  "model": "glm-4.5"
+}

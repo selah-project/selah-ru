@@ -1,0 +1,52 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И родила ему сыновей: ⟨את⟩ Йеуша и ⟨את⟩ Шемарию и ⟨את⟩ Зегама",
+  "tokens": [
+    {
+      "surface": "וַתֵּ֥לֶד",
+      "gloss": "и родила"
+    },
+    {
+      "surface": "ל֖וֹ",
+      "gloss": "ему"
+    },
+    {
+      "surface": "בָּנִ֑ים",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Йеуша"
+    },
+    {
+      "surface": "יְע֥וּשׁ",
+      "gloss": "Йеуша"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Шемарию"
+    },
+    {
+      "surface": "שְׁמַרְיָ֖ה",
+      "gloss": "Шемарию"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Зегама"
+    },
+    {
+      "surface": "זָֽהַם",
+      "gloss": "Зегама"
+    }
+  ],
+  "timestamp": "2026-08-03T13:36:58.516739442Z",
+  "model": "glm-4.5"
+}

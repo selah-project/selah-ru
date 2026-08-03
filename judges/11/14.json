@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "judges 11:14",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И Иеффай ⟨ещё⟩ добавил и послал посланников к царю сынов Аммона:",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "И ⟨он⟩ добавил"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ещё"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Иеффай"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "и послал"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "посланников"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммона"
+    }
+  ],
+  "timestamp": "2026-08-02T23:01:29.603386996Z",
+  "model": "glm-4.5"
+}

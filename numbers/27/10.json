@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "И если нет у него братьев, ⟨то⟩ отдадите ⟨את⟩ наследие его братьям отца его.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "И если"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "לו",
+      "gloss": "у него"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "братьев"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "отдадите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "наследие его"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "наследие его"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "братьям"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "отца его"
+    }
+  ],
+  "timestamp": "2026-08-02T21:40:16.349756831Z",
+  "model": "glm-4.5"
+}

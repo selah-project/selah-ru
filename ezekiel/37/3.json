@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "ezekiel 37:3",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "И сказал мне: сын человека, оживут ли ⟨эти⟩ кости? И сказал: Адонай ЯХВЕ, Ты знаешь",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "התחיינה",
+      "gloss": "оживут ли"
+    },
+    {
+      "surface": "העצמות",
+      "gloss": "⟨את⟩",
+      "marks": "кости"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "⟨эти⟩"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаешь"
+    }
+  ],
+  "timestamp": "2026-08-03T05:02:33.388907399Z",
+  "model": "glm-4.5"
+}

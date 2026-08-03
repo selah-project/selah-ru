@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "leviticus 9:13",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "и ⟨את⟩ о́лу ⟨принесли⟩ ему ⟨чтобы разрезать⟩ её, и ⟨את⟩ голову, и воскурить на алтаре",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "олу"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "олу"
+    },
+    {
+      "surface": "המציאו",
+      "gloss": "принесли"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "чтобы разрезать её"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "голову"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "голову"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "и воскурить"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "алтаре"
+    }
+  ],
+  "timestamp": "2026-08-02T20:48:39.481027025Z",
+  "model": "glm-4.5"
+}

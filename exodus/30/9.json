@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "exodus 30:9",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "Не восходите ⟨на⟩ него ⟨курением⟩ чужим, и оло́й, и minhah, и nesech не лейте ⟨на⟩ него",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "восходите"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨на⟩ него",
+      "marks": "на него"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "⟨курением⟩"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "чужим"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "и оло́й"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "и minhah"
+    },
+    {
+      "surface": "ונסך",
+      "gloss": "и nesech"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תסכו",
+      "gloss": "лейте"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨на⟩ него",
+      "marks": "на него"
+    }
+  ],
+  "timestamp": "2026-08-02T20:27:07.840642433Z",
+  "model": "glm-4.5"
+}

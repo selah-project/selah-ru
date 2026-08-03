@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "2-chronicles 4:18",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И сделал Шеломо все ⟨эти⟩ сосуды в великом множестве, потому что не ⟨был⟩ исследован вес меди.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И сделал"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "сосуды"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "⟨эти⟩"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "в множестве"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "великом"
+    },
+    {
+      "surface": "כי",
+      "gloss": "потому что"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נחקר",
+      "gloss": "⟨был⟩ исследован"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "вес"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "меди"
+    }
+  ],
+  "timestamp": "2026-08-03T13:24:25.756332790Z",
+  "model": "glm-4.5"
+}

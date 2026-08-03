@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "ezra 2:37",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Сыновья И́ммера: ⟨тысяча⟩ пятьдесят ⟨и⟩ два",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "И́ммера"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "⟨тысяча⟩"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "пятьдесят"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "⟨и⟩ два"
+    }
+  ],
+  "timestamp": "2026-08-03T11:59:05.575795933Z",
+  "model": "glm-4.5"
+}

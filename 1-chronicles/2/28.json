@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "1-chronicles 2:28",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Сыновья Онама: Шаммай и Яда. Сыновья Шаммая: Надав и Авишур.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "были"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "Онама"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Шаммай"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "и Яда"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и сыновья"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Шаммая"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Надав"
+    },
+    {
+      "surface": "ואבישור",
+      "gloss": "и Авишур"
+    }
+  ],
+  "timestamp": "2026-08-03T12:37:33.375365780Z",
+  "model": "glm-4.5"
+}

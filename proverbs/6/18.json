@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "proverbs 6:18",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "сердце, замышляющее злой умысел, ноги, торопящиеся бежать ко злу",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "сердце"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "замышляющее"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "умысел"
+    },
+    {
+      "surface": "און",
+      "gloss": "злой"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "ноги"
+    },
+    {
+      "surface": "ממהרות",
+      "gloss": "торопящиеся"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "бежать"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "ко злу"
+    }
+  ],
+  "timestamp": "2026-08-03T09:27:45.020343233Z",
+  "model": "glm-4.5"
+}

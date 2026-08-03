@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "и он выпил из вина, и опьянел, и открылся внутри ⟨своего⟩ шатра",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "и он выпил"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "היין",
+      "gloss": "вина"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "и опьянел"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "и открылся"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "внутри"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "шатра"
+    }
+  ],
+  "timestamp": "2026-08-02T17:52:39.245476014Z",
+  "model": "glm-4.5"
+}

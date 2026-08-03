@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "Ибо прямо слово ЯХВЕ, и всякое дело Его ⟨исполнено⟩ в верности",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "прямо"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и всякое"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "дело Его"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "в верности"
+    }
+  ],
+  "timestamp": "2026-08-03T07:09:17.245348355Z",
+  "model": "glm-4.5"
+}

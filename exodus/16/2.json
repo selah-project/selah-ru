@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "И возроптало всё собрание сынов Израиля ⟨на⟩ Моше и ⟨на⟩ Аарона в пустыне",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "И возроптало"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "собрание"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и ⟨на⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарона"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "в пустыне"
+    }
+  ],
+  "timestamp": "2026-08-02T20:10:23.802414599Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Насилие ⟨от⟩ нечестивых увлечёт их, так как они отказались вершить суд",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "насилие"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "⟨от⟩ нечестивых"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "увлечёт их"
+    },
+    {
+      "surface": "כי",
+      "gloss": "так как"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "отказались"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "вершить"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "суд"
+    }
+  ],
+  "timestamp": "2026-08-03T09:49:07.172852283Z",
+  "model": "glm-4.5"
+}

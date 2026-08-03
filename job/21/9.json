@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "job 21:9",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Их дом ⟨есть⟩ шалом от страха, и не ⟨есть⟩ жезл Элога ⟨над⟩ ними",
+  "tokens": [
+    {
+      "surface": "בתיהם",
+      "gloss": "их дом"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "шалом"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "от страха"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "жезл"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Элога"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "⟨над⟩ ними"
+    }
+  ],
+  "timestamp": "2026-08-03T10:28:32.439034308Z",
+  "model": "glm-4.5"
+}

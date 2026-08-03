@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "jeremiah 6:18",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Поэтому слушайте, народы, и знай, собрание, ⟨את⟩ что в них",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "поэтому"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "слушайте"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народы"
+    },
+    {
+      "surface": "ודעי",
+      "gloss": "и знай"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "собрание"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "что в них"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "בם",
+      "gloss": "в них"
+    }
+  ],
+  "timestamp": "2026-08-03T03:05:26.132326488Z",
+  "model": "glm-4.5"
+}

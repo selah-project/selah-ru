@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "И сказал Эсав: вот, я ⟨иду⟩ умирать, и что ⟨это⟩ ⟨мне⟩ первородство?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "⟨иду⟩"
+    },
+    {
+      "surface": "למות",
+      "gloss": "умирать"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "и что"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨это⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨мне⟩"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "первородство"
+    }
+  ],
+  "timestamp": "2026-08-02T19:23:54.390900569Z",
+  "model": "glm-4.5"
+}

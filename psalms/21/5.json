@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Жизни попросил он у Тебя, дал Ты ему — ⟨их⟩ длительность дней, ⟨на⟩ век ⟨и⟩ навек.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "жизни"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "попросил"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "у Тебя"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "дал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "длительность"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дней"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "⟨на⟩ век"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "⟨и⟩ навек"
+    }
+  ],
+  "timestamp": "2026-08-03T06:54:20.525914009Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И будет ЯХВЕ убежищем для тебя, убежищем во времена тесноты.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И будет"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "убежищем"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "для тебя"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "убежищем"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "во времена"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "тесноты"
+    }
+  ],
+  "timestamp": "2026-08-03T06:38:46.052997343Z",
+  "model": "glm-4.5"
+}

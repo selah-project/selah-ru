@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "А ⟨את⟩ дом свой строил Шеломо тринадцать лет, и закончил ⟨את⟩ весь дом свой",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "дом свой"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "дом свой"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "строил"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десять"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "и закончил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "весь"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "дом свой"
+    }
+  ],
+  "timestamp": "2026-08-03T00:29:11.943275031Z",
+  "model": "glm-4.5"
+}

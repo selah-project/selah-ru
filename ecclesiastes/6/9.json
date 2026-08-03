@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Лучше зрение глаз, чем блуждание ⟨своей⟩ нефеш; это также хевель и волнение руах.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Лучше"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "зрение"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "глаз"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "блуждание"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нефеш"
+    },
+    {
+      "surface": "גם",
+      "gloss": "также"
+    },
+    {
+      "surface": "זה",
+      "gloss": "это"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "хевель"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "и волнение"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    }
+  ],
+  "timestamp": "2026-08-03T11:20:30.266509060Z",
+  "model": "glm-4.5"
+}

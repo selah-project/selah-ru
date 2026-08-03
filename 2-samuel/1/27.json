@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "2-samuel 1:27",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Как пали могучие, и погибли ⟨орудия⟩ войны!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Как"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "пали"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "могучие"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "и погибли"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "⟨орудия⟩"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "войны"
+    }
+  ],
+  "timestamp": "2026-08-02T23:48:30.048205527Z",
+  "model": "glm-4.5"
+}

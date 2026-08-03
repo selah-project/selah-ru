@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "ezekiel 44:1",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 44,
+  "translation": "И вернул меня ⟨את⟩ путём ⟨את⟩ внешних ворот святилища, ⟨на⟩ восток, и ⟨оно⟩ закрыто",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "и вернул"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "меня"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "путём"
+    },
+    {
+      "surface": "שער",
+      "gloss": "⟨את⟩",
+      "marks": "врат"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "святилища"
+    },
+    {
+      "surface": "החיצון",
+      "gloss": "внешних"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "восток"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "и ⟨оно⟩"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "закрыто"
+    }
+  ],
+  "timestamp": "2026-08-03T05:12:31.915481464Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 42,
+  "translation": "И подняли ⟨את⟩ зерно своё на ослов своих и ушли оттуда",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "и подняли"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "зерно своё"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "зерно своё"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "ослов своих"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "и ушли"
+    },
+    {
+      "surface": "משם",
+      "gloss": "оттуда"
+    }
+  ],
+  "timestamp": "2026-08-02T19:46:26.678428090Z",
+  "model": "glm-4.5"
+}

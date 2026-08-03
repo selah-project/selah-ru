@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "isaiah 10:31",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Мадмена бежит; жители Гевима укрепились ⟨в⟩ бегстве.",
+  "tokens": [
+    {
+      "surface": "נדדה",
+      "gloss": "Мадмена бежит"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "Мадмена"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "жители"
+    },
+    {
+      "surface": "הגבים",
+      "gloss": "Гевима"
+    },
+    {
+      "surface": "העיזו",
+      "gloss": "укрепились"
+    }
+  ],
+  "timestamp": "2026-08-03T01:54:31.332250106Z",
+  "model": "glm-4.5"
+}

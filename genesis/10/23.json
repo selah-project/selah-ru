@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "genesis 10:23",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И сыновья Арама: Уц, и Хул, и Гефер, и Маш.",
+  "tokens": [
+    {
+      "surface": "וּבְנֵי",
+      "gloss": "И сыновья"
+    },
+    {
+      "surface": "אֲרָם",
+      "gloss": "Арама"
+    },
+    {
+      "surface": "ע֥וּץ",
+      "gloss": "Уц"
+    },
+    {
+      "surface": "וְח֖וּל",
+      "gloss": "и Хул"
+    },
+    {
+      "surface": "וְגֶ֥תֶר",
+      "gloss": "и Гефер"
+    },
+    {
+      "surface": "וָמַֽשׁ",
+      "gloss": "и Маш"
+    }
+  ],
+  "timestamp": "2026-08-02T17:53:40.034805694Z",
+  "model": "glm-4.5"
+}

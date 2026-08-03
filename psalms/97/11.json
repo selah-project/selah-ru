@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 97,
+  "translation": "Свет посеян для праведных, и радость для прямых сердцем.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "Свет"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "посеян"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "для праведных"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "и для прямых"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сердцем"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "радость"
+    }
+  ],
+  "timestamp": "2026-08-03T08:27:09.126102734Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 43,
+  "ref": "lamentations 3:43",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Ты покрыл ⟨себя⟩ гневом и преследовал нас: ты убил, не пощадил.",
+  "tokens": [
+    {
+      "surface": "סכתה",
+      "gloss": "покрыл"
+    },
+    {
+      "surface": "באף",
+      "gloss": "гневом"
+    },
+    {
+      "surface": "ותרדפנו",
+      "gloss": "и преследовал нас"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "убил"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "חמלת",
+      "gloss": "пощадил"
+    }
+  ],
+  "timestamp": "2026-08-03T11:09:58.074048102Z",
+  "model": "glm-4.5"
+}

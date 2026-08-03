@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "1-chronicles 7:13",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Сыновья Нефтали: Яхциэль, и Гуни, и Ецер, и Шаллум — сыновья Билхи.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Сыновья"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нефтали"
+    },
+    {
+      "surface": "יחציאל",
+      "gloss": "Яхциэль"
+    },
+    {
+      "surface": "וגוני",
+      "gloss": "и Гуни"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "и Ецер"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "и Шаллум"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Билхи"
+    }
+  ],
+  "timestamp": "2026-08-03T12:46:53.532574800Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "deuteronomy 14:27",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "и левит, который ⟨в⟩ воротах твоих, не оставляй его, ибо нет ему доли и надела с тобою",
+  "tokens": [
+    {
+      "surface": "והלוי",
+      "gloss": "и левит"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "⟨в⟩ воротах твоих"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "оставляй его"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "доли"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "и надела"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "с тобою"
+    }
+  ],
+  "timestamp": "2026-08-02T22:05:54.669592237Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 136,
+  "translation": "⟨את⟩ солнце — чтобы править ⟨в⟩ дне, ибо ⟨во⟩ век — хесед Его.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "солнце"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "солнце"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "— чтобы править"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "⟨в⟩ дне"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "⟨во⟩ век"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хесед Его"
+    }
+  ],
+  "timestamp": "2026-08-03T09:06:44.373383096Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "До ⟨того⟩, как ЯХВЕ посмотрит и увидит ⟨это⟩ с небес",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "до ⟨того⟩, как"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "посмотрит"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "и увидит ⟨это⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "с небес"
+    }
+  ],
+  "timestamp": "2026-08-03T11:12:52.510657285Z",
+  "model": "glm-4.5"
+}

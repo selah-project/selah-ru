@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "Жиром своим они окружены, ⟨в⟩ гордыне говорит ⟨их⟩ рот:",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "Жиром своим"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "они окружены"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "⟨их⟩ рот"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "говорит"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "⟨в⟩ гордыне"
+    }
+  ],
+  "timestamp": "2026-08-03T18:39:10.073858732Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Двусмысленных ненавижу, а Тору Твою люблю.",
+  "tokens": [
+    {
+      "surface": "סעפים",
+      "gloss": "Двусмысленных"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ненавижу"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "а Тору Твою"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "люблю"
+    }
+  ],
+  "timestamp": "2026-08-03T08:53:50.056453107Z",
+  "model": "glm-4.5"
+}

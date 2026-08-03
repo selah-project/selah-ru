@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "По всей земле прошёл ⟨их⟩ шнур и ⟨до⟩ края inhabited ⟨их⟩ слова, для солнца поставил шатёр в них",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "По всей"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земле"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "прошёл"
+    },
+    {
+      "surface": "קום",
+      "gloss": "⟨их⟩ шнур"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "⟨до⟩ края"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "inhabited"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "⟨их⟩ слова"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "для солнца"
+    },
+    {
+      "surface": "שם",
+      "gloss": "поставил"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатёр"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "в них"
+    }
+  ],
+  "timestamp": "2026-08-03T06:53:02.683531884Z",
+  "model": "glm-4.5"
+}

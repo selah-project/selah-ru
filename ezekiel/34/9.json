@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "Посему ⟨вы⟩, пастыри, слушайте слово ЯХВЕ:",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Посему"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "⟨вы⟩, пастыри"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "слушайте"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T04:59:10.178464459Z",
+  "model": "glm-4.5"
+}

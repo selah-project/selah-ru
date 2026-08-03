@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И было слово ЯХВЕ ⟨к⟩ Йоне ⟨во⟩ второй раз, ⟨говоря⟩",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩",
+      "marks": "Йоне"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Йоне"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "⟨во⟩ второй раз"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨говоря⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T05:45:47.903282009Z",
+  "model": "glm-4.5"
+}

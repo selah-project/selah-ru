@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 56,
+  "ref": "1-samuel 17:56",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И сказал царь: расспроси, чей этот ⟨юноша⟩",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "расспроси"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ты⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "מי",
+      "gloss": "чей"
+    },
+    {
+      "surface": "זה",
+      "gloss": "этот"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "⟨юноша⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T23:32:53.570908953Z",
+  "model": "glm-4.5"
+}

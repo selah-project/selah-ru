@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "2-chronicles 8:12",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Тогда Шеломо воссылал о́лы ЯХВЕ на жертвеннике ЯХВЕ, который ⟨он⟩ построил перед вестибюлем",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тогда"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "воссылал"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "о́лы"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "жертвеннике"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "построил"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "вестибюлем"
+    }
+  ],
+  "timestamp": "2026-08-03T13:32:32.890585829Z",
+  "model": "glm-4.5"
+}

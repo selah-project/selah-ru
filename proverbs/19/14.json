@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "proverbs 19:14",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "Дом ⟨и⟩ богатство — наследие отцов, но ⟨от⟩ ЯХВЕ ⟨приходит⟩ prudent женщина.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Дом"
+    },
+    {
+      "surface": "והון",
+      "gloss": "⟨и⟩ богатство"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "— наследие"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "отцов"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "но ⟨от⟩ ЯХВЕ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "prudent женщина"
+    },
+    {
+      "surface": "משכלת",
+      "gloss": "⟨приходит⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T09:45:58.453178519Z",
+  "model": "glm-4.5"
+}

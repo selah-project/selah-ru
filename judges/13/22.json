@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "judges 13:22",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И сказал Манох своей жене: ⟨мы⟩ умрём ⟨смертью⟩, ибо Элохим ⟨мы⟩ видели",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Манох"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "своей жене"
+    },
+    {
+      "surface": "מות",
+      "gloss": "умрём"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "⟨смертью⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "⟨мы⟩ видели"
+    }
+  ],
+  "timestamp": "2026-08-02T23:04:01.440804233Z",
+  "model": "glm-4.5"
+}

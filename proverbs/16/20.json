@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "proverbs 16:20",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Понимающий ⟨в⟩ слове найдёт добро, и ⟨кто⟩ надеется на ЯХВЕ — блажен он.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "понимающий"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨в⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слове"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "найдёт"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "и ⟨кто⟩ надеется"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "на ЯХВЕ"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "блажен он"
+    }
+  ],
+  "timestamp": "2026-08-03T09:40:54.319164473Z",
+  "model": "glm-4.5"
+}

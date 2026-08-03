@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И положил Моше ⟨את⟩ жезлы пред лицем ЯХВЕ в шатре ⟨откровения⟩",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "И положил"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жезлы"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "жезлы"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред лицем"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "в шатре"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "⟨откровения⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T21:30:04.609197673Z",
+  "model": "glm-4.5"
+}

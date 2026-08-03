@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "deuteronomy 24:21",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Когда ты соберешь виноградник свой, не обирай его за собой: герю, сироте и вдове ⟨будет⟩",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "когда"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "соберешь"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "виноградник свой"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "обирай"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "за собой"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "герю"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "сироте"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "и вдове"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨будет⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T22:14:14.551126595Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "job 36:25",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "Всякий ⟨אדם⟩ видит ⟨את⟩; ⟨אנוש⟩ смотрит ⟨на⟩ ⟨это⟩ издали.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Всякий"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨אדם⟩"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "видит ⟨את⟩",
+      "marks": "⟨את⟩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨на⟩ ⟨это⟩"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "⟨אנוש⟩"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "смотрит"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "издали"
+    }
+  ],
+  "timestamp": "2026-08-03T10:47:15.453951703Z",
+  "model": "glm-4.5"
+}

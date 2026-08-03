@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "ruth 3:5",
+  "book": "ruth",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И сказала она ей: «Всё, что ты скажешь мне, ⟨я⟩ сделаю».",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "и сказала"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ей"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "ты скажешь"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "сделаю"
+    }
+  ],
+  "timestamp": "2026-08-03T11:02:38.271372125Z",
+  "model": "glm-4.5"
+}

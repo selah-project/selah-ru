@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "numbers 17:9",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И говорил ЯХВЕ ⟨⟨את⟩⟩ Моше, чтобы сказать:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "чтобы сказать"
+    }
+  ],
+  "timestamp": "2026-08-02T21:29:58.733433020Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Двоим лучше, чем одному; ⟨потому что⟩ ⟨они⟩ ⟨имеют⟩ добрую награду в ⟨своём⟩ труде.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "двоим лучше"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "двоим"
+    },
+    {
+      "surface": "מן",
+      "gloss": "чем"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "одному"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨потому что⟩"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨они⟩ ⟨имеют⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨они⟩"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "награду"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добрую"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "в ⟨своём⟩ труде"
+    }
+  ],
+  "timestamp": "2026-08-03T11:19:09.909546214Z",
+  "model": "glm-4.5"
+}

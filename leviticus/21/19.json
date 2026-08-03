@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "leviticus 21:19",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "или мужчина, в котором ⟨есть⟩ перелом ноги, или перелом руки",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мужчина"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨есть⟩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в-нём"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "перелом"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ноги"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "перелом"
+    },
+    {
+      "surface": "יד",
+      "gloss": "руки"
+    }
+  ],
+  "timestamp": "2026-08-02T21:01:34.363856252Z",
+  "model": "glm-4.5"
+}

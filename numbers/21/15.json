@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "numbers 21:15",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "⟨И⟩ откос долин, ⟨который⟩ склоняется к dwelling Ар, ⟨и⟩ опирается на границу Моава.",
+  "tokens": [
+    {
+      "surface": "ואשד",
+      "gloss": "⟨И⟩ откос"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "долин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨который⟩"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "склоняется"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "к dwelling"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ар"
+    },
+    {
+      "surface": "ונשען",
+      "gloss": "⟨и⟩ опирается"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "на границу"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    }
+  ],
+  "timestamp": "2026-08-02T21:33:53.080564040Z",
+  "model": "glm-4.5"
+}

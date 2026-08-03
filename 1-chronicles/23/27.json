@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "1-chronicles 23:27",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "ибо по последним словам Давида ⟨они⟩ — ⟨это⟩ счёт сынов Леви от двадцати лет и выше:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "по словам"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "האחרנים",
+      "gloss": "последним"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨они⟩"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "⟨это⟩ счёт"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леви"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "от"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадцати"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "и выше"
+    }
+  ],
+  "timestamp": "2026-08-03T13:10:09.988973796Z",
+  "model": "glm-4.5"
+}

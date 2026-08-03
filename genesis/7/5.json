@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И сделал Ноах ⟨всё⟩, что ⟨הַשֵּׂם⟩ повелел ему",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И сделал"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "⟨всё⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "повелел ему"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨הַשֵּׂם⟩",
+      "marks": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T17:50:37.184329975Z",
+  "model": "glm-4.5"
+}

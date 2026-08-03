@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Слово ЯХВЕ, которое было к Йоэлю, сыну Петуэля",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "היה",
+      "gloss": "было"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Йоэлю"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сыну"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "Петуэля"
+    }
+  ],
+  "timestamp": "2026-08-03T05:30:50.028690607Z",
+  "model": "glm-4.5"
+}

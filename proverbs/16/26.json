@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "proverbs 16:26",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Душа трудящегося трудится для него, ибо ⟨его⟩ рот принуждает его",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "душа"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "трудящегося"
+    },
+    {
+      "surface": "עמלה",
+      "gloss": "трудится"
+    },
+    {
+      "surface": "לו",
+      "gloss": "для него"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "принуждает"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨его⟩",
+      "marks": "его"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "рот"
+    }
+  ],
+  "timestamp": "2026-08-03T09:41:38.502995768Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 94,
+  "translation": "Вразумляющий народы — неужели не reproves? ⟨Тот⟩, кто учит человека знанию, — неужели не знает?",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "Вразумляющий"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народы"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "неужели"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "reproves"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "кто учит"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знанию"
+    }
+  ],
+  "timestamp": "2026-08-03T08:22:59.754947671Z",
+  "model": "glm-4.5"
+}

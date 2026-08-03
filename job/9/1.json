@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "job 9:1",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И отвечал Ийов и говорил",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "и отвечал"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ийов"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и говорил"
+    }
+  ],
+  "timestamp": "2026-08-03T10:17:22.960332314Z",
+  "model": "glm-4.5"
+}

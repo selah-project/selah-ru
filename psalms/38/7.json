@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 38,
+  "translation": "Я сгорблен, я пригнут до крайности; весь день хожу мрачный.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "сгорблен"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "пригнут"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "крайности"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "היום",
+      "gloss": "день"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "мрачный"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "хожу"
+    }
+  ],
+  "timestamp": "2026-08-03T07:16:44.275319875Z",
+  "model": "glm-4.5"
+}

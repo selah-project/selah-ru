@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Когда ⟨ты⟩ выйдешь лагерем против врагов твоих, то храни себя от ⟨всякого⟩ дела ⟨злого⟩",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "когда"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "выйдешь"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "лагерем"
+    },
+    {
+      "surface": "על",
+      "gloss": "против"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "врагов твоих"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "то храни себя"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "от ⟨всякого⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "дела"
+    },
+    {
+      "surface": "רע",
+      "gloss": "⟨злого⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T22:13:19.403479038Z",
+  "model": "glm-4.5"
+}

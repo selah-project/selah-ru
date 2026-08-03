@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "proverbs 14:28",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "В множестве народа — величие царя, а в отсутствии народа — гибель сановника.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "в множестве"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народа"
+    },
+    {
+      "surface": "הדרת",
+      "gloss": "величие"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "ובאפס",
+      "gloss": "а в отсутствии"
+    },
+    {
+      "surface": "לאם",
+      "gloss": "народа"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "гибель"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "сановника"
+    }
+  ],
+  "timestamp": "2026-08-03T09:38:10.769965419Z",
+  "model": "glm-4.5"
+}

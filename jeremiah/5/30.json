@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Ужасное и шокирующее ⟨есть⟩ в ⟨стране⟩",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Ужасное и шокирующее"
+    },
+    {
+      "surface": "ושערורה",
+      "gloss": ""
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "⟨есть⟩"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в ⟨стране⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T03:03:39.000602259Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "2-chronicles 6:7",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И было в сердце Давида, отца моего, строить дом ⟨для⟩ Имени ЯХВЕ, Элохима Израиля",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "עם",
+      "gloss": "в"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "сердце"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отца моего"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "строить"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "⟨для⟩ Имени",
+      "marks": "Имени"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохима"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-03T13:27:34.733877409Z",
+  "model": "glm-4.5"
+}

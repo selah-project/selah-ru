@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И царь Давид услышал ⟨את⟩ все эти слова, и воспылал для него весьма.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "и царь"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "услышал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "все эти слова"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "эти слова"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "эти"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "и воспылал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "для него"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "весьма"
+    }
+  ],
+  "timestamp": "2026-08-03T18:25:44.502564692Z",
+  "model": "glm-4.5"
+}

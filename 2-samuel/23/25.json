@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "2-samuel 23:25",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Шамма Ароди, Элика Ароди,",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Шамма"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "Ароди"
+    },
+    {
+      "surface": "אליקא",
+      "gloss": "Элика"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "Ароди"
+    }
+  ],
+  "timestamp": "2026-08-03T00:13:35.743643911Z",
+  "model": "glm-4.5"
+}

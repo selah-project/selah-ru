@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "ezekiel 40:40",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "И к плечу, снаружи, ⟨по⟩ подъёму к входу ⟨в⟩ северные ворота, два стола, и к плечу ⟨в⟩ другом, которое к vestibulum ⟨от⟩ ворот, два стола",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "И к"
+    },
+    {
+      "surface": "הכתף",
+      "gloss": "плечу"
+    },
+    {
+      "surface": "מחוצה",
+      "gloss": "снаружи"
+    },
+    {
+      "surface": "לעולה",
+      "gloss": "⟨по⟩ подъёму"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "к входу"
+    },
+    {
+      "surface": "השער",
+      "gloss": "⟨в⟩ ворота",
+      "marks": "⟨в⟩ северные ворота"
+    },
+    {
+      "surface": "הצפונה",
+      "gloss": "северные"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "стола"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и к"
+    },
+    {
+      "surface": "הכתף",
+      "gloss": "плечу"
+    },
+    {
+      "surface": "האחרת",
+      "gloss": "⟨в⟩ другом"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "לאלם",
+      "gloss": "к vestibulum"
+    },
+    {
+      "surface": "השער",
+      "gloss": "⟨от⟩ ворот",
+      "marks": "к vestibulum ⟨от⟩ ворот"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "стола"
+    }
+  ],
+  "timestamp": "2026-08-03T05:08:02.921572553Z",
+  "model": "glm-4.5"
+}

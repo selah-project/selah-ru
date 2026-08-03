@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "2-chronicles 28:21",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Ибо Ахаз разделил ⟨את⟩ Дом ЯХВЕ и ⟨את⟩ Дом царя и князей и дал царю Ассирии, но не в ⟨помощь⟩ ему.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "разделил"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ахаз"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Дом ЯХВЕ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Дом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Дом царя"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Дом"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "и князей"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и дал"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ассирии"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "в ⟨помощь⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    }
+  ],
+  "timestamp": "2026-08-03T14:03:04.798059662Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "proverbs 18:22",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Кто ⟨находит⟩ ⟨жену⟩, ⟨находит⟩ благо, и ⟨получает⟩ благоволение от ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "מצא",
+      "gloss": "находит"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жену"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "находит"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "благо"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "получает"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "благоволение"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "от ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T09:44:39.736726112Z",
+  "model": "glm-4.5"
+}

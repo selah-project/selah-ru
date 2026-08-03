@@ -1,0 +1,39 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "deuteronomy 32:37",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "И скажет: где ⟨их⟩ Элохим, скала, в которой они уповали на Него?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "И скажет"
+    },
+    {
+      "surface": "אי",
+      "gloss": "где"
+    },
+    {
+      "surface": "אלהימו",
+      "gloss": "⟨их⟩ Элохим",
+      "marks": "их богов"
+    },
+    {
+      "surface": "צור",
+      "gloss": "скала"
+    },
+    {
+      "surface": "חסיו",
+      "gloss": "в которой они уповали"
+    },
+    {
+      "surface": "בו",
+      "gloss": "на Него",
+      "marks": "на скалу"
+    }
+  ],
+  "timestamp": "2026-08-02T22:23:04.245867451Z",
+  "model": "glm-4.5"
+}

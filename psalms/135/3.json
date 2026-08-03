@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 135,
+  "translation": "Хвалите Ях, ибо ЯХВЕ благ; воспевайте ⟨псалмы⟩ имени Его, ибо ⟨это⟩ приятно.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Хвалите"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "благ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "воспевайте"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "имени Его"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "приятно"
+    }
+  ],
+  "timestamp": "2026-08-03T09:05:19.711882462Z",
+  "model": "glm-4.5"
+}

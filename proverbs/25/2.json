@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 25:2",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "Слава Элохима — скрывать ⟨את⟩ дело, а слава царей — исследовать дело.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Слава"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Эlohима"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "— скрывать"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "дело"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "а слава"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "царей"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "— исследовать"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "дело"
+    }
+  ],
+  "timestamp": "2026-08-03T10:00:03.029081606Z",
+  "model": "glm-4.5"
+}

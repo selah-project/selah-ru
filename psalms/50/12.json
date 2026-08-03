@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 50,
+  "translation": "Если я проголодаюсь, не скажу тебе, ибо мир ⟨мой⟩ и ⟨его⟩ полнота.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Если"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "я проголодаюсь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "скажу"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨мой⟩",
+      "marks": "мир"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "мир"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "и ⟨его⟩ полнота"
+    }
+  ],
+  "timestamp": "2026-08-03T07:29:02.251734804Z",
+  "model": "glm-4.5"
+}

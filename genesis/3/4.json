@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И сказал змей ⟨и⟩ женщине: не ⟨вы⟩ умрете смертью.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "змей"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨и⟩"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "женщине"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מות",
+      "gloss": "⟨вы⟩"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "умрете смертью"
+    }
+  ],
+  "timestamp": "2026-08-02T17:46:36.380983911Z",
+  "model": "glm-4.5"
+}

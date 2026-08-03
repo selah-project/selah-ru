@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Есть зло, которое я видел под солнцем, как ошибку, исходящую от лица правителя:",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Есть"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "которое я видел"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "солнцем"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "как ошибку"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "исходящую"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "от лица"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "правителя"
+    }
+  ],
+  "timestamp": "2026-08-03T11:24:16.593745502Z",
+  "model": "glm-4.5"
+}

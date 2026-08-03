@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Конец ⟨всего⟩ слова, услышано: ⟨את⟩ Элохима бойся и ⟨את⟩ заповеди Его соблюдай, ибо это ⟨весь⟩ человек.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "Конец"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слова"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "⟨всего⟩"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "услышано"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эlohima"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Эlohима"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "бойся"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "zapovedi Ego"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "заповеди Его"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "соблюдай"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "זה",
+      "gloss": "это"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨весь⟩"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "человек"
+    }
+  ],
+  "timestamp": "2026-08-03T11:27:35.730619134Z",
+  "model": "glm-4.5"
+}

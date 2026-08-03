@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "psalms 135:19",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 135,
+  "translation": "Дом Исраэля, благословите ⟨את⟩ ЯХВЕ, дом Аарона, благословите ⟨את⟩ ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Дом"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраэля"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "благословите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарона"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "благословите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T09:06:04.203215140Z",
+  "model": "glm-4.5"
+}

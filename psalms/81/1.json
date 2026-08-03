@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 81,
+  "translation": "Начальнику ⟨над⟩ Гитти́том. Асафу.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Начальнику"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨над⟩"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Гитти́том"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Асафу"
+    }
+  ],
+  "timestamp": "2026-08-03T08:07:51.802331696Z",
+  "model": "glm-4.5"
+}

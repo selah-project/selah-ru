@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "Душа ⟨лентяя⟩ желает, но ⟨её⟩ нет; а душа усердных будет насыщена",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "желает"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "но ⟨её⟩ нет"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "душа ⟨лентяя⟩"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "⟨лентяя⟩"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "а душа"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "усердных"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "будет насыщена"
+    }
+  ],
+  "timestamp": "2026-08-03T09:36:46.630629180Z",
+  "model": "glm-4.5"
+}

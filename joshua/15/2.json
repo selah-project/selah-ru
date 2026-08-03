@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "joshua 15:2",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "И был ⟨у⟩ них ⟨предел⟩ юга от края Яма ⟨ha-Мелаха⟩, от ⟨лешона⟩, ⟨поне⟩ на юг.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И был"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨у⟩ них"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "⟨предел⟩"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "юга"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "от края"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Яма"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "⟨ha-Мелаха⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "הלשן",
+      "gloss": "⟨лешона⟩"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "⟨поне⟩"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "на юг"
+    }
+  ],
+  "timestamp": "2026-08-02T22:38:33.894143714Z",
+  "model": "glm-4.5"
+}

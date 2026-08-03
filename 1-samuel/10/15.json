@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И сказал дядя Шауля: поведай ⟨мне⟩, прошу, что сказал Шемуэль ⟨вам⟩",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "дядя"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шауля"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "поведай"
+    },
+    {
+      "surface": "נא",
+      "gloss": "прошу"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨мне⟩",
+      "marks": "дяде"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨вам⟩",
+      "marks": "Шаулю и слуге"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэль"
+    }
+  ],
+  "timestamp": "2026-08-02T23:21:52.828049102Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 105,
+  "translation": "И призвал голод на землю, всякий жезл хлеба сломал",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И призвал"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "голод"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всякий"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "жезл"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеба"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "сломал"
+    }
+  ],
+  "timestamp": "2026-08-03T08:34:24.293799280Z",
+  "model": "glm-4.5"
+}

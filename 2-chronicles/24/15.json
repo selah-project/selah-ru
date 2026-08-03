@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "2-chronicles 24:15",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "И постарел Йегояда и был насыщен днями и умер, сын ста и тридцати лет при его смерти",
+  "tokens": [
+    {
+      "surface": "ויזקן",
+      "gloss": "И постарел"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Йегояда"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "и был насыщен"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "днями"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умер"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ста"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "и тридцати"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "при его смерти"
+    }
+  ],
+  "timestamp": "2026-08-03T13:57:34.654305083Z",
+  "model": "glm-4.5"
+}

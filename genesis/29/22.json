@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "И собрал Лаван ⟨את⟩ всех людей ⟨места⟩ того, и сделал пир.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "и собрал"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всех людей"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "людей"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "⟨места⟩"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "и сделал"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "пир"
+    }
+  ],
+  "timestamp": "2026-08-02T19:29:37.079634174Z",
+  "model": "glm-4.5"
+}

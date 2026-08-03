@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 73,
+  "translation": "А я едва не споткнулся, едва не поскользнулись шаги мои.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "А я"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "едва не"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "споткнулся"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ноги мои"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "едва не"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "поскользнулись"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "шаги мои"
+    }
+  ],
+  "timestamp": "2026-08-03T07:53:26.730460600Z",
+  "model": "glm-4.5"
+}

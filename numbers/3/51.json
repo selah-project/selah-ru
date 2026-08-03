@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 51,
+  "ref": "numbers 3:51",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "и дал Моше ⟨את⟩ серебро выкупа Аарону и сынам его по слову ЯХВЕ, как заповедал ЯХВЕ ⟨את⟩ Моше",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "и дал"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "серебро выкупа"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "серебро"
+    },
+    {
+      "surface": "הפדים",
+      "gloss": "выкупа"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Аарону"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "и сынам его"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "פי",
+      "gloss": "слову"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповедал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-08-02T21:13:06.363789003Z",
+  "model": "glm-4.5"
+}

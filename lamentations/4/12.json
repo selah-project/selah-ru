@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "lamentations 4:12",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Не поверили цари земли и ⟨все⟩ живущие ⟨в⟩ тебеле, что придёт стеснитель и враг ⟨в⟩ ворота Иерушалаима.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "поверили"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "цари"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земли"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и ⟨все⟩"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "живущие"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨в⟩ тебеле"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "придёт"
+    },
+    {
+      "surface": "צר",
+      "gloss": "стеснитель"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "и враг"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "⟨в⟩ ворота"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Иерушалаима"
+    }
+  ],
+  "timestamp": "2026-08-03T11:13:49.798560335Z",
+  "model": "glm-4.5"
+}

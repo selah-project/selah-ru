@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "esther 6:5",
+  "book": "esther",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И сказали отроки царя ему: вот, Аман стоит во дворе. И сказал царь: пусть войдёт.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "и сказали"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "отроки"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Аман"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "стоит"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "во дворе"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "пусть войдёт"
+    }
+  ],
+  "timestamp": "2026-08-03T11:33:12.916367697Z",
+  "model": "glm-4.5"
+}

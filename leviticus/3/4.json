@@ -1,0 +1,84 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "и ⟨את⟩ две почки и ⟨את⟩ жир, который на них, который на бёдрах, и ⟨את⟩ выступ над печенью над почками он удалит",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "две почки"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "две"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "почки"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "жир"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "жир"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "на них"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "бёдрах"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "выступ"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "выступ"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "печенью"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "почками"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "он удалит"
+    }
+  ],
+  "timestamp": "2026-08-02T20:41:26.227638067Z",
+  "model": "glm-4.5"
+}

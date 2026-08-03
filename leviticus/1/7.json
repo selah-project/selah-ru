@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "и дадут сыновья Аарона ⟨коhен⟩ огонь на ⟨алтарь⟩, и разложат дрова на огонь",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "и дадут"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарона"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨коhен⟩"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огонь"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "⟨алтарь⟩"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "и разложат"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "дрова"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "האש",
+      "gloss": "огонь"
+    }
+  ],
+  "timestamp": "2026-08-02T20:40:20.371675752Z",
+  "model": "glm-4.5"
+}

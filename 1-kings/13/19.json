@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "И он вернулся с ним и ⟨את⟩ хлеб ⟨в⟩ его доме, и ⟨את⟩ воду пил",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "И он вернулся"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "с ним",
+      "marks": "с ним"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "и ⟨את⟩ хлеб"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "⟨в⟩ его доме"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "и ⟨את⟩ воду"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воду"
+    }
+  ],
+  "timestamp": "2026-08-03T00:44:02.578737889Z",
+  "model": "glm-4.5"
+}

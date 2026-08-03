@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "song-of-songs 4:15",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Источник садов, колодец вод живых, и потоки с Ливана.",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "Источник"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "садов"
+    },
+    {
+      "surface": "באר",
+      "gloss": "колодец"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вод"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живых"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "и потоки"
+    },
+    {
+      "surface": "מן",
+      "gloss": "с"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Ливана"
+    }
+  ],
+  "timestamp": "2026-08-03T10:56:15.350467720Z",
+  "model": "glm-4.5"
+}

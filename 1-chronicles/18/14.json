@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "1-chronicles 18:14",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И царствовал Давид над всем Исраэлем, и творил суд и праведность всему ⟨народу⟩ своему",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "И царствовал"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всем"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраэлем"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "творил"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "суд"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "и праведность"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "всему"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨народу⟩ своему"
+    }
+  ],
+  "timestamp": "2026-08-03T13:03:37.743020239Z",
+  "model": "glm-4.5"
+}

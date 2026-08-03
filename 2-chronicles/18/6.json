@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "2-chronicles 18:6",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И сказал Иегошафат: нет ли здесь пророка ЯХВЕ ещё, чтобы мы вопросили ⟨от него⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Иегошафат"
+    },
+    {
+      "surface": "האין",
+      "gloss": "нет ли"
+    },
+    {
+      "surface": "פה",
+      "gloss": "здесь"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "пророк"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ещё"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "и вопросили"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩",
+      "marks": "от него"
+    }
+  ],
+  "timestamp": "2026-08-03T13:48:03.977758839Z",
+  "model": "glm-4.5"
+}

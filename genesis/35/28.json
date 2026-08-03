@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "И были дни Ицхака сто ⟨и⟩ восемьдесят лет",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И были"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дни"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхака"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "сто"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "⟨и⟩ восемьдесят"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    }
+  ],
+  "timestamp": "2026-08-02T19:37:25.191054859Z",
+  "model": "glm-4.5"
+}

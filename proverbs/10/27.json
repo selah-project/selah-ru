@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "proverbs 10:27",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "Страх ЯХВЕ прибавит дни, а годы нечестивых сократятся",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "Страх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "прибавит"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "а годы"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивых"
+    },
+    {
+      "surface": "תקצרנה",
+      "gloss": "сократятся"
+    }
+  ],
+  "timestamp": "2026-08-03T09:33:01.632701968Z",
+  "model": "glm-4.5"
+}

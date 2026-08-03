@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "isaiah 40:18",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 40,
+  "translation": "И кому вы уподобите Эля и ⟨какое⟩ подобие поставите ⟨для⟩ Него?",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "И кому"
+    },
+    {
+      "surface": "מי",
+      "gloss": "вы"
+    },
+    {
+      "surface": "תדמיון",
+      "gloss": "уподобите"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эля"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "⟨какое⟩"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "подобие"
+    },
+    {
+      "surface": "תערכו",
+      "gloss": "поставите"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨для⟩ Него"
+    }
+  ],
+  "timestamp": "2026-08-03T02:26:47.627978286Z",
+  "model": "glm-4.5"
+}

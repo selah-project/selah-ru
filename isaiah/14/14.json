@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "isaiah 14:14",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Воссяду на высотах облаков, буду подобен Эльйону",
+  "tokens": [
+    {
+      "surface": "אעלה",
+      "gloss": "Воссяду"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "высотах"
+    },
+    {
+      "surface": "עב",
+      "gloss": "облаков"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "буду подобен"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "Эльйону"
+    }
+  ],
+  "timestamp": "2026-08-03T01:57:39.440461483Z",
+  "model": "glm-4.5"
+}

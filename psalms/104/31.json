@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 104,
+  "translation": "Да будет слава ЯХВЕ вовек; да возрадуется ЯХВЕ в делах Своих",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Да будет"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "слава"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "вовек"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "да возрадуется"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "в делах Своих"
+    }
+  ],
+  "timestamp": "2026-08-03T08:33:43.087363197Z",
+  "model": "glm-4.5"
+}

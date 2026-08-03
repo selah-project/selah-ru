@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "Да будут они мякиною перед ветром, и Ангел ЯХВЕ гонящий ⟨их⟩.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Да будут"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "мякиной"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "перед"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ветром"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "и Ангел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "гонящий"
+    }
+  ],
+  "timestamp": "2026-08-03T07:11:26.892663133Z",
+  "model": "glm-4.5"
+}

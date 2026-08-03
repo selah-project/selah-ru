@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 15:2",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "Язык мудрых ⟨делает⟩ знание ⟨хорошим⟩, а уста глупцов изливают глупость",
+  "tokens": [
+    {
+      "surface": "לשון",
+      "gloss": "язык"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудрых"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "⟨делает⟩"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знание"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "а уста"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "глупцов"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "изливают"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "глупость"
+    }
+  ],
+  "timestamp": "2026-08-03T09:39:31.567275673Z",
+  "model": "glm-4.5"
+}

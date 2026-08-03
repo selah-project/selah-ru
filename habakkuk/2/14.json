@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Ибо наполнится ⟨земля⟩ познанием ⟨את⟩ славы ЯХВЕ, как воды покрывают ⟨море⟩",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "наполнится"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨земля⟩"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "познанием"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "славу ЯХВЕ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "как воды"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "покрывают"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨над⟩"
+    },
+    {
+      "surface": "ים",
+      "gloss": "⟨море⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T05:58:08.636582728Z",
+  "model": "glm-4.5"
+}

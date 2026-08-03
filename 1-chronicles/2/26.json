@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "1-chronicles 2:26",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И была ⟨ещё⟩ женщина у Йерахмеэля, и имя её Атара, она мать Онама.",
+  "tokens": [
+    {
+      "surface": "וַתְּהִי",
+      "gloss": "И была"
+    },
+    {
+      "surface": "אִשָּׁה",
+      "gloss": "женщина"
+    },
+    {
+      "surface": "אַחֶרֶת",
+      "gloss": "⟨ещё⟩"
+    },
+    {
+      "surface": "לִירַחְמְאֵל",
+      "gloss": "у Йерахмеэля"
+    },
+    {
+      "surface": "וּשְׁמָהּ",
+      "gloss": "и имя её"
+    },
+    {
+      "surface": "עֲטָרָה",
+      "gloss": "Атара"
+    },
+    {
+      "surface": "הִיא",
+      "gloss": "она"
+    },
+    {
+      "surface": "אֵם",
+      "gloss": "мать"
+    },
+    {
+      "surface": "אוֹנָם",
+      "gloss": "Онама"
+    }
+  ],
+  "timestamp": "2026-08-03T12:37:40.923502637Z",
+  "model": "glm-4.5"
+}

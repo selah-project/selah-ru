@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Слова мудрецов [услышаны] в покое, [больше] чем крик правящего среди глупцов",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Слова"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудрецов"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "в покое"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "[услышаны]"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "чем крик"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "правящего"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "среди глупцов"
+    }
+  ],
+  "timestamp": "2026-08-03T11:23:29.409995523Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "nehemiah 12:18",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "к Билге, Шаммуа, к Шемайе, Йехонатану",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "к Билге"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "Шаммуа"
+    },
+    {
+      "surface": "לשמעיה",
+      "gloss": "к Шемайе"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йехонатану"
+    }
+  ],
+  "timestamp": "2026-08-03T12:31:31.737446164Z",
+  "model": "glm-4.5"
+}

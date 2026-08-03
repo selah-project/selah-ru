@@ -1,0 +1,39 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "она заготовляет ⟨её⟩ хлеб летом, собирает ⟨её⟩ пищу во время жатвы",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "заготовляет"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "⟨в⟩ лете"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "⟨её⟩ хлеб",
+      "marks": "bread"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "собирает"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "во время жатвы"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "⟨её⟩ пищу",
+      "marks": "food"
+    }
+  ],
+  "timestamp": "2026-08-03T09:27:29.024283365Z",
+  "model": "glm-4.5"
+}

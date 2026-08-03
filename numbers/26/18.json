@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "numbers 26:18",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Вот семейства сыновей Гада по их переписи: сорок тысяч и пять сотен",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "семейства"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гада"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "по их переписи"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "сорок"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тысяч"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "и пять"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотен"
+    }
+  ],
+  "timestamp": "2026-08-02T21:38:56.495624304Z",
+  "model": "glm-4.5"
+}

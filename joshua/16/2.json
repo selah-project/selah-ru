@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "joshua 16:2",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "и выходит из Бейт-Эла в Лузу и переходит к границе Архитов, к Атароту",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "и выходит"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "из"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Бейт-Эла"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "в Лузу"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "и переходит"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "границе"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "Архитов,"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "к Атароту"
+    }
+  ],
+  "timestamp": "2026-08-02T22:40:02.355413810Z",
+  "model": "glm-4.5"
+}

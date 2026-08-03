@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "С хасидом Ты поступаешь по хеседу, с мужем целостным — целостно",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "С"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "хасидом"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "поступаешь по хеседу"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "мужем"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "целостным"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "целостно"
+    }
+  ],
+  "timestamp": "2026-08-03T06:51:13.599485576Z",
+  "model": "glm-4.5"
+}

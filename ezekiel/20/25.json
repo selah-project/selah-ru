@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "ezekiel 20:25",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И также Я дал им уставы не ⟨хорошие⟩ и законы, в которых они не ⟨будут⟩ жить ⟨в них⟩",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "и также"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "дал"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "уставы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "хорошие"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "и законы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "будут жить"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "в них"
+    }
+  ],
+  "timestamp": "2026-08-03T04:40:44.476363480Z",
+  "model": "glm-4.5"
+}

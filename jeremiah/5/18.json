@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "jeremiah 5:18",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И даже в те дни, — слово ЯХВЕ, — не сделаю Я с вами ⟨полного⟩ конца.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "И даже"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "в те дни"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "— слово"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "сделаю Я"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "с вами"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "⟨полного⟩ конца"
+    }
+  ],
+  "timestamp": "2026-08-03T03:04:08.373815460Z",
+  "model": "glm-4.5"
+}

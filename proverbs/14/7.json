@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "proverbs 14:7",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Уйди от человека-глупца, и не познаешь уст знания.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Уйди"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "от"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "человека"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупца"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "познаешь"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "уст"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знания"
+    }
+  ],
+  "timestamp": "2026-08-03T09:38:15.630712528Z",
+  "model": "glm-4.5"
+}

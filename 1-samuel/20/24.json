@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И Давид скрылся в поле, и ⟨была⟩ новолуние, и сел царь ⟨за⟩ хлебом ⟨есть⟩",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "и скрылся"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "в поле"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и ⟨была⟩"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "новолуние"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и сел"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨за⟩"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "хлебом"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "⟨есть⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T23:36:03.523093309Z",
+  "model": "glm-4.5"
+}

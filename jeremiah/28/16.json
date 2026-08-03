@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "jeremiah 28:16",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Посему так говорит ЯХВЕ: вот, Я отправляю тебя с лица земли, в этом году ты умрёшь, ибо spoke ты мятеж против ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "посему"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "говорит"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "вот"
+    },
+    {
+      "surface": "משלחך",
+      "gloss": "Я отправляю тебя"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "с"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лица"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "земли"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "в этом году"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    },
+    {
+      "surface": "מת",
+      "gloss": "умрёшь"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "мятеж"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "spoke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "против"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T03:38:33.729527272Z",
+  "model": "glm-4.5"
+}

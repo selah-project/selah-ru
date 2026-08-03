@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Они взывали, но ⟨не было⟩ спасителя, к ЯХВЕ, но Он не отвечал им.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "Они взывали"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "но ⟨не было⟩"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "спасителя"
+    },
+    {
+      "surface": "על",
+      "gloss": "к"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "Он не отвечал им"
+    }
+  ],
+  "timestamp": "2026-08-03T06:51:51.772273627Z",
+  "model": "glm-4.5"
+}

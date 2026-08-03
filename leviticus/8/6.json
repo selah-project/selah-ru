@@ -1,0 +1,52 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И приблизил Моше ⟨את⟩ Аарона и ⟨את⟩ сыновей его, и омыл их водою.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "и приблизил"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аарона"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарона"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "сыновей его"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "сыновей его"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "и омыл"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "их",
+      "marks": "водою"
+    },
+    {
+      "surface": "במים",
+      "gloss": "водою"
+    }
+  ],
+  "timestamp": "2026-08-02T20:47:09.118496897Z",
+  "model": "glm-4.5"
+}

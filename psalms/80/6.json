@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 80,
+  "translation": "Ты дал им есть хлеб слёз и поил их слезами в третьей мере",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "Ты дал им есть"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "слёз"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "и поил их"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "слезами"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "в третьей мере"
+    }
+  ],
+  "timestamp": "2026-08-03T08:06:42.419768256Z",
+  "model": "glm-4.5"
+}

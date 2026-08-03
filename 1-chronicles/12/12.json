@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-chronicles 12:12",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Этай ⟨шестой⟩, Элиэль ⟨седьмой⟩",
+  "tokens": [
+    {
+      "surface": "עתי",
+      "gloss": "Этай"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "⟨шестой⟩"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "Элиэль"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "⟨седьмой⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T12:55:25.477299251Z",
+  "model": "glm-4.5"
+}

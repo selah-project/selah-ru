@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И шёл Давид, шёл и становился велик, и ЯХВЕ Цеваот был с ⟨ним⟩",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "И шёл"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "шёл"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "и становился велик"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "и ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "был с ⟨ним⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T12:53:00.583244969Z",
+  "model": "glm-4.5"
+}

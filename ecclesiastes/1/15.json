@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Искривлённое ⟨не⟩ можно выпрямить, и ⟨чего⟩ не хватает, ⟨не⟩ можно исчислить.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "искривлённое"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "можно"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "выпрямить"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "и ⟨чего⟩ не хватает"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "можно"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "исчислить"
+    }
+  ],
+  "timestamp": "2026-08-03T11:15:31.551575260Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 110,
+  "translation": "Он будет пить ⟨из⟩ потока ⟨на⟩ пути; поэтому поднимет голову.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "⟨из⟩ потока"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "⟨на⟩ пути"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "будет пить"
+    },
+    {
+      "surface": "על",
+      "gloss": "поэтому"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "ירים",
+      "gloss": "поднимет"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "голову"
+    }
+  ],
+  "timestamp": "2026-08-03T08:42:27.545605422Z",
+  "model": "glm-4.5"
+}

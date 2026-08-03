@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И сделал Ноах — ⟨по всему⟩, ⟨что⟩ заповедал ⟨ему⟩ Элохим — так ⟨и⟩ сделал ⟨он⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И сделал"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "⟨по всему⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨что⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповедал"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨ему⟩",
+      "marks": "Элохим"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    }
+  ],
+  "timestamp": "2026-08-02T17:50:00.016171452Z",
+  "model": "glm-4.5"
+}

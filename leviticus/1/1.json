@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И призвал ⟨Он⟩ Моше, и говорил ЯХВЕ с ним из Шатра Свидения, говоря:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И призвал"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "и говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "с ним"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "из Шатра"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Свидения"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-02T20:40:04.981289941Z",
+  "model": "glm-4.5"
+}

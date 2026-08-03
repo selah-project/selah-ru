@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И исполнилось семь дней после того, как ЯХВЕ поразил ⟨את⟩ реку",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "и исполнилось"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "семь"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дней"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "после того"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "как поразил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "реку"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "реку"
+    }
+  ],
+  "timestamp": "2026-08-02T20:01:23.679737672Z",
+  "model": "glm-4.5"
+}

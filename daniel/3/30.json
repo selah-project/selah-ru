@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "באדין царь ⟨дал⟩ успех לשדרך, Мишаху ⟨и⟩ Abed-Nego ⟨в⟩ стране Вавилонской",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "באדין"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "царь"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "⟨дал⟩ успех"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "лешадраху"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Мишаху"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "⟨и⟩"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Abed-Nego"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "⟨в⟩ стране"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилонской"
+    }
+  ],
+  "timestamp": "2026-08-03T11:42:01.754799135Z",
+  "model": "glm-4.5"
+}

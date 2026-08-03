@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Бремя Ниневии. Книга видения Нахума Элькошитянина.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "бремя"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ниневии"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Книга"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "видения"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "Нахума"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "Элькошитянина"
+    }
+  ],
+  "timestamp": "2026-08-03T05:54:04.434526638Z",
+  "model": "glm-4.5"
+}

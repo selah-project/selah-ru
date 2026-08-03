@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "nehemiah 12:13",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "от Эзры — Мешуллам; от Амарии — Иегоханан;",
+  "tokens": [
+    {
+      "surface": "לעזרא",
+      "gloss": "от Эзры"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Мешуллам"
+    },
+    {
+      "surface": "לאמריה",
+      "gloss": "от Амарии"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "Иегоханан"
+    }
+  ],
+  "timestamp": "2026-08-03T12:31:04.355266286Z",
+  "model": "glm-4.5"
+}

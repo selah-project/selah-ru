@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Губами моими пересказал ⟨я⟩ все суды уст Твоих",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "Губами моими"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "пересказал ⟨я⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "суды"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "уст Твоих"
+    }
+  ],
+  "timestamp": "2026-08-03T08:49:15.214867880Z",
+  "model": "glm-4.5"
+}

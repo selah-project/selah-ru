@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "1-chronicles 9:14",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И из левитов Шемайя, сын Хашшува, сын Азрикама, сын Хашавьи, из сынов Мерари",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "И из"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левитов"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемайя"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "Хашшува"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Азрикама"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Хашавьи"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мерари"
+    }
+  ],
+  "timestamp": "2026-08-03T12:50:45.397430894Z",
+  "model": "glm-4.5"
+}

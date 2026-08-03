@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 44,
+  "translation": "Весь день ⟨мой⟩ позор предо мной, и стыд лица моего покрыл меня",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "היום",
+      "gloss": "день"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "позор"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "предо мной"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "и стыд"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лица"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "покрыл меня"
+    }
+  ],
+  "timestamp": "2026-08-03T07:22:17.095700641Z",
+  "model": "glm-4.5"
+}

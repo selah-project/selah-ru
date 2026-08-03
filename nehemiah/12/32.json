@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "nehemiah 12:32",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "И после них шёл Гошеау, и половина начальников Иехуды,",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "и шёл"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "после них"
+    },
+    {
+      "surface": "הושעיה",
+      "gloss": "Гошеау"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "и половина"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "начальников"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иехуды"
+    }
+  ],
+  "timestamp": "2026-08-03T12:31:27.173103822Z",
+  "model": "glm-4.5"
+}

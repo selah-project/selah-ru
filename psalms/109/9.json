@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 109,
+  "translation": "Пусть сыновья его будут сиротами, а ⟨его⟩ жена — вдовой",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "пусть будут"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "сыновья его"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "сиротами"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "а жена его"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "вдовой"
+    }
+  ],
+  "timestamp": "2026-08-03T08:41:01.282011577Z",
+  "model": "glm-4.5"
+}

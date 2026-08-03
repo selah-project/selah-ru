@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 1:2",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "познать хохму и мусар, чтобы понять изречения бина",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "познать"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "хохму"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "и мусар"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "чтобы понять"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "изречения"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "бина"
+    }
+  ],
+  "timestamp": "2026-08-03T09:20:37.281885146Z",
+  "model": "glm-4.5"
+}

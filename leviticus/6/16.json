@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И ⟨вся⟩ минха́ коэ́на кали́л ⟨будет⟩, ⟨она⟩ не ⟨будет⟩ съедена.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "и ⟨вся⟩"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "минха́"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "коэ́на"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "кали́л"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨будет⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "⟨будет⟩ съедена"
+    }
+  ],
+  "timestamp": "2026-08-02T20:45:28.013286813Z",
+  "model": "glm-4.5"
+}

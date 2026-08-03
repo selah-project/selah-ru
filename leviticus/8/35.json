@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "leviticus 8:35",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "у ⟨פתח⟩ шатра собрания дневать и ночевать семь дней и ⟨את⟩ стражу ЯХВЕ храните, и не умрёте, ибо так ⟨я⟩ повелел",
+  "tokens": [
+    {
+      "surface": "ופתח",
+      "gloss": "у ⟨פתח⟩"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатра"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "собрания"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "дневать и ночевать"
+    },
+    {
+      "surface": "יומם",
+      "gloss": ""
+    },
+    {
+      "surface": "ולילה",
+      "gloss": ""
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "семь"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дней"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "храните"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "стражу"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "стражу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "умрёте"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "⟨я⟩ повелел"
+    }
+  ],
+  "timestamp": "2026-08-02T20:48:06.651045399Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "1-chronicles 9:8",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "и Йивнеия, сын Йерохама, и Эла, сын Уззи, сын Микри, и Мешуллам, сын Шефатии, сын Реуэла, сын Йивнии",
+  "tokens": [
+    {
+      "surface": "ויבניה",
+      "gloss": "и Йивнеия"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Йерохама"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "и Эла"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Уззи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "Микри"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "и Мешуллам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Шефатии"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Реуэла"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "יבניה",
+      "gloss": "Йивнии"
+    }
+  ],
+  "timestamp": "2026-08-03T12:50:26.426271794Z",
+  "model": "glm-4.5"
+}

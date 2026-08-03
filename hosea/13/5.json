@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "Я познал тебя ⟨в⟩ пустыне, ⟨в⟩ земле иссушения.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "познал тебя"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "⟨в⟩ пустыне"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨в⟩ земле"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "иссушения"
+    }
+  ],
+  "timestamp": "2026-08-03T05:29:08.987183035Z",
+  "model": "glm-4.5"
+}

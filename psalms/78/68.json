@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 78,
+  "translation": "и избрал ⟨את⟩ колено Иуды, ⟨את⟩ гору Сион, которую возлюбил.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "и избрал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "колено Иуды"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "колено"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иуды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гору Сион"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Сион"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которую"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "возлюбил"
+    }
+  ],
+  "timestamp": "2026-08-03T08:05:05.731734881Z",
+  "model": "glm-4.5"
+}

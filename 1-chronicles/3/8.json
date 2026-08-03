@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "и Элишама, и Элиада, и Элифалет — девять.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "и Элишама"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "и Элиада"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "и Элифалет"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "девять"
+    }
+  ],
+  "timestamp": "2026-08-03T12:39:08.749625718Z",
+  "model": "glm-4.5"
+}

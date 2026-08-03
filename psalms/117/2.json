@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 117,
+  "translation": "Ибо велико над нами хесед Его, и истина ЯХВЕ навсегда. Хвалите Яха.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "велико"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "над нами"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хесед Его"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "и истина"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навсегда"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Хвалите"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яха"
+    }
+  ],
+  "timestamp": "2026-08-03T08:47:25.953749622Z",
+  "model": "glm-4.5"
+}

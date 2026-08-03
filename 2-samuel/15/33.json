@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "2-samuel 15:33",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "И сказал ему Давид: «Если ты перейдёшь со мной, то будешь мне ⟨в тягость⟩».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "עברת",
+      "gloss": "перейдёшь"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "со мной"
+    },
+    {
+      "surface": "והית",
+      "gloss": "то будешь"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "в тягость"
+    }
+  ],
+  "timestamp": "2026-08-03T00:03:44.298582907Z",
+  "model": "glm-4.5"
+}

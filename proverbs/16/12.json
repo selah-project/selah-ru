@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "proverbs 16:12",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Мерзость для царей — делать зло, ибо в праведности утверждается ⟨כסא⟩.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "мерзость"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "для царей"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "делать"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "в праведности"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "утверждается"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "⟨כסא⟩",
+      "marks": "трон"
+    }
+  ],
+  "timestamp": "2026-08-03T09:41:34.685426993Z",
+  "model": "glm-4.5"
+}

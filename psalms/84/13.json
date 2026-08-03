@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 84:13",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 84,
+  "translation": "О ЯХВЕ Цеваот, блажен человек, доверяющийся Тебе!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "блажен"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человек"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "доверяющийся"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Тебе"
+    }
+  ],
+  "timestamp": "2026-08-03T08:10:07.916785996Z",
+  "model": "glm-4.5"
+}

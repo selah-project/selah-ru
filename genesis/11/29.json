@@ -1,0 +1,89 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "genesis 11:29",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И взяли Аврам и Нахор себе жён; имя жены Аврама Сара, а имя жены Нахора Милка, дочь Арана, отца Милки и отца Иски.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "И взяли"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "ונחור",
+      "gloss": "и Нахор"
+    },
+    {
+      "surface": "להם",
+      "gloss": "себе"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "жён"
+    },
+    {
+      "surface": "שם",
+      "gloss": "имя"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жены"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврама"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Сара"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "а имя"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жены"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Нахора"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Милка"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочь"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Арана"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отца"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Милки"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "и отца"
+    },
+    {
+      "surface": "יסכה",
+      "gloss": "Иски"
+    }
+  ],
+  "timestamp": "2026-08-02T19:08:42.087279839Z",
+  "model": "glm-4.5"
+}

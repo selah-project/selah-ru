@@ -1,0 +1,21 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "deuteronomy 5:19",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "не укради",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "укради"
+    }
+  ],
+  "timestamp": "2026-08-02T21:55:57.330740705Z",
+  "model": "glm-4.5"
+}

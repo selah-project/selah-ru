@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "ezra 5:6",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Копия письма, которую Таттай, gouvernor ⟨за⟩ рекой, и Шетар-Бознай, и его товарищи Афарсахиты, что ⟨за⟩ рекой, послали к Дарию царю:",
+  "tokens": [
+    {
+      "surface": "פרשגן",
+      "gloss": "Копия"
+    },
+    {
+      "surface": "אגרתא",
+      "gloss": "письма"
+    },
+    {
+      "surface": "די",
+      "gloss": "которую"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "послали"
+    },
+    {
+      "surface": "תתני",
+      "gloss": "Таттай"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "gouvernor"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "⟨за⟩"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "рекой"
+    },
+    {
+      "surface": "ושתר",
+      "gloss": "и Шетар"
+    },
+    {
+      "surface": "בוזני",
+      "gloss": "-Бознай"
+    },
+    {
+      "surface": "וכנותה",
+      "gloss": ", и его товарищи"
+    },
+    {
+      "surface": "אפרסכיא",
+      "gloss": "Афарсахиты"
+    },
+    {
+      "surface": "די",
+      "gloss": "что"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "⟨за⟩"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "рекой"
+    },
+    {
+      "surface": "על",
+      "gloss": "к"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Дарию"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "царю"
+    }
+  ],
+  "timestamp": "2026-08-03T12:03:20.803352845Z",
+  "model": "glm-4.5"
+}

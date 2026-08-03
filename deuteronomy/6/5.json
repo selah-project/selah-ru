@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "и люби ⟨את⟩ ЯХВЕ, Эlohim твоего, всем сердцем твоим, и всем нефеш твоей, и всей силой твоей",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "и люби"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Эlohim твоего"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "всем"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "сердцем твоим"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "и всем"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "нефеш твоей"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "и всей"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "силой твоей"
+    }
+  ],
+  "timestamp": "2026-08-02T21:57:15.489986063Z",
+  "model": "glm-4.5"
+}

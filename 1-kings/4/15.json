@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "Ахимаац был в Неффалиме, он также взял ⟨את⟩ Башмать, дочь Шломо, в жёны",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ахимаац"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "в Неффалиме"
+    },
+    {
+      "surface": "גם",
+      "gloss": "также"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "взял"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Башмать"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Башмать"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочь"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "в жёны"
+    }
+  ],
+  "timestamp": "2026-08-03T00:23:55.140887364Z",
+  "model": "glm-4.5"
+}

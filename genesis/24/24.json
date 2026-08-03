@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "genesis 24:24",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "И сказала она ему: дочь Бетуэла ⟨я⟩, сына Милки, ⟨которую⟩ родила Нахору.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "И сказала"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочь"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Бетуэла"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨я⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Милки"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨которую⟩"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "родила"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "Нахору"
+    }
+  ],
+  "timestamp": "2026-08-02T19:21:45.756021150Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Это было для меня, что ⟨я⟩ соблюл повеления Твои.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "это"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "было"
+    },
+    {
+      "surface": "לי",
+      "gloss": "для меня"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "повеления Твои"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "⟨я⟩ соблюл"
+    }
+  ],
+  "timestamp": "2026-08-03T08:50:52.870001050Z",
+  "model": "glm-4.5"
+}

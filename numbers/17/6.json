@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "numbers 17:6",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "И murmurated ⟨это⟩ всё общество сынов Израиля ⟨на⟩ следующий день против Моше и против Аарона, говоря: вы умертвили ⟨את⟩ народ ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "и murmurated"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "общество"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "⟨на⟩ следующий день"
+    },
+    {
+      "surface": "על",
+      "gloss": "против"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и против"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарона"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вы"
+    },
+    {
+      "surface": "המתם",
+      "gloss": "умертили"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T21:30:27.426068406Z",
+  "model": "glm-4.5"
+}

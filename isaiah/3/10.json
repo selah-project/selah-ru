@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Скажите праведнику: хорошо, ибо плод дел своих ⟨они⟩ съедят",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Скажите"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведнику"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "хорошо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "плод"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "дел своих"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "съедят"
+    }
+  ],
+  "timestamp": "2026-08-03T01:43:15.088836929Z",
+  "model": "glm-4.5"
+}

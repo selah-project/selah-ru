@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Но к знатным сынов Израиля не простер Он руки, и увидели они ⟨את⟩ Элохима, и ели, и пили",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Но"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "знатным"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "простер"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "руки"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "увидели"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элохима"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохима"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ели"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "пили"
+    }
+  ],
+  "timestamp": "2026-08-02T20:18:17.974899754Z",
+  "model": "glm-4.5"
+}

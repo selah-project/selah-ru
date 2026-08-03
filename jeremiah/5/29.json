@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "jeremiah 5:29",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Разве ⟨не⟩ накажу ЯХВЕ за это, — слово ЯХВЕ, — разве ⟨не⟩ отомстит нефеш Моя на таком народе, ⟨как⟩ ⟨этот⟩?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "Разве"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "за это"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "накажу"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "разве"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "на народе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨как⟩"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "⟨этот⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "תתנקם",
+      "gloss": "отомстит"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "нефеш Моя"
+    }
+  ],
+  "timestamp": "2026-08-03T03:03:48.326224439Z",
+  "model": "glm-4.5"
+}

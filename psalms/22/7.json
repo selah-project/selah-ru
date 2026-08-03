@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "А я — червь, а не человек; поношение людей и презираемый народом.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "А я"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "червь"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человек"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "поношение"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "людей"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "и презираемый"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народом"
+    }
+  ],
+  "timestamp": "2026-08-03T06:54:55.222630042Z",
+  "model": "glm-4.5"
+}

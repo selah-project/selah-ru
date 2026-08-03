@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "job 39:13",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 39,
+  "translation": "Крыло ⟨ ostrich› трепещет ⟨ joyfully⟩; ⟨ are ли⟩ перо и оперение ⟨ stork⟩?",
+  "tokens": [
+    {
+      "surface": "כנף",
+      "gloss": "Крыло"
+    },
+    {
+      "surface": "רננים",
+      "gloss": "⟨ ostrich⟩"
+    },
+    {
+      "surface": "נעלסה",
+      "gloss": "трепещет"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ are ли⟩"
+    },
+    {
+      "surface": "אברה",
+      "gloss": "перо"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "⟨ stork⟩"
+    },
+    {
+      "surface": "ונצה",
+      "gloss": "и оперение"
+    }
+  ],
+  "timestamp": "2026-08-03T10:50:46.533137770Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "deuteronomy 28:10",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "И увидят все ⟨народы⟩ ⟨земли⟩, что Имя ЯХВЕ invoked над тобой, и будут бояться тебя.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "и увидят"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "⟨народы⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨земли⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Имя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "invoked"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "над тобой"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "и будут бояться"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "тебя"
+    }
+  ],
+  "timestamp": "2026-08-02T22:17:27.681493126Z",
+  "model": "glm-4.5"
+}

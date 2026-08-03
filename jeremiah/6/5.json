@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "jeremiah 6:5",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Вставайте, и пойдём мы ночью, и уничтожим мы дворцы её.",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "вставайте"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "и пойдём мы"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ночью"
+    },
+    {
+      "surface": "ונשחיתה",
+      "gloss": "и уничтожим мы"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "дворцы её"
+    }
+  ],
+  "timestamp": "2026-08-03T03:05:10.322141278Z",
+  "model": "glm-4.5"
+}

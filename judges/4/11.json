@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "judges 4:11",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "А Хэвер ⟨ה⟩Кеинит отделился от Keini, от сыновей Ховава, тестя Моше, и stretching ⟨он⟩ шатёр ⟨свой⟩ до дуба в Цаанаим, который ⟨את⟩ Кедеш.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "А Хэвер"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "⟨ה⟩Кеинит"
+    },
+    {
+      "surface": "נפרד",
+      "gloss": "отделился"
+    },
+    {
+      "surface": "מקין",
+      "gloss": "от Keini"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "от сыновей"
+    },
+    {
+      "surface": "חבב",
+      "gloss": "Ховава"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "тěstя"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "и stretching"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "шатёр ⟨свой⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "дуба"
+    },
+    {
+      "surface": "בצענים",
+      "gloss": "в Цаанаим"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Кедеш"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Кедеш"
+    }
+  ],
+  "timestamp": "2026-08-02T22:52:44.955801086Z",
+  "model": "glm-4.5"
+}

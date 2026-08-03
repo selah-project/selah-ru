@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "isaiah 37:15",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "И помолился Хизки́яху к ЯХВЕ, говоря:",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "и помолился"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизки́яху"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-03T02:21:54.396108122Z",
+  "model": "glm-4.5"
+}

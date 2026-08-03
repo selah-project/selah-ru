@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "и снимет ⟨את⟩ одежды его и наденет одежды другие и вынесет ⟨את⟩ пепел наружу к стану к месту чистому",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "и снимет"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "одежды его"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "одежды его"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "и наденет"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "одежды"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "другие"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "и вынесет"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пепел"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "пепел"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "наружу"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "к стану"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "месту"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чистому"
+    }
+  ],
+  "timestamp": "2026-08-02T20:44:15.805331554Z",
+  "model": "glm-4.5"
+}

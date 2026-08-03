@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "isaiah 32:12",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "Плачем ⟨по⟩ грудям, по полям желанным, по лозе плодоносной.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "грудям"
+    },
+    {
+      "surface": "ספדים",
+      "gloss": "плачем"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "полям"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "желанным"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "лозе"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "плодоносной"
+    }
+  ],
+  "timestamp": "2026-08-03T02:17:11.222744774Z",
+  "model": "glm-4.5"
+}

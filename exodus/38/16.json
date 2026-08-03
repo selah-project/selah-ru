@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 38,
+  "translation": "Все завесы двора, кругом — из виссона скрученного.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Все"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "завесы"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "двора"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "кругом"
+    },
+    {
+      "surface": "שש",
+      "gloss": "из виссона"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "скрученного"
+    }
+  ],
+  "timestamp": "2026-08-02T20:36:13.704277631Z",
+  "model": "glm-4.5"
+}

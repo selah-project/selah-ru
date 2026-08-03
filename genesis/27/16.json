@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "и ⟨את⟩ шкуры козлят коз облекла на руки его и на гладь шеи его",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "шкуры козлят коз"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "шкуры"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "козлят"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "коз"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "облекла"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "руки его"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "гладь"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "шеи его"
+    }
+  ],
+  "timestamp": "2026-08-02T19:27:12.807752745Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "deuteronomy 34:12",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "и во всей сильной руке и во всем великом страхе, который сделал Моше перед глазами всего Израиля",
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "и во всей"
+    },
+    {
+      "surface": "היד",
+      "gloss": "руке"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "сильной"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "и во всем"
+    },
+    {
+      "surface": "המורא",
+      "gloss": "страхе"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "великом"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "перед глазами"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всего"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-02T22:24:43.880874202Z",
+  "model": "glm-4.5"
+}

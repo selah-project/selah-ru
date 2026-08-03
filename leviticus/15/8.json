@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "leviticus 15:8",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "И если плюнёт ⟨тот⟩ у Issue на ⟨того⟩ чистого, то омоет одежды свои и омоется в воде, и нечист будет до вечера.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "И если"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "плюнёт"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "⟨тот⟩ у Issue"
+    },
+    {
+      "surface": "בטהור",
+      "gloss": "на ⟨того⟩ чистого"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "то омоет"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "одежды свои"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "и омоется"
+    },
+    {
+      "surface": "במים",
+      "gloss": "в воде"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "и нечист"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "вечера"
+    }
+  ],
+  "timestamp": "2026-08-02T20:55:19.626545924Z",
+  "model": "glm-4.5"
+}

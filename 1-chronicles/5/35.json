@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И Ахимац родил ⟨את⟩ Азарьяу, и Азарьяу родил ⟨את⟩ Йоханана",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "И Ахимац"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "родил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Азарьяу"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азарьяу"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "и Азарьяу"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "родил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йоханана"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Йоханана"
+    }
+  ],
+  "timestamp": "2026-08-03T12:43:41.781581910Z",
+  "model": "glm-4.5"
+}

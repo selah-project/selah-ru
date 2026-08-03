@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "proverbs 5:21",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Ибо пред глазами ЯХВЕ ⟨находятся⟩ пути человека и ⟨Он⟩ взвешивает все ⟨его⟩ тропы",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "пред"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "глазами"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "пути"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человека"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и все"
+    },
+    {
+      "surface": "מעגלתיו",
+      "gloss": "тропы"
+    },
+    {
+      "surface": "מפלס",
+      "gloss": "взвешивает"
+    }
+  ],
+  "timestamp": "2026-08-03T09:26:24.420088918Z",
+  "model": "glm-4.5"
+}

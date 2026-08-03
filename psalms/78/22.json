@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 78,
+  "translation": "Потому что не поверили в Элохима и не уповали на ⟨Его⟩ спасение",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Потому что"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "поверили"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "в Эlohима"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "уповали"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "на ⟨Его⟩ спасение"
+    }
+  ],
+  "timestamp": "2026-08-03T08:02:49.684525920Z",
+  "model": "glm-4.5"
+}

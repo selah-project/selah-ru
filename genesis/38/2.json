@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "genesis 38:2",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 38,
+  "translation": "И увидел там Йехуда дочь некоего ханаанея, имя ⟨ему⟩ Шуа, и взял ⟨её⟩, и вошёл к ⟨ней⟩",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "и увидел"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуда"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочь"
+    },
+    {
+      "surface": "איש",
+      "gloss": "некоего"
+    },
+    {
+      "surface": "כנעני",
+      "gloss": "ханаанея"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "имя ⟨ему⟩"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Шуа"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "и взял ⟨её⟩"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и вошёл"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "к ⟨ней⟩",
+      "marks": "к ней"
+    }
+  ],
+  "timestamp": "2026-08-02T19:40:50.937887794Z",
+  "model": "glm-4.5"
+}

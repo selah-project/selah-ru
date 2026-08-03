@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 43,
+  "translation": "И не взывал ты ⟨ко⟩ мне, Яаков, ибо устал ты ⟨от⟩ меня, Израиль",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И не"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨ко⟩ мне",
+      "marks": "קראת"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "взывал ты"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "устал ты"
+    },
+    {
+      "surface": "בי",
+      "gloss": "⟨от⟩ меня"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    }
+  ],
+  "timestamp": "2026-08-03T02:30:31.467517248Z",
+  "model": "glm-4.5"
+}

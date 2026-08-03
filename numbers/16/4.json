@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "И услышал Моше, и пал ⟨на⟩ лицо ⟨своё⟩:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "и услышал"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "и пал"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩",
+      "marks": "лицо"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лицо ⟨своё⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T21:28:32.472321519Z",
+  "model": "glm-4.5"
+}

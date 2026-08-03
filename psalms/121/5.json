@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 121,
+  "translation": "ЯХВЕ — хранитель твой, ЯХВЕ — тень твоя ⟨на⟩ руке ⟨твоей⟩ правой.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "хранитель твой"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "тень твоя"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "יד",
+      "gloss": "руке"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "⟨твоей⟩ правой"
+    }
+  ],
+  "timestamp": "2026-08-03T08:56:36.286976366Z",
+  "model": "glm-4.5"
+}

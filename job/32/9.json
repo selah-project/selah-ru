@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "job 32:9",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "Не ⟨многие⟩ мудры, и старцы не постигают ⟨суда⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "⟨многие⟩"
+    },
+    {
+      "surface": "יחכמו",
+      "gloss": "мудры"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "и старцы"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "не постигают"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "⟨суда⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T10:37:38.907523858Z",
+  "model": "glm-4.5"
+}

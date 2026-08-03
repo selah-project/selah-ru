@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "2-chronicles 14:1",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И сделал Аса ⟨как⟩ хорошее и прямое в глазах ЯХВЕ Элохим ⟨Своего⟩",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И сделал"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Аса"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "хорошее"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "и прямое"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в глазах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Элохим ⟨Своего⟩",
+      "marks": "Элохим ⟨Своего⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T13:41:26.890717766Z",
+  "model": "glm-4.5"
+}

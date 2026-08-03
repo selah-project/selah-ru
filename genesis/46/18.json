@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "genesis 46:18",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 46,
+  "translation": "Вот сыновья Зилпы, которых Лаван дал Лее, дочери своей, и она родила ⟨את⟩ эти Яакову, шестнадцать нефеш.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Зилпы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которых"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дал"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "Лее"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "дочери своей"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и она родила"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эти"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "эти"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яакову"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шестнадцать"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нефеш"
+    }
+  ],
+  "timestamp": "2026-08-02T19:50:45.308805431Z",
+  "model": "glm-4.5"
+}

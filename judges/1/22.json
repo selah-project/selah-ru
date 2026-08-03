@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "judges 1:22",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И взошёл дом Йосефа также ⟨они⟩ в Бейт-Эль, и ЯХВЕ ⟨был⟩ с ⟨ними⟩",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "И взошёл"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефа"
+    },
+    {
+      "surface": "גם",
+      "gloss": "также"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨они⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-Эль"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨в⟩"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "и ЯХВЕ"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "с ⟨ними⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T22:49:26.083456479Z",
+  "model": "glm-4.5"
+}

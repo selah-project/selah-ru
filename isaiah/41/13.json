@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "isaiah 41:13",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 41,
+  "translation": "ибо Я — ЯХВЕ, Элохim твой, держащий правую руку твою, говорящий тебе: не бойся, Я помог тебе",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Эlohim твой"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "держащий"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "правую руку твою"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "говорящий"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "бойся"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "помог тебе"
+    }
+  ],
+  "timestamp": "2026-08-03T02:28:18.337308939Z",
+  "model": "glm-4.5"
+}

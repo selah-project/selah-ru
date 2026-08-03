@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "nehemiah 10:11",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И братья их: Шевания, Годия, Клита, Пелая, Ханан",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "и братья их"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "Шевания"
+    },
+    {
+      "surface": "הודיה",
+      "gloss": "Годия"
+    },
+    {
+      "surface": "קליטא",
+      "gloss": "Клита"
+    },
+    {
+      "surface": "פלאיה",
+      "gloss": "Пелая"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Ханан"
+    }
+  ],
+  "timestamp": "2026-08-03T12:27:53.754001097Z",
+  "model": "glm-4.5"
+}

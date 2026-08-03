@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 51,
+  "ref": "numbers 31:51",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "И взял Моше и Элэазар, священник, ⟨את⟩ золото у них, всякое изделие, дело",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "и взял"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "и Элэазар"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "священник"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "золото"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "золото"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "у них"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всякое"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "изделие"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "дело"
+    }
+  ],
+  "timestamp": "2026-08-02T21:45:13.838939751Z",
+  "model": "glm-4.5"
+}

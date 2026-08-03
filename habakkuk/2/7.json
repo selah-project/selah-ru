@@ -1,0 +1,52 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "habakkuk 2:7",
+  "book": "habakkuk",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Неужели внезапно не восстанут bite-твои и пробудятся, agitators-твои, и ты будешь ⟨для⟩ добычи им?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Неужели"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "внезапно"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "восстанут"
+    },
+    {
+      "surface": "נשכיך",
+      "gloss": "bite-твои",
+      "marks": "bite-твои"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "и пробудятся"
+    },
+    {
+      "surface": "מזעזעיך",
+      "gloss": "agitators-твои",
+      "marks": "agitators-твои"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "и ты будешь"
+    },
+    {
+      "surface": "למשסות",
+      "gloss": "⟨для⟩ добычи",
+      "marks": "добычи"
+    },
+    {
+      "surface": "למו",
+      "gloss": "им"
+    }
+  ],
+  "timestamp": "2026-08-03T05:57:55.081346743Z",
+  "model": "glm-4.5"
+}

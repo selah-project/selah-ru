@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "joshua 10:7",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И взошёл Йегошуа из Гилгала, он и весь ⟨народ⟩ ⟨войны⟩ с ним, и все ⟨могучие⟩ ⟨силы⟩",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "и взошёл"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йегошуа"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Гилгала"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и весь"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨народ⟩"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "⟨войны⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с ним"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и все"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "⟨могучие⟩"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "⟨силы⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T22:33:56.746423299Z",
+  "model": "glm-4.5"
+}

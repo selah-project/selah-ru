@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "psalms 68:27",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 68,
+  "translation": "В собраниях благословляйте Элохима, ЯХВЕ, от истока Израиля.",
+  "tokens": [
+    {
+      "surface": "במקהלות",
+      "gloss": "В собраниях"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "благословляйте"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Эlohима"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ממקור",
+      "gloss": "от истока"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-03T07:48:12.547323230Z",
+  "model": "glm-4.5"
+}

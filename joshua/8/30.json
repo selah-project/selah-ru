@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "joshua 8:30",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "Тогда Йехошуа построил жертвенник ЯХВЕ, Элохим Израиля, на горе Эвал",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тогда"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "построил"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йехошуа"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "жертвенник"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "на горе"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Эвал"
+    }
+  ],
+  "timestamp": "2026-08-02T22:31:47.148742739Z",
+  "model": "glm-4.5"
+}

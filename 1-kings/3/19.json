@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "и умер сын ⟨этой⟩ женщины ночью, когда она ⟨сверглась⟩ ⟨את⟩ него",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "и умер"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "женщины"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "этой"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ночью"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "когда"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "сверглась"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨את⟩",
+      "marks": "него"
+    }
+  ],
+  "timestamp": "2026-08-03T00:22:28.942962449Z",
+  "model": "glm-4.5"
+}

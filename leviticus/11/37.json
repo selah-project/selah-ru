@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "leviticus 11:37",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И если упадёт от их падали ⟨на⟩ любое зерно посева, которое ⟨сеют⟩, чисто оно",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "и если"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "упадёт"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "от их падали"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "любое"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "зерно"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "посева"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "⟨сеют⟩"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чисто"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "оно"
+    }
+  ],
+  "timestamp": "2026-08-02T20:50:53.054166041Z",
+  "model": "glm-4.5"
+}

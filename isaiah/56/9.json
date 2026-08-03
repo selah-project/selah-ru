@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 56,
+  "translation": "Все звери поля, придите пожирать, ⟨все⟩ звери ⟨в⟩ лесу!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Все"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "звери"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "поля"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "придите"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "пожирать"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨все⟩"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "звери"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "⟨в⟩ лесу"
+    }
+  ],
+  "timestamp": "2026-08-03T02:45:57.508190508Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "proverbs 21:15",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Радость праведнику — творить суд, ⟨а⟩ гибель делателям нечестия.",
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "радость"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "праведнику"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "творить"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "суд"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "⟨а⟩ гибель"
+    },
+    {
+      "surface": "לפעלי",
+      "gloss": "делателям"
+    },
+    {
+      "surface": "און",
+      "gloss": "нечестия"
+    }
+  ],
+  "timestamp": "2026-08-03T09:48:41.564657344Z",
+  "model": "glm-4.5"
+}

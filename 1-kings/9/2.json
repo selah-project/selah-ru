@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "что ЯХВЕ явился Шеломо второй раз, как явился ему в Гивоне",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "что ⟨явился⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "второй"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "⟨явился⟩"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "в Гивоне"
+    }
+  ],
+  "timestamp": "2026-08-03T00:35:56.665796723Z",
+  "model": "glm-4.5"
+}

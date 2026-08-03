@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "jeremiah 36:11",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "И услышал Михея, сын Гемарии, сын Шафана, ⟨את⟩ все слова ЯХВЕ ⟨от⟩ ⟨свитка⟩",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "И услышал"
+    },
+    {
+      "surface": "מכיהו",
+      "gloss": "Михея"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "גמריהו",
+      "gloss": "Гемарии"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Шафана"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "все слова ЯХВЕ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "⟨от⟩"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "⟨свитка⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T03:50:51.631315271Z",
+  "model": "glm-4.5"
+}

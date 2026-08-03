@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И услышал Моше, и ⟨это⟩ было благо в ⟨его⟩ глазах.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "и услышал"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "и было благо"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "в ⟨его⟩ глазах"
+    }
+  ],
+  "timestamp": "2026-08-02T20:49:18.962560766Z",
+  "model": "glm-4.5"
+}

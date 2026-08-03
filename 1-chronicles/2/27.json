@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "1-chronicles 2:27",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И сыновья Рама, первенца Йерахмеэля: Маац и Ямин и Экер.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И были"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Рама"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "первенца"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Йерахмеэля"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "Маац"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "и Ямин"
+    },
+    {
+      "surface": "ועקר",
+      "gloss": "и Экер"
+    }
+  ],
+  "timestamp": "2026-08-03T12:37:18.969772033Z",
+  "model": "glm-4.5"
+}

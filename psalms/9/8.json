@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "А ЯХВЕ ⟨пребывает⟩ во век, поставил ⟨Он⟩ трон Свой для суда,",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "А ЯХВЕ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "во век"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "⟨пребывает⟩"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "поставил"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "для суда"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "трон Свой"
+    }
+  ],
+  "timestamp": "2026-08-03T06:38:42.090312345Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Бунтарями вы были с ЯХВЕ, с того дня, ⟨את⟩ вас познал я.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "Бунтарями"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "вы были"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "с того дня"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "познал я"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    }
+  ],
+  "timestamp": "2026-08-02T22:01:04.781268494Z",
+  "model": "glm-4.5"
+}

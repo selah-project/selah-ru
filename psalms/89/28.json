@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 89,
+  "translation": "Даже Я сделаю его первенцем, высочайшим из царей земли.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Даже"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "первенцем"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "сделаю его"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "высочайшим"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "из царей"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земли"
+    }
+  ],
+  "timestamp": "2026-08-03T08:16:07.565965731Z",
+  "model": "glm-4.5"
+}

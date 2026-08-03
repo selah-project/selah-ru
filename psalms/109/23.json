@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 109,
+  "translation": "Как тень при её склоне, я хожу, стряхнут как саранчу",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "как тень"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "при её склоне"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "я хожу"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "стряхнут"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "как саранчу"
+    }
+  ],
+  "timestamp": "2026-08-03T08:40:54.187519407Z",
+  "model": "glm-4.5"
+}

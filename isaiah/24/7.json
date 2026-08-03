@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "isaiah 24:7",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Плачет свежее вино, увяла ⟨это⟩ лоза, вздыхают все ⟨те⟩ веселые сердцем.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "плачет"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "свежее вино"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "увяла"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "лозу"
+    },
+    {
+      "surface": "נאנחו",
+      "gloss": "вздыхают"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "веселые"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сердцем"
+    }
+  ],
+  "timestamp": "2026-08-03T02:08:04.888394847Z",
+  "model": "glm-4.5"
+}

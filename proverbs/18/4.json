@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Глубокие воды — слова в устах человека, и источник Хохмы — бурлящий поток.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "воды"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "глубокие"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "פי",
+      "gloss": "в устах"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человека"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "поток"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "бурлящий"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "источник"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Хохмы"
+    }
+  ],
+  "timestamp": "2026-08-03T09:44:05.887215662Z",
+  "model": "glm-4.5"
+}

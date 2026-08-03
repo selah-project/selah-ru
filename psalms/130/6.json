@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 130,
+  "translation": "Моя нефеш — к Адонай, более чем стражи к утру, стражи к утру",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Моя нефеш"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "к Адонай"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "более чем стражи"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "к утру"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "стражи"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "к утру"
+    }
+  ],
+  "timestamp": "2026-08-03T09:02:18.816391953Z",
+  "model": "glm-4.5"
+}

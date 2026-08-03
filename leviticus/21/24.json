@@ -1,0 +1,56 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "leviticus 21:24",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И сказал Моше ⟨к⟩ Агарону и ⟨к⟩ сыновьям его и ⟨ко⟩ всем сынам Исраэля",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩",
+      "marks": "Агарону"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Агарону"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и ⟨к⟩",
+      "marks": "сыновьям его"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "сыновьям его"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и ⟨ко⟩",
+      "marks": "всем сынам"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всем"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынам"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраэля"
+    }
+  ],
+  "timestamp": "2026-08-02T21:01:37.726179239Z",
+  "model": "glm-4.5"
+}

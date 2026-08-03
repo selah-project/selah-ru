@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "А этот человек Моше — кроток весьма, более всех людей, ⟨которые⟩ на лице земли",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "а этот человек"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "кроток"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "весьма"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "более всех"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "людей"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лице"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "земли"
+    }
+  ],
+  "timestamp": "2026-08-02T21:24:16.207264268Z",
+  "model": "glm-4.5"
+}

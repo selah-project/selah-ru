@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "jeremiah 17:7",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 17,
+  "translation": "Благословен ⟨муж⟩, который доверяет ⟨ЯХВЕ⟩, и ⟨будет⟩ ЯХВЕ его надеждой.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Благословен"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "муж"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "доверяет"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "⟨ЯХВЕ⟩",
+      "marks": "в ЯХВЕ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "будет"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "его надеждой"
+    }
+  ],
+  "timestamp": "2026-08-03T03:19:06.425005977Z",
+  "model": "glm-4.5"
+}

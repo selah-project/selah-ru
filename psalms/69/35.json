@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 69,
+  "translation": "Пусть хвалят Его небеса и земля, моря и всё движущееся ⟨в⟩ них.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "пусть хвалят Его"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "и земля"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "моря"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и всё"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "движущееся"
+    },
+    {
+      "surface": "בם",
+      "gloss": "⟨в⟩",
+      "marks": "них"
+    }
+  ],
+  "timestamp": "2026-08-03T07:49:54.022018941Z",
+  "model": "glm-4.5"
+}

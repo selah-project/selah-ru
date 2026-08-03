@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "2-chronicles 24:2",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "И сделал Иоаш ⟨то, что было⟩ прямым в глазах ЯХВЕ, ⟨во⟩ все дни Йегояды, ⟨этого⟩ коэна",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И сделал"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Иоаш"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "прямым"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в глазах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨во⟩ все"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дни"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Йегояды"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨этого⟩ коэна"
+    }
+  ],
+  "timestamp": "2026-08-03T13:56:59.640524969Z",
+  "model": "glm-4.5"
+}

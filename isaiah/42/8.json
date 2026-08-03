@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 42,
+  "translation": "Я — ЯХВЕ, ⟨это⟩ имя Моё, и славы Моей не отдам иному, и хвалы Моей — истуканам.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨это⟩"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "имя Моё"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "и славы Моей"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "иному"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "отдам"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "и хвалы Моей"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "истуканам"
+    }
+  ],
+  "timestamp": "2026-08-03T02:28:58.495743252Z",
+  "model": "glm-4.5"
+}

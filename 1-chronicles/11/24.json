@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "1-chronicles 11:24",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Это сделал Бенаия, сын Йегоиады, и ⟨имя⟩ у ⟨него⟩ среди трёх храбрых",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Это"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Бенаия"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Йегоиады"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "и у него"
+    },
+    {
+      "surface": "שם",
+      "gloss": "имя"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "среди трёх"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "храбрых"
+    }
+  ],
+  "timestamp": "2026-08-03T12:54:00.051559666Z",
+  "model": "glm-4.5"
+}

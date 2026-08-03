@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 42,
+  "translation": "Не возопиет и не возвысит, и не даст услышать ⟨на⟩ улице голос ⟨свой⟩",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "возопиет"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "возвысит"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "даст услышать"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "⟨на⟩ улице"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "голос ⟨свой⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T02:29:00.621131486Z",
+  "model": "glm-4.5"
+}

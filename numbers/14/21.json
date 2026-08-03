@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Но ⟨действительно⟩, как ⟨жив⟩ я, и ⟨будет⟩ наполнена ⟨את⟩ вся ⟨земля⟩ славой ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Но"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жив"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "и ⟨будет⟩ наполнена"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славой"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "вся землю"
+    },
+    {
+      "surface": "כל",
+      "gloss": "вся"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨земля⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T21:25:55.994575921Z",
+  "model": "glm-4.5"
+}

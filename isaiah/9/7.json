@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Послал Адонай ⟨слово⟩ в Яакова, и упало оно на Исраэля.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "послал"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "в Яакова"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "и упало"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "на Исраэля"
+    }
+  ],
+  "timestamp": "2026-08-03T01:53:01.699990936Z",
+  "model": "glm-4.5"
+}

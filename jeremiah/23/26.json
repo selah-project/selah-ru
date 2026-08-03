@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "jeremiah 23:26",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Доколе ⟨есть⟩ в сердце пророков прорекающих ложь, и пророки обмана сердца их?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Доколе"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "⟨есть⟩"
+    },
+    {
+      "surface": "היש",
+      "gloss": "в"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "сердце"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "пророков"
+    },
+    {
+      "surface": "נבאי",
+      "gloss": "прорекающих"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "ложь"
+    },
+    {
+      "surface": "ונביאי",
+      "gloss": "и пророки"
+    },
+    {
+      "surface": "תרמת",
+      "gloss": "обмана"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "сердца их"
+    }
+  ],
+  "timestamp": "2026-08-03T03:28:13.700489141Z",
+  "model": "glm-4.5"
+}

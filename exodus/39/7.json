@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 39,
+  "translation": "и поставил ⟨את⟩ их на плечи эфода — камни памятные для сынов Израиля, как ⟨את⟩ повелел ЯХВЕ Моше",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "и поставил"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "их"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "плечи"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "эфода"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "камни"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "памятные"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "для сынов"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "повелел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-08-02T20:37:35.688475185Z",
+  "model": "glm-4.5"
+}

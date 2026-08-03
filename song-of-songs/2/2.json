@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "song-of-songs 2:2",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "Как שׁוֹשַׁנָּה ⟨среди⟩ терний, так ⟨любимая⟩ моя ⟨среди⟩ дочерей.",
+  "tokens": [
+    {
+      "surface": "כשושנה",
+      "gloss": "Как שׁוֹשַׁנָּה"
+    },
+    {
+      "surface": "בין",
+      "gloss": "⟨среди⟩",
+      "marks": "терний"
+    },
+    {
+      "surface": "החוחים",
+      "gloss": "терний"
+    },
+    {
+      "surface": "כן",
+      "gloss": "так"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "⟨любимая⟩ моя"
+    },
+    {
+      "surface": "בין",
+      "gloss": "⟨среди⟩",
+      "marks": "дочерей"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "дочерей"
+    }
+  ],
+  "timestamp": "2026-08-03T10:54:52.986131324Z",
+  "model": "glm-4.5"
+}

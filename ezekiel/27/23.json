@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "ezekiel 27:23",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "Харан и Канне и Эден — торговцы Савы, Ашшур, Килмад — твои торговцы",
+  "tokens": [
+    {
+      "surface": "חרן",
+      "gloss": "Харан"
+    },
+    {
+      "surface": "וכנה",
+      "gloss": "и Канне"
+    },
+    {
+      "surface": "ועדן",
+      "gloss": "и Эден"
+    },
+    {
+      "surface": "רכלי",
+      "gloss": "торговцы"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Савы"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшур"
+    },
+    {
+      "surface": "כלמד",
+      "gloss": "Килмад"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "твои торговцы"
+    }
+  ],
+  "timestamp": "2026-08-03T04:50:20.639862445Z",
+  "model": "glm-4.5"
+}

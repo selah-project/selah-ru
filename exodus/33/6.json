@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "И сняли сыны Израиля ⟨את⟩ украшения свои с горы Хорива.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "и сняли"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "украшения свои"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "украшения"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "с"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "горы Хорива"
+    }
+  ],
+  "timestamp": "2026-08-02T20:30:49.459777238Z",
+  "model": "glm-4.5"
+}

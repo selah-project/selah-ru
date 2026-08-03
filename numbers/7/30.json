@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "numbers 7:30",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "В день четвёртый Элицур сын Шедеура, князь сынов Реубена,",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "В день"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "четвёртый"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "князь"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реубена"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Элицур"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Шедеура"
+    }
+  ],
+  "timestamp": "2026-08-02T21:18:21.478747692Z",
+  "model": "glm-4.5"
+}

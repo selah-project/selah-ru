@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "zechariah 7:2",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И послали Бейт-Эль Шар-Эцэр и Регист-Мелех, и его людей, умилостивить ⟨את⟩ лицо ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "И послали"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эль"
+    },
+    {
+      "surface": "שר",
+      "gloss": "Шар"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "Эцэр"
+    },
+    {
+      "surface": "ורגם",
+      "gloss": "и Регист"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Мелех"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "и его людей"
+    },
+    {
+      "surface": "לחלות",
+      "gloss": "умилостивить"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лицо ЯХВЕ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T06:13:47.397069205Z",
+  "model": "glm-4.5"
+}

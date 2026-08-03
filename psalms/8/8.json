@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "«стадо и тысячи, все они, и также скоты полевые»",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "стадо"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "и тысячи"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "все они"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и также"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "скоты"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "полевые"
+    }
+  ],
+  "timestamp": "2026-08-03T06:38:08.218285982Z",
+  "model": "glm-4.5"
+}

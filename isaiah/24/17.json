@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "Ужас, и яма, и силок ⟨на⟩ тебе, живущем на земле.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "ужас"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "и яма"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "и силок"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "⟨на⟩ тебе"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "живущем"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земле"
+    }
+  ],
+  "timestamp": "2026-08-03T02:08:38.195334014Z",
+  "model": "glm-4.5"
+}

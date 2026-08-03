@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "1-chronicles 1:25",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Эвер, Фалег, Реу,",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "Эвер"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Фалег"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Реу"
+    }
+  ],
+  "timestamp": "2026-08-03T12:35:41.788004756Z",
+  "model": "glm-4.5"
+}

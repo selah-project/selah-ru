@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "numbers 35:24",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "и рассудит община между ударяющим и между гоэлем крови ⟨по⟩ этим законам",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "и рассудит"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "община"
+    },
+    {
+      "surface": "בין",
+      "gloss": "между"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "ударяющим"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и между"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "гоэлем"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "крови"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨по⟩"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "этим законам"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "этим"
+    }
+  ],
+  "timestamp": "2026-08-02T21:49:34.748519952Z",
+  "model": "glm-4.5"
+}

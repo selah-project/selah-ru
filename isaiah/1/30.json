@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "Ибо вы будете как дуб, ⟨чья⟩ листва вянет, и как сад, в котором ⟨нет⟩ воды.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "вы будете"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "как дуб"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "⟨чья⟩ листва вянет"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "листва"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "и как сад"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "в котором"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воды"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨нет⟩"
+    },
+    {
+      "surface": "לה",
+      "gloss": "в ⟨нём⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T01:42:00.856421981Z",
+  "model": "glm-4.5"
+}

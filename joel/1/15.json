@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "joel 1:15",
+  "book": "joel",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "О, день! ибо близок день ЯХВЕ, и ⟨как⟩ опустошение от Шаддая он придёт",
+  "tokens": [
+    {
+      "surface": "אהה",
+      "gloss": "О"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "день"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "близок"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "וכשד",
+      "gloss": "и⟨как⟩ опустошение"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "от Шаддая"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "он придёт"
+    }
+  ],
+  "timestamp": "2026-08-03T05:31:20.409100340Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "deuteronomy 18:17",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "и сказал ЯХВЕ мне: хорошо они говорили, что они говорили",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "хорошо"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "они говорили"
+    }
+  ],
+  "timestamp": "2026-08-02T22:09:04.411613551Z",
+  "model": "glm-4.5"
+}

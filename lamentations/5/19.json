@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "lamentations 5:19",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Ты, ЯХВЕ, ⟨сидишь⟩ вечно, престол Твой ⟨находится⟩ из рода в род.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "вечно"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "⟨сидишь⟩"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "престол Твой"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "из рода"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "в род"
+    }
+  ],
+  "timestamp": "2026-08-03T11:14:49.283371190Z",
+  "model": "glm-4.5"
+}

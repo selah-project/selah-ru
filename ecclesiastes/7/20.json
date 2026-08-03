@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Ибо нет ⟨человека⟩ праведного на ⟨земле⟩, который делал бы добро и не согрешил бы",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человека"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведного"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на ⟨земле⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "делал бы"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "согрешил бы"
+    }
+  ],
+  "timestamp": "2026-08-03T11:22:22.644727054Z",
+  "model": "glm-4.5"
+}

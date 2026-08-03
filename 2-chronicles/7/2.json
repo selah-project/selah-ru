@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "2-chronicles 7:2",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И не могли священники войти в ⟨дом⟩ ЯХВЕ, ибо славу ЯХВЕ ⟨את⟩ ⟨дом⟩ ЯХВЕ наполнил.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И не"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "могли"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "священники"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "войти"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨дом⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "наполнил"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨дом⟩ ЯХВЕ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨дом⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T13:30:28.428545606Z",
+  "model": "glm-4.5"
+}

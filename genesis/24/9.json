@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "И положил раб ⟨את⟩ руку свою под бедро Авраама, господина своего, и поклялся ему о слове этом",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "и положил"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "раб"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "руку свою"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "руку свою"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "бедро"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраама"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "господина своего"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "и поклялся"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "על",
+      "gloss": "о"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "слове"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "этом"
+    }
+  ],
+  "timestamp": "2026-08-02T19:21:28.062515943Z",
+  "model": "glm-4.5"
+}

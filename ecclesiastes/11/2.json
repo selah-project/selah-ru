@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Раздай ⟨свою⟩ долю семи, и даже восьми, ибо ты не знаешь, какая беда ⟨прийдет⟩ на землю.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "раздай"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "⟨свою⟩ долю"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "семи"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и даже"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "восьми"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "знаешь"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какая"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨придет⟩"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "беда"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    }
+  ],
+  "timestamp": "2026-08-03T11:26:48.132783352Z",
+  "model": "glm-4.5"
+}

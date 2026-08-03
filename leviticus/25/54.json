@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 54,
+  "ref": "leviticus 25:54",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "А если не ⟨будет⟩ выкуплен этим, то ⟨он⟩ выйдет в год Йовэля, ⟨он⟩ и сыновья его с ним.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А если"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "⟨будет⟩ выкуплен"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "этим"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "то ⟨он⟩ выйдет"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "в год"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "Йовэля"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "и сыновья его"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с ним"
+    }
+  ],
+  "timestamp": "2026-08-02T21:06:28.308632721Z",
+  "model": "glm-4.5"
+}

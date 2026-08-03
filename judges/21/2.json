@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "judges 21:2",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "И пришёл народ в Бет-Эль и сидел там до вечера пред ⟨face⟩ Элохим, и подняли голос свой, и плакали ⟨плачем⟩ великим",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И пришёл"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эль"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "и сидел"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "вечера"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "и подняли"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "голос"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "и плакали"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "плачем"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "великим"
+    }
+  ],
+  "timestamp": "2026-08-02T23:12:13.820652880Z",
+  "model": "glm-4.5"
+}

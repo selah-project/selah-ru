@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "2-samuel 2:20",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И оглянулся Авнер ⟨назад⟩ и сказал: ⟨это⟩ ты, Асаэл? И сказал: я.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "и оглянулся"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнер"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "⟨назад⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "⟨это⟩ ты"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Асаэл"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": ""
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    }
+  ],
+  "timestamp": "2026-08-02T23:49:33.209655160Z",
+  "model": "glm-4.5"
+}

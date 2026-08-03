@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "и показал мне ЯХВЕ четыре ⟨ремесленника⟩",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "и показал мне"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "четыре"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ремесленников"
+    }
+  ],
+  "timestamp": "2026-08-03T06:09:36.108992750Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 45,
+  "ref": "lamentations 3:45",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Смети́ ⟨и⟩ отбро́сы Ты сде́лал нас ⟨среди⟩ народо́в",
+  "tokens": [
+    {
+      "surface": "סחי",
+      "gloss": "Смети́"
+    },
+    {
+      "surface": "ומאוס",
+      "gloss": "⟨и⟩ отбро́сы"
+    },
+    {
+      "surface": "תשימנו",
+      "gloss": "Ты сде́лал нас"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "⟨среди⟩"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "народо́в"
+    }
+  ],
+  "timestamp": "2026-08-03T11:10:07.196126744Z",
+  "model": "glm-4.5"
+}

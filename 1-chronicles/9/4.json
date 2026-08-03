@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-chronicles 9:4",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Утай, сын Амиуда, сын Амри, сын Имри, сын Биньямина, сыновья Переса, сына Йегуды.",
+  "tokens": [
+    {
+      "surface": "עותי",
+      "gloss": "Утай"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Амиуда"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Амри"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Имри"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Биньямина"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Переса"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йегуды"
+    }
+  ],
+  "timestamp": "2026-08-03T12:50:47.482110562Z",
+  "model": "glm-4.5"
+}

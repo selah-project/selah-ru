@@ -1,0 +1,105 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "isaiah 20:2",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "В то время spoke ЯХВЕ by hand of Isaiah son of Amoz, saying: Go, and loosen ⟨the⟩ sackcloth from upon thy loins, and thy shoe pull off from upon thy foot. And he did so, going naked and barefoot.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "В то время"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": ""
+    },
+    {
+      "surface": "דבר",
+      "gloss": "spoke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "by hand"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "of Isaiah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "of Amoz"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "saying"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Go"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "and loosen"
+    },
+    {
+      "surface": "השק",
+      "gloss": "⟨the⟩ sackcloth"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "from upon"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "thy loins"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "and thy shoe"
+    },
+    {
+      "surface": "תחלץ",
+      "gloss": "pull off"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "from upon"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "thy foot"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "And he did"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "going"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "naked"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "and barefoot"
+    }
+  ],
+  "timestamp": "2026-08-03T02:03:26.395586237Z",
+  "model": "glm-4.5"
+}

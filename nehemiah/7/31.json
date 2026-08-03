@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "nehemiah 7:31",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "люди из Микмаса, сто двадцать и два",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "люди из"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "Микмаса"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "двадцать и"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "два"
+    }
+  ],
+  "timestamp": "2026-08-03T12:22:13.674172618Z",
+  "model": "glm-4.5"
+}

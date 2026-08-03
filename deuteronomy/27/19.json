@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "Проклят ⟨тот, кто⟩ извращает ⟨את⟩ judgement прибывшего, сироты и вдовы. И скажет ⟨את⟩ весь народ: амен.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "проклят"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "⟨тот, кто⟩ извращает"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "⟨את⟩ judgement"
+    },
+    {
+      "surface": "גר",
+      "gloss": "прибывшего"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "сироты"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "и вдовы"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и скажет"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨את⟩ весь"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "амен"
+    }
+  ],
+  "timestamp": "2026-08-02T22:16:25.583377854Z",
+  "model": "glm-4.5"
+}

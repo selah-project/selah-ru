@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 122,
+  "translation": "Ради братьев моих и друзей моих ⟨я⟩ скажу теперь: мир в тебе!",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ради"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "братьев моих"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "и друзей моих"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "⟨я⟩ скажу"
+    },
+    {
+      "surface": "נא",
+      "gloss": "теперь"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "בך",
+      "gloss": "в тебе"
+    }
+  ],
+  "timestamp": "2026-08-03T08:57:11.037774153Z",
+  "model": "glm-4.5"
+}

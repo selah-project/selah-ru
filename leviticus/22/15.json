@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "leviticus 22:15",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "и не ⟨они⟩ осквернят ⟨את⟩ святые сынов Израиля ⟨את⟩ что поднимут к ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "осквернят"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "святые сынов Израиля"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "святые"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "что"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "поднимут"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "к ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T21:02:04.087844096Z",
+  "model": "glm-4.5"
+}

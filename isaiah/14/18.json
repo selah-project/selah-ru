@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "isaiah 14:18",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "Все цари народов, да, все они, покоятся в почёте, каждый в своём доме.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Все"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "цари"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народов"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "все они"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "покойтся"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "в почёте"
+    },
+    {
+      "surface": "איש",
+      "gloss": "каждый"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "в своём доме"
+    }
+  ],
+  "timestamp": "2026-08-03T01:58:03.252994492Z",
+  "model": "glm-4.5"
+}

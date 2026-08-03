@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 140,
+  "translation": "Я сказал ЯХВЕ: Ты — мой Эль, услышь, ЯХВЕ, голос моих молитв.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Я сказал"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мой Эль"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "услышь"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "голос"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "моих молитв"
+    }
+  ],
+  "timestamp": "2026-08-03T09:10:45.606201148Z",
+  "model": "glm-4.5"
+}

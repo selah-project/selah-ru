@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "и не оставите ⟨его⟩ до утра; а остающееся от ⟨него⟩ до утра в огне сожгите",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "оставите"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "⟨от него⟩",
+      "marks": "от него"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "утра"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "а остающееся"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "⟨от него⟩",
+      "marks": "от него"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "утра"
+    },
+    {
+      "surface": "באש",
+      "gloss": "в огне"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "сожгите"
+    }
+  ],
+  "timestamp": "2026-08-02T20:05:54.351479244Z",
+  "model": "glm-4.5"
+}

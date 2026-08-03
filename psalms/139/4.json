@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 139,
+  "translation": "Ибо нет слова на языке моём, но вот, ЯХВЕ, Ты знаешь ⟨его⟩ совсем.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "слова"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "на языке моём"
+    },
+    {
+      "surface": "הן",
+      "gloss": "но вот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "Ты знаешь"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "совсем"
+    }
+  ],
+  "timestamp": "2026-08-03T09:09:24.330624567Z",
+  "model": "glm-4.5"
+}

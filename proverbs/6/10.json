@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "Немного сна, немного дремоты, немного сложить руки ⟨и⟩ лечь",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "немного"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "сна"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "немного"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "дремоты"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "немного"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "сложить"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "руки"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "лечь"
+    }
+  ],
+  "timestamp": "2026-08-03T09:27:07.691069018Z",
+  "model": "glm-4.5"
+}

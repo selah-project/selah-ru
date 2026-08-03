@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Как мне проклясть ⟨кого⟩ Эль не проклял? И как ⟨мне⟩ изрыгать ⟨на кого⟩ ЯХВЕ не изрыгал?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "как"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "проклясть"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "проклял"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эль"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и как"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "изрыгать"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "изрыгал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T21:36:12.263175443Z",
+  "model": "glm-4.5"
+}

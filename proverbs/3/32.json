@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "Ибо отвратителен ⟨для⟩ ЯХВЕ развратный, а с прямыми — ⟨את⟩ совет Его.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "отвратителен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "развратный"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "а с",
+      "marks": "совет Его"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "прямыми"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "совет Его"
+    }
+  ],
+  "timestamp": "2026-08-03T09:24:08.338009621Z",
+  "model": "glm-4.5"
+}

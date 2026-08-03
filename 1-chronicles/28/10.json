@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-chronicles 28:10",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Смотри же теперь, так как ЯХВЕ избрал тебя строить дом для святилища: крепись и делай",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Смотри"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "же теперь"
+    },
+    {
+      "surface": "כי",
+      "gloss": "так как"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "избрал"
+    },
+    {
+      "surface": "בך",
+      "gloss": "тебя"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "строить"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "для святилища"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "крепись"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "и делай"
+    }
+  ],
+  "timestamp": "2026-08-03T13:16:54.664497712Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И было: потому что повитухи боялись Элохима, Он устроил им домы.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "כי",
+      "gloss": "потому что"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "боялись"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "повитухи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элохима"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Эlohима"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "Он устроил"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "домы"
+    }
+  ],
+  "timestamp": "2026-08-02T19:55:36.520198890Z",
+  "model": "glm-4.5"
+}

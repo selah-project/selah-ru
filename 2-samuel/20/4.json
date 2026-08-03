@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И сказал царь Амасе: созови мне ⟨את⟩ мужчин Иуды в три дня, а ты здесь стой.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Амасе"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "созови"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мужчин Иуды"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мужчин"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иуды"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дня"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "а ты"
+    },
+    {
+      "surface": "פה",
+      "gloss": "здесь"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "стой"
+    }
+  ],
+  "timestamp": "2026-08-03T00:09:18.592639898Z",
+  "model": "glm-4.5"
+}

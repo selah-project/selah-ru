@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "ибо ЯХВЕ знает ⟨путь⟩ праведных, а ⟨путь⟩ нечестивых погибнет",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "знает"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "путь"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведных"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "а ⟨путь⟩"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивых"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "погибнет"
+    }
+  ],
+  "timestamp": "2026-08-03T06:26:24.205191398Z",
+  "model": "glm-4.5"
+}

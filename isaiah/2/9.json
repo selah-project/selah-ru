@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И преклонился человек, и принижен муж; и ⟨ты⟩ не поднимишь ⟨их⟩.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "и преклонился"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человек"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "и принижен"
+    },
+    {
+      "surface": "איש",
+      "gloss": "муж"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "поднять"
+    },
+    {
+      "surface": "להם",
+      "gloss": "их"
+    }
+  ],
+  "timestamp": "2026-08-03T01:42:40.965094749Z",
+  "model": "glm-4.5"
+}

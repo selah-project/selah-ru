@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 117,
+  "translation": "Хвалите ⟨את⟩ ЯХВЕ, все народы; восхваляйте Его, все племена",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "хвалите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народы"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "восхваляйте Его"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "племена"
+    }
+  ],
+  "timestamp": "2026-08-03T08:47:10.685857159Z",
+  "model": "glm-4.5"
+}

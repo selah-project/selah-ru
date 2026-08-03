@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "И пришёл царь и весь народ ⟨что⟩ с ним утомлённые, и ожили они там",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и пришёл"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и весь"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨что⟩"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "с ним"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "утомлённые"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "и ожили они"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    }
+  ],
+  "timestamp": "2026-08-03T00:04:21.132971724Z",
+  "model": "glm-4.5"
+}

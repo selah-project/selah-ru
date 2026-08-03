@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "numbers 10:15",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И над войском ⟨колена⟩ сыновей Иссахара — Нетаанэл, сын Цуара.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и над"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "войском"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "⟨колена⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Иссахара"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Нетаанэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Цуара"
+    }
+  ],
+  "timestamp": "2026-08-02T21:22:14.060198176Z",
+  "model": "glm-4.5"
+}

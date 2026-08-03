@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 104,
+  "translation": "Все они ⟨являются⟩ к Тебе, чтобы дать им пищу в ⟨своё⟩ время",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Все они"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "к Тебе"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "⟨являются⟩"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "чтобы дать"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "им пищу"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "в ⟨своё⟩ время"
+    }
+  ],
+  "timestamp": "2026-08-03T08:33:30.302404172Z",
+  "model": "glm-4.5"
+}

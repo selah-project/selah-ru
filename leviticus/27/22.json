@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "И если ⟨את⟩ поле его покупки, которое не из поля его владения, он освятит ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "И если"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "поле"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "поле"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "его покупки"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "из поля"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "его владения"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "он освятит"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T21:09:04.610203318Z",
+  "model": "glm-4.5"
+}

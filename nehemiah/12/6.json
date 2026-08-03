@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "nehemiah 12:6",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Шемайя, и Йоярив, Йедайя",
+  "tokens": [
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемайя"
+    },
+    {
+      "surface": "ויויריב",
+      "gloss": "и Йоярив"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Йедайя"
+    }
+  ],
+  "timestamp": "2026-08-03T12:30:49.866530625Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 39,
+  "ref": "leviticus 25:39",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "И если обеднеет брат твой с тобою и будет продан тебе, не будешь работать на него работой раба",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "И если"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "обеднеет"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "брат твой"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "с тобою"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "и будет продан"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "будешь работать"
+    },
+    {
+      "surface": "בו",
+      "gloss": "на нём"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "работой"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "раба"
+    }
+  ],
+  "timestamp": "2026-08-02T21:06:11.512932254Z",
+  "model": "glm-4.5"
+}

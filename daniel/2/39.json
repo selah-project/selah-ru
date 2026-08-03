@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 39,
+  "ref": "daniel 2:39",
+  "book": "daniel",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "А после тебя встанет ⟨это⟩ царство иное, из меди, ⟨которое⟩ ⟩владеть будет⟨ всею землею",
+  "tokens": [
+    {
+      "surface": "ובתרך",
+      "gloss": "а после тебя"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "встанет"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "⟨это⟩ царство"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "иное"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "из меди"
+    },
+    {
+      "surface": "מנך",
+      "gloss": ""
+    },
+    {
+      "surface": "ומלכו",
+      "gloss": ""
+    },
+    {
+      "surface": "תליתיא",
+      "gloss": ""
+    },
+    {
+      "surface": "אחרי",
+      "gloss": ""
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨которое⟩"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "⟩владеть будет⟨"
+    },
+    {
+      "surface": "די",
+      "gloss": ""
+    },
+    {
+      "surface": "תשלט",
+      "gloss": ""
+    },
+    {
+      "surface": "בכל",
+      "gloss": "всею"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "землею"
+    }
+  ],
+  "timestamp": "2026-08-03T11:40:15.332182193Z",
+  "model": "glm-4.5"
+}

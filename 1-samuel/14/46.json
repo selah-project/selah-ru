@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 46,
+  "ref": "1-samuel 14:46",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И ascended Шаул от следования ⟨за⟩ Плиштим, и Плиштим пошли в ⟨своё⟩ место",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "И ascended"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "от следования"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "⟨за⟩ Плиштим",
+      "marks": "Плиштим"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "и Плиштим"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "пошли"
+    },
+    {
+      "surface": "למקומם",
+      "gloss": "в ⟨своё⟩ место"
+    }
+  ],
+  "timestamp": "2026-08-02T23:26:36.188422934Z",
+  "model": "glm-4.5"
+}

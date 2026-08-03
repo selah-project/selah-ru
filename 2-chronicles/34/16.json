@@ -1,0 +1,91 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "2-chronicles 34:16",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "И внёс Шафан ⟨את⟩ книгу к царю, и возвестил царю слово, говоря: «Всё, ⟨את⟩ что дано в руку рабам твоим, они делают».",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и внёс"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Шафан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "книгу"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "книгу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и возвестил"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "[обратно]"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "царю"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дано"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "в руку"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "рабам твоим"
+    },
+    {
+      "surface": "הם",
+      "gloss": "они"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "делают"
+    }
+  ],
+  "timestamp": "2026-08-03T14:12:44.806052736Z",
+  "model": "glm-4.5"
+}

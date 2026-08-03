@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И сказал Барак ей: если пойдёшь со мной, ⟨я⟩ пойду, и если не пойдёшь со мной, не пойду",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ей"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Барак"
+    },
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "пойдёшь"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "со мной"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "пойду"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "и если"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "пойдёшь"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "со мной"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "пойду"
+    }
+  ],
+  "timestamp": "2026-08-02T22:52:26.796470475Z",
+  "model": "glm-4.5"
+}

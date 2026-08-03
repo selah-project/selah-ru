@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "numbers 26:22",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Вот семьи Йегуды по ⟨их⟩ переписи: семьдесят шесть тысяч и пять сотен",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "семьи"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йегуды"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "по ⟨их⟩ переписи"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "шесть"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "и семьдесят"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "тысяч"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "и пять"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотен"
+    }
+  ],
+  "timestamp": "2026-08-02T21:39:05.183377398Z",
+  "model": "glm-4.5"
+}

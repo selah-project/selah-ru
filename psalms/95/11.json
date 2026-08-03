@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 95,
+  "translation": "Которому Я поклялся в гневе Моём: не войдут они ⟨в⟩ покой Мой.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Которому"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "Я поклялся"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "в гневе Моём"
+    },
+    {
+      "surface": "אם",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "войдут они"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨в⟩"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "покой Мой"
+    }
+  ],
+  "timestamp": "2026-08-03T08:23:54.537679221Z",
+  "model": "glm-4.5"
+}

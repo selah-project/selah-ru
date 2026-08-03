@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 56,
+  "ref": "numbers 7:56",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "одна золотая ложка в десять сиклей, полная курения:",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ложка"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "одна"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десять"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золотая"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "полная"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "курения"
+    }
+  ],
+  "timestamp": "2026-08-02T21:18:43.332712759Z",
+  "model": "glm-4.5"
+}

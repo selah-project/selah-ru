@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "Душа наша уповает на ЯХВЕ; Он — помощь наша и shield ⟨наш⟩",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Душа наша"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "уповает"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на ЯХВЕ"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "помощь наша"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "и shield ⟨наш⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Он"
+    }
+  ],
+  "timestamp": "2026-08-03T07:09:21.500544548Z",
+  "model": "glm-4.5"
+}

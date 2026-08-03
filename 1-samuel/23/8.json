@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "И призвал Шаул ⟨את⟩ весь народ к войне, сойти в Кеилу, осадить Давида и его людей",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "и призвал"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "весь народ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "весь"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "к войне"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "сойти"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "в Кеилу"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "осадить"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "его людей"
+    }
+  ],
+  "timestamp": "2026-08-02T23:39:21.224160451Z",
+  "model": "glm-4.5"
+}

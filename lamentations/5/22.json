@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "lamentations 5:22",
+  "book": "lamentations",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Ведь ⟨если⟩ совершенно отверг ⟨את⟩ нас, разгневался ⟨на⟩ нас до весьма",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ведь"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨если⟩"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "совершенно"
+    },
+    {
+      "surface": "מאסתנו",
+      "gloss": "отверг",
+      "marks": "⟨את⟩ нас"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "разгневался"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "⟨на⟩ нас"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "весьма"
+    }
+  ],
+  "timestamp": "2026-08-03T11:14:58.541681862Z",
+  "model": "glm-4.5"
+}

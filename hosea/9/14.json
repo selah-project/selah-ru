@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "hosea 9:14",
+  "book": "hosea",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Дай им, ЯХВЕ — что дашь Ты? Дай им матку, извергающую, ⟨и⟩ груди, сохнущие.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Дай"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "дашь"
+    },
+    {
+      "surface": "תן",
+      "gloss": "Дай"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "матку"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "извергающую"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "груди"
+    },
+    {
+      "surface": "צמקים",
+      "gloss": "сохнущие"
+    }
+  ],
+  "timestamp": "2026-08-03T05:26:43.086849804Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "И сказал Валак Биламу: ⟨даже⟩ не проклинай ⟨его⟩, ⟨и даже⟩ не благословляй ⟨его⟩",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Валак"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Биламу"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": ""
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨даже⟩"
+    },
+    {
+      "surface": "קב",
+      "gloss": "проклинай"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "⟨его⟩"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨и даже⟩"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "благословляй"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "⟨его⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T21:36:28.798388851Z",
+  "model": "glm-4.5"
+}

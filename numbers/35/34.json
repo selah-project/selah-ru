@@ -1,0 +1,90 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "numbers 35:34",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "И не оскверняй ⟨את⟩ землю, в которой вы живёте, ⟨в которой⟩ Я dwelling, внутри её, ибо Я — ЯХВЕ, dwelling внутри сынов Израиля",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "оскверняй"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "землю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "в которой"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вы"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "живёте"
+    },
+    {
+      "surface": "בה",
+      "gloss": "в"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨в которой⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "dwelling"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "внутри её"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "dwelling"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "внутри"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-02T21:49:50.522608695Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 57,
+  "translation": "Вознесись ⟨над⟩ небесами, Элохим, и ⟨над⟩ всею землею слава Твоя.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Вознесись"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨над⟩"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небесами"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨над⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всею"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землею"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "слава Твоя"
+    }
+  ],
+  "timestamp": "2026-08-03T07:34:33.759864796Z",
+  "model": "glm-4.5"
+}

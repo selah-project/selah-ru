@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 135,
+  "translation": "Стоящие в доме ЯХВЕ, во дворах дома нашего Элохима.",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "Стоящие"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "в доме"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "во дворах"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "нашего Элохима"
+    }
+  ],
+  "timestamp": "2026-08-03T09:05:26.590282005Z",
+  "model": "glm-4.5"
+}

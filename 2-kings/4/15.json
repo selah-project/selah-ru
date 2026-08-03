@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И он сказал: позови её. И он позвал ⟨את⟩ её, и она стояла в дверях",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И он сказал"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "позови"
+    },
+    {
+      "surface": "לה",
+      "gloss": "её"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "И он позвал"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨את⟩",
+      "marks": "её"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "и она стояла"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "в дверях"
+    }
+  ],
+  "timestamp": "2026-08-03T01:07:36.203822195Z",
+  "model": "glm-4.5"
+}

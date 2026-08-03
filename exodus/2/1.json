@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И пошёл человек из дома Леви и взял ⟨את⟩ дочь Леви",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "и пошёл"
+    },
+    {
+      "surface": "איש",
+      "gloss": "человек"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "из дома"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леви"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "и взял"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дочь Леви"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дочь"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леви"
+    }
+  ],
+  "timestamp": "2026-08-02T19:56:13.717173297Z",
+  "model": "glm-4.5"
+}

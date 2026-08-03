@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "2-chronicles 19:9",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 19,
+  "translation": "И повелел им, говоря: так делайте в страхе ⟨перед⟩ ЯХВЕ, в верности и с целым сердцем",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "И повелел"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "делайте"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "в страхе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨перед⟩ ЯХВЕ"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "в верности"
+    },
+    {
+      "surface": "ובלבב",
+      "gloss": "и с"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "целым сердцем"
+    }
+  ],
+  "timestamp": "2026-08-03T13:50:33.647802026Z",
+  "model": "glm-4.5"
+}

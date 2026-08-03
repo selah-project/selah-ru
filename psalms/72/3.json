@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 72,
+  "translation": "Восстанут горы ⟨с⟩ шалом для народа, и холмы — ⟨в⟩ праведности.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "восстанут"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "горы"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "шалом"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "для народа"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "и холмы"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "⟨в⟩ праведности"
+    }
+  ],
+  "timestamp": "2026-08-03T07:52:37.673750623Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "deuteronomy 3:23",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И я умолял ЯХВЕ в то время, говоря:",
+  "tokens": [
+    {
+      "surface": "ואתחנן",
+      "gloss": "и я умолял"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "в то время"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": ""
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-02T21:53:37.151148201Z",
+  "model": "glm-4.5"
+}

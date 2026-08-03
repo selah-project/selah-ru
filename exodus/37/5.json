@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "и внёс ⟨он⟩ ⟨את⟩ шесты в кольца на рёбрах ковчега, чтобы нести ⟨את⟩ ковчег",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и внёс"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "шесты"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "шесты"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "в кольца"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "рёбрах"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ковчега"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "чтобы нести"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ковчег"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ковчег"
+    }
+  ],
+  "timestamp": "2026-08-02T20:35:19.329725289Z",
+  "model": "glm-4.5"
+}

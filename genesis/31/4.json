@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "И послал Яаков и позвал Рахель и Лию ⟨в⟩ поле, к ⟨стаду⟩ своему",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "И послал"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и позвал"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Рахель"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "и Лию"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "⟨в⟩ поле"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "⟨стаду⟩ своему"
+    }
+  ],
+  "timestamp": "2026-08-02T19:32:14.096633169Z",
+  "model": "glm-4.5"
+}

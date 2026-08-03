@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И сказал я: мудрость лучше силы; но мудрость бедного презирается, и слова его не слышны",
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "и сказал я"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "лучше"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрость"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "силы"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "мудрость"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "бедного"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "презирается"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "и слова его"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "не"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "слышны"
+    }
+  ],
+  "timestamp": "2026-08-03T11:23:58.007985452Z",
+  "model": "glm-4.5"
+}

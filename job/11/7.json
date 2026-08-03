@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "job 11:7",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Ты исследуешь ⟨Элох⟩? Найдешь ли ты ⟨Шаддай⟩ до ⟨предела⟩?",
+  "tokens": [
+    {
+      "surface": "החקר",
+      "gloss": "ты исследуешь"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "⟨Элох⟩"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "найдешь"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ли"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "⟨предела⟩"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "⟨Шаддай⟩"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "найдешь"
+    }
+  ],
+  "timestamp": "2026-08-03T10:19:10.748175182Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 39,
+  "ref": "1-samuel 20:39",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И отрок не знал ничего, только Ионафан и Давид знали ⟨את⟩ дело.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "И отрок"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знал"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ничего"
+    },
+    {
+      "surface": "אך",
+      "gloss": "только"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Ионафан"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "и Давид"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знали"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дело"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "дело"
+    }
+  ],
+  "timestamp": "2026-08-02T23:36:34.714021693Z",
+  "model": "glm-4.5"
+}

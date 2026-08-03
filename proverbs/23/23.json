@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Купи истину и не продавай ⟨её⟩: мудрость, и наставление, и разум.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "истину"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "Купи"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "продавай"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрость"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "и наставление"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "и разум"
+    }
+  ],
+  "timestamp": "2026-08-03T18:27:19.498570766Z",
+  "model": "glm-4.5"
+}

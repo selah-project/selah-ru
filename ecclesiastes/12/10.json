@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "ru",
+  "chapter": 12,
+  "translation": "Коэлет искал найти приятные ⟨слова⟩ и ⟨написанное⟩ прямо — слова истины.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "искал"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Коэлет"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "найти"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "⟨слова⟩"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "приятные"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "⟨написанное⟩"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "прямо"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "слова"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "истины"
+    }
+  ],
+  "timestamp": "2026-08-03T11:27:22.342313221Z",
+  "model": "glm-4.5"
+}

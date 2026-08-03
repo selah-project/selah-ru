@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "ezekiel 34:30",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 34,
+  "translation": "И узнают они, что Я — ЯХВЕ, Элохим их, ⟨с⟩ ними, и они — народ Мой, дом Исраэля, — слово Адоная ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "И узнают они"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Элохим их"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨с⟩ ними",
+      "marks": "ними"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "и они"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народ Мой"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраэля"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адоная"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T18:33:03.262436429Z",
+  "model": "glm-4.5"
+}

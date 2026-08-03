@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 84,
+  "translation": "Как возлюбленны ⟨суть⟩ шатры Твои, ЯХВЕ Цеваот!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Как"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "возлюбленны"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "шатры Твои"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    }
+  ],
+  "timestamp": "2026-08-03T08:09:46.590995583Z",
+  "model": "glm-4.5"
+}

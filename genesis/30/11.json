@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "И сказала Лея: «Удача пришла!» И назвала ⟨את⟩ имя его Гад.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "И сказала"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Лея"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "Удача пришла"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "и назвала"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "имя его"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "имя его"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    }
+  ],
+  "timestamp": "2026-08-02T19:30:52.924402120Z",
+  "model": "glm-4.5"
+}

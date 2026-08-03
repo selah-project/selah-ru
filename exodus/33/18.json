@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "И сказал: покажи мне, прошу, ⟨את⟩ славу Твою",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "покажи мне"
+    },
+    {
+      "surface": "נא",
+      "gloss": "прошу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "славу Твою"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "славу Твою"
+    }
+  ],
+  "timestamp": "2026-08-02T20:31:03.291822730Z",
+  "model": "glm-4.5"
+}

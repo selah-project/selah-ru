@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "2-samuel 7:14",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Я буду ему отцом, и он ⟨будет⟩ Мне сыном; и если он согрешит, Я накажу его жезлом ⟨людей⟩ и ударами сынов ⟨Адама⟩,",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "буду"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "отцом"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "и"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "он"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мне"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "сыном"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "если"
+    },
+    {
+      "surface": "בהעותו",
+      "gloss": "он"
+    },
+    {
+      "surface": "והכחתיו",
+      "gloss": "согрешит"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "Я"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "накажу"
+    },
+    {
+      "surface": "ובנגעי",
+      "gloss": "жезлом"
+    },
+    {
+      "surface": "בני",
+      "gloss": "и"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ударами"
+    }
+  ],
+  "timestamp": "2026-08-02T23:54:33.060095304Z",
+  "model": "glm-4.5"
+}

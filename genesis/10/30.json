@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И было их поселение от Меши, ⟨как ты⟩ идешь к Сефару, горе востока.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "поселение их"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "от Меши"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "⟨как ты⟩ идешь"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "к Сефару"
+    },
+    {
+      "surface": "הר",
+      "gloss": "горе"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "востока"
+    }
+  ],
+  "timestamp": "2026-08-02T17:53:44.418624408Z",
+  "model": "glm-4.5"
+}

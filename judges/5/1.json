@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "judges 5:1",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И воспела Девора и Варак, сын Авиноама, в тот ⟨день⟩, говоря:",
+  "tokens": [
+    {
+      "surface": "ותשר",
+      "gloss": "И воспела"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Девора"
+    },
+    {
+      "surface": "וברק",
+      "gloss": "и Варак"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "Авиноама"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в ⟨день⟩"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨тот⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говоря"
+    }
+  ],
+  "timestamp": "2026-08-02T22:53:25.622811215Z",
+  "model": "glm-4.5"
+}

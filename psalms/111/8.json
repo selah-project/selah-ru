@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 111,
+  "translation": "Они утверждены навек и навек, сделаны в истине и прямоте.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "утверждены"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "навек"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "и навек"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "сделаны"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "в истине"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "и прямоте"
+    }
+  ],
+  "timestamp": "2026-08-03T08:43:07.993939345Z",
+  "model": "glm-4.5"
+}

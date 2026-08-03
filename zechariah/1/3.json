@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "zechariah 1:3",
+  "book": "zechariah",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И скажи им: так сказал ЯХВЕ Цеваот: вернитесь ко Мне, — слово ЯХВЕ Цеваот, — и Я вернусь к вам, сказал ЯХВЕ Цеваот",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "и скажи"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "вернитесь"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ко Мне"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "ואשוב",
+      "gloss": "и Я вернусь"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "к вам"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    }
+  ],
+  "timestamp": "2026-08-03T06:08:52.692085930Z",
+  "model": "glm-4.5"
+}

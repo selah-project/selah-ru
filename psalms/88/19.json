@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "psalms 88:19",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 88,
+  "translation": "Удалил Ты от меня любящего и друга, ⟨моего⟩ знакомого — во тьму.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "удалил"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "от меня"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "любящего"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "и друга"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "знакомого"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "во тьму"
+    }
+  ],
+  "timestamp": "2026-08-03T08:13:23.845617645Z",
+  "model": "glm-4.5"
+}

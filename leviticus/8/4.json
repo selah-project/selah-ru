@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И сделал Моше, как ⟨повелел⟩ ЯХВЕ ⟨ему⟩, и ⟨את⟩ собрание у входа в Шатёр Свидения.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "и сделал"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "⟨повелел⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨ему⟩"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "⟨את⟩",
+      "marks": "собрание"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "собрание"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "входа"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Шатёр"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Свидения"
+    }
+  ],
+  "timestamp": "2026-08-02T20:47:17.324386369Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 118,
+  "translation": "ЯХВЕ ⟨за⟩ меня, не побоюсь: что сделает мне человек?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨за⟩ меня"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "побоюсь"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "сделает"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "человек"
+    }
+  ],
+  "timestamp": "2026-08-03T08:48:03.881071567Z",
+  "model": "glm-4.5"
+}

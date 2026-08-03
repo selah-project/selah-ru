@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 69,
+  "translation": "Элохим, Ты знаешь мою глупость, и мои безумия от Тебя не скрыты",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаешь"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "мою глупость"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "и мои безумия"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "от Тебя"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "скрыты"
+    }
+  ],
+  "timestamp": "2026-08-03T07:49:14.110978577Z",
+  "model": "glm-4.5"
+}

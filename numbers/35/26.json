@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "numbers 35:26",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "А если выйдет ⟨он⟩ убивающий ⟨את⟩ границу города убежища его, куда ⟨он⟩ убежал туда",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А если"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "выйдет"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "выйдет"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "убивающий"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "границу"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "границу"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "города"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "убежища его"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "куда"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "убежал"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "туда"
+    }
+  ],
+  "timestamp": "2026-08-02T21:49:22.996347034Z",
+  "model": "glm-4.5"
+}

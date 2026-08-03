@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "2-kings 16:1",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "В семнадцатый год Факея, сына Ремалии, воцарился Ахаз, сын Иотама, царь Иудеи.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "В год"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семь"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десять"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "לפקח",
+      "gloss": "Факея"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Ремалии"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "воцарился"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ахаз"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Иотама"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иудеи"
+    }
+  ],
+  "timestamp": "2026-08-03T01:24:31.742835111Z",
+  "model": "glm-4.5"
+}

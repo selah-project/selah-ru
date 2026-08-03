@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Мераиот породил ⟨את⟩ Амария, и Амария породил ⟨את⟩ Ахитув",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Мераиот"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Амария"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Амария"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "и Амария"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ахитув"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ахитув"
+    }
+  ],
+  "timestamp": "2026-08-03T12:43:28.789235660Z",
+  "model": "glm-4.5"
+}

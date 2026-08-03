@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "judges 3:11",
+  "book": "judges",
+  "lang": "ru",
+  "chapter": 3,
+  "translation": "И успокоилась ⟨земля⟩ сорок лет, и умер Отниэль, сын Кеназа.",
+  "tokens": [
+    {
+      "surface": "ותשקט",
+      "gloss": "и успокоилась"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨земля⟩"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "сорок"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умер"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "Отниэль"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Кеназа"
+    }
+  ],
+  "timestamp": "2026-08-02T22:51:48.840693005Z",
+  "model": "glm-4.5"
+}

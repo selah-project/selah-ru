@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 49,
+  "translation": "Но Элохим выкупит нефеш мою от руки Шеола, ибо примет меня. Села.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Но"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "выкупит"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "нефеш мою"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "от руки"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеола"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "примет меня"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-08-03T07:27:23.452534594Z",
+  "model": "glm-4.5"
+}

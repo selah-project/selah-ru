@@ -1,0 +1,102 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "numbers 4:9",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И возьмут ⟨и⟩ ткань голубую и накроют ⟨את⟩ менорату света и ⟨את⟩ лампы её и ⟨את⟩ щипцы её и ⟨את⟩ лотки её и ⟨את⟩ все utensils масла её, чем служат ⟨ей⟩ ⟨в⟩ них",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "и возьмут"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "⟨и⟩ ткань"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "голубую"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "и накроют"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "менорату"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "менорату"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "света"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "лампы"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "лампы её"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "щипцы"
+    },
+    {
+      "surface": "מלקחיה",
+      "gloss": "щипцы её"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "лотки"
+    },
+    {
+      "surface": "מחתתיה",
+      "gloss": "лотки её"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "все"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "utensils"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "масла её"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "чем"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "служат"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨ей⟩"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "⟨в⟩ них"
+    }
+  ],
+  "timestamp": "2026-08-02T21:13:42.603182722Z",
+  "model": "glm-4.5"
+}

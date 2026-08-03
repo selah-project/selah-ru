@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "jeremiah 18:5",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И было слово ЯХВЕ ко мне, чтобы сказать:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ко мне"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "чтобы сказать:"
+    }
+  ],
+  "timestamp": "2026-08-03T03:20:30.694856996Z",
+  "model": "glm-4.5"
+}

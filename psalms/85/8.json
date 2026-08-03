@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 85,
+  "translation": "Яви нам ⟨своё⟩ хесед, ЯХВЕ, и спасение Твоё дай нам",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Яви нам"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "⟨своё⟩ хесед"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "спасение Твоё"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "спасение Твоё"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "дай"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    }
+  ],
+  "timestamp": "2026-08-03T08:10:50.544937286Z",
+  "model": "glm-4.5"
+}

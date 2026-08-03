@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "и сыновья Элканы: Амасай и Ахимоф",
+  "tokens": [
+    {
+      "surface": "וּבְנֵי",
+      "gloss": "и сыновья"
+    },
+    {
+      "surface": "אֶלְקָנָה",
+      "gloss": "Элканы"
+    },
+    {
+      "surface": "עֲמָשַׂי",
+      "gloss": "Амасай"
+    },
+    {
+      "surface": "וַאֲחִימוֹת",
+      "gloss": "и Ахимоф"
+    }
+  ],
+  "timestamp": "2026-08-03T12:44:21.625356632Z",
+  "model": "glm-4.5"
+}

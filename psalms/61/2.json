@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 61,
+  "translation": "Услышь, Элохим, мой вопль; вникни в мою молитву",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Услышь"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "мой вопль"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "вникни"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "в мою молитву"
+    }
+  ],
+  "timestamp": "2026-08-03T07:39:00.302065466Z",
+  "model": "glm-4.5"
+}

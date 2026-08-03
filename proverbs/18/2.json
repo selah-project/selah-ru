@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "Не радует глупца разум, но ⟨только⟩ то, чтобы обнажить ⟨своё⟩ сердце",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "радует"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупца"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "разум"
+    },
+    {
+      "surface": "כי",
+      "gloss": "но"
+    },
+    {
+      "surface": "אם",
+      "gloss": "только"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "чтобы обнажить"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "своё сердце"
+    }
+  ],
+  "timestamp": "2026-08-03T09:44:04.984904334Z",
+  "model": "glm-4.5"
+}

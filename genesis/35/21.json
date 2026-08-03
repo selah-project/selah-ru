@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "genesis 35:21",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "И двинулся Израиль, и ⟨он⟩ раскинул шатёр свой за башней Эдера.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "И двинулся"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиль"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "и ⟨он⟩ раскинул"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "шатёр свой"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "за"
+    },
+    {
+      "surface": "למגדל",
+      "gloss": "башней"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "Эдера"
+    }
+  ],
+  "timestamp": "2026-08-02T19:37:36.595746141Z",
+  "model": "glm-4.5"
+}

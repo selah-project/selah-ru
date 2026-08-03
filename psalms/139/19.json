@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 139,
+  "translation": "О если бы Ты убил, Элохim, ⟨רשע⟩ и людей крови, отступите от меня!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "О если бы"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "убил"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Элохim"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "⟨רשע⟩"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "и людей"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "крови"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "отступите"
+    },
+    {
+      "surface": "מני",
+      "gloss": "от меня"
+    }
+  ],
+  "timestamp": "2026-08-03T09:09:59.256959502Z",
+  "model": "glm-4.5"
+}

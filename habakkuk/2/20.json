@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "А ЯХВЕ — в храме святости Своей: замри от лица Его, вся ⟨את⟩ земля!",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "А ЯХВЕ"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "в храме"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "святости Своей"
+    },
+    {
+      "surface": "הס",
+      "gloss": "замри"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "от лица Его"
+    },
+    {
+      "surface": "כל",
+      "gloss": "вся"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨את⟩",
+      "marks": "земля"
+    }
+  ],
+  "timestamp": "2026-08-03T05:58:12.669031247Z",
+  "model": "glm-4.5"
+}

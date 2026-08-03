@@ -1,0 +1,95 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "jeremiah 45:4",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 45,
+  "translation": "Так ты скажешь ему: так говорит ЯХВЕ: вот, что ⟨я⟩ построил, ⟨я⟩ разрушаю, и ⟨את⟩ что ⟨я⟩ посадил, ⟨я⟩ вырываю, и ⟨את⟩ всю землю — она.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "скажешь"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "говорит"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "⟨я⟩ построил"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨я⟩"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "разрушаю"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "что"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "⟨я⟩ посадил"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨я⟩"
+    },
+    {
+      "surface": "נתש",
+      "gloss": "вырываю"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "всю"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всю"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "היא",
+      "gloss": "она"
+    }
+  ],
+  "timestamp": "2026-08-03T04:04:40.231155939Z",
+  "model": "glm-4.5"
+}

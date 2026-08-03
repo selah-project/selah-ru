@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "proverbs 23:27",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 23,
+  "translation": "Ибо глубокая ⟨это⟩ пропасть блудница, и узкий ⟨колодец⟩ чужая ⟨женщина⟩",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "пропасть"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "глубокая"
+    },
+    {
+      "surface": "зונה",
+      "gloss": "блудница"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "и ⟨колодец⟩"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "узкий"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "чужая ⟨женщина⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T18:26:17.704433127Z",
+  "model": "glm-4.5"
+}

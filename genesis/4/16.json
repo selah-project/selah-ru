@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И вышел Каин от лица ЯХВЕ и поселился в земле Нод, на восток от Эдена",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "и вышел"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Каин"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "от лица"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и поселился"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земле"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "Нод"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "на восток от"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Эдена"
+    }
+  ],
+  "timestamp": "2026-08-02T17:47:41.997551098Z",
+  "model": "glm-4.5"
+}

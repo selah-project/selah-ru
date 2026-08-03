@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "И ожесточилось сердце фараона, и не послушал он их, как говорил ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "и ожесточилось"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сердце"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "фараона"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "послушал"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "их"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T20:01:15.469382668Z",
+  "model": "glm-4.5"
+}

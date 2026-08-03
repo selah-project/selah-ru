@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 42,
+  "translation": "Ты знаешь, что ⟨всё⟩ можешь Ты, и не утаится от Тебя ⟨замысел⟩.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Ты знаешь"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨всё⟩"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "можешь Ты"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "утаится"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "от Тебя"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "⟨замысел⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T10:53:05.565370675Z",
+  "model": "glm-4.5"
+}

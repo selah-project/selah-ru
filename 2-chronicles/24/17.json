@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "2-chronicles 24:17",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "И после смерти Йегояды пришли князья Йеуды и поклонились царю, и царь слушал их",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "и после"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смерти"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Йегояды"
+    },
+    {
+      "surface": "באו",
+      "gloss": "пришли"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "князья"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеуды"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "и поклонились"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "אז",
+      "gloss": "и"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слушал"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "их"
+    }
+  ],
+  "timestamp": "2026-08-03T13:57:26.702079136Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И послушал их ⟨этому⟩ слову, и испытал их ⟨в⟩ дни десять,",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "и послушал"
+    },
+    {
+      "surface": "להם",
+      "gloss": "их"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "⟨этому⟩ слову"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "этому"
+    },
+    {
+      "surface": "וינסם",
+      "gloss": "и испытал их"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "⟨в⟩ дни"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десять"
+    }
+  ],
+  "timestamp": "2026-08-03T11:38:17.532681766Z",
+  "model": "glm-4.5"
+}

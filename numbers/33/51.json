@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 51,
+  "ref": "numbers 33:51",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "Говори сынам Израиля и скажи им: так как вы переходите ⟨את⟩ Иордан в землю Ханаана",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "сынам"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынам"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "и скажи"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "כי",
+      "gloss": "так как"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вы"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "переходите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Иордан"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Иордан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "землю"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Ханаана"
+    }
+  ],
+  "timestamp": "2026-08-02T21:47:51.033579221Z",
+  "model": "glm-4.5"
+}

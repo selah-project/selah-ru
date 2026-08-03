@@ -1,0 +1,86 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "1-chronicles 11:20",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И Авшай, брат Йоава, он ⟨был⟩ главою трёх, и он поднял ⟨את⟩ копьё своё на триста ⟨убитых⟩, и имел имя среди трёх",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "И Авшай"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брат"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоава"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨был⟩"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "главою"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "трёх"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "и он"
+    },
+    {
+      "surface": "עורר",
+      "gloss": "поднял"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "копьё своё"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "копьё своё"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "триста"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "חלל",
+      "gloss": "⟨убитых⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и имел"
+    },
+    {
+      "surface": "שם",
+      "gloss": "имя"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "среди трёх"
+    }
+  ],
+  "timestamp": "2026-08-03T12:53:25.625219035Z",
+  "model": "glm-4.5"
+}

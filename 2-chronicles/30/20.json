@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "И услышал ЯХВЕ Ехизкияху и исцелил ⟨את⟩ народ",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "И услышал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ехизкияху"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": ""
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "и исцелил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    }
+  ],
+  "timestamp": "2026-08-03T14:06:51.091528599Z",
+  "model": "glm-4.5"
+}

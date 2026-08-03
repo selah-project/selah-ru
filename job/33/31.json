@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "job 33:31",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 33,
+  "translation": "Внимай, Ийов, услышь меня, замолчи, и я буду говорить.",
+  "tokens": [
+    {
+      "surface": "הקשב",
+      "gloss": "внимай"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ийов"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "услышь"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "замолчи"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "и я"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "буду говорить"
+    }
+  ],
+  "timestamp": "2026-08-03T10:40:59.206491091Z",
+  "model": "glm-4.5"
+}

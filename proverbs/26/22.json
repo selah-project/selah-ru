@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "proverbs 26:22",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Слова сплетника — как деликатесы, и они ⟨ descend ⟩ во внутренности живота.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Слова"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "сплетника"
+    },
+    {
+      "surface": "כמתלהמים",
+      "gloss": "как деликатесы"
+    },
+    {
+      "surface": "והם",
+      "gloss": "и они"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "⟨ descend ⟩"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "во внутренности"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "живота"
+    }
+  ],
+  "timestamp": "2026-08-03T10:02:43.525744650Z",
+  "model": "glm-4.5"
+}

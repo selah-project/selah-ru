@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "numbers 15:17",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "И spoke ЯХВЕ ⟨to⟩ Моше, saying:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И spoke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨to⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "saying:"
+    }
+  ],
+  "timestamp": "2026-08-02T21:27:29.255620716Z",
+  "model": "glm-4.5"
+}

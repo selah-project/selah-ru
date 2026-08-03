@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 119,
+  "translation": "Убери ⟨от⟩ меня ⟨путь⟩ лжи и Тору Твою даруй мне ⟨милостиво⟩",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "путь"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лжи"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "Убери"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "⟨от⟩ меня"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "и Тору Твою"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "даруй мне ⟨милостиво⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T08:49:36.836178547Z",
+  "model": "glm-4.5"
+}

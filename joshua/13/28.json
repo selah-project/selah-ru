@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "joshua 13:28",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "Это ⟨есть⟩ надел сынов Гада по семействам их, города и посёлки их.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Это"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "надел"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гада"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "по семействам их"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "города"
+    },
+    {
+      "surface": "וחצריהם",
+      "gloss": "и посёлки их"
+    }
+  ],
+  "timestamp": "2026-08-02T22:37:25.049694819Z",
+  "model": "glm-4.5"
+}

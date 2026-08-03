@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "сын Авишуа, сын Пинхаса, сын Эльазара, сына Аарона, ⟨это⟩ главный священник",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Авишуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Пинхаса"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Эльазара"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сына"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарона"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "священник"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "главный"
+    }
+  ],
+  "timestamp": "2026-08-03T12:06:13.528357834Z",
+  "model": "glm-4.5"
+}

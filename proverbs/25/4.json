@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 25:4",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "Удали шлак ⟨с⟩ серебра, и выйдет сосуд для плавильщика",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "удали"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "шлак"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "⟨с⟩ серебра"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "и выйдет"
+    },
+    {
+      "surface": "לצרף",
+      "gloss": "для плавильщика"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "сосуд"
+    }
+  ],
+  "timestamp": "2026-08-03T09:59:45.037113633Z",
+  "model": "glm-4.5"
+}

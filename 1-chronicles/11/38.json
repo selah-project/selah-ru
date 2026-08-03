@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "1-chronicles 11:38",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Йоэл, брат Нафана, Мивхар, сын Гагри;",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "Йоэл"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брат"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Нафана"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "Мивхар"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "הגרי",
+      "gloss": "Гагри"
+    }
+  ],
+  "timestamp": "2026-08-03T12:54:07.416418364Z",
+  "model": "glm-4.5"
+}

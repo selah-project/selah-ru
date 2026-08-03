@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "genesis 9:27",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "Да прострит Элохим Яфета и да обитает ⟨он⟩ в шатрах Шема, а Ханаан будет слугой ⟨им⟩",
+  "tokens": [
+    {
+      "surface": "יפת",
+      "gloss": "прострит"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ליפת",
+      "gloss": "Яфета"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "и да обитает"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "в шатрах"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шема"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "а"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Ханаан"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "будет слугой"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨им⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T17:53:13.788798321Z",
+  "model": "glm-4.5"
+}

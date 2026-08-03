@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 116,
+  "translation": "Обеты мои ЯХВЕ исполню, ⟨я⟩ пред лицом всего народа Его,",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "Обеты мои"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "исполню"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "пред лицом"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨я⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "всего"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "народа Его"
+    }
+  ],
+  "timestamp": "2026-08-03T08:46:13.357085178Z",
+  "model": "glm-4.5"
+}

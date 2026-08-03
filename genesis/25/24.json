@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "genesis 25:24",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "И исполнились дни её, чтобы родить, и вот, близнецы в чреве её.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "и исполнились"
+    },
+    {
+      "surface": "ימיה",
+      "gloss": "дни её"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "чтобы родить"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "תומם",
+      "gloss": "близнецы"
+    },
+    {
+      "surface": "בבטנה",
+      "gloss": "в чреве её"
+    }
+  ],
+  "timestamp": "2026-08-02T19:23:40.607654098Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 24,
+  "translation": "И они сказали: позовём девушку и спросим ⟨את⟩ её уст",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "и они сказали"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "позовём"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "девушку"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "и спросим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "её уст"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "уст"
+    }
+  ],
+  "timestamp": "2026-08-02T19:22:47.312729061Z",
+  "model": "glm-4.5"
+}

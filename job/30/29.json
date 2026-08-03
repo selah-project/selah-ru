@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "job 30:29",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 30,
+  "translation": "братом я был шакалам и подругой дочерям страуса",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "братом"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "я был"
+    },
+    {
+      "surface": "לתנים",
+      "gloss": "шакалам"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "и подругой"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "дочерям"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "страуса"
+    }
+  ],
+  "timestamp": "2026-08-03T10:35:59.410952378Z",
+  "model": "glm-4.5"
+}

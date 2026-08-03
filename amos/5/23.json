@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "amos 5:23",
+  "book": "amos",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "Убери от меня шум песен твоих, и мелодию Nevалей твоих не ⟨я⟩ услышу",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "Убери"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "от меня"
+    },
+    {
+      "surface": "המון",
+      "gloss": "шум"
+    },
+    {
+      "surface": "שריך",
+      "gloss": "песен твоих"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "и мелодию"
+    },
+    {
+      "surface": "נבליך",
+      "gloss": "Nevalей твоих"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "услышу"
+    }
+  ],
+  "timestamp": "2026-08-03T05:39:24.434676245Z",
+  "model": "glm-4.5"
+}

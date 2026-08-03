@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 37,
+  "translation": "И возвратился он к братьям своим, и сказал: «Отрока ⟨нет⟩, ⟨а⟩ я — куда ⟨иду⟩ я?»",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "и возвратился"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "братьям своим"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "отрока"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "⟨нет⟩"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "⟨а⟩ я"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "куда"
+    },
+    {
+      "surface": "אני",
+      "gloss": "я"
+    },
+    {
+      "surface": "בא",
+      "gloss": "⟨иду⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T19:40:24.651325208Z",
+  "model": "glm-4.5"
+}

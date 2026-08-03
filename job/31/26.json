@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "job 31:26",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "Если ⟨я⟩ видел свет, ⟨когда⟩ он сиял, и луну, драгоценную, ⟨идущую⟩",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Если"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "видел"
+    },
+    {
+      "surface": "אור",
+      "gloss": "свет"
+    },
+    {
+      "surface": "כי",
+      "gloss": "когда"
+    },
+    {
+      "surface": "יהל",
+      "gloss": "он сиял"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "и луну"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "драгоценную"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "идущую"
+    }
+  ],
+  "timestamp": "2026-08-03T10:37:07.688720489Z",
+  "model": "glm-4.5"
+}

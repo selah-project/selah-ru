@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "и для проказы ⟨на⟩ одежде и ⟨на⟩ доме",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "и для проказы"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "⟨на⟩ одежде"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "и ⟨на⟩ доме"
+    }
+  ],
+  "timestamp": "2026-08-02T20:54:36.494506681Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 74,
+  "translation": "Тебе ⟨принадлежит⟩ день, Тебе и ночь: Ты устроил светило и солнце.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Тебе"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "אף",
+      "gloss": "и"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Тебе"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ночь"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ты"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "устроил"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "светило"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "и солнце"
+    }
+  ],
+  "timestamp": "2026-08-03T07:55:04.608789439Z",
+  "model": "glm-4.5"
+}

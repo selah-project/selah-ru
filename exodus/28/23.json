@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "и сделаешь на хошене два золотых кольца, и положишь ⟨את⟩ два кольца на ⟨два⟩ края хошена",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "и сделаешь"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "хошене"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "два"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "золотых кольца"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "золото"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "и положишь"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "два кольца"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "два"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "кольца"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שני",
+      "gloss": "два"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "края"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "хошена"
+    }
+  ],
+  "timestamp": "2026-08-02T20:22:30.120680273Z",
+  "model": "glm-4.5"
+}

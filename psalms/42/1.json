@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 42,
+  "translation": "Начальнику. Поучение сынов Кóраха.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Начальнику"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Поучение"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "сынов"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Кóраха"
+    }
+  ],
+  "timestamp": "2026-08-03T07:20:30.358703855Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "genesis 5:31",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 5,
+  "translation": "И было всех дней Лемеха семьдесят и семь лет и семь сот лет, и он умер.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всех"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дней"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Лемеха"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "семь"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "и семьдесят"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "и семь"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сот"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "лет"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и он умер"
+    }
+  ],
+  "timestamp": "2026-08-02T17:49:10.251228512Z",
+  "model": "glm-4.5"
+}

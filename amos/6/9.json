@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "amos 6:9",
+  "book": "amos",
+  "lang": "ru",
+  "chapter": 6,
+  "translation": "И будет, если останутся десять человек в одном доме, и умрут",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И будет"
+    },
+    {
+      "surface": "אם",
+      "gloss": "если"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "останутся"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десять"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "человек"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "в доме"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одном"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "и умрут"
+    }
+  ],
+  "timestamp": "2026-08-03T05:40:24.669127536Z",
+  "model": "glm-4.5"
+}

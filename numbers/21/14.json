@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "numbers 21:14",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Потому ⟨сказано⟩ в книге войн ЯХВЕ: ⟨את⟩ Вагев в Суфе и ⟨את⟩ потоки Арнона",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "потому"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "сказано"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "в книге"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "войн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Вагев"
+    },
+    {
+      "surface": "והב",
+      "gloss": "Вагев"
+    },
+    {
+      "surface": "בסופה",
+      "gloss": "в Суфе"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "потоки"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "потоки"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Арнона"
+    }
+  ],
+  "timestamp": "2026-08-02T21:33:54.990760561Z",
+  "model": "glm-4.5"
+}

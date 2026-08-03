@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "так сказал Адонай ЯХВЕ: не ⟨она⟩ встанет и не ⟨она⟩ будет",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "встанет"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "будет"
+    }
+  ],
+  "timestamp": "2026-08-03T01:50:54.001422911Z",
+  "model": "glm-4.5"
+}

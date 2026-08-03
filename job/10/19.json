@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "job 10:19",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "как будто бы я не был, я был перенесён из чрева в могилу",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "как"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "я был"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "я ⟨был⟩"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "из чрева"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "в могилу"
+    },
+    {
+      "surface": "אובל",
+      "gloss": "перенесён"
+    }
+  ],
+  "timestamp": "2026-08-03T10:18:43.123361428Z",
+  "model": "glm-4.5"
+}

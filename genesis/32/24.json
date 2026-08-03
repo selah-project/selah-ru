@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 32,
+  "translation": "И взял он их, и переправил ⟨את⟩ поток, и переправил ⟨את⟩ то, что у него было.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "и взял"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "и переправил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "поток"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "поток"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "и переправил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "то"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "לו",
+      "gloss": "у него"
+    }
+  ],
+  "timestamp": "2026-08-02T19:34:16.616835562Z",
+  "model": "glm-4.5"
+}

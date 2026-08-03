@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "joshua 18:26",
+  "book": "joshua",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "и Мицпе́ и Кефира́ и Моца́",
+  "tokens": [
+    {
+      "surface": "וְהַמִּצְפֶּה",
+      "gloss": "и Мицпе́"
+    },
+    {
+      "surface": "וְהַכְּפִירָה",
+      "gloss": "и Кефира́"
+    },
+    {
+      "surface": "וְהַמֹּצָה",
+      "gloss": "и Моца́"
+    }
+  ],
+  "timestamp": "2026-08-02T22:41:20.314860448Z",
+  "model": "glm-4.5"
+}

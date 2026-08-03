@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-chronicles 25:12",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 25,
+  "translation": "Пятый — Нета́ньяху, его сыновья и его братья — двенадцать:",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "Пятый"
+    },
+    {
+      "surface": "נתניהו",
+      "gloss": "Нета́ньяху"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "его сыновья"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "и его братья"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "двенадцать"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-03T13:12:46.594966402Z",
+  "model": "glm-4.5"
+}

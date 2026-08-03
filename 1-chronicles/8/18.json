@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "1-chronicles 8:18",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "и Йишмера́й, и Йизлия́́ху, и Йова́в — сыновья́ Эльпаа́ла",
+  "tokens": [
+    {
+      "surface": "וישמרי",
+      "gloss": "и Йишмера́й"
+    },
+    {
+      "surface": "ויזליאה",
+      "gloss": "и Йизлия́́ху"
+    },
+    {
+      "surface": "ויובב",
+      "gloss": "и Йова́в"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья́"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Эльпаа́ла"
+    }
+  ],
+  "timestamp": "2026-08-03T12:49:03.910127569Z",
+  "model": "glm-4.5"
+}

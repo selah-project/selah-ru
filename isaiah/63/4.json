@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "isaiah 63:4",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 63,
+  "translation": "Ибо день мщения в сердце моём, и год искупления мо́го ⟨настал⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "יום",
+      "gloss": "день"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "мщения"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "в сердце моём"
+    },
+    {
+      "surface": "ושנת",
+      "gloss": "и год"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "искупления мо́го"
+    },
+    {
+      "surface": "באה",
+      "gloss": "⟨настал⟩"
+    }
+  ],
+  "timestamp": "2026-08-03T02:53:26.044487618Z",
+  "model": "glm-4.5"
+}

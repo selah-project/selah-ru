@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 72,
+  "translation": "И поклонятся Ему все цари, все народы будут служить Ему",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "и поклонятся"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ему"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "цари"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народы"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "будут служить Ему"
+    }
+  ],
+  "timestamp": "2026-08-03T07:52:22.219187197Z",
+  "model": "glm-4.5"
+}

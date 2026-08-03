@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И Овед породил ⟨את⟩ Йеху, и Йеху породил ⟨את⟩ Азарьяху",
+  "tokens": [
+    {
+      "surface": "וְעוֹבֵד",
+      "gloss": "И Овед"
+    },
+    {
+      "surface": "הוֹלִיד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Йеху"
+    },
+    {
+      "surface": "יֵהוּא",
+      "gloss": "Йеху"
+    },
+    {
+      "surface": "וְיֵהוּא",
+      "gloss": "и Йеху"
+    },
+    {
+      "surface": "הוֹלִיד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Азарьяху"
+    },
+    {
+      "surface": "עֲזַרְיָה",
+      "gloss": "Азарьяху"
+    }
+  ],
+  "timestamp": "2026-08-03T12:38:19.382698181Z",
+  "model": "glm-4.5"
+}

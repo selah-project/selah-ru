@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "ezekiel 22:16",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "и ⟨ты⟩ осквернишься ⟨в⟩ себе пред глазами народов, и узнаешь, что Я — ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ונחלת",
+      "gloss": "и ⟨ты⟩ осквернишься"
+    },
+    {
+      "surface": "בך",
+      "gloss": "⟨в⟩ себе"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "пред глазами"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народов"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "и узнаешь"
+    },
+    {
+      "surface": "כי",
+      "gloss": "что"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T04:43:42.691320317Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "nehemiah 13:23",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "Также в те дни я увидел ⟨את⟩ Иудеев, settling женщин ашдодитянок, аммонитянок, моавитянок",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Также"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "в те дни"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "—"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "я увидел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Иудеев"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Иудеев"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "settling"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "женщин"
+    },
+    {
+      "surface": "אשדודיות",
+      "gloss": "ашдодитянок"
+    },
+    {
+      "surface": "עמוניות",
+      "gloss": "аммонитянок"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "моавитянок"
+    }
+  ],
+  "timestamp": "2026-08-03T12:33:35.583302827Z",
+  "model": "glm-4.5"
+}

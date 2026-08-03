@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 36,
+  "translation": "И вот происхождения Эсава, отца Эдома, в горе Сеир:",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "и вот"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "происхождения"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсава"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отца"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдома"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "в горе"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    }
+  ],
+  "timestamp": "2026-08-02T19:38:34.145006165Z",
+  "model": "glm-4.5"
+}

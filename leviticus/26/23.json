@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "leviticus 26:23",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "И если этими ⟨вы⟩ не ⟨будете⟩ вразумлены Мной, и пойдете ⟨со⟩ Мной во вражде",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "И если"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "этими"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תוסרו",
+      "gloss": "⟨будете⟩ вразумлены"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мной"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "и пойдете"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "⟨со⟩ Мной"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "во вражде"
+    }
+  ],
+  "timestamp": "2026-08-02T21:07:31.543618258Z",
+  "model": "glm-4.5"
+}

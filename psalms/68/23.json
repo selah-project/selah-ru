@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 68,
+  "translation": "Адонай сказал: из Башана возвращу, возвращу из глубин моря",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "сказал"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "из Башана"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "верну"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "верну"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "из глубин"
+    },
+    {
+      "surface": "ים",
+      "gloss": "моря"
+    }
+  ],
+  "timestamp": "2026-08-03T07:47:50.879395168Z",
+  "model": "glm-4.5"
+}

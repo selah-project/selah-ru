@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "exodus 35:9",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "и камни шоам и камни вставные для эфода и для хошена",
+  "tokens": [
+    {
+      "surface": "ואבני",
+      "gloss": "и камни"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "шоам"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "и камни"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "вставные"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "для эфода"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "и для хошена"
+    }
+  ],
+  "timestamp": "2026-08-02T20:32:52.160406371Z",
+  "model": "glm-4.5"
+}

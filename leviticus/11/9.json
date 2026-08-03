@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "leviticus 11:9",
+  "book": "leviticus",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "Эти ⟨есть⟩ ⟨את⟩ то, что из всего, что в водах, всё, что ⟨имеет⟩ плавник и чешую в водах, в морях и в реках, — их ⟨את⟩ ешьте.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "это"
+    },
+    {
+      "surface": "זה",
+      "gloss": "это"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ешьте"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "из всего"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "במים",
+      "gloss": "в водах"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "плавник"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "и чешуя"
+    },
+    {
+      "surface": "במים",
+      "gloss": "в водах"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "в морях"
+    },
+    {
+      "surface": "ובנחלים",
+      "gloss": "и в реках"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "их"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ешьте"
+    }
+  ],
+  "timestamp": "2026-08-02T20:50:29.172847957Z",
+  "model": "glm-4.5"
+}

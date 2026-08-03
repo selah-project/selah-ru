@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-samuel 22:12",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "И сказал Шаул: послушай теперь, сын Ахитуба. И он сказал: вот я, Адонай.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "послушай"
+    },
+    {
+      "surface": "נא",
+      "gloss": "теперь"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ахитуба"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "И он сказал"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "вот я"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    }
+  ],
+  "timestamp": "2026-08-02T23:38:41.792289294Z",
+  "model": "glm-4.5"
+}

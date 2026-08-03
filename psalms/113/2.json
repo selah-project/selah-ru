@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 113,
+  "translation": "Да будет благословенно Имя ЯХВЕ, отныне и вовек.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Да будет"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Имя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "благословенно"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "отныне"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вовек"
+    }
+  ],
+  "timestamp": "2026-08-03T08:44:24.814508503Z",
+  "model": "glm-4.5"
+}

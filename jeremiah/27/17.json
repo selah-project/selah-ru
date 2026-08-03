@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 27,
+  "translation": "Не слушайте их, служите ⟨את⟩ царю Вавилона и живите; почему этот город будет опустошён?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "слушайте"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "их"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "служите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "царю Вавилона"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилона"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "и живите"
+    },
+    {
+      "surface": "למה",
+      "gloss": "почему"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "будет"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "этот город"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "этот"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "опустошён"
+    }
+  ],
+  "timestamp": "2026-08-03T03:37:31.631961796Z",
+  "model": "glm-4.5"
+}

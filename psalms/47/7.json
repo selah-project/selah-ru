@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 47,
+  "translation": "Играйте Элохиму, играйте, играйте нашему Царю, играйте.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "играйте"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохиму"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "играйте"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "играйте"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "нашему Царю"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "играйте"
+    }
+  ],
+  "timestamp": "2026-08-03T07:25:28.790353994Z",
+  "model": "glm-4.5"
+}

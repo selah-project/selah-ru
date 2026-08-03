@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "1-chronicles 2:34",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 2,
+  "translation": "И не было у Шешана сыновей, только дочери, и у Шешана ⟨был⟩ раб Мицри, и имя ему Ярхаа.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "было"
+    },
+    {
+      "surface": "לששן",
+      "gloss": "у Шешана"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "כי",
+      "gloss": "только"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בנות",
+      "gloss": "дочери"
+    },
+    {
+      "surface": "ולששן",
+      "gloss": "и у Шешана"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "раб"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Мицри"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "и имя ему"
+    },
+    {
+      "surface": "ירחע",
+      "gloss": "Ярхаа"
+    }
+  ],
+  "timestamp": "2026-08-03T12:38:35.838899416Z",
+  "model": "glm-4.5"
+}

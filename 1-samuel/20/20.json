@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "1-samuel 20:20",
+  "book": "1-samuel",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "А я — три стрелы ⟨в⟩ сторону ⟨пущу⟩, словно ⟨в⟩ цель метаюсь.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "А я"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "⟨את⟩",
+      "marks": "стрелы"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "⟨в⟩ сторону"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "⟨пущу⟩"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "⟨в⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "цель"
+    },
+    {
+      "surface": "למטרה",
+      "gloss": "метаюсь"
+    }
+  ],
+  "timestamp": "2026-08-02T23:35:47.307040744Z",
+  "model": "glm-4.5"
+}

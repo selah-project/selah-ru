@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "deuteronomy 9:22",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И в Тавэ́ре, и в Массе, и в Кибро́т-га-Тааве вы раздражали ⟨את⟩ ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ובתבערה",
+      "gloss": "И в Тавэ́ре"
+    },
+    {
+      "surface": "ובמסה",
+      "gloss": "и в Массе"
+    },
+    {
+      "surface": "ובקברת",
+      "gloss": "и в Кибро́т-га-Тааве"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": ""
+    },
+    {
+      "surface": "מקצפים",
+      "gloss": "вы раздражали"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-02T22:00:19.930457707Z",
+  "model": "glm-4.5"
+}

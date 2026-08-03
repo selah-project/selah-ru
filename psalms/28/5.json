@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "Ибо не уразумеют ⟨они⟩ ⟨на⟩ деяния ЯХВЕ и ⟨на⟩ дело рук Его, разрушит их и не построит их.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "уразумеют"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨на⟩",
+      "marks": "деяния"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "деяния"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и ⟨на⟩",
+      "marks": "дело"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "дело"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "рук Его"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "разрушит их"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "построит их"
+    }
+  ],
+  "timestamp": "2026-08-03T07:04:29.166974104Z",
+  "model": "glm-4.5"
+}

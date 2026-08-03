@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "job 26:4",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Кому ⟨את⟩ ты сообщил слова? и чей дух вышел от тебя?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кому"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кому"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "ты сообщил"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "слова"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "и дух"
+    },
+    {
+      "surface": "מי",
+      "gloss": "чей"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "вышел"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "от тебя"
+    }
+  ],
+  "timestamp": "2026-08-03T10:32:20.206711403Z",
+  "model": "glm-4.5"
+}

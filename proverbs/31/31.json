@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "proverbs 31:31",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 31,
+  "translation": "Дайте ей от плода рук её, и да восхвалят её дела в воротах",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "Дайте"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ей"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "от плода"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "рук её"
+    },
+    {
+      "surface": "ויהללוה",
+      "gloss": "и да восхвалят её"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "в воротах"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "дела"
+    }
+  ],
+  "timestamp": "2026-08-03T10:08:55.834662216Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 1,
+  "translation": "И ⟨он⟩ сказал мне: «Кто ты?» И ⟨я⟩ сказал ему: «Я амалекитянин».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и ⟨он⟩ сказал"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мне"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ты"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и ⟨я⟩ сказал"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ему"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "амалекитянин"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "я"
+    }
+  ],
+  "timestamp": "2026-08-03T18:26:08.366312538Z",
+  "model": "glm-4.5"
+}

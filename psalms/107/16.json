@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 107,
+  "translation": "Ибо Он сокрушил медные двери ⟨и⟩ железные засовы срубил.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ибо"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "сокрушил"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "двери"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "медные"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "⟨и⟩"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "железные"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "засовы срубил"
+    }
+  ],
+  "timestamp": "2026-08-03T08:38:30.191197062Z",
+  "model": "glm-4.5"
+}

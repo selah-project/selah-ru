@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "ezekiel 7:23",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Кови цепь: ⟨ибо⟩ земля полна ⟨судов⟩ кровей, и город полен насилия",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Кови"
+    },
+    {
+      "surface": "הרתוק",
+      "gloss": "цепь"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ибо⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земля"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "полна"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "⟨судов⟩"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "кровей"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "и город"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "полен"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насилия"
+    }
+  ],
+  "timestamp": "2026-08-03T04:22:35.268220211Z",
+  "model": "glm-4.5"
+}

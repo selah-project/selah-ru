@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "numbers 14:20",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 14,
+  "translation": "И сказал ЯХВЕ: ⟨Я⟩ простил, ⟨как⟩ слово ⟨твоё⟩:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "סלחתי",
+      "gloss": "⟨Я⟩ простил"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "⟨как⟩ слово ⟨твоё⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T21:25:44.092650603Z",
+  "model": "glm-4.5"
+}

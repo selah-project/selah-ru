@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 16,
+  "translation": "Всё сделал ЯХВЕ ради ⟨Себя⟩, и ⟨даже⟩ нечестивого — на день бедствия",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Всё"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "ради ⟨Себя⟩"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и ⟨даже⟩"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "нечестивого"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "на день"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "бедствия"
+    }
+  ],
+  "timestamp": "2026-08-03T09:40:51.759589689Z",
+  "model": "glm-4.5"
+}

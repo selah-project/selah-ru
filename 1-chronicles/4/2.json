@@ -1,0 +1,76 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И Раия, сын Шовала, породил ⟨את⟩ Яхата, а Яхат породил ⟨את⟩ Ахумай и ⟨את⟩ Лахад. Это семейства Цораитян.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "И Раия"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Шовала"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхата"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Яхат"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "а Яхат"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "породил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ахумай"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Ахумай"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Лахад"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Лахад"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Это"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "семейства"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "Цораитян"
+    }
+  ],
+  "timestamp": "2026-08-03T12:40:05.408420126Z",
+  "model": "glm-4.5"
+}

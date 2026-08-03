@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "ru",
+  "chapter": 29,
+  "translation": "И скажут все народы: за что сделал ЯХВЕ так с ⟨этой⟩ землёй, ⟨что значит⟩ этот ⟨великий⟩ пыл ярости?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "и скажут"
+    },
+    {
+      "surface": "כל",
+      "gloss": "все"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народы"
+    },
+    {
+      "surface": "על",
+      "gloss": "за что"
+    },
+    {
+      "surface": "מה",
+      "gloss": "[что]"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "так"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "с ⟨этой⟩ землёй"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "⟨этой⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "что"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "пыл"
+    },
+    {
+      "surface": "האף",
+      "gloss": "ярости"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "⟨великий⟩"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "этот"
+    }
+  ],
+  "timestamp": "2026-08-02T22:19:53.423191123Z",
+  "model": "glm-4.5"
+}

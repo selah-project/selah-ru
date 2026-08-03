@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "ezekiel 39:5",
+  "book": "ezekiel",
+  "lang": "ru",
+  "chapter": 39,
+  "translation": "На ⟨лицо⟩ поля ты упадёшь, ибо Я ⟨это⟩ говорил — слово Адонай ЯХВЕ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨лицо⟩"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "поля"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "ты упадёшь"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "⟨это⟩ говорил"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    }
+  ],
+  "timestamp": "2026-08-03T05:05:09.257870386Z",
+  "model": "glm-4.5"
+}

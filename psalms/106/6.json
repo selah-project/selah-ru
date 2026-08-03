@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 106,
+  "translation": "Мы согрешили с отцами нашими, совершили ⟨были⟩ нечестие, ⟨мы⟩ поступили wickedly.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "согрешили"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "отцами нашими"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "совершили ⟨были⟩ нечестие"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "поступили wickedly"
+    }
+  ],
+  "timestamp": "2026-08-03T08:36:44.872867772Z",
+  "model": "glm-4.5"
+}

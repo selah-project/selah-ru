@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 145,
+  "translation": "Милостив и милосерден ЯХВЕ, ⟨и⟩ долготерпелив, и велик хесед",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Милостив"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "и милосерден"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "долготерпелив"
+    },
+    {
+      "surface": "אפים",
+      "gloss": ""
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "и велик"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хесед"
+    }
+  ],
+  "timestamp": "2026-08-03T09:15:13.220256210Z",
+  "model": "glm-4.5"
+}

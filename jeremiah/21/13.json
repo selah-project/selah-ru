@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "jeremiah 21:13",
+  "book": "jeremiah",
+  "lang": "ru",
+  "chapter": 21,
+  "translation": "Вот, я против тебя, inhabitant of the valley, rock of the plain, — ne'um ЯХВЕ — говорящим: кто сойдёт на нас? и кто войдёт в наши жилища?",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "вот, я"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "против тебя"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "inhabitant"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "долины"
+    },
+    {
+      "surface": "צור",
+      "gloss": "скала"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "равнины"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "— ne'um —"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "говорящим"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кто"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "сойдёт"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "на нас"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и кто"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "войдёт"
+    },
+    {
+      "surface": "במעונותינו",
+      "gloss": "в наши жилища"
+    }
+  ],
+  "timestamp": "2026-08-03T03:25:42.463280189Z",
+  "model": "glm-4.5"
+}

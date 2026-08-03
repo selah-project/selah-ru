@@ -1,0 +1,64 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "2-kings 4:14",
+  "book": "2-kings",
+  "lang": "ru",
+  "chapter": 4,
+  "translation": "И сказал: а что ⟨ сделать ⟨ ей⟩? И сказал Гехази: но, сын, нет ⟨ у неё⟩, и муж ⟨ её⟩ стар.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "а что"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "⟨ сделать"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨ ей⟩",
+      "marks": "ей"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "גיחזי",
+      "gloss": "Гехази"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "но"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сын"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨ у неё⟩",
+      "marks": "у неё"
+    },
+    {
+      "surface": "ואישה",
+      "gloss": "и муж"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "⟨ её⟩ стар",
+      "marks": "её муж"
+    }
+  ],
+  "timestamp": "2026-08-03T01:07:25.838995934Z",
+  "model": "glm-4.5"
+}

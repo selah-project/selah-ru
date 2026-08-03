@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 126,
+  "translation": "ЯХВЕ сделал ⟨великие⟩ ⟨с⟩ ⟨нами⟩; мы стали радующимися.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "сделал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "⟨великие⟩"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "⟨с⟩ ⟨нами⟩"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "мы стали"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "радующимися"
+    }
+  ],
+  "timestamp": "2026-08-03T08:59:32.170497519Z",
+  "model": "glm-4.5"
+}

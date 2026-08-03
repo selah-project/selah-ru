@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 62,
+  "ref": "nehemiah 7:62",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "сыновья Делаи, сыновья Товии, сыновья Некоды, шестьсот сорок два",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "דליה",
+      "gloss": "Делаи"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Товии"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновья"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "Некоды"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шесть"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотен"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "и сорока"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "и двух"
+    }
+  ],
+  "timestamp": "2026-08-03T12:22:50.789936144Z",
+  "model": "glm-4.5"
+}

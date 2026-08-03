@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "ru",
+  "chapter": 35,
+  "translation": "Укрепите слабые руки и утвердите дрожащие колени",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "укрепите"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "руки"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "слабые"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "и колени"
+    },
+    {
+      "surface": "כשלות",
+      "gloss": "дрожащие"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "утвердите"
+    }
+  ],
+  "timestamp": "2026-08-03T02:19:55.272528515Z",
+  "model": "glm-4.5"
+}

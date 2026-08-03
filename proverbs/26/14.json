@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "ru",
+  "chapter": 26,
+  "translation": "Дверь вращается на ⟨своём⟩ петле, и лентяй на ⟨своём⟩ ложе",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "Дверь"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "вращается"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "петле"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "и лентяй"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "ложе"
+    }
+  ],
+  "timestamp": "2026-08-03T10:02:06.807146630Z",
+  "model": "glm-4.5"
+}

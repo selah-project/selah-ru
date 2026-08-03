@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 11,
+  "translation": "И возопил ⟨народ⟩ к Моше, и помолился Моше к ЯХВЕ, и утих ⟨огонь⟩",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "И возопил"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨народ⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "и помолился"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "и утих"
+    },
+    {
+      "surface": "האש",
+      "gloss": "⟨огонь⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T21:22:53.779987972Z",
+  "model": "glm-4.5"
+}

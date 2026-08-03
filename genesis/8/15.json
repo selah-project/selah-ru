@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И заговорил Элохим ⟨с⟩ Ноахом, ⟨говоря⟩",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И заговорил"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨с⟩",
+      "marks": "Ноахом"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноахом"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨говоря⟩"
+    }
+  ],
+  "timestamp": "2026-08-02T17:51:47.003465770Z",
+  "model": "glm-4.5"
+}

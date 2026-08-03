@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 20,
+  "translation": "И послал вестников к Ахаву, царю Израиля, ⟨в⟩ город",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "И послал"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "вестников"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахаву"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царю"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "⟨в⟩ город"
+    }
+  ],
+  "timestamp": "2026-08-03T00:56:33.475011966Z",
+  "model": "glm-4.5"
+}

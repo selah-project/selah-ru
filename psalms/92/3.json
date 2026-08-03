@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 92,
+  "translation": "возвещать утром хесед Твой и веру Твою в ночи",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "возвещать"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "утром"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хесед Твой"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "и веру Твою"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "в ночи"
+    }
+  ],
+  "timestamp": "2026-08-03T08:21:25.250522417Z",
+  "model": "glm-4.5"
+}

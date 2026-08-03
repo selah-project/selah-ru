@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "numbers 15:18",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 15,
+  "translation": "Говори сынам Израиля и скажи им: при входе вашем в ⟨землю⟩, которую Я привожу ⟨את⟩ вас туда",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "сынам"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "и скажи"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "при входе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨землю⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которую"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Я"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "привожу"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "туда"
+    }
+  ],
+  "timestamp": "2026-08-02T21:27:33.996439248Z",
+  "model": "glm-4.5"
+}

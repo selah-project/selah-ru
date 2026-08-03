@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "2-samuel 22:6",
+  "book": "2-samuel",
+  "lang": "ru",
+  "chapter": 22,
+  "translation": "Канаты Шеола окружили меня, предстали ⟨предо⟩ мною силки смерти",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "Канаты"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеола"
+    },
+    {
+      "surface": "סבני",
+      "gloss": "окружили меня"
+    },
+    {
+      "surface": "קדמני",
+      "gloss": "предстали"
+    },
+    {
+      "surface": "מקשי",
+      "gloss": "силки"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смерти"
+    }
+  ],
+  "timestamp": "2026-08-03T00:11:37.522627587Z",
+  "model": "glm-4.5"
+}

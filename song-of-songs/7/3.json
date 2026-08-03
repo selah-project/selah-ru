@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "song-of-songs 7:3",
+  "book": "song-of-songs",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Твой стан — круглая чаша; ⟨не⟩ lacking ⟨в⟩ смеси; твой чрево — куча пшеницы, окружённая лилиями",
+  "tokens": [
+    {
+      "surface": "שררך",
+      "gloss": "Твой стан"
+    },
+    {
+      "surface": "אגן",
+      "gloss": "круглая чаша"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "⟨не⟩ lacking"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨в⟩"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "смеси"
+    },
+    {
+      "surface": "המזג",
+      "gloss": "⟨не⟩ lacking"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "твой чрево"
+    },
+    {
+      "surface": "ערמת",
+      "gloss": "куча"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "пшеницы"
+    },
+    {
+      "surface": "סוגה",
+      "gloss": "окружённая"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "лилиями"
+    }
+  ],
+  "timestamp": "2026-08-03T10:58:43.187931592Z",
+  "model": "glm-4.5"
+}

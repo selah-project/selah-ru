@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "exodus 10:18",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 10,
+  "translation": "И вышел он от Паро и ⟨он⟩ молился ЯХВЕ",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "И вышел"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "от"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "и ⟨он⟩ молился"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ЯХВЕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-02T20:04:36.511006494Z",
+  "model": "glm-4.5"
+}

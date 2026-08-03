@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "numbers 13:8",
+  "book": "numbers",
+  "lang": "ru",
+  "chapter": 13,
+  "translation": "от колена Эфраима Гоша, ⟨сын⟩ Нуна.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "от колена"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраима"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "Гоша"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨сын⟩"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Нуна"
+    }
+  ],
+  "timestamp": "2026-08-02T21:24:39.798286282Z",
+  "model": "glm-4.5"
+}

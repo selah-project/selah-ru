@@ -1,0 +1,89 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "daniel 8:13",
+  "book": "daniel",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И я услышал одного святого, говорящего, и сказал один святой Пламуни, ⟨который⟩ говорил: „до ⟨какого⟩ времени ⟨будет⟩ видение ⟨о⟩ continual burnt-offering и transgression of desolation, ⟨чтобы⟩ отдать святилище и войско ⟨в⟩ попрание?“",
+  "tokens": [
+    {
+      "surface": "ואשמעה",
+      "gloss": "и я услышал"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "одного"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "святого"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "говорящего"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и сказал"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "один"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "святой"
+    },
+    {
+      "surface": "לפלמוני",
+      "gloss": "Пламуни"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "⟨который⟩ говорил"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "⟨какого⟩ времени"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "⟨будет⟩ видение"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "continual burnt-offering"
+    },
+    {
+      "surface": "והפשע",
+      "gloss": "и transgression"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "of desolation"
+    },
+    {
+      "surface": "תת",
+      "gloss": "⟨чтобы⟩ отдать"
+    },
+    {
+      "surface": "וקדש",
+      "gloss": "и святилище"
+    },
+    {
+      "surface": "וצבא",
+      "gloss": "и войско"
+    },
+    {
+      "surface": "מרמס",
+      "gloss": "⟨в⟩ попрание"
+    }
+  ],
+  "timestamp": "2026-08-03T11:50:05.279011910Z",
+  "model": "glm-4.5"
+}

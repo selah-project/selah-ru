@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "job 9:25",
+  "book": "job",
+  "lang": "ru",
+  "chapter": 9,
+  "translation": "И дни мои быстрее, чем бегун; ⟨они⟩ бежали, ⟨и⟩ не видели добра",
+  "tokens": [
+    {
+      "surface": "וימי",
+      "gloss": "И дни мои"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "быстрее"
+    },
+    {
+      "surface": "מני",
+      "gloss": "чем"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "бегун"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "бежали"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "видели"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "добра"
+    }
+  ],
+  "timestamp": "2026-08-03T10:17:38.130941840Z",
+  "model": "glm-4.5"
+}

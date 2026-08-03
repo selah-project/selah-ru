@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "ru",
+  "chapter": 102,
+  "translation": "ибо Твои рабы благоволят к ⟨את⟩ камням её, и к ⟨את⟩ праху её милуются",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "благоволят"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "Твои рабы"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "камням её"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "камням её"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "праху её"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "праху её"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "милуются"
+    }
+  ],
+  "timestamp": "2026-08-03T08:30:22.281227137Z",
+  "model": "glm-4.5"
+}

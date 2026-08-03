@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 41,
+  "ref": "1-kings 18:41",
+  "book": "1-kings",
+  "lang": "ru",
+  "chapter": 18,
+  "translation": "И сказал Элийаху Ахаву: поднимись, ешь и пей, ибо ⟨есть⟩ шум ⟨обилия⟩ дождя.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И сказал"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Элийаху"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Ахаву"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "поднимись"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ешь"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "и пей"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "קול",
+      "gloss": "шум"
+    },
+    {
+      "surface": "המון",
+      "gloss": "⟨обилия⟩"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "дождя"
+    }
+  ],
+  "timestamp": "2026-08-03T00:54:28.598403432Z",
+  "model": "glm-4.5"
+}

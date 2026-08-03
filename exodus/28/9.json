@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "ru",
+  "chapter": 28,
+  "translation": "и возьми ⟨את⟩ два камня оникса и высеки на них имена сыновей Израиля",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "и возьми"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "два камня"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "два"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "камня"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "оникса"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "и высеки"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "на них"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "имена"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновей"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиля"
+    }
+  ],
+  "timestamp": "2026-08-02T20:22:21.082907373Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 60,
+  "ref": "nehemiah 7:60",
+  "book": "nehemiah",
+  "lang": "ru",
+  "chapter": 7,
+  "translation": "Нефиним, ⟨и⟩ сыновья слуг Шеломо: триста девяносто ⟨и⟩ два.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Все"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "Нефиним"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и сыновья"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слуг"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сотни"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "девяносто"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "и два"
+    }
+  ],
+  "timestamp": "2026-08-03T12:22:47.714321379Z",
+  "model": "glm-4.5"
+}

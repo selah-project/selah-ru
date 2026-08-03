@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "ru",
+  "chapter": 8,
+  "translation": "И было по истечении сорока дней, что Ноах открыл ⟨את⟩ окно ковчега, который сделал:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И было"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "по истечении"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "сорока"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дней"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "открыл"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "окно"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "окно"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ковчега"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сделал"
+    }
+  ],
+  "timestamp": "2026-08-02T17:51:31.456714900Z",
+  "model": "glm-4.5"
+}
