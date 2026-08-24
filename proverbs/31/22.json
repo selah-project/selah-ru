@@ -1,37 +1,37 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 22,
   "ref": "proverbs 31:22",
   "book": "proverbs",
   "lang": "ru",
   "chapter": 31,
-  "translation": "покрывала ⟨⟨она⟩⟩ соткала себе: лён и пурпур — одеяние её.",
+  "translation": "Покрывала ⟨את⟩ она сделала себе; облачение её — виссон и пурпур.",
   "tokens": [
     {
-      "surface": "מַרְבַדִּים",
+      "surface": "מרבדים",
       "gloss": "покрывала"
     },
     {
-      "surface": "עָשְׂתָה",
-      "gloss": "⟨она⟩⟩ соткала"
+      "surface": "עשתה",
+      "gloss": "сделала"
     },
     {
-      "surface": "לָהּ",
+      "surface": "לה",
       "gloss": "себе"
     },
     {
-      "surface": "שֵׁשׁ",
-      "gloss": "лён"
+      "surface": "שש",
+      "gloss": "виссон"
     },
     {
-      "surface": "וְאַרְגָּמָן",
+      "surface": "וארגמן",
       "gloss": "и пурпур"
     },
     {
-      "surface": "לְבוּשָׁהּ",
-      "gloss": "одеяние её"
+      "surface": "לבושה",
+      "gloss": "облачение её"
     }
   ],
-  "timestamp": "2026-08-03T10:08:10.726260778Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-24T21:09:32.439270231Z",
+  "model": "glm-5.3"
 }
