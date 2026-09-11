@@ -63,3 +63,8 @@ python3 -m json.tool genesis/1/1.json >/dev/null
 соглашениями, источниками и выравниванием. Она может принять его,
 доработать вместе с вами, подождать новых свидетельств или отклонить,
 объяснив причину. Критикуйте чтение, а не человека.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
