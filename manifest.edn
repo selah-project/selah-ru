@@ -1,0 +1,80 @@
+#:rendering{:label "Русский",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305677},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared []},
+            :role :pass,
+            :produced {:from "2026-08-02", :to "2026-08-24"},
+            :id "ru.v1",
+            :catalog {:ui "resources/i18n/ui/ru.edn"},
+            :license "CC BY-SA 4.0 (The Selah Russian Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-4.5" 23109, "glm-5.3" 104},
+             :tiers {"bulk" 23109, "glm-5.2" 104},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/ru.md",
+             :rails-commit "08af9b46",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אדני" "Адонай",
+              "אל" "Эль",
+              "אלהים" "Элохим",
+              "אלוה" "Элоах",
+              "ברית" "завет",
+              "גאל" "гоэ́ль",
+              "השם" "ха-Шем",
+              "חכמה" "Хохма",
+              "חסד" "хесед",
+              "יה" "Ях",
+              "יהוה" "ЯХВЕ",
+              "משיח" "Маши́ах / Помазанник",
+              "משכן" "мишкан",
+              "נביא" "пророк",
+              "נפש" "нефеш",
+              "עולה" "ола́",
+              "קרבן" "корбан",
+              "רוח" "Руах",
+              "שאול" "Шеол",
+              "שבת" "шаббат",
+              "שדי" "Шаддай",
+              "תורה" "Тора"},
+             :open-questions []},
+            :status :live,
+            :version "v1",
+            :lineage
+            {:git
+             {:repo "selah-project/selah-ru",
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches ["main"]},
+             :parents []},
+            :lang :ru}
